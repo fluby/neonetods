@@ -8,7 +8,7 @@ class TestTaxResolve(TestCase):
         self.syn1 = {'applb': 'apple', 'applc': 'apple', 'bannnna': 'banana'}
 
         self.syn2 = {}
-        data_file = open("data/mosquito_synonyms.csv", 'r')
+        data_file = open("../data/mosquito_synonyms.csv", 'r')
         data_file.readline()
         for line in data_file:
             wrong, right, spid, ref = line.split(',')
