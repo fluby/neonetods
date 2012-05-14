@@ -1,0 +1,200 @@
+taxon_id,spp_id,resource_id,scientific_name,genus,subgenus,species,subspecies,authority_name,authority_year,itis_number,common_name,species_level_id
+mosquito,Aedcan2,WRBU_2010,Aedes canadensis mathesoni,Aedes,Ochlerotatus,canadensis,mathesoni,Middlekauff,1944,126325,,1
+mosquito,Aedful,WRBU_2010,Aedes fulvus pallens,Aedes,Ochlerotatus,fulvus,pallens,Ross,1943,126546,,1
+mosquito,Toxrut2,WRBU_2010,Toxorhynchites rutilus septentrionalis,Toxorhynchites,Lynchiella,rutilus,septentrionalis,Dyar & Knab,1906,126284,,1
+mosquito,Uraanh2,WRBU_2010,Uranotaenia anhydor syntheta,Uranotaenia,Pseudoficalbia,anhydor,syntheta,Dyar & Shannon,1924,126478,,1
+mosquito,Aednev,WRBU_2010,Aedes nevadensis,Aedes,Ochlerotatus,nevadensis,,Chapman & Barr,1964,125960,,1
+mosquito,Aedchu,WRBU_2010,Aedes churchillensis,Aedes,Ochlerotatus,churchillensis,,Ellis & Brust,1973,126462,,1
+mosquito,Aedkom,WRBU_2010,Aedes kompi,Aedes,Protomacleaya,kompi,,Vargas & Downs,1950,125950,,1
+mosquito,Aedcli,WRBU_2010,Aedes clivis,Aedes,Ochlerotatus,clivis,,Lanzaro & Eldridge,1992,126445,,1
+mosquito,Aedwas,WRBU_2010,Aedes washinoi,Aedes,Ochlerotatus,washinoi,,Lanzaro & Eldridge,1992,126446,,1
+mosquito,Anoher,WRBU_2010,Anopheles hermsi,Anopheles,Anopheles,hermsi,,Barr & Guptavanij,1989,126304,,1
+mosquito,Culced,WRBU_2010,Culex cedecei,Culex,Melanoconion,cedecei,,Stone & Hair,1968,,,1
+mosquito,Psomat,WRBU_2010,Psorophora mathesoni,Psorophora,Janthinosoma,mathesoni,,Belkin & Heinemann,1975,126408,,1
+mosquito,Deimat,WRBU_2010,Deinocerites mathesoni,Deinocerites,,mathesoni,,Belkin & Hogue,1959,,,1
+mosquito,Culerr,WRBU_2010,Culex erraticus,Culex,Melanoconion,erraticus,,Dyar & Knab,1906,126274,,1
+mosquito,Psocol,WRBU_2010,Psorophora columbiae,Psorophora,Grabhamia,columbiae,,Dyar & Knab,1906,126276,,1
+mosquito,Psoins,WRBU_2010,Psorophora insularia,Psorophora,Grabhamia,insularia,,Dyar & Knab,1906,126277,,1
+mosquito,Toxmoc,WRBU_2010,Toxorhynchites moctezuma,Toxorhynchites,Lynchiella,moctezuma,,Dyar & Knab,1906,126278,,1
+mosquito,Aedatl,WRBU_2010,Aedes atlanticus,Aedes,Ochlerotatus,atlanticus,,Dyar & Knab,1906,125973,,1
+mosquito,Aedgro,WRBU_2010,Aedes grossbecki,Aedes,Ochlerotatus,grossbecki,,Dyar & Knab,1906,,,1
+mosquito,Aedinf,WRBU_2010,Aedes infirmatus,Aedes,Ochlerotatus,infirmatus,,Dyar & Knab,1906,,,1
+mosquito,Aedtor1,WRBU_2010,Aedes tormentor,Aedes,Ochlerotatus,tormentor,,Dyar & Knab,1906,,,1
+mosquito,Anoatr,WRBU_2010,Anopheles atropos,Anopheles,Anopheles,atropos,,Dyar & Knab,1906,125974,,1
+mosquito,Anoocc,WRBU_2010,Anopheles occidentalis,Anopheles,Anopheles,occidentalis,,Dyar & Knab,1906,,,1
+mosquito,Anoves,WRBU_2010,Anopheles vestitipennis,Anopheles,Anopheles,vestitipennis,,Dyar & Knab,1906,125975,,1
+mosquito,Culbah,WRBU_2010,Culex bahamensis,Culex,Culex,bahamensis,,Dyar & Knab,1906,125976,,1
+mosquito,Culcar,WRBU_2010,Culex carcinophilus,Culex,Melanoconion,carcinophilus,,Dyar & Knab,1906,125995,,1
+mosquito,Culcor,WRBU_2010,Culex coronator,Culex,Culex,coronator,,Dyar & Knab,1906,126022,,1
+mosquito,Culdec,WRBU_2010,Culex declarator,Culex,Culex,declarator,,Dyar & Knab,1906,125980,,1
+mosquito,Culele,WRBU_2010,Culex elevator,Culex,Melanoconion,elevator,,Dyar & Knab,1906,,,1
+mosquito,Culhab,WRBU_2010,Culex habilitator,Culex,Culex,habilitator,,Dyar & Knab,1906,125982,,1
+mosquito,Culinh,WRBU_2010,Culex inhibitator,Culex,Melanoconion,inhibitator,,Dyar & Knab,1906,126033,,1
+mosquito,Culint,WRBU_2010,Culex interrogator,Culex,Culex,interrogator,,Dyar & Knab,1906,125957,,1
+mosquito,Wyevan,WRBU_2010,Wyeomyia vanduzeei,Wyeomyia,Wyeomyia,vanduzeei,,Dyar & Knab,1906,126425,,1
+mosquito,Aedcam,WRBU_2010,Aedes campestris,Aedes,Ochlerotatus,campestris,,Dyar & Knab,1907,126461,,1
+mosquito,Aedcon,WRBU_2010,Aedes condolescens,Aedes,Ochlerotatus,condolescens,,Dyar & Knab,1907,,,1
+mosquito,Aedobt,WRBU_2010,Aedes obturbator,Aedes,Ochlerotatus,obturbator,,Dyar & Knab,1907,126463,,1
+mosquito,Aedrip,WRBU_2010,Aedes riparius,Aedes,Ochlerotatus,riparius,,Dyar & Knab,1907,126464,,1
+mosquito,Cultae,WRBU_2010,Culex taeniopus,Culex,Melanoconion,taeniopus,,Dyar & Knab,1907,126465,,1
+mosquito,Psohor,WRBU_2010,Psorophora horrida,Psorophora,Janthinosoma,horrida,,Dyar & Knab,1908,,,1
+mosquito,Aedepa,WRBU_2010,Aedes epactius,Aedes,Ochlerotatus,epactius,,Dyar & Knab,1908,,,1
+mosquito,Culabo,WRBU_2010,Culex abominator,Culex,Melanoconion,abominator,,Dyar & Knab,1909,126473,,1
+mosquito,Culpec,WRBU_2010,Culex peccator,Culex,Melanoconion,peccator,,Dyar & Knab,1909,,,1
+mosquito,Deipse,WRBU_2010,Deinocerites pseudes,Deinocerites,,pseudes,,Dyar & Knab,1909,,,1
+mosquito,Aedthi,WRBU_2010,Aedes thibaulti,Aedes,Ochlerotatus,thibaulti,,Dyar & Knab,1910,126475,,1
+mosquito,Aednip,WRBU_2010,Aedes niphadopsis,Aedes,Ochlerotatus,niphadopsis,,Dyar & Knab,1918,,,1
+mosquito,Aedzoo,WRBU_2010,Aedes zoosophus,Aedes,Protomacleaya,zoosophus,,Dyar & Knab,1918,,,1
+mosquito,Aedmon,WRBU_2010,Aedes monticola,Aedes,Ochlerotatus,monticola,,Belkin & McDonald,1957,126340,,1
+mosquito,Culbis,WRBU_2010,Culex biscaynensis,Culex,Micraedes,biscaynensis,,Zavortink & O’Meara,1999,126578,,1
+mosquito,Psolon,WRBU_2010,Psorophora longipalpus,Psorophora,Janthinosoma,longipalpus,,Randolph & O'Neill,1944,126528,,1
+mosquito,Mandya,WRBU_2010,Mansonia dyari,Mansonia,Mansonia,dyari,,Belkin Heinemann & Page,1970,126338,,1
+mosquito,Culboh,WRBU_2010,Culex boharti,Culex,Neoculex,boharti,,Brookman & Reeves,1950,125958,,1
+mosquito,Aedbic,WRBU_2010,Aedes bicristatus,Aedes,Rusticoidus,bicristatus,,Thurman & Winkler,1950,,,1
+mosquito,Aedabs,WRBU_2010,Aedes abserratus,Aedes,Ochlerotatus,abserratus,,Felt & Young,1904,126298,,1
+mosquito,Aedfit,WRBU_2010,Aedes fitchii,Aedes,Ochlerotatus,fitchii,,Felt & Young,1904,126421,,1
+mosquito,Aeddia,WRBU_2010,Aedes diantaeus,Aedes,Ochlerotatus,diantaeus,,Howard; Dyar & Knab,1913,126501,,1
+mosquito,Aedeue,WRBU_2010,Aedes euedes,Aedes,Ochlerotatus,euedes,,Howard; Dyar & Knab,1913,126519,,1
+mosquito,Aeddec,WRBU_2010,Aedes decticus,Aedes,Ochlerotatus,decticus,,Howard; Dyar & Knab,1917,126520,,1
+mosquito,Culpar,WRBU_2010,Culiseta particeps,Culiseta,Culiseta,particeps,,Adams,1903,126264,,1
+mosquito,Psomex,WRBU_2010,Psorophora mexicana,Psorophora,Janthinosoma,mexicana,,Bellardi,1859,126403,,1
+mosquito,Ortsig,WRBU_2010,Orthopodomyia signifera,Orthopodomyia,,signifera,,Coquillett,1896,,,1
+mosquito,Toxrut1,WRBU_2010,Toxorhynchites rutilus,Toxorhynchites,Lynchiella,rutilus,,Coquillett,1896,126387,,1
+mosquito,Wyesmi,WRBU_2010,Wyeomyia smithii,Wyeomyia,Wyeomyia,smithii,,Coquillett,1901,,,1
+mosquito,Aedatr,WRBU_2010,Aedes atropalpus,Aedes,Ochlerotatus,atropalpus,,Coquillett,1902,126240,,1
+mosquito,Aedbim,WRBU_2010,Aedes bimaculatus,Aedes,Ochlerotatus,bimaculatus,,Coquillett,1902,126244,,1
+mosquito,Aedsqu,WRBU_2010,Aedes squamiger,Aedes,Ochlerotatus,squamiger,,Coquillett,1902,126235,,1
+mosquito,Aedtri1,WRBU_2010,Aedes trivittatus,Aedes,Ochlerotatus,trivittatus,,Coquillett,1902,126236,,1
+mosquito,Aedvar,WRBU_2010,Aedes varipalpus,Aedes,Ochlerotatus,varipalpus,,Coquillett,1902,126246,,1
+mosquito,Culmel,WRBU_2010,Culiseta melanura,Culiseta,Climacura,melanura,,Coquillett,1902,126247,,1
+mosquito,Psocya,WRBU_2010,Psorophora cyanescens,Psorophora,Janthinosoma,cyanescens,,Coquillett,1902,126248,,1
+mosquito,Aedaur,WRBU_2010,Aedes aurifer,Aedes,Ochlerotatus,aurifer,,Coquillett,1903,126250,,1
+mosquito,Aedcan3,WRBU_2010,Aedes cantator,Aedes,Ochlerotatus,cantator,,Coquillett,1903,126253,,1
+mosquito,Psodis,WRBU_2010,Psorophora discolor,Psorophora,Grabhamia,discolor,,Coquillett,1903,126257,,1
+mosquito,Aeddup,WRBU_2010,Aedes dupreei,Aedes,Ochlerotatus,dupreei,,Coquillett,1904,126418,,1
+mosquito,Aedpul,WRBU_2010,Aedes pullatus,Aedes,Ochlerotatus,pullatus,,Coquillett,1904,,,1
+mosquito,Psosig,WRBU_2010,Psorophora signipennis,Psorophora,Grabhamia,signipennis,,Coquillett,1904,126259,,1
+mosquito,Aedmed,WRBU_2010,Aedes mediovittatus,Aedes,Gymnometopa,mediovittatus,,Coquillett,1906,126261,,1
+mosquito,Cullat,WRBU_2010,Culex latisquama,Culex,Tinolestes,latisquama,,Coquillett,1906,126263,,1
+mosquito,Manfla,WRBU_2010,Mansonia flaveola,Mansonia,Mansonia,flaveola,,Coquillett,1906,,,1
+mosquito,Aedcom,WRBU_2010,Aedes communis,Aedes,Ochlerotatus,communis,,deGeer,1776,126267,,1
+mosquito,Toxamb,WRBU_2010,Toxorhynchites amboinensis,Toxorhynchites,Toxorhynchites,amboinensis,,Doleschall,1857,,,1
+mosquito,Aedmit,WRBU_2010,Aedes mitchellae,Aedes,Ochlerotatus,mitchellae,,Dyar,1905,126286,,1
+mosquito,Ortkum,WRBU_2010,Orthopodomyia kummi,Orthopodomyia,,kummi,,Edwards,1930,126288,,1
+mosquito,Psocil,WRBU_2010,Psorophora ciliata,Psorophora,Psorophora,ciliata,,Fabricius,1794,126293,,1
+mosquito,Psojoh,WRBU_2010,Psorophora johnstonii,Psorophora,Janthinosoma,johnstonii,,Grabham,1905,126301,,1
+mosquito,Aedpun2,WRBU_2010,Aedes punctor,Aedes,Ochlerotatus,punctor,,Kirby,1837,126305,,1
+mosquito,Aedaeg,WRBU_2010,Aedes aegypti,Aedes,Stegomyia,aegypti,,Linnaeus,1762,126310,,1
+mosquito,Aedsie,WRBU_2010,Aedes sierrensis,Aedes,Ochlerotatus,sierrensis,,Ludlow,1905,126313,,1
+mosquito,Aednig2,WRBU_2010,Aedes nigromaculis,Aedes,Ochlerotatus,nigromaculis,,Ludlow,1906,126314,,1
+mosquito,Culala,WRBU_2010,Culiseta alaskaensis,Culiseta,Culiseta,alaskaensis,,Ludlow,1906,126318,,1
+mosquito,Aedvex,WRBU_2010,Aedes vexans,Aedes,Aedimorphus,vexans,,Meigen,1830,126319,,1
+mosquito,Aeddor,WRBU_2010,Aedes dorsalis,Aedes,Ochlerotatus,dorsalis,,Meigen,1830,126320,,1
+mosquito,Aedsti1,WRBU_2010,Aedes sticticus,Aedes,Ochlerotatus,sticticus,,Meigen,1838,126323,,1
+mosquito,Aedfla,WRBU_2010,Aedes flavescens,Aedes,Ochlerotatus,flavescens,,Muller,1764,126327,,1
+mosquito,Urasap,WRBU_2010,Uranotaenia sapphirina,Uranotaenia,Uranotaenia,sapphirina,,Osten Sacken,1868,126328,,1
+mosquito,Toxpor,WRBU_2010,Toxorhynchites portoricensis,Toxorhynchites,Lynchiella,portoricensis,,Roeder,1885,126330,,1
+mosquito,Aedsca,WRBU_2010,Aedes scapularis,Aedes,Ochlerotatus,scapularis,,Rondani,1848,126331,,1
+mosquito,Aedtri2,WRBU_2010,Aedes triseriatus,Aedes,Protomacleaya,triseriatus,,Say,1823,126334,,1
+mosquito,Aedalb,WRBU_2010,Aedes albopictus,Aedes,Stegomyia,albopictus,,Skuse,1895,126337,,1
+mosquito,Aedjap,WRBU_2010,Aedes japonicus,Aedes,Finlaya,japonicus,,Theobald,1901,,,1
+mosquito,Aedcan1,WRBU_2010,Aedes canadensis,Aedes,Ochlerotatus,canadensis,,Theobald,1901,126339,,1
+mosquito,Aedser,WRBU_2010,Aedes serratus,Aedes,Ochlerotatus,serratus,,Theobald,1901,126346,,1
+mosquito,Aedspe,WRBU_2010,Aedes spencerii,Aedes,Ochlerotatus,spencerii,,Theobald,1901,126350,,1
+mosquito,Anowal,WRBU_2010,Anopheles walkeri,Anopheles,Anopheles,walkeri,,Theobald,1901,126351,,1
+mosquito,Culmor,WRBU_2010,Culiseta morsitans,Culiseta,Culicella,morsitans,,Theobald,1901,126356,,1
+mosquito,Aedtor2,WRBU_2010,Aedes tortilis,Aedes,Ochlerotatus,tortilis,,Theobald,1903,126357,,1
+mosquito,Psopyg,WRBU_2010,Psorophora pygmaea,Psorophora,Grabhamia,pygmaea,,Theobald,1903,126358,,1
+mosquito,Wyemit,WRBU_2010,Wyeomyia mitchellii,Wyeomyia,Wyeomyia,mitchellii,,Theobald,1905,126360,,1
+mosquito,Aedtog,WRBU_2010,Aedes togoi,Aedes,Finlaya,togoi,,Theobald,1907,126422,,1
+mosquito,Culinc,WRBU_2010,Culiseta incidens,Culiseta,Culiseta,incidens,,Thomson,1869,126361,,1
+mosquito,Psofer,WRBU_2010,Psorophora ferox,Psorophora,Janthinosoma,ferox,,von Humboldt,1819,126363,,1
+mosquito,Aedimp1,WRBU_2010,Aedes impiger,Aedes,Ochlerotatus,impiger,,Walker,1848,126423,,1
+mosquito,Aedsti2,WRBU_2010,Aedes stimulans,Aedes,Ochlerotatus,stimulans,,Walker,1848,126365,,1
+mosquito,Aedpro,WRBU_2010,Aedes provocans,Aedes,Rusticoidus,provocans,,Walker,1848,126368,,1
+mosquito,Culimp,WRBU_2010,Culiseta impatiens,Culiseta,Culiseta,impatiens,,Walker,1848,126376,,1
+mosquito,Mantit,WRBU_2010,Mansonia titillans,Mansonia,Mansonia,titillans,,Walker,1848,126381,,1
+mosquito,Aedexc,WRBU_2010,Aedes excrucians,Aedes,Ochlerotatus,excrucians,,Walker,1856,126270,,1
+mosquito,Aedsol,WRBU_2010,Aedes sollicitans,Aedes,Ochlerotatus,sollicitans,,Walker,1856,126384,,1
+mosquito,Coqper,WRBU_2010,Coquillettidia perturbans,Coquillettidia,Coquillettidia,perturbans,,Walker,1856,126386,,1
+mosquito,Toxspl,WRBU_2010,Toxorhynchites splendens,Toxorhynchites,Toxorhynchites,splendens,,Wiedemann,1819,126389,,1
+mosquito,Aedtae,WRBU_2010,Aedes taeniorhynchus,Aedes,Ochlerotatus,taeniorhynchus,,Wiedemann,1821,126390,,1
+mosquito,Culino,WRBU_2010,Culiseta inornata,Culiseta,Culiseta,inornata,,Williston,1893,126395,,1
+mosquito,Aednig1,WRBU_2010,Aedes nigripes,Aedes,Ochlerotatus,nigripes,,Zetterstedt,1834,126398,,1
+mosquito,Culapi,WRBU_2010,Culex apicalis,Culex,Neoculex,apicalis,,Adams,1903,126400,,1
+mosquito,Anofre,WRBU_2010,Anopheles freeborni,Anopheles,Anopheles,freeborni,,Aitken,1939,,,1
+mosquito,Aedpur,WRBU_2010,Aedes purpureipes,Aedes,Kompia,purpureipes,,Aitken,1941,126255,,1
+mosquito,Ortalb,WRBU_2010,Orthopodomyia alba,Orthopodomyia,,alba,,Baker,1936,126256,,1
+mosquito,Culmin,WRBU_2010,Culiseta minnesotae,Culiseta,Culicella,minnesotae,,Barr,1957,,,1
+mosquito,Culmul,WRBU_2010,Culex mulrennani,Culex,Melanoconion,mulrennani,,Basham,1948,126392,,1
+mosquito,Aedbah,WRBU_2010,Aedes bahamensis,Aedes,Howardina,bahamensis,,Berlin,1969,,,1
+mosquito,Culari,WRBU_2010,Culex arizonensis,Culex,Neoculex,arizonensis,,Bohart,1949,126355,,1
+mosquito,Aedhen,WRBU_2010,Aedes hendersoni,Aedes,Protomacleaya,hendersoni,,Cockerell,1918,125961,,1
+mosquito,Cultar,WRBU_2010,Culex tarsalis,Culex,Culex,tarsalis,,Coquillett,1896,125962,,1
+mosquito,Psohow,WRBU_2010,Psorophora howardii,Psorophora,Psorophora,howardii,,Coquillett,1901,,,1
+mosquito,Anobar,WRBU_2010,Anopheles barberi,Anopheles,Anopheles,barberi,,Coquillett,1903,125963,,1
+mosquito,Culsal,WRBU_2010,Culex salinarius,Culex,Culex,salinarius,,Coquillett,1904,125964,,1
+mosquito,Wyehay,WRBU_2010,Wyeomyia haynei,Wyeomyia,Wyeomyia,haynei,,Dodge,1947,125993,,1
+mosquito,Culery,WRBU_2010,Culex erythrothorax,Culex,Culex,erythrothorax,,Dyar,1907,126488,,1
+mosquito,Culsti,WRBU_2010,Culex stigmatosoma,Culex,Culex,stigmatosoma,,Dyar,1907,126490,,1
+mosquito,Uraanh1,WRBU_2010,Uranotaenia anhydor,Uranotaenia,Pseudoficalbia,anhydor,,Dyar,1907,126493,,1
+mosquito,Aedcat,WRBU_2010,Aedes cataphylla,Aedes,Ochlerotatus,cataphylla,,Dyar,1916,126495,,1
+mosquito,Aedhex,WRBU_2010,Aedes hexodontus,Aedes,Ochlerotatus,hexodontus,,Dyar,1916,,,1
+mosquito,Aedinc,WRBU_2010,Aedes increpitus,Aedes,Ochlerotatus,increpitus,,Dyar,1916,,,1
+mosquito,Aedtah,WRBU_2010,Aedes tahoensis,Aedes,Ochlerotatus,tahoensis,,Dyar,1916,126483,,1
+mosquito,Aedven,WRBU_2010,Aedes ventrovittis,Aedes,Ochlerotatus,ventrovittis,,Dyar,1916,126496,,1
+mosquito,Culani,WRBU_2010,Culex anips,Culex,Melanoconion,anips,,Dyar,1916,126498,,1
+mosquito,Aedabo,WRBU_2010,Aedes aboriginis,Aedes,Ochlerotatus,aboriginis,,Dyar,1917,126504,,1
+mosquito,Aedalo,WRBU_2010,Aedes aloponotum,Aedes,Ochlerotatus,aloponotum,,Dyar,1917,126456,,1
+mosquito,Aedthe,WRBU_2010,Aedes thelcter,Aedes,Ochlerotatus,thelcter,,Dyar,1918,126457,,1
+mosquito,Culiol,WRBU_2010,Culex iolambdis,Culex,Melanoconion,iolambdis,,Dyar,1918,126460,,1
+mosquito,Aedint,WRBU_2010,Aedes intrudens,Aedes,Ochlerotatus,intrudens,,Dyar,1919,,,1
+mosquito,Aedpio,WRBU_2010,Aedes pionips,Aedes,Ochlerotatus,pionips,,Dyar,1919,126466,,1
+mosquito,Aedmer,WRBU_2010,Aedes mercurator,Aedes,Ochlerotatus,mercurator,,Dyar,1920,126476,,1
+mosquito,Aedmue,WRBU_2010,Aedes muelleri,Aedes,Ochlerotatus,muelleri,,Dyar,1920,126477,,1
+mosquito,Culchi,WRBU_2010,Culex chidesteri,Culex,Culex,chidesteri,,Dyar,1921,126479,,1
+mosquito,Culthr,WRBU_2010,Culex thriambus,Culex,Culex,thriambus,,Dyar,1921,126484,,1
+mosquito,Aedpun1,WRBU_2010,Aedes punctodes,Aedes,Ochlerotatus,punctodes,,Dyar,1922,,,1
+mosquito,Aedmel,WRBU_2010,Aedes melanimon,Aedes,Ochlerotatus,melanimon,,Dyar,1924,126458,,1
+mosquito,Aedsch,WRBU_2010,Aedes schizopinax,Aedes,Ochlerotatus,schizopinax,,Dyar,1929,126459,,1
+mosquito,Culsar,WRBU_2010,Culex sardinerae,Culex,Melanoconion,sardinerae,,Fox,1953,126492,,1
+mosquito,Anobra,WRBU_2010,Anopheles bradleyi,Anopheles,Anopheles,bradleyi,,King,1939,126521,,1
+mosquito,Anogeo,WRBU_2010,Anopheles georgianus,Anopheles,Anopheles,georgianus,,King,1939,126443,,1
+mosquito,Culpil,WRBU_2010,Culex pilosus,Culex,Melanoconion,pilosus,,Lee,1946,126430,,1
+mosquito,Culpip,WRBU_2010,Culex pipiens,Culex,Culex,pipiens,,Linnaeus,1758,126434,,1
+mosquito,Anoper,WRBU_2010,Anopheles perplexens,Anopheles,Anopheles,perplexens,,Ludlow,1907,126438,,1
+mosquito,Anopar,WRBU_2010,Anopheles parapunctipennis,Anopheles,Anopheles,parapunctipennis,,Martini,1932,126440,,1
+mosquito,Anofra,WRBU_2010,Anopheles franciscanus,Anopheles,Anopheles,franciscanus,,McCracken,1904,126451,,1
+mosquito,Aedcin,WRBU_2010,Aedes cinereus,Aedes,Aedes,cinereus,,Meigen,1818,126524,,1
+mosquito,Anodil,WRBU_2010,Anopheles diluvialis,Anopheles,Anopheles,diluvialis,,Reinert,1997,,,1
+mosquito,Anoinu,WRBU_2010,Anopheles inundatus,Anopheles,Anopheles,inundatus,,Reinert,1997,126529,,1
+mosquito,Anomav,WRBU_2010,Anopheles maverlius,Anopheles,Anopheles,maverlius,,Reinert,1997,126533,,1
+mosquito,Anosma,WRBU_2010,Anopheles smaragdinus,Anopheles,Anopheles,smaragdinus,,Reinert,1997,126534,,1
+mosquito,Uracoo,WRBU_2010,Uranotaenia cooki,Uranotaenia,Uranotaenia,cooki,,Root,1937,126535,,1
+mosquito,Culqui,WRBU_2010,Culex quinquefasciatus,Culex,Culex,quinquefasciatus,,Say,1823,126554,,1
+mosquito,Anoqua,WRBU_2010,Anopheles quadrimaculatus,Anopheles,Anopheles,quadrimaculatus,,Say,1824,,,1
+mosquito,Anogra,WRBU_2010,Anopheles grabhamii,Anopheles,Anopheles,grabhamii,,Theobald,1901,126567,,1
+mosquito,Anopse,WRBU_2010,Anopheles pseudopunctipennis,Anopheles,Anopheles,pseudopunctipennis,,Theobald,1901,126570,,1
+mosquito,Culnig,WRBU_2010,Culex nigripalpus,Culex,Culex,nigripalpus,,Theobald,1901,126552,,1
+mosquito,Culres,WRBU_2010,Culex restuans,Culex,Culex,restuans,,Theobald,1901,126556,,1
+mosquito,Culsec,WRBU_2010,Culex secutor,Culex,Culex,secutor,,Theobald,1901,126557,,1
+mosquito,Culatr,WRBU_2010,Culex atratus,Culex,Melanoconion,atratus,,Theobald,1901,126560,,1
+mosquito,Deican,WRBU_2010,Deinocerites cancer,Deinocerites,,cancer,,Theobald,1901,126562,,1
+mosquito,Psojam,WRBU_2010,Psorophora jamaicensis,Psorophora,Grabhamia,jamaicensis,,Theobald,1901,126564,,1
+mosquito,Toxbre,WRBU_2010,Toxorhynchites brevipalpis,Toxorhynchites,Toxorhynchites,brevipalpis,,Theobald,1901,126565,,1
+mosquito,Urasoc,WRBU_2010,Uranotaenia socialis,Uranotaenia,Uranotaenia,socialis,,Theobald,1901,126539,,1
+mosquito,Uralow,WRBU_2010,Uranotaenia lowii,Uranotaenia,Uranotaenia,lowii,,Theobald,1901,126559,,1
+mosquito,Culjan,WRBU_2010,Culex janitor,Culex,Culex,janitor,,Theobald,1903,,,1
+mosquito,Haeequ,WRBU_2010,Haemagogus equinus,Haemagogus,Haemagogus,equinus,,Theobald,1903,,,1
+mosquito,Anoear,WRBU_2010,Anopheles earlei,Anopheles,Anopheles,earlei,,Vargas,1943,125936,,1
+mosquito,Aedimp2,WRBU_2010,Aedes implicatus,Aedes,Ochlerotatus,implicatus,,Vockeroth,1954,125938,,1
+mosquito,Aedrem,WRBU_2010,Aedes rempeli,Aedes,Ochlerotatus,rempeli,,Vockeroth,1954,125934,,1
+mosquito,Culter,WRBU_2010,Culex territans,Culex,Neoculex,territans,,Walker,1856,,,1
+mosquito,Anoalb,WRBU_2010,Anopheles albimanus,Anopheles,Nyssorhynchus,albimanus,,Wiedemann,1820,,,1
+mosquito,Anocru,WRBU_2010,Anopheles crucians,Anopheles,Anopheles,crucians,,Wiedemann,1828,126576,,1
+mosquito,Culree,WRBU_2010,Culex reevesi,Culex,Neoculex,reevesi,,Wirth,1948,,,1
+mosquito,Aeddes,WRBU_2010,Aedes deserticola,Aedes,Ochlerotatus,deserticola,,Zavortink,1969,126580,,1
+mosquito,Anojud,WRBU_2010,Anopheles judithae,Anopheles,Anopheles,judithae,,Zavortink,1969,126090,,1
+mosquito,Aedpap,WRBU_2010,Aedes papago,Aedes,Abraedes,papago,,Zavortink,1970,126091,,1
+mosquito,Aedbre,WRBU_2010,Aedes brelandi,Aedes,Protomacleaya,brelandi,,Zavortink,1972,126095,,1
+mosquito,Aedbur,WRBU_2010,Aedes burgeri,Aedes,Protomacleaya,burgeri,,Zavortink,1972,126097,,1

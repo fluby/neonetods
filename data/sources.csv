@@ -1,0 +1,18 @@
+resource_id,info_type,file_type,notes,isbn,author,title,journal,volume,issue,pages,year,url,tags
+ITIS_2012dl_aves,taxonomic reference,pdf,,,ITIS,ITIS Standard Report Page: Aves,,,,,,http://www.itis.gov/servlet/SingleRpt/SingleRpt?search\_topic=TSN\&search\_value=174371,birds; taxonomy
+ITIS_2012dl_mammal,taxonomic reference,pdf,,,ITIS,ITIS Standard Report Page: Mammalia,,,,,,http://www.itis.gov/servlet/SingleRpt/SingleRpt?search\_topic=TSN\&search\_value=179913,mammals; taxonomy
+ITIS_2012dl_carabid,taxonomic reference,pdf,,,ITIS,ITIS Standard Report Page: Carabidae,,,,,,http://www.itis.gov/servlet/SingleRpt/SingleRpt?search\_topic=TSN\&search\_value=109234,beetles; taxonomy
+ITIS_2012dl_culicid,taxonomic reference,pdf,,,ITIS,ITIS Standard Report Page: Culicidae,,,,,,http://www.itis.gov/servlet/SingleRpt/SingleRpt?search\_topic=TSN\&search\_value=125930,mosquito; taxonomy
+ITIS_2012dl_plant,taxonomic reference,pdf,,,ITIS,ITIS Standard Report Page: Plantae,,,,,,http://www.itis.gov/servlet/SingleRpt/SingleRpt?search\_topic=TSN\&search\_value=202422,plants; taxonomy
+Pearson_2006,taxonomic reference,,,195181557,David L. Pearson; C. Barry Knisley; Charles J. Kazilek,A Field Guide to the Tiger Beetles of the United States and Canada,,,,,2006,0,beetles; taxonomy
+Larochelle_2003,taxonomic reference,pdf,,9546421650,A Larochelle;  M.-C. Lariviere,A Natural History of the Ground-Beetles (Coleoptera : Carabidae) of America North of Mexico,,,,,2003,0,beetles; taxonomy
+BishopMuseum_2002,taxonomic reference,pdf,,,Bishop Museum,Bishop Museum - Arthropod Checklist Query Results For Family Carabidae,,,,,2002,http://www2.bishopmuseum.org/HBS/checklist/results.asp?grp=Arthropod\&gen=\&sp=\&ath=\&yr=\&ord=\&fam=carabidae\&cnm=\&edg=,beetles; taxonomy
+Lorenz_2005,taxonomic reference,,,3933896061,Wolfgang Lorenz,Systematic List of Ground Beetles,,,,,2005,0,beetles; taxonomy
+Wolcott_1948,taxonomic reference,pdf,,,George N. Wolcott,The Insects of Puerto Rico: Coleoptera,The Journal of Agriculture of the University of Puerto Rico,32,2,225--231,1948,0,beetles; taxonomy
+Ball_2001,taxonomic reference,pdf,,849319250,George E. Ball;  Yves Bousquet,Carabidae,,,,31--123,2001,0,beetles; taxonomy
+Harbach_2010,taxonomic reference,pdf,,,Ralph Harbach,Mosquito Taxonomic Inventory ( www.mosquito-taxonomic-inventory.info/),,,,,2010,www.mosquito-taxonomic-inventory.info/,mosquito; taxonomy
+Gholz_1979,dataset,pdf,,,H.L. Gholz; C.C. Grier; A.G. Campbell; A.T. Brown,Equations for estimating biomass and leaf area of plants in the pacific northwest,,,,,1979,0,biomass; dataset; plants
+Ter_Mikaelian_1997,dataset,pdf,,,Michael T. Ter-Mikaelian; Michael D. Korzukhin,Biomass equations for sixty-five North American tree species,Forest Ecology and Management,97,1,1--24,1997,http://linkinghub.elsevier.com/retrieve/pii/S0378112797000194,biomass; dataset; plants
+Tritton_1982,dataset,pdf,,,Louise M. Tritton; James W. Hornbeck,Biomass Equations for Major Tree Species of the Northeast,,,,,1982,0,biomass; dataset; plants
+USDAPlants_2012dl,taxonomy reference,txt,,,USDA,USDA Plants Advanced Search for NEON sites,,,,,2012,,plants; taxonomy
+Smithsonian,species list,,,,Don E. Wilson; Roland W. Kays; Sue Ruff,National Museum of Natural History's North American Mammals ,,,,,2011,http://www.mnh.si.edu/mna/,mammals; species list
