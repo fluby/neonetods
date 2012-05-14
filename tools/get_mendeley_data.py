@@ -34,7 +34,7 @@ def citation(data_doc):
     if isinstance(data_doc, str):
         data_doc = get_mendeley_data(data_doc)
 
-    citation = "%s. %s. %s %s, %s (%s)." % (author_string(data_doc['authors']), 
-                                            data_doc['title'], 
-                                            data_doc['published_in'], data_doc['volume'], data_doc['pages'], data_doc['year'])
+    citation = "%s %s. %s %s, %s (%s)." % (author_string(data_doc['authors']), 
+                                           data_doc['title'], 
+                                           data_doc['published_in'], data_doc['volume'], data_doc['pages'], data_doc['year'])
     return citation
