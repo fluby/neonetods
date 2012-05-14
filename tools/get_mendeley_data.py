@@ -9,7 +9,10 @@ def get_mendeley_data(url):
 
     true, false = True, False
 
-    return eval(p.PyQuery(html)("article")[0].get("data-doc"))
+    data_doc = eval(p.PyQuery(html)("article")[0].get("data-doc"))
+    if data_doc['title'][-1] == '.': data_doc['title'] = data_doc['title'][:-1]
+    
+    return data_doc
 
 
 def author_name(author):

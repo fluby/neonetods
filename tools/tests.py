@@ -39,12 +39,23 @@ class TestMendeleyTags(TestCase):
         self.data_doc1 = get_mendeley_data(self.url1)
         self.citation1 = citation(self.url1)
 
+        self.url2 = "http://www.mendeley.com/research/local-interactions-select-lower-pathogen-infectivity/"
+        self.data_doc2 = get_mendeley_data(self.url2)
+        self.citation2 = citation(self.url2)
+
     def test_adler(self):
         self.assertEqual(self.data_doc1['title'], 'A niche for neutrality')
         self.assertEqual(self.data_doc1['year'], 2007)
         self.assertEqual(self.data_doc1['published_in'], 'Ecology Letters')
         self.assertIn('Adler, P.', self.citation1)
-        self.assertIn('A niche for neutrality', self.citation1)
+        self.assertIn(self.data_doc1['title'], self.citation1)
+
+        self.assertEqual(self.data_doc2['title'], 'Local interactions select for lower pathogen infectivity')
+        self.assertEqual(self.data_doc2['year'], 2007)
+        self.assertEqual(self.data_doc2['published_in'], 'Science')
+        self.assertIn('Boots, M.', self.citation2)
+        self.assertIn(self.data_doc2['title'], self.citation2)
+
 
 if __name__ == '__main__':
     main()
