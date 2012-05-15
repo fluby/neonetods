@@ -35,29 +35,46 @@ class TestTaxResolve(TestCase):
 
 class TestMendeleyTags(TestCase):
     def setUp(self):
-        self.url1 = "http://www.mendeley.com/research/niche-neutrality/"
-        self.data_doc1 = get_mendeley_data(self.url1)
-        self.citation1 = citation(self.url1)
+        self.urls = [
+                     "http://www.mendeley.com/research/niche-neutrality/",
+                     "http://www.mendeley.com/research/local-interactions-select-lower-pathogen-infectivity/",
+                     "http://www.mendeley.com/research/widespread-amphibian-extinctions-epidemic-disease-driven-global-warming/",
+                     ]
 
-        self.url2 = "http://www.mendeley.com/research/local-interactions-select-lower-pathogen-infectivity/"
-        self.data_doc2 = get_mendeley_data(self.url2)
-        self.citation2 = citation(self.url2)
+        self.data_docs = []
+        self.citations = []
+        for url in self.urls:
+            self.data_docs.append(get_mendeley_data(url))
+            self.citations.append(citation(url))
 
-        print '\n'.join((self.citation1, self.citation2))
+        print '\n\n'.join(self.citations)
 
     def test_adler(self):
-        self.assertEqual(self.data_doc1['title'], 'A niche for neutrality')
-        self.assertEqual(self.data_doc1['year'], 2007)
-        self.assertEqual(self.data_doc1['published_in'], 'Ecology Letters')
-        self.assertIn('Adler, P.', self.citation1)
-        self.assertIn(self.data_doc1['title'], self.citation1)
+        data_doc = self.data_docs[0]
+        citation = self.citations[0]
+        self.assertEqual(data_doc['title'], 'A niche for neutrality')
+        self.assertEqual(data_doc['year'], 2007)
+        self.assertEqual(data_doc['published_in'], 'Ecology Letters')
+        self.assertIn('Adler, P. B.', citation)
+        self.assertIn(data_doc['title'], citation)
 
     def test_boots(self):
-        self.assertEqual(self.data_doc2['title'], 'Local interactions select for lower pathogen infectivity')
-        self.assertEqual(self.data_doc2['year'], 2007)
-        self.assertEqual(self.data_doc2['published_in'], 'Science')
-        self.assertIn('Boots, M.', self.citation2)
-        self.assertIn(self.data_doc2['title'], self.citation2)
+        data_doc = self.data_docs[1]
+        citation = self.citations[1]
+        self.assertEqual(data_doc['title'], 'Local interactions select for lower pathogen infectivity')
+        self.assertEqual(data_doc['year'], 2007)
+        self.assertEqual(data_doc['published_in'], 'Science')
+        self.assertIn('Boots, M.', citation)
+        self.assertIn(data_doc['title'], citation)
+
+    def test_pounds(self):
+        data_doc = self.data_docs[2]
+        citation = self.citations[2]
+        self.assertEqual(data_doc['title'], 'Widespread amphibian extinctions from epidemic disease driven by global warming')
+        self.assertEqual(data_doc['year'], 2006)
+        self.assertEqual(data_doc['published_in'], 'Nature')
+        self.assertIn('Pounds, J. A.', citation)
+        self.assertIn(data_doc['title'], citation)
 
 
 if __name__ == '__main__':
