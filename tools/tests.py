@@ -49,7 +49,7 @@ class TestMendeleyTags(TestCase):
 
         print '\n\n'.join(self.citations)
 
-    def test_adler(self):
+    def test_mendeley_tags(self):
         data_doc = self.data_docs[0]
         citation = self.citations[0]
         self.assertEqual(data_doc['title'], 'A niche for neutrality')
@@ -58,7 +58,6 @@ class TestMendeleyTags(TestCase):
         self.assertIn('Adler, P. B.', citation)
         self.assertIn(data_doc['title'], citation)
 
-    def test_boots(self):
         data_doc = self.data_docs[1]
         citation = self.citations[1]
         self.assertEqual(data_doc['title'], 'Local interactions select for lower pathogen infectivity')
@@ -67,7 +66,6 @@ class TestMendeleyTags(TestCase):
         self.assertIn('Boots, M.', citation)
         self.assertIn(data_doc['title'], citation)
 
-    def test_pounds(self):
         data_doc = self.data_docs[2]
         citation = self.citations[2]
         self.assertEqual(data_doc['title'], 'Widespread amphibian extinctions from epidemic disease driven by global warming')
