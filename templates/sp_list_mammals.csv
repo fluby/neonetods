@@ -1,1 +1,38 @@
-site,genus,sp,subsp,common_name,sourceDSNY,,,,southeastern big-eared bat,http://www.mendeley.com/c/4955268692/g/2058663/the-nature-conservancy-2012-disney-wilderness-preserve---about/DSNY,,,,Sherman's fox squirrel,http://www.mendeley.com/c/4955268692/g/2058663/the-nature-conservancy-2012-disney-wilderness-preserve---about/
+site,genus,sp,subsp,common_name,source
+DSNY,,,,southeastern big-eared bat,http://www.mendeley.com/c/4955268692/g/2058663/the-nature-conservancy-2012-disney-wilderness-preserve---about/
+DSNY,,,,Sherman's fox squirrel,http://www.mendeley.com/c/4955268692/g/2058663/the-nature-conservancy-2012-disney-wilderness-preserve---about/
+OSBS,Didelphis,virginiana,pigra,Virginia opossum,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Sorex,longirostris,longirostris,Southeastern shrew,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Blarina,carolinensis,,Short-tailed shrew,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Cryptotis,parva,floridana,Least shrew,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Scalopus,aquaticus,australis,Southern mole,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Lasiurus,intermedius,,Yellow bar,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Nycticeius,humeralis,humeralis,Evening bat,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Myotis,austroriparius,austroriparius,Southeastern bat,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Dasypus,novemcinctus,mexicanus,Mexican nine-banded armadillo,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Sylvilagus,palustris,paludicola,Marsh rabbit,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Sylvilagus,floridanus,mallurus,Cottontail,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Sciurus,carolinensis,carolinensis,Eastern gray squirrel,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Sciurus,niger,shermani,Sherman's fox squirrel,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Glaucomys,volans,querceti,Southern flying squirrel,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Geomys,pinetis,floridanus,Florida pocket gopher,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Castor,canadensis,carolinensis,Beaver,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Peromyscus,polionotus,subgriseus,Old field mouse,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Peromyscus,gossypinus,gossypinus,Cotton mouse,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Podomys,floridanus,,Florida mouse,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Ochrotomys,nuttalli,oreolis,Golden mouse,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Sigmodon,hispidus,hispidus,Cotton rat,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Oryzomys,palustris,natator,Rice rat,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Neotoma,floridana,floridana,Florida wood rat,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Neofiber,alleni,,Round-tailed muskrat,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Vulpes,vulpes,,Red fox,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Urocyon,cinereoargenteus,floridanus,Gray fox,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Canis,familiaris,,Dog,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Canis,latrans,frustror,Coyote,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Procyon,lotor,elucus,Raccoon,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Lutra,canadensis,vaga,Otter,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Mephitis,mephitis,elongata,Striped skunk,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Lynx,rufus,floridanus,Florida bobcat,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Felis,sylvestris,catus,Domestic cat,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Ursus,americanus,floridanus,Florida black bear,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Odocoileus,virginiana,seminola,White-tailed deer,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
