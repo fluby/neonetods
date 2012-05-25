@@ -2,7 +2,7 @@ Dear (contact name),
  
 My name is XXXX. I am currently working on behalf of the National Ecological Observatory Network (NEON;neoninc.org). 
 
-A key component of the Observatory is long-term terrestrial sampling throughout the US, including breeding birds, small mammals, plants, carabid beetles and mosquitoes. NEON scientists recognize that existing data concerning species composition and abundance are extremely valuable to the development of site-specific sampling and training protocols. Moreover, NEON endeavors to avoid inefficient use of public resources by attempting to re-invent the wheel or ignoring input and data from the broader scientific community.
+A key component of the Observatory is long-term terrestrial sampling throughout the US, including breeding birds, small mammals, plants, carabid beetles and mosquitoes. NEON scientists recognize that existing data concerning species composition and abundance are extremely valuable to the development of site-specific sampling and training protocols. Moreover, NEON endeavors to make efficient use of public resources by attempting to avoid reinventing the wheel and by taking advantage of input and data from the broader scientific community.
 
 To that end, I am contacting you to request these data concerning TAXON or TAXA for SITE X, as well as your data use policy, if applicable. In the near-term, these data will only be used by NEON internally to develop sampling protocols, quality assurance protocols, training materials, and collection permit applications. 
 
