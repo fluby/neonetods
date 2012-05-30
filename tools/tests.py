@@ -1,5 +1,5 @@
 from unittest import TestCase, main
-from tax_resolve import tax_resolve
+from tax_resolve import get_synonyms, tax_resolve
 from get_mendeley_data import get_mendeley_data, citation
 
 
@@ -7,13 +7,7 @@ class TestTaxResolve(TestCase):
     def setUp(self):
         self.syn1 = {'applb': 'apple', 'applc': 'apple', 'bannnna': 'banana'}
 
-        self.syn2 = {}
-        data_file = open("../data/mosquito_synonyms.csv", 'r')
-        data_file.readline()
-        for line in data_file:
-            wrong, right, spid, ref = line.split(',')
-            self.syn2[wrong] = right
-
+        self.syn2 = get_synonyms('../data/mosquito_synonyms.csv')
 
     def test_apple(self):
         for l, r in [('appleb', 'apple'), 
@@ -26,11 +20,13 @@ class TestTaxResolve(TestCase):
                      ('banann', 'banana'), 
                      ('bannans', 'banana'),
                      ]:
-            self.assertEqual(tax_resolve(l, self.syn1), r)
+            new_name = tax_resolve(l, syns=self.syn1)
+            new_name = new_name if new_name else l
+            self.assertEqual(new_name, r)
     
     def test_mosquitos(self):
         for to_test in ['Aedes clivis', 'Aedes clivid', 'Ochlerotatus clivis', 'Ochlerotatus clivid', 'Ochlarodadus clivus']:
-            self.assertEqual(tax_resolve(to_test, self.syn2), 'Aedes clivis')
+            self.assertEqual(tax_resolve(to_test, syns=self.syn2), 'Aedes clivis')
 
 
 class TestMendeleyTags(TestCase):
@@ -50,29 +46,16 @@ class TestMendeleyTags(TestCase):
         print '\n\n'.join(self.citations)
 
     def test_mendeley_tags(self):
-        data_doc = self.data_docs[0]
-        citation = self.citations[0]
-        self.assertEqual(data_doc['title'], 'A niche for neutrality')
-        self.assertEqual(data_doc['year'], 2007)
-        self.assertEqual(data_doc['published_in'], 'Ecology Letters')
-        self.assertIn('Adler, P. B.', citation)
-        self.assertIn(data_doc['title'], citation)
-
-        data_doc = self.data_docs[1]
-        citation = self.citations[1]
-        self.assertEqual(data_doc['title'], 'Local interactions select for lower pathogen infectivity')
-        self.assertEqual(data_doc['year'], 2007)
-        self.assertEqual(data_doc['published_in'], 'Science')
-        self.assertIn('Boots, M.', citation)
-        self.assertIn(data_doc['title'], citation)
-
-        data_doc = self.data_docs[2]
-        citation = self.citations[2]
-        self.assertEqual(data_doc['title'], 'Widespread amphibian extinctions from epidemic disease driven by global warming')
-        self.assertEqual(data_doc['year'], 2006)
-        self.assertEqual(data_doc['published_in'], 'Nature')
-        self.assertIn('Pounds, J. A.', citation)
-        self.assertIn(data_doc['title'], citation)
+        for data_doc, citation, (title, year, published_in, in_citation) in zip(self.data_docs, self.citations,
+        [
+         ('A niche for neutrality', 2007, 'Ecology Letters', 'Adler, P. B.'),
+         ('Local interactions select for lower pathogen infectivity', 2007, 'Science', 'Boots, M.'),
+         ('Widespread amphibean extinctions from epidemic disease riven by global warming', 2006, 'Nature', 'Pounds, J. A.'),
+        ]):
+            self.assertEqual(data_doc['title'], title)
+            self.assertEqual(data_doc['year'], year)
+            self.assertEqual(data_doc['published_in'], published_in)
+            self.assertIn('Adler, P. B.', in_citation)
 
 
 if __name__ == '__main__':
