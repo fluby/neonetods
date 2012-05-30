@@ -5,7 +5,7 @@ import sys
 if len(sys.argv) > 1:
     name = sys.argv[1]
 else:
-    name = 'blank'
+    name = ''
 
 all_sql_files = [f for f in os.listdir('../') if f[-4:] == '.sql']
 
@@ -16,6 +16,6 @@ for data_file in all_sql_files:
         table_name, fields = table.split('(')[0], '('.join(table.split('(')[1:])
         table_name = table_name.lstrip('CREATE TABLE ')
         fields = [f.split()[0] for f in fields.rstrip(');').split(',')]
-        output = open(table_name.replace('.', '_') + '_%s.csv' % name, 'w')
+        output = open(table_name.replace('.', '_') + ('_%s' % name if name else '') + '.csv', 'w')
         output.write(','.join(fields))
         output.close()
