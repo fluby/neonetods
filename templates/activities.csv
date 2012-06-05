@@ -52,3 +52,9 @@ ken ,CPER,herpetiles,6/4/2012,http://sgslter.colostate.edu/dataset_view.aspx?id=
 ken ,CPER,herpetiles,6/4/2012,http://books.google.com/books?hl=en&lr=&id=7B98z3u1OB8C&oi=fnd&pg=PA132&dq=%22Shortgrass+Steppe%22++Reptiles&ots=iO6brrUfiW&sig=n9bN-rAiR8LC0yyd-m_DOXWXA6I#v=onepage&q=%22Shortgrass%20Steppe%22%20%20Reptiles&f=false,,,,,no results on species lists
 ken ,CPER,amphibians,6/4/2012,http://sgslter.colostate.edu/ars/ProjDisplay.asp?ProjectNum=154,,,,,record of project headed by Paul Stapp (provided herp species lists)
 ken ,CPER,all,6/4/2012,http://sgslter.colostate.edu/ars/default.asp,,,,,"Little useful information, has a lists of projects proposed and conducted on CPER"
+xiao,HARV,all,6/4/2012,ISI Web of Science,harvard forest AND amphibians/reptiles/beetles/mosquitoes,,,,no results
+xiao,HARV,amphibians,6/4/2012,http://arnoldia.arboretum.harvard.edu/pdf/issues/232.pdf#page=21,,,,,contains a list of all salamanders in Massachusettes; only one species is specifically associated with HARV
+xiao,HARV,amphibians,6/4/2012,http://scholar.google.com,harvard forest amphibians,,,,found only papers for two specific species
+xiao,HARV,all,6/4/2012,http://harvardforest.fas.harvard.edu:8080/exist/xquery/da-browse-title.xq,,,,,no results on species lists for herps and inverts
+xiao,HARV,inverts,6/4/2012,http://harvardforest.fas.harvard.edu:8080/exist/xquery/data.xq?id=hf177,,,,,data file contains an incomplete list of beetles identified only to the family level
+xiao,HARV,reptiles,6/5/2012,http://scholar.google.com,harvard forest reptiles,,,,no results
