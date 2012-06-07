@@ -58,3 +58,5 @@ xiao,HARV,amphibians,6/4/2012,http://scholar.google.com,harvard forest amphibian
 xiao,HARV,all,6/4/2012,http://harvardforest.fas.harvard.edu:8080/exist/xquery/da-browse-title.xq,,,,,no results on species lists for herps and inverts
 xiao,HARV,inverts,6/4/2012,http://harvardforest.fas.harvard.edu:8080/exist/xquery/data.xq?id=hf177,,,,,data file contains an incomplete list of beetles identified only to the family level
 xiao,HARV,reptiles,6/5/2012,http://scholar.google.com,harvard forest reptiles,,,,no results
+ken,RMNP,herps,6/7/2012,http://www.nps.gov/romo/naturescience/amphibians_reptiles.htm,,,,,incomplete list of herps
+ken,CPER,mosquitoes,6/7/2012,,,"Dr. Boris Kondratieff, C.P. Gillette Museum of Arthropod Diversity, Colorado State Univ.",,,CPER contributed to the museums collection
