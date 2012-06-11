@@ -33,7 +33,7 @@ def tax_resolve(sci_name=None, com_name=None, syns=None):
     return name
     
 
-def tax_resolve_fuzzy(tax, synonyms, sensitivity=0.75):
+def tax_resolve_fuzzy(tax, synonyms, sensitivity=0.85):
     """Performs fuzzy matching on a species name to determine whether it is in a list of synonyms."""
     if (not synonyms) or tax in synonyms.values(): return tax
     all_taxes = synonyms.keys() + synonyms.values()
