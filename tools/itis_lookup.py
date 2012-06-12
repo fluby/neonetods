@@ -24,7 +24,6 @@ def itis_lookup(name):
 
     # parse results to pull out unique species
     html = browser.html
-#    results = re.findall('\<td[^]*Species:[^<]*\<\/td\>', html)
     results = [s.tail for s in p(html)('td.body a')]
     species = sum([re.findall('Species: [A-Z][a-z ]*', result) for result in results], [])
     species = [s.split(':')[1].strip() for s in species]
