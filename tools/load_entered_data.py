@@ -2,10 +2,10 @@ import tax_resolve
 
 
 species_lists = [
-                 ('mammals', '../templates/sp_list_mammals.csv', [('../data/mammals.csv', 1, 3)], None),
-                 ('birds', '../templates/sp_list_birds.csv',     [('../data/ebird_tax_clean.csv', 0, 1)], None),
-                 ('plants', '../templates/sp_list_plants.csv',   [('../data/plants.csv', 2, 3)], None),
-                 ('inverts', '../templates/sp_list_inverts.csv', [('../data/beetles.csv', 1, 3), 
+                 ('mammals', '../data/sp_list_mammals.csv', [('../data/mammals.csv', 1, 3)], None),
+                 ('birds', '../data/sp_list_birds.csv',     [('../data/ebird_tax_clean.csv', 0, 1)], None),
+                 ('plants', '../data/sp_list_plants.csv',   [('../data/plants.csv', 2, 3)], None),
+                 ('inverts', '../data/sp_list_inverts.csv', [('../data/beetles.csv', 1, 3), 
                                                                   ('../data/mosquitoes.csv', 1, 3)],
                                                                  ['../data/mosquito_synonyms.csv']),
                  #herps
