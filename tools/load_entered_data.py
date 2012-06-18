@@ -1,5 +1,6 @@
 import sys
 import tax_resolve
+from taxonomy_lookup_itis import itis_lookup
 
 
 species_lists = [
@@ -57,9 +58,13 @@ for taxon, data_entry_file, spp_code_files in species_lists:
                             print '**%s' % sci_name
                             unknown += 1
                 elif common_name:
-                    corrected_name = tax_resolve.tax_resolve(com_name=common_name, syns=syns)
-                    print '**%s' % common_name
-                    unknown += 1
+                    corrected_name = itis_lookup(common_name)
+                    if corrected_name and corrected_name in spp_codes: 
+                        print 'corrected: %s -> %s: %s' % (common_name, corrected_name, spp_codes[corrected_name])
+                        correct += 1
+                    else:
+                        print '**%s' % common_name
+                        unknown += 1
             except KeyboardInterrupt: sys.exit()
-            except Exception as e: print line, e
+            except Exception as e: print line, e; raise
     print '%s: Correct: %s; Unknown: %s (%s)' % (taxon, correct, unknown, correct / float(correct + unknown))
