@@ -33,7 +33,7 @@ def itis_lookup(name):
     species = [s.split(':')[1].strip() for s in species]
     
     if species and len(species) == 1:
-        itis_cache[name] = result
+        itis_cache[name] = species[0]
         open('itis_cache.py', 'w').write('itis_cache = %s' % itis_cache)
         return species
 
