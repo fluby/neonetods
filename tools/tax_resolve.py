@@ -1,6 +1,40 @@
 import difflib
 
 
+# generate new spp_id when scientific name is not present in taxonomy tables
+def spuh_1(genus):
+    return '%s.sp' % genus[:3].upper()
+def spuh_2(genus):
+    return '%s_spp' % genus[:3].upper()
+def slash_1(genus, sp1, sp2):
+    return '%s%s%s' % (genus[:2].upper(), sp1[:2].upper(), sp2[:2].upper())
+def slash_2(genus, sp1, sp2):
+    return '%s_%s_%s' % (genus[:3].upper(), sp1[0].upper(), sp2[0].upper())
+spp_id_formats =    {
+                    'mammals': (lambda genus, species, n=None: '%s_%s' % (genus[:3], species[:3])),
+                    'plants': (lambda genus, species, n=None: '%s_%s' % (genus[:3].upper(), species[:3].upper())),
+                    'inverts': (lambda genus, species, n=None: '%s%s%s' % (genus[:2].upper(), species[:2].upper(), n if n else '')),
+                    }
+spuh_formats =      {
+                    'mammals': spuh_2,
+                    'plants': spuh_1,
+                    'inverts': spuh_1,
+                    }
+slash_formats =     {
+                    'mammals': slash_2,
+                    'plants': slash_1,
+                    'inverts': slash_1,
+                    }
+def new_spp_id(tax_group, genus, species, sp2=None):
+    if genus and not species:
+        return spuh_formats[tax_group](genus)
+    elif species and sp2:
+        return slash_formats[tax_group](genus, species, sp2)
+    else:
+        return spp_id_formats[tax_group](genus, species)
+
+
+# check synonym list for known synonyms, and resolve small differences
 def get_synonyms(input_files, wrong_col=0, right_col=1):
     """Get a dictionary of species name synonyms from an input file."""
     if isinstance(input_files, str):
