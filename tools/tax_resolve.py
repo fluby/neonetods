@@ -1,4 +1,5 @@
 import difflib
+from taxonomy_lookup_tnrs import tnrs_lookup
 
 
 # generate new spp_id when scientific name is not present in taxonomy tables
@@ -48,10 +49,35 @@ def get_synonyms(input_files, wrong_col=0, right_col=1):
             wrong_name = cols[wrong_col]
             right_name = cols[right_col]
             syn[wrong_name] = right_name
-    return syn
+    return syn    
 
-    
-def tax_resolve(sci_name=None, com_name=None, syns=None):
+def tax_resolve_fuzzy(tax, synonyms, fuzzy=True, sensitivity=0.9):
+    """Performs fuzzy matching on a species name to determine whether it is in a list of synonyms."""
+    if (not synonyms): return tax
+    try: return synonyms[tax]
+    except:
+        if not fuzzy: return False
+        all_taxes = synonyms.keys() + synonyms.values()
+        scores = sorted([(key, difflib.SequenceMatcher(None, tax.lower(), key.lower()).ratio()) for key in all_taxes],
+                         key=lambda s: s[1], reverse=True)
+        top_score = scores[0]
+        if top_score[1] >= sensitivity: return synonyms[top_score[0]] if top_score[0] in synonyms.keys() else top_score[0]
+        else: return False
+
+
+syns = {
+        'mammals': get_synonyms('../data/mammal_synonyms.csv'),
+        'inverts': get_synonyms('../data/mosquito_synonyms.csv'),
+        }
+
+extra_steps = {
+               'mammals': [lambda n: tax_resolve_fuzzy(n, synonyms=syns['mammals'])],
+               'inverts': [lambda n: tax_resolve_fuzzy(n, synonyms=syns['inverts'])],
+               'plants': [tnrs_lookup],
+               }
+
+
+def tax_resolve(sci_name=None, taxon=None, com_name=None, syns=None):
     if not syns: syns = {}
     
     if sci_name:
@@ -63,20 +89,10 @@ def tax_resolve(sci_name=None, com_name=None, syns=None):
         t = tax_resolve_itis(com_name)
         if t: name = t
     else: raise Exception("tax_resolve reqiures either scientific or common name")
+
+    if taxon and taxon in extra_steps:
+        steps = extra_steps[taxon]
+        for step in steps:
+            name = step(name)
     
     return name
-    
-
-def tax_resolve_fuzzy(tax, synonyms, sensitivity=0.85):
-    """Performs fuzzy matching on a species name to determine whether it is in a list of synonyms."""
-    if (not synonyms) or tax in synonyms.values(): return tax
-    all_taxes = synonyms.keys() + synonyms.values()
-    scores = sorted([(key, difflib.SequenceMatcher(None, tax.lower(), key.lower()).ratio()) for key in all_taxes],
-                    key=lambda s: s[1], reverse=True)
-    top_score = scores[0]
-    if top_score[1] >= sensitivity: return synonyms[top_score[0]] if top_score[0] in synonyms.keys() else top_score[0]
-    return False
-    
-def tax_resolve_itis(common_name):
-    """Query ITIS for a species name and return the accepted scientific name."""
-    pass
