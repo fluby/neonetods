@@ -34,7 +34,7 @@ def itis_lookup(name):
     
     if species and len(species) == 1:
         itis_cache[name] = result
-        open('itis_cache.py', 'w').write('itis_cache = %s' % tnrs_cache)
+        open('itis_cache.py', 'w').write('itis_cache = %s' % itis_cache)
         return species
 
     return False
