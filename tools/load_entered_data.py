@@ -1,15 +1,14 @@
 import sys
 import tax_resolve
+from taxonomy_lookup_itis import itis_lookup
 
 
 species_lists = [
-                 ('mammals', '../data/sp_list_mammals.csv', [('../data/mammals.csv', 1, 3)], 
-                                                            ['../data/mammal_synonyms.csv']),
-                 ('birds', '../data/sp_list_birds.csv',     [('../data/ebird_tax_clean.csv', 0, 1)], None),
-                 ('plants', '../data/sp_list_plants.csv',   [('../data/plants.csv', 2, 3)], None),
+                 ('mammals', '../data/sp_list_mammals.csv', [('../data/mammals.csv', 1, 3)]),
+                 ('birds', '../data/sp_list_birds.csv',     [('../data/ebird_tax_clean.csv', 0, 1)]),
+                 ('plants', '../data/sp_list_plants.csv',   [('../data/plants.csv', 2, 3)]),
                  ('inverts', '../data/sp_list_inverts.csv', [('../data/beetles.csv', 1, 3), 
-                                                             ('../data/mosquitoes.csv', 1, 3)],
-                                                            ['../data/mosquito_synonyms.csv']),
+                                                             ('../data/mosquitoes.csv', 1, 3)]),
                  #herps
                  ]
 
@@ -21,12 +20,9 @@ def get_spp_code(sci_name, spp_code_dict, tax_resolve):
         sci_name = tax_resolve[sci_name]
                  
                  
-for taxon, data_entry_file, spp_code_files, synonyms_files in species_lists:
+for taxon, data_entry_file, spp_code_files in species_lists:
     print '*** %s ***' % taxon
     spp_codes = {}
-    if synonyms_files:
-        syns = tax_resolve.get_synonyms(synonyms_files)
-    else: syns = {}
     for (spp_file, spcode_col, sciname_col) in spp_code_files:
         data_file = open(spp_file, 'r')
         data_file.readline()
@@ -54,8 +50,7 @@ for taxon, data_entry_file, spp_code_files, synonyms_files in species_lists:
                     if sci_name in spp_codes:
                         correct += 1
                     else:
-                        corrected_name = tax_resolve.tax_resolve(sci_name, com_name=common_name if common_name else None, 
-                                                                syns=syns)
+                        corrected_name = tax_resolve.tax_resolve(sci_name, taxon=taxon, com_name=common_name if common_name else None)
                         if corrected_name and corrected_name in spp_codes:
                             print 'corrected: %s -> %s: %s' % (sci_name, corrected_name, spp_codes[corrected_name])
                             correct += 1
@@ -63,9 +58,13 @@ for taxon, data_entry_file, spp_code_files, synonyms_files in species_lists:
                             print '**%s' % sci_name
                             unknown += 1
                 elif common_name:
-                    corrected_name = tax_resolve.tax_resolve(com_name=common_name, syns=syns)
-                    print '**%s' % common_name
-                    unknown += 1
+                    corrected_name = itis_lookup(common_name)
+                    if corrected_name and corrected_name in spp_codes: 
+                        print 'corrected: %s -> %s: %s' % (common_name, corrected_name, spp_codes[corrected_name])
+                        correct += 1
+                    else:
+                        print '**%s' % common_name
+                        unknown += 1
             except KeyboardInterrupt: sys.exit()
-            except Exception as e: print line, e
+            except Exception as e: print line, e; raise
     print '%s: Correct: %s; Unknown: %s (%s)' % (taxon, correct, unknown, correct / float(correct + unknown))
