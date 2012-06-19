@@ -85,7 +85,7 @@ xiao,CHOC,all,6/10/2012,http://scholar.google.com,"""choctaw national wildlife r
 xiao,CHOC,birds,6/10/2012,Audubon chapters in Alabama,,,,,no species list
 zack,SERC,all,6/11/2012,http://www.books.google.com,Smithsonian Environmental Research Center & mammals/birds/plants/orchids/amphibians/reptiles/beetles/mosquitos/invertebrates,,,,no results
 zack,SERC,mammals,6/11/2012,http://www.google.com,Smithsonian Environmental Research Center mammals,,,,Gomez_2008 also mosquito
-zack,SERC,,6/11/2012,,,Eric Hazelton,eric@hazelton-ecological.com,,waiting
+zack,SERC,,6/11/2012,,,Eric Hazelton,eric@hazelton-ecological.com,,complete species list from collegues for all but carbids.
 ken,GUAN,all,6/11/2012,http://www.unesco.org/mabdb/br/brdir/directory/biores.asp?code=USA+35&mode=all,,,,,no results on species lists and contact info
 ken,GUAN,"birds, herps, mammals",6/11/2012,http://www.inaturalist.org/check_lists/14412-Gu%25C3%25A1nica-Check-List?page=1&view=plain,,,,,"checklists for birds, herps, and mammals"
 zack,STER,bids,6/13/2012,http://www.parks.state.co.us/parks/northsterling/Pages/NorthSterling.aspx,,,,,checklist for birds on publication page
@@ -97,3 +97,7 @@ xiao,TALL,beetles,6/18/2012,http://scholar.google.com,talladega oakmulgee beetle
 xiao,TALL,mammals,6/18/2012,http://www.google.com,talladega oakmulgee mammals,,,,no records
 xiao,TALL,mammals,6/18/2012,http://scholar.google.com,talladega oakmulgee mammals,,,,no records
 xiao,TALL,plants,6/18/2012,http://scholar.google.com,talladega oakmulgee plants,,,,found several journal articles
+zack,SERC,inverts,6/19/2012,http://google.com,smithsonian environmental research center beetles,,,,Cavey_2004 off-site leaf beetle records
+zack,SERC,inverts,6/19/2012,http://google.com,smithsonian environmental research center carabid beetles,,,,no results
+zack ,SERC,inverts,6/19/2012,http://google.com,edgewater maryland carabid beetles,,,,no results
+zack,SERC,inverts,6/19/2012,http://google.com,anne arundal carabid beetles,,,,Burnie_2007 county result
