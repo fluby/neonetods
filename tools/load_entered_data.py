@@ -1,4 +1,6 @@
 import sys
+reload(sys)
+sys.setdefaultencoding('latin1')
 import tax_resolve
 from taxonomy_lookup_itis import itis_lookup
 
@@ -13,11 +15,23 @@ species_lists = [
                  ]
 
 
-def get_spp_code(sci_name, spp_code_dict, tax_resolve):
-    if sci_name in spp_code_dict:
+def get_spp_id(sci_name, com_name, taxon, spp_code_dict):
+    '''Get spp_id from spp_id dictionary. Returns: 
+        a spp_id string if this is a known or unknown species,
+        None if only an ambiguous common_name was given'''
+    try:
         return spp_code_dict[sci_name]
-    else:
-        sci_name = tax_resolve[sci_name]
+    except KeyError:
+        new_name = tax_resolve.tax_resolve(sci_name=sci_name, com_name=com_name, known_species=spp_code_dict.keys(), taxon=taxon)
+        if new_name:
+            try:
+                return spp_code_dict[new_name]
+            except KeyError:
+                new_spp_id = tax_resolve.new_spp_id(taxon, *new_name.split())
+                spp_code_dict[new_name] = new_spp_id
+                return new_spp_id
+        else: return None
+        
                  
                  
 for taxon, data_entry_file, spp_code_files in species_lists:
@@ -45,26 +59,15 @@ for taxon, data_entry_file, spp_code_files in species_lists:
         if line:
             try:
                 site,genus,sp,subsp,common_name,source = [s.strip() for s in line.split(',')]
-                if genus and sp:
-                    sci_name = '%s %s' % (genus, sp)
-                    if sci_name in spp_codes:
-                        correct += 1
-                    else:
-                        corrected_name = tax_resolve.tax_resolve(sci_name, taxon=taxon, com_name=common_name if common_name else None)
-                        if corrected_name and corrected_name in spp_codes:
-                            print 'corrected: %s -> %s: %s' % (sci_name, corrected_name, spp_codes[corrected_name])
-                            correct += 1
-                        else:
-                            print '**%s' % sci_name
-                            unknown += 1
-                elif common_name:
-                    corrected_name = itis_lookup(common_name)
-                    if corrected_name and corrected_name in spp_codes: 
-                        print 'corrected: %s -> %s: %s' % (common_name, corrected_name, spp_codes[corrected_name])
-                        correct += 1
-                    else:
-                        print '**%s' % common_name
-                        unknown += 1
-            except KeyboardInterrupt: sys.exit()
-            except Exception as e: print line, e; raise
+                print genus, sp, subsp, common_name,
+                spp_id = get_spp_id(sci_name=' '.join((genus,sp,subsp)).strip(), com_name=common_name,
+                                    taxon=taxon, spp_code_dict=spp_codes)
+                if spp_id: 
+                    correct += 1
+                    print '->', spp_id
+                else:
+                    unknown += 1
+                    print '**UNKNOWN**'
+            #except KeyboardInterrupt: raise
+            except Exception as e: print line, e; unknown += 1
     print '%s: Correct: %s; Unknown: %s (%s)' % (taxon, correct, unknown, correct / float(correct + unknown))

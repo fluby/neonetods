@@ -14,7 +14,7 @@ ITIS_URL = 'http://www.itis.gov/'
 
 browser = spynner.Browser()
 
-def itis_lookup(name):
+def itis_lookup(name, TIMEOUT=30):
     success = browser.load(ITIS_URL)
     if not success: raise Exception('ITIS failed to load.')
 
@@ -23,8 +23,12 @@ def itis_lookup(name):
     browser.runjs('doSubmit();')
 
     # wait for results to load
+    waits = 0
     while not 'results of' in browser.html.lower():
         browser.wait(1)
+        waits += 1
+        if waits >= TIMEOUT:
+            raise Exception('ITIS lookup timed out')
 
     # parse results to pull out unique species
     html = browser.html
