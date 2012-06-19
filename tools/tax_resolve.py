@@ -1,5 +1,6 @@
 import difflib
 from taxonomy_lookup_tnrs import tnrs_lookup
+from taxonomy_lookup_itis import itis_lookup
 
 
 # generate new spp_id when scientific name is not present in taxonomy tables
@@ -26,13 +27,13 @@ slash_formats =     {
                     'plants': slash_1,
                     'inverts': slash_1,
                     }
-def new_spp_id(tax_group, genus, species, sp2=None):
+def new_spp_id(taxon, genus, species, sp2=None):
     if genus and not species:
-        return spuh_formats[tax_group](genus)
+        return spuh_formats[taxon](genus)
     elif species and sp2:
-        return slash_formats[tax_group](genus, species, sp2)
+        return slash_formats[taxon](genus, species, sp2)
     else:
-        return spp_id_formats[tax_group](genus, species)
+        return spp_id_formats[taxon](genus, species)
 
 
 # check synonym list for known synonyms, and resolve small differences
@@ -51,18 +52,19 @@ def get_synonyms(input_files, wrong_col=0, right_col=1):
             syn[wrong_name] = right_name
     return syn    
 
-def tax_resolve_fuzzy(tax, synonyms, fuzzy=True, sensitivity=0.9):
-    """Performs fuzzy matching on a species name to determine whether it is in a list of synonyms."""
-    if (not synonyms): return tax
-    try: return synonyms[tax]
+def tax_resolve_fuzzy(sci_name, synonyms=None, known_species=None, fuzzy=True, sensitivity=0.9):    
+    """Performs fuzzy matching on a species name to determine whether it is in a list of synonyms or known species."""
+    try: return synonyms[sci_name]
     except:
-        if not fuzzy: return False
-        all_taxes = synonyms.keys() + synonyms.values()
-        scores = sorted([(key, difflib.SequenceMatcher(None, tax.lower(), key.lower()).ratio()) for key in all_taxes],
+        if not fuzzy: return sci_name
+        if not known_species: known_species = []
+        if not synonyms: synonyms = {}
+        all_taxes = synonyms.keys() + synonyms.values() + known_species
+        scores = sorted([(key, difflib.SequenceMatcher(None, sci_name.lower(), key.lower()).ratio()) for key in all_taxes],
                          key=lambda s: s[1], reverse=True)
         top_score = scores[0]
         if top_score[1] >= sensitivity: return synonyms[top_score[0]] if top_score[0] in synonyms.keys() else top_score[0]
-        else: return False
+        else: return sci_name
 
 
 syns = {
@@ -77,20 +79,22 @@ extra_steps = {
                }
 
 
-def tax_resolve(sci_name=None, taxon=None, com_name=None, syns=None):
-    if not syns: syns = {}
+def tax_resolve(sci_name=None, com_name=None, taxon=None, known_species=None):
+    if not known_species: known_species = []
     
+    name = sci_name
     if sci_name:
-        name = sci_name
-        t = tax_resolve_fuzzy(sci_name, syns)
-        if t: name = t
+        new_name = tax_resolve_fuzzy(sci_name=sci_name, known_species=known_species)
+        if new_name: name = new_name
     elif com_name:
-        name = com_name
-        t = tax_resolve_itis(com_name)
-        if t: name = t
+        try:
+            t = itis_lookup(com_name)
+            if t: name = t
+        except Exception as e:
+            print '(%s)' % e,
     else: raise Exception("tax_resolve reqiures either scientific or common name")
 
-    if taxon and taxon in extra_steps:
+    if name and taxon and taxon in extra_steps:
         steps = extra_steps[taxon]
         for step in steps:
             name = step(name)
