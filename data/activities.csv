@@ -88,7 +88,7 @@ zack,SERC,mammals,6/11/2012,http://www.google.com,Smithsonian Environmental Rese
 zack,SERC,,6/11/2012,,,Eric Hazelton,eric@hazelton-ecological.com,,complete species list from collegues for all but carbids.
 ken,GUAN,all,6/11/2012,http://www.unesco.org/mabdb/br/brdir/directory/biores.asp?code=USA+35&mode=all,,,,,no results on species lists and contact info
 ken,GUAN,"birds, herps, mammals",6/11/2012,http://www.inaturalist.org/check_lists/14412-Gu%25C3%25A1nica-Check-List?page=1&view=plain,,,,,"checklists for birds, herps, and mammals"
-zack,STER,bids,6/13/2012,http://www.parks.state.co.us/parks/northsterling/Pages/NorthSterling.aspx,,,,,checklist for birds on publication page
+zack,STER,birds,6/13/2012,http://www.parks.state.co.us/parks/northsterling/Pages/NorthSterling.aspx,,,,,checklist for birds on publication page
 zack,STER,all,6/13/2012,,,"Jeff Thompson, Brian Kurzel","jeff.thompson@state.co.us, brian.kurzel@state.co.us",,waiting
 ken,BLAN,all,6/16/2012,https://www.google.com,Blandy Experimental Farm and invertebrate or arthropod or beetle,,,,no results for species list
 ken,JORN,all,6/17/2012,http://jornada-www.nmsu.edu/,,,,,"species lists for birds, mammals, herps, plants, ants"
@@ -102,3 +102,4 @@ zack,SERC,inverts,6/19/2012,http://google.com,smithsonian environmental research
 zack ,SERC,inverts,6/19/2012,http://google.com,edgewater maryland carabid beetles,,,,no results
 zack,SERC,inverts,6/19/2012,http://google.com,anne arundal carabid beetles,,,,Schueman_2007 county result
 zack,SERC,mosquitoes,6/19/2012,,,Pete Marra,marrap@si.edu,waiting,
+zack,STER,all,6/19/2012,,,Dave Piper,north.sterling.park@state.co.us,waiting,
