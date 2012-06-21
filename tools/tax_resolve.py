@@ -13,9 +13,9 @@ def slash_1(genus, sp1, sp2):
 def slash_2(genus, sp1, sp2):
     return '%s_%s_%s' % (genus[:3].upper(), sp1[0].upper(), sp2[0].upper())
 spp_id_formats =    {
-                    'mammals': (lambda genus, species, n=None: '%s_%s' % (genus[:3], species[:3])),
-                    'plants': (lambda genus, species, n=None: '%s_%s' % (genus[:3].upper(), species[:3].upper())),
-                    'inverts': (lambda genus, species, n=None: '%s%s%s' % (genus[:2].upper(), species[:2].upper(), n if n else '')),
+                    'mammals': (lambda genus, species: '%s_%s' % (genus[:3], species[:3])),
+                    'plants': (lambda genus, species: '%s_%s' % (genus[:3].upper(), species[:3].upper())),
+                    'inverts': (lambda genus, species: '%s%s%s' % (genus[:2].upper(), species[:2].upper())),
                     }
 spuh_formats =      {
                     'mammals': spuh_2,
@@ -27,7 +27,7 @@ slash_formats =     {
                     'plants': slash_1,
                     'inverts': slash_1,
                     }
-def new_spp_id(taxon, genus, species, sp2=None):
+def new_spp_id(taxon, genus, species=None, sp2=None):
     if genus and not species:
         return spuh_formats[taxon](genus)
     elif species and sp2:
