@@ -1,5 +1,4 @@
 unaccepted_synonym,accepted_synonym
-"#DBA11A" size,<strong>List of synonym taxa</strong>
 Rattus latidens,Abditomys latidens
 Pogonomelomys sevia,Abeomelomys sevia
 Pogonomelomys sevia sevia,Abeomelomys sevia sevia
@@ -390,7 +389,7 @@ Dipus sibiricus medius,Allactaga sibirica medius
 Allactaga mongolica,Allactaga sibirica mongolica
 Allactaga ognevi,Allactaga sibirica ognevi
 Allactaga ruckbeili,Allactaga sibirica ruckbeili
-Allactaga saliens, Mus saliens,Allactaga sibirica saliens
+Allactaga saliens,Allactaga sibirica saliens
 Allactaga saltator,Allactaga sibirica saltator
 Allactaga semideserta,Allactaga sibirica semideserta
 Alactaga suschkini,Allactaga sibirica suschkini
@@ -1644,7 +1643,7 @@ Bos arnee,Bubalus bubalis arnee
 Bos arni,Bubalus bubalis arni
 Bubalus arnee bubalis,Bubalus bubalis bubalis
 Bubalus carabanensis,Bubalus bubalis carabanensis
-Bubalus ferus, Bubalus kerabau ferus,Bubalus bubalis ferus
+Bubalus ferus,Bubalus bubalis ferus
 Bubalus fluviatilis,Bubalus bubalis fluviatilis
 Bubalus arnee fulvus,Bubalus bubalis fulvus
 Bubalus arnee hosei,Bubalus bubalis hosei
@@ -5648,12 +5647,12 @@ Equus asinus taeniopus,Equus africanus taeniopus
 Equus asinus taeniopus,Equus africanus taeniopus
 Equus africanus,Equus asinus
 Asinus africanus arabicus,Equus asinus arabicus
-Equus domesticus, Asinus domesticus,Equus asinus domesticus
+Equus domesticus,Equus asinus domesticus
 Asinus ferus,Equus asinus ferus
 Equus germanicus,Equus asinus germanicus
 Equus melkeinsis,Equus asinus melkeinsis
 Equus asinus palestinae,Equus asinus palestinae
-Equus vulgaris, Asinus vulgaris,Equus asinus vulgaris
+Equus vulgaris,Equus asinus vulgaris
 Equus quagga burchellii,Equus burchellii
 Equus annectens,Equus burchellii annectens
 Equus quagga antiquorum,Equus burchellii antiquorum
@@ -6151,7 +6150,7 @@ Funisciurus auriculatus boydi,Funisciurus leucogenys boydi
 Funisciurus erythrogenys,Funisciurus leucogenys erythrogenys
 Funisciurus auriculatus oliviae,Funisciurus leucogenys oliviae
 Sciurus emini,Funisciurus pyrropus emini
-Macroxus pyrrhopus, var. erythrops,Funisciurus pyrropus erythrops
+Macroxus pyrrhopus,Funisciurus pyrropus erythrops
 Funisciurus leucostigma,Funisciurus pyrropus leucostigma
 Funisciurus mandingo,Funisciurus pyrropus mandingo
 Funisciurus mandigo nigrensis,Funisciurus pyrropus nigrensis
@@ -6327,7 +6326,7 @@ Grison canaster,Galictis vittata canaster
 Galictis crassidens,Galictis vittata crassidens
 Galictis intermedia,Galictis vittata intermedia
 Galidictis eximius,Galidictis fasciata eximius
-Galidictis vittata, var rufa,Galidictis fasciata rufa
+Galidictis vittata,Galidictis fasciata rufa
 Galidictis striata,Galidictis fasciata striata
 Mustela striata,Galidictis fasciata striata
 Galidictis vittatus,Galidictis fasciata vittatus
@@ -7172,7 +7171,7 @@ Georychus pallidus,Heliophobius argenteocinereus pallidus
 Heliophobius robustus,Heliophobius argenteocinereus robustus
 Heliophobius spalax,Heliophobius argenteocinereus spalax
 Heliosciurus multicolor abassensis,Heliosciurus gambianus abassensis
-Macroxus annulatus, var. albina,Heliosciurus gambianus albina
+Macroxus annulatus,Heliosciurus gambianus albina
 Heliosciurus bongensis bongensis,Heliosciurus gambianus bongensis
 Heliosciurus bongensis canaster,Heliosciurus gambianus canaster
 Heliosciurus multicolor dysoni,Heliosciurus gambianus dysoni
@@ -7218,7 +7217,7 @@ Heliosciurus gambianus obfuscatus,Heliosciurus rufobrachium obfuscatus
 Heliosciurus multicolor occidentalis,Heliosciurus rufobrachium occidentalis
 Heliosciurus gambianus pasha,Heliosciurus rufobrachium pasha
 Heliosciurus gambianus semlikii,Heliosciurus rufobrachium semlikii
-Macroxus rufobrachiatus, var. waterhousii,Heliosciurus rufobrachium waterhousii
+Macroxus rufobrachiatus,Heliosciurus rufobrachium waterhousii
 Aethosciurus ruwenzori,Heliosciurus ruwenzorii
 Sciurus ruwenzorii,Heliosciurus ruwenzorii
 Aethosciurus ruwenzorii ruwenzorii,Heliosciurus ruwenzorii ruwenzorii
@@ -7985,7 +7984,7 @@ Jaculus jaculus flavillus,Jaculus jaculus favillus
 Jaculus florentiae,Jaculus jaculus florentiae
 Jaculus deserti fuscipes,Jaculus jaculus fuscipes
 Jaculus gordoni,Jaculus jaculus gordoni
-Jaculus hirtipes, Dipus hirtipes,Jaculus jaculus hirtipes
+Jaculus hirtipes,Jaculus jaculus hirtipes
 Dipus macromystax,Jaculus jaculus jaculus
 Jaculus loftusi,Jaculus jaculus loftusi
 Jaculus macrotarsus,Jaculus jaculus macrotarsus
@@ -11257,7 +11256,7 @@ Leggada bella vicina,Mus musculoides vicina
 Mus abbotti,Mus musculus abbotti
 Mus adelaidensis,Mus musculus adelaidensis
 Mus albertisii,Mus musculus albertisii
-Mus musculus, var. albula,Mus musculus albula
+Mus musculus,Mus musculus albula
 Mus musculus var. albus,Mus musculus albus
 Mus musculus tomensis amurensis,Mus musculus amurensis
 Mus azoricus,Mus musculus azoricus
@@ -11947,7 +11946,7 @@ Myotis patriciae,Myotis muricola patriciae
 Myotis myosotis,Myotis myotis
 Vespertilio latipennis,Myotis myotis latipennis
 Myotis myosotis,Myotis myotis myosotis
-Myotis murinus var, spelaea,Myotis myotis spelaeus
+Myotis murinus var,Myotis myotis spelaeus
 Vespertilio submurinus,Myotis myotis submurinus
 Myotis murinus var. typus,Myotis myotis typus
 Vespertilio collaris,Myotis mystacinus
@@ -15673,7 +15672,7 @@ Procavia kamerunensis,Procavia capensis kamerunensis
 Procavia kerstingi,Procavia capensis kerstingi
 Procavia ruficeps latastei,Procavia capensis latastei
 Procavia johnstoni lopesi,Procavia capensis lopesi
-Hyrax irroratus, var. luteogaster,Procavia capensis luteogaster
+Hyrax irroratus,Procavia capensis luteogaster
 Procavia johnstoni mackinderi,Procavia capensis mackinderi
 Procavia ruficeps marrensis,Procavia capensis marrensis
 Procavia matschiei,Procavia capensis matschiei
@@ -16390,7 +16389,7 @@ Cervus tarandus schottingi,Rangifer tarandus schottingi
 Rangifer montanus selousi,Rangifer tarandus selousi
 Cervus sibiricus,Rangifer tarandus sibiricus
 Rangifer tarandus sylvestris,Rangifer tarandus silvicola
-Cervus tarandus, forma spetsbergensis,Rangifer tarandus spetsbergensis
+Cervus tarandus,Rangifer tarandus spetsbergensis
 Rangifer spitzbergensis,Rangifer tarandus spitzbergensis
 Rangifer stonei,Rangifer tarandus stonei
 Rangifer arcticus stonei,Rangifer tarandus stonei
@@ -16411,7 +16410,7 @@ Antilope pediotragus,Raphicerus campestris pediotragus
 Pediotragus kelleni steinhardti,Raphicerus campestris steinhardti
 Raphicerus campestris stigmaticus,Raphicerus campestris stigmatus
 Raphicerus neumanni stigmatus,Raphicerus campestris stigmatus
-Antilope tragulus, Antilope tragidus,Raphicerus campestris tragulus
+Antilope tragulus,Raphicerus campestris tragulus
 Pediotragus kelleni ugabensis,Raphicerus campestris ugabensis
 Pediotragus kelleni zukowskyi,Raphicerus campestris zukowskyi
 Nototragus melanotis,Raphicerus melanotis
@@ -16453,7 +16452,7 @@ Rattus calcis,Rattus exulans calcis
 Mus clabatus,Rattus exulans clabatus
 Mus concolor,Rattus exulans concolor
 Rattus concolor concolor,Rattus exulans concolor
-Rattus echimyoides, Mus echimyoides,Rattus exulans echimyoides
+Rattus echimyoides,Rattus exulans echimyoides
 Rattus ephippium,Rattus exulans ephippium
 Rattus concolor ephippium,Rattus exulans ephippium
 Rattus concolor equile,Rattus exulans equile
@@ -16761,7 +16760,7 @@ Rattus molliculus,Rattus tanezumi molliculus
 Rattus moluccarius,Rattus tanezumi moluccarius
 Mus neglectus,Rattus tanezumi neglectus
 Rattus rattus nezumi,Rattus tanezumi nezumi
-Rattus rattus obiensis, Melomys obiensis ?,Rattus tanezumi obiensis
+Rattus rattus obiensis,Rattus tanezumi obiensis
 Mus ouangthomae,Rattus tanezumi ouangthomae
 Rattus palelae,Rattus tanezumi palelae
 Rattus rattus palembang,Rattus tanezumi palembang
@@ -17441,7 +17440,7 @@ Midas bicolor,Saguinus bicolor
 Hapale bicolor,Saguinus bicolor
 Leontocebus fuscicollis,Saguinus fuscicollis
 Hapale fuscicollis,Saguinus fuscicollis
-Leontocebus apiculatus, Midas apiculatus,Saguinus fuscicollis apiculatus
+Leontocebus apiculatus,Saguinus fuscicollis apiculatus
 Mystax bluntschlii,Saguinus fuscicollis bluntschlii
 Saguinus cruzlimai,Saguinus fuscicollis cruzlimai
 Saguinus devillei,Saguinus fuscicollis devillei
@@ -18431,7 +18430,7 @@ Spalax typhlus,Spalax microphthalmus typhlus
 Spalax giganteus uralensis,Spalax uralensis
 Spalax polonicus,Spalax zemni
 Spalax microphthalmus podolicus,Spalax zemni podolicus
-Spalax polonicus, Spalax microphthalmus polonicus,Spalax zemni polonicus
+Spalax polonicus,Spalax zemni polonicus
 Icticyon venaticus,Speothos venaticus
 Melictis baskii,Speothos venaticus baskii
 Speothos panamensis,Speothos venaticus panamensis
@@ -19206,7 +19205,7 @@ Sus weberi,Sus celebensis weberi
 Sus celebensis floresianus,Sus heureni
 Sus philippensis oliveri,Sus oliveri
 Sus barbatus philippensis,Sus philippensis
-Sus celebensis, var. philippensis,Sus philippensis
+Sus celebensis,Sus philippensis
 Sus effrenus,Sus philippensis effrenus
 Sus frenatus,Sus philippensis frenatus
 Sus inconstans,Sus philippensis inconstans
@@ -19218,7 +19217,7 @@ Sus minutus,Sus philippensis minutus
 Porcula salvania,Sus salvanius
 Porculia salvania,Sus salvanius
 Sus affinis,Sus scrofa affinis
-Sus aper, var. Alpomus,Sus scrofa aipomus
+Sus aper,Sus scrofa aipomus
 Sus scrofa barbarus,Sus scrofa algira
 Sus andamanensis,Sus scrofa andamanensis
 Sus cristatus andamanensis,Sus scrofa andamanensis
@@ -19231,7 +19230,7 @@ Sus scrofa boeticus,Sus scrofa baeticus
 Sus scrofa algira,Sus scrofa barbarus
 Sus bengalensis,Sus scrofa bengalensis
 Sus canescens,Sus scrofa canescens
-Sus scrofa, var. celtica,Sus scrofa celtica
+Sus scrofa,Sus scrofa celtica
 Sus ceramensis,Sus scrofa ceramensis
 Sus acrocranius,Sus scrofa chirodonticus
 Sus leucorhinus,Sus scrofa chirodontus
@@ -19250,7 +19249,7 @@ Sus floresianus,Sus scrofa floresianus
 Sus gambianus,Sus scrofa gambianus
 Sus gigas,Sus scrofa gigas
 Sus indicus,Sus scrofa indicus
-Sus aper, var isonotus,Sus scrofa isonotus
+Sus aper,Sus scrofa isonotus
 Sus jubatulus,Sus scrofa jubatulus
 Sus jubatus,Sus scrofa jubatus
 Sus leucomystax,Sus scrofa leucomystax
@@ -21437,7 +21436,7 @@ Proechidna nigroaculeata,Zaglossus bruijni nigroaculeatus
 Zaglossus bruijni pallidus,Zaglossus bruijni pallidus
 Proechidna villosissima,Zaglossus bruijni villosissimus
 Otaria gillespii,Zalophus californianus
-Zalophus gillespii, Otaria gillespii,Zalophus californianus gillespii
+Zalophus gillespii,Zalophus californianus gillespii
 Zalophus lobatus,Zalophus californianus lobatus
 Zalophus californianus japonicus,Zalophus japonicus
 Zalophus californianus japonica,Zalophus japonicus

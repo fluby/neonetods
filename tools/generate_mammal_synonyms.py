@@ -18,9 +18,10 @@ for result in results:
             new_name = re.findall('\>.*\<', result)[0][1:-1]
             old_names = re.findall('=[^=]*=', result)
             for old_name in old_names:
-                old_name = old_name.replace('=', '').strip()
-                if old_name:
-                    print new_name, old_name
-                    output_file.write('\n%s,%s' % (old_name, new_name))
+                old_name = old_name.replace('=', '').split(',')[0].strip()
+                if not old_name.lower().startswith('var.'):
+                    if old_name:
+                        print new_name, old_name
+                        output_file.write('\n%s,%s' % (old_name, new_name))
         except IndexError as e:
             print '****', result, e
