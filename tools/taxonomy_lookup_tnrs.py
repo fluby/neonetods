@@ -9,7 +9,7 @@ URL = "http://tnrs.iplantc.org/tnrsm-svc/matchNames?retrieve=best&names=%s"
 def tnrs_lookup(name):
     # lookup canonical plant names on TNRS web service
     true, false, null = True, False, None
-    response = urllib2.urlopen(URL % name.replace(' ', '%20').read()
+    response = urllib2.urlopen(URL % name.replace(' ', '%20')).read()
 
     try:
         response_dict = eval(response)
