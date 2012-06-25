@@ -29,7 +29,7 @@ def get_spp_id(sci_name, com_name, taxon, spp_code_dict):
             try:
                 return spp_code_dict[new_name]
             except KeyError:
-                new_spp_id = tax_resolve.new_spp_id(taxon, *new_name.split()[:2])
+                new_spp_id = tax_resolve.new_spp_id(taxon, *new_name.split())
                 spp_code_dict[new_name] = new_spp_id
                 return new_spp_id
         else: return None

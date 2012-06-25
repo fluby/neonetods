@@ -5,17 +5,17 @@ from taxonomy_lookup_itis import itis_lookup
 
 # generate new spp_id when scientific name is not present in taxonomy tables
 def spuh_1(genus):
-    return '%s.sp' % genus[:3].upper()
+    return '%s.sp' % genus[:3].lower()
 def spuh_2(genus):
-    return '%s_spp' % genus[:3].upper()
+    return '%s_spp' % genus[:3].lower()
 def slash_1(genus, sp1, sp2):
-    return '%s%s%s' % (genus[:2].upper(), sp1[:2].upper(), sp2[:2].upper())
+    return '%s%s%s' % (genus[:2].upper(), sp1[:2].upper(), sp2[:2].lower())
 def slash_2(genus, sp1, sp2):
-    return '%s_%s_%s' % (genus[:3].upper(), sp1[0].upper(), sp2[0].upper())
+    return '%s_%s_%s' % (genus[:3].upper(), sp1[0].upper(), sp2[0].lower())
 spp_id_formats =    {
-                    'mammals': (lambda genus, species: '%s_%s' % (genus[:3], species[:3])),
-                    'plants': (lambda genus, species: '%s_%s' % (genus[:3].upper(), species[:3].upper())),
-                    'inverts': (lambda genus, species: '%s%s%s' % (genus[:2].upper(), species[:2].upper())),
+                    'mammals': (lambda genus, species: '%s_%s' % (genus[:3].lower(), species[:3].lower())),
+                    'plants': (lambda genus, species: '%s_%s' % (genus[:3].lower(), species[:3].lower())),
+                    'inverts': (lambda genus, species: '%s%s%s' % (genus[:2].lower(), species[:2].lower())),
                     }
 spuh_formats =      {
                     'mammals': spuh_2,
@@ -28,8 +28,11 @@ slash_formats =     {
                     'inverts': slash_1,
                     }
 ALL_SPP_IDS = dict()
-def new_spp_id(taxon, genus, species=None, sp2=None):
-    name = (genus, species, sp2)
+def new_spp_id(taxon, genus, species=None, subspecies=None):
+    sp2 = None
+    if '/' in species:
+        species, sp2 = species.split('/')
+    name = (genus, species, subspecies)
     if name in ALL_SPP_IDS:
         return ALL_SPP_IDS[name]
     if genus and not species:
