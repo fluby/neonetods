@@ -27,13 +27,25 @@ slash_formats =     {
                     'plants': slash_1,
                     'inverts': slash_1,
                     }
+ALL_SPP_IDS = dict()
 def new_spp_id(taxon, genus, species=None, sp2=None):
+    name = (genus, species, sp2)
+    if name in ALL_SPP_IDS:
+        return ALL_SPP_IDS[name]
     if genus and not species:
-        return spuh_formats[taxon](genus)
+        result = spuh_formats[taxon](genus)
     elif species and sp2:
-        return slash_formats[taxon](genus, species, sp2)
+        result = slash_formats[taxon](genus, species, sp2)
     else:
-        return spp_id_formats[taxon](genus, species)
+        result = spp_id_formats[taxon](genus, species)
+    n = 2
+    orig_result = result
+    while result in ALL_SPP_IDS.values():
+        result = orig_result + str(n)
+        n += 1
+    ALL_SPP_IDS[name] = result
+    return result
+        
 
 
 # check synonym list for known synonyms, and resolve small differences
