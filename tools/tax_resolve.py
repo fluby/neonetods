@@ -29,25 +29,27 @@ slash_formats =     {
                     }
 ALL_SPP_IDS = dict()
 def new_spp_id(taxon, genus, species=None, subspecies=None):
-    sp2 = None
-    if '/' in species:
-        species, sp2 = species.split('/')
-    name = (genus, species, subspecies)
-    if name in ALL_SPP_IDS:
-        return ALL_SPP_IDS[name]
-    if genus and not species:
-        result = spuh_formats[taxon](genus)
-    elif species and sp2:
-        result = slash_formats[taxon](genus, species, sp2)
-    else:
-        result = spp_id_formats[taxon](genus, species)
-    n = 2
-    orig_result = result
-    while result in ALL_SPP_IDS.values():
-        result = orig_result + str(n)
-        n += 1
-    ALL_SPP_IDS[name] = result
-    return result
+    try:
+        sp2 = None
+        if '/' in species:
+            species, sp2 = species.split('/')
+        name = (genus, species, subspecies)
+        if name in ALL_SPP_IDS:
+            return ALL_SPP_IDS[name]
+        if genus and not species:
+            result = spuh_formats[taxon](genus)
+        elif species and sp2:
+            result = slash_formats[taxon](genus, species, sp2)
+        else:
+            result = spp_id_formats[taxon](genus, species)
+        n = 2
+        orig_result = result
+        while result in ALL_SPP_IDS.values():
+            result = orig_result + str(n)
+            n += 1
+        ALL_SPP_IDS[name] = result
+        return result
+    except KeyError: return False
         
 
 
