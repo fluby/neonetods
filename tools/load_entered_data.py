@@ -23,6 +23,8 @@ def get_spp_id(sci_name, com_name, taxon, spp_code_dict):
         return spp_code_dict[sci_name]
     except KeyError:
         new_name = tax_resolve.tax_resolve(sci_name=sci_name, com_name=com_name, known_species=spp_code_dict.keys(), taxon=taxon)
+        if new_name != sci_name:
+            print '==> corrected to %s' % new_name,
         if new_name:
             try:
                 return spp_code_dict[new_name]
