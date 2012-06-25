@@ -50,12 +50,12 @@ class TestMendeleyTags(TestCase):
         [
          ('A niche for neutrality', 2007, 'Ecology Letters', 'Adler, P. B.'),
          ('Local interactions select for lower pathogen infectivity', 2007, 'Science', 'Boots, M.'),
-         ('Widespread amphibean extinctions from epidemic disease riven by global warming', 2006, 'Nature', 'Pounds, J. A.'),
+         ('Widespread amphibian extinctions from epidemic disease driven by global warming', 2006, 'Nature', 'Pounds, J. A.'),
         ]):
             self.assertEqual(data_doc['title'], title)
             self.assertEqual(data_doc['year'], year)
             self.assertEqual(data_doc['published_in'], published_in)
-            self.assertIn('Adler, P. B.', in_citation)
+            self.assertIn(in_citation, citation)
 
 
 if __name__ == '__main__':
