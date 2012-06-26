@@ -50,6 +50,7 @@ for taxon, data_entry_file, spp_code_files in species_lists:
                 spp_code = cols[spcode_col]
                 sci_name = cols[sciname_col]
                 spp_codes[sci_name] = spp_code
+                tax_resolve.ALL_SPP_IDS[sci_name] = spp_code
         data_file.close()
     correct = 0
     unknown = 0
