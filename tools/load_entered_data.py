@@ -15,25 +15,38 @@ species_lists = [
                  ]
 
 
-def get_spp_id(sci_name, com_name, taxon, spp_code_dict):
+def get_spp_id(genus, species, subspecies, com_name, taxon, spp_code_dict):
     '''Get spp_id from spp_id dictionary. Returns: 
         a spp_id string if this is a known or unknown species,
         None if only an ambiguous common_name was given'''
+    sci_name = tax_resolve.scientific_name(genus, species, subspecies)
     try:
+        # return species id for species, if we have one
         return spp_code_dict[sci_name]
     except KeyError:
-        new_name = tax_resolve.tax_resolve(sci_name=sci_name, com_name=com_name, known_species=spp_code_dict.keys(), taxon=taxon)
-        if new_name != sci_name:
-            print '==> corrected to %s' % new_name,
-        if new_name:
-            try:
-                return spp_code_dict[new_name]
-            except KeyError:
-                new_spp_id = tax_resolve.new_spp_id(taxon, *new_name.split())
-                if new_spp_id:
-                    spp_code_dict[new_name] = new_spp_id
-                    return new_spp_id
-        return None
+        for delimiter in (' x ', ' X ', '/'):
+            # hybrids and slashes
+            if len(species.split(delimiter)) > 1:
+                children = species.split(delimiter)
+                if all([get_spp_id(child) for child in children]):
+                    # create a new species id for the hybrid/slash
+                    new_spp_id = tax_resolve.new_spp_id(taxon, genus, species, subspecies)
+                else:
+                    # we don't have a species code for all of the species in the hybrid/slash
+                    return None
+        else:
+            new_name = tax_resolve.tax_resolve(genus, species, subspecies, com_name=com_name, known_species=spp_code_dict.keys(), taxon=taxon)
+            if new_name != sci_name:
+                print '==> corrected to %s' % new_name,
+            if new_name:
+                try:
+                    return spp_code_dict[new_name]
+                except KeyError:
+                    new_spp_id = tax_resolve.new_spp_id(taxon, *new_name.split())
+                    if new_spp_id:
+                        spp_code_dict[new_name] = new_spp_id
+                        return new_spp_id
+            return None
         
                  
                  
@@ -64,7 +77,7 @@ for taxon, data_entry_file, spp_code_files in species_lists:
             try:
                 site,genus,sp,subsp,common_name,source = [s.strip() for s in line.split(',')]
                 print genus, sp, subsp, common_name,
-                spp_id = get_spp_id(sci_name=' '.join((genus,sp,subsp)).strip(), com_name=common_name,
+                spp_id = get_spp_id(genus, sp, subsp, com_name=common_name,
                                     taxon=taxon, spp_code_dict=spp_codes)
                 if spp_id: 
                     correct += 1

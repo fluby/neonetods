@@ -8,10 +8,10 @@ def spuh_1(genus):
     return '%s.sp' % genus[:3].lower()
 def spuh_2(genus):
     return '%s_spp' % genus[:3].lower()
-def slash_1(genus, sp1, sp2):
-    return '%s%s%s' % (genus[:2].upper(), sp1[:2].upper(), sp2[:2].lower())
-def slash_2(genus, sp1, sp2):
-    return '%s_%s_%s' % (genus[:3].upper(), sp1[0].upper(), sp2[0].lower())
+def slash_1(genus, all_species):
+    return '%s%s' % (genus[:2].upper(), ''.join([sp[:2].upper() for sp in all_species]))
+def slash_2(genus, all_species):
+    return '%s_%s' % (genus[:3].upper(), '_'.join([sp[0].upper() for sp in all_species]))
 spp_id_formats =    {
                     'mammals': (lambda genus, species: '%s_%s' % (genus[:3].lower(), species[:3].lower())),
                     'plants': (lambda genus, species: '%s_%s' % (genus[:3].lower(), species[:3].lower())),
@@ -30,16 +30,18 @@ slash_formats =     {
 ALL_SPP_IDS = dict()
 def new_spp_id(taxon, genus, species=None, subspecies=None):
     try:
-        sp2 = None
-        if '/' in species:
-            species, sp2 = species.split('/')
+        all_species = None
+        if species:
+            for delimiter in (' x ', ' X ', '/'):
+                if delimiter in species:
+                    all_species = species.split(delimiter)
         name = (genus, species, subspecies)
         if name in ALL_SPP_IDS:
             return ALL_SPP_IDS[name]
         if genus and not species:
             result = spuh_formats[taxon](genus)
-        elif species and sp2:
-            result = slash_formats[taxon](genus, species, sp2)
+        elif species and all_species:
+            result = slash_formats[taxon](genus, all_species)
         else:
             result = spp_id_formats[taxon](genus, species)
         n = 2
@@ -95,9 +97,11 @@ extra_steps = {
                'plants': [tnrs_lookup],
                }
 
-
-def tax_resolve(sci_name=None, com_name=None, taxon=None, known_species=None):
+def scientific_name(*args):
+    return ' '.join([s for s in args if s])
+def tax_resolve(genus, species, subspecies, com_name=None, taxon=None, known_species=None):
     if not known_species: known_species = []
+    sci_name = scientific_name(genus, species, subspecies)
     
     name = sci_name
     if sci_name:
