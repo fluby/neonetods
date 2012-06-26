@@ -15,6 +15,10 @@ ITIS_URL = 'http://www.itis.gov/'
 browser = spynner.Browser()
 
 def itis_lookup(name, TIMEOUT=30):
+    if name in itis_cache:
+        print "==> itis",
+        return itis_cache[name]
+
     success = browser.load(ITIS_URL)
     if not success: raise Exception('ITIS failed to load.')
 
@@ -33,13 +37,20 @@ def itis_lookup(name, TIMEOUT=30):
     # parse results to pull out unique species
     html = browser.html
     results = [s.tail for s in p(html)('td.body a')]
-    species = sum([re.findall('Species: [A-Z][a-z ]*', result) for result in results], [])
-    species = [s.split(':')[1].strip() for s in species]
+    results = sum([re.findall('Species: [A-Z][a-z ]*', result) for result in results], [])
+    results = [s.split(':')[1].strip() for s in results]
     
-    if species and len(species) == 1:
-        species = species[0]
+    if results:
+        genus = set()
+        all_species = []
+        for this_species in results:
+            genus.add(this_species.split()[0])
+            if len(genus) > 1: return False
+            all_species.append(' '.join(this_species.split()[1:]))
+        species = list(genus)[0] + ' ' + '/'.join(all_species)
         itis_cache[name] = species
         open('itis_cache.py', 'w').write('itis_cache = %s' % itis_cache)
+        print "==> itis",
         return species
 
     return False
