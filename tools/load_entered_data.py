@@ -6,7 +6,7 @@ from taxonomy_lookup_itis import itis_lookup
 
 
 species_lists = [
-                 ('mammals', '../data/sp_list_mammals.csv', [('../data/mammals.csv', 1, 3)]),
+                 ('mammals', '../data/sp_list_mammals.csv', [('../data/mammals.csv', 1, [(3, False), (11, True)])]),
                  ('birds', '../data/sp_list_birds.csv',     [('../data/ebird_tax_clean.csv', 0, [(1,False),(2,True)])]),
                  ('plants', '../data/sp_list_plants.csv',   [('../data/plants.csv', 2, 3)]),
                  ('inverts', '../data/sp_list_inverts.csv', [('../data/beetles.csv', 1, 3), 
@@ -71,9 +71,10 @@ for taxon, data_entry_file, spp_code_files in species_lists:
                     name_cols = [(sciname_col, False)]
                 for name_col, common in name_cols:
                     name = cols[name_col]
-                    if common: name = name.lower()
-                    spp_codes[name] = spp_code
-                    tax_resolve.ALL_SPP_IDS[name] = spp_code
+                    if name:
+                        if common: name = name.lower()
+                        spp_codes[name] = spp_code
+                        tax_resolve.ALL_SPP_IDS[name] = spp_code
         data_file.close()
     correct = 0
     unknown = 0
