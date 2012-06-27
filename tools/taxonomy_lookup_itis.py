@@ -1,6 +1,6 @@
 import sys
 reload(sys)
-sys.setdefaultencoding('utf8')
+sys.setdefaultencoding('latin1')
 import spynner
 import re
 from pyquery import PyQuery as p
@@ -23,12 +23,12 @@ def itis_lookup(name, TIMEOUT=30):
     if not success: raise Exception('ITIS failed to load.')
 
     # fill in search box and submit form
-    browser.fill('input#search', name)
+    browser.fill('input#search', name.decode())
     browser.runjs('doSubmit();')
 
     # wait for results to load
     waits = 0
-    while not 'results of' in browser.html.lower():
+    while not 'results of' in browser.html.lower() and not 'no data found' in browser.html.lower():
         browser.wait(1)
         waits += 1
         if waits >= TIMEOUT:
