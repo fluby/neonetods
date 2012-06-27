@@ -7,7 +7,7 @@ from taxonomy_lookup_itis import itis_lookup
 
 species_lists = [
                  ('mammals', '../data/sp_list_mammals.csv', [('../data/mammals.csv', 1, 3)]),
-                 ('birds', '../data/sp_list_birds.csv',     [('../data/ebird_tax_clean.csv', 0, [1,2])]),
+                 ('birds', '../data/sp_list_birds.csv',     [('../data/ebird_tax_clean.csv', 0, [(1,False),(2,True)])]),
                  ('plants', '../data/sp_list_plants.csv',   [('../data/plants.csv', 2, 3)]),
                  ('inverts', '../data/sp_list_inverts.csv', [('../data/beetles.csv', 1, 3), 
                                                              ('../data/mosquitoes.csv', 1, 3)]),
@@ -19,13 +19,15 @@ def get_spp_id(genus, species, subspecies, com_name, taxon, spp_code_dict):
     '''Get spp_id from spp_id dictionary. Returns: 
         a spp_id string if this is a known or unknown species,
         None if only an ambiguous common_name was given'''
+    try:
+        result = spp_code_dict[com_name.lower()]
+        return result
+    except KeyError: pass
     sci_name = tax_resolve.scientific_name(genus, species, subspecies)
     try:
         # return species id for species, if we have one
         return spp_code_dict[sci_name]
     except KeyError:
-        try: return spp_code_dict[com_name]
-        except KeyError: pass
         for delimiter in (' x ', ' X ', '/'):
             # hybrids and slashes
             if len(species.split(delimiter)) > 1:
@@ -66,11 +68,12 @@ for taxon, data_entry_file, spp_code_files in species_lists:
                 if isinstance(sciname_col, list):
                     name_cols = sciname_col
                 else:
-                    name_cols = [sciname_col]
-                for sciname_col in name_cols:
-                    sci_name = cols[sciname_col]
-                    spp_codes[sci_name] = spp_code
-                    tax_resolve.ALL_SPP_IDS[sci_name] = spp_code
+                    name_cols = [(sciname_col, False)]
+                for name_col, common in name_cols:
+                    name = cols[name_col]
+                    if common: name = name.lower()
+                    spp_codes[name] = spp_code
+                    tax_resolve.ALL_SPP_IDS[name] = spp_code
         data_file.close()
     correct = 0
     unknown = 0
