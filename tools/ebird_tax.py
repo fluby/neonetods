@@ -11,7 +11,7 @@ sheet = book.sheet_by_index(0)
 rows = sheet.nrows
 
 output = open(output_file, 'w')
-output.write('spp_id, scientific_name, common_name')
+output.write('spp_id,scientific_name,common_name')
 for i in range(1, rows):
     row = sheet.row(i)
     if row:

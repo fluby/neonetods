@@ -47,7 +47,7 @@ def itis_lookup(name, TIMEOUT=30):
             genus.add(this_species.split()[0])
             if len(genus) > 1: return False
             all_species.append(' '.join(this_species.split()[1:]))
-        species = list(genus)[0] + ' ' + '/'.join(all_species)
+        species = list(genus)[0] + ' ' + '/'.join(sorted(list(set(all_species))))
         itis_cache[name] = species
         open('itis_cache.py', 'w').write('itis_cache = %s' % itis_cache)
         print "==> itis",
