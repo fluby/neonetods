@@ -13,6 +13,35 @@ def get_mendeley_data(url):
     if data_doc['title'][-1] == '.': data_doc['title'] = data_doc['title'][:-1]
     
     return data_doc
+    
+    
+def get_source_data(url):
+    ''' resource_id  varchar(255)    NOT NULL,
+        info_type    varchar(255),
+        file_type    varchar(255),
+        notes        text,
+        isbn         varchar(255),
+        author       varchar(255),
+        title        varchar(255),
+        journal      varchar(255),
+        volume       integer,
+        issue        integer,
+        pages        varchar(255),
+        year         integer,
+        url          varchar(255),
+        tags         varchar(255)'''
+    data_doc = get_mendeley_data(url)
+    
+    source_data = []
+    for key in ('', 'type', '', '', 'isbn', '', 'title', 'journal', 
+                'volume', 'issue', 'pages', 'year', 'website', ''):
+        try: source_data.append(str(data_doc[key]).replace('\\', ''))
+        except KeyError: source_data.append('')
+        
+    try: source_data[5] = author_name(data_doc['author'])
+    except: pass
+    
+    return source_data
 
 
 def author_name(author):
