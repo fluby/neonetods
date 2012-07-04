@@ -6,7 +6,7 @@
 DROP TABLE sources.sources CASCADE;
 CREATE TABLE sources.sources
 (
-   resource_id  varchar(255)    NOT NULL,
+   source_id    varchar(255)    NOT NULL,
    info_type    varchar(255),
    file_type    varchar(255),
    notes        text,
@@ -23,7 +23,7 @@ CREATE TABLE sources.sources
 );
 
 ALTER TABLE sources.sources
-   ADD CONSTRAINT sources_pkey PRIMARY KEY (resource_id);
+   ADD CONSTRAINT sources_pkey PRIMARY KEY (source_id);
    
 COMMENT ON TABLE sources.sources IS 'all sources should also be stored in Mendeley';
 SET search_path TO sources;
