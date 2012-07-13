@@ -39,8 +39,8 @@ def get_mendeley_data(url, email=None, password=None):
     
     tags = p.PyQuery(html)('div.tags-list')
     if tags:
-        data_doc['tags'] = [a.text for a in tags.find('a')]
-    else: data_doc['tags'] = []
+        data_doc['tags'] = ','.join(a.text for a in tags.find('a'))
+    else: data_doc['tags'] = ''
 
     mendeley_cache[url] = data_doc
     output = open('mendeley_cache.py', 'w')
@@ -50,7 +50,7 @@ def get_mendeley_data(url, email=None, password=None):
     return data_doc
     
     
-def get_source_data(url):
+def get_source_data(url, email=None, password=None):
     ''' resource_id  varchar(255)    NOT NULL,
         info_type    varchar(255),
         file_type    varchar(255),
@@ -65,18 +65,19 @@ def get_source_data(url):
         year         integer,
         url          varchar(255),
         tags         varchar(255)'''
-    data_doc = get_mendeley_data(url)
+    data_doc = get_mendeley_data(url, email, password)
     
     source_data = []
     for key in ('', 'type', '', '', 'isbn', '', 'title', 'journal', 
-                'volume', 'issue', 'pages', 'year', 'website', ''):
+                'volume', 'issue', 'pages', 'year', 'website', 'tags'):
         try: source_data.append(str(data_doc[key]).replace('\\', ''))
         except KeyError: source_data.append('')
         
+    source_data[0] = url
     try: source_data[5] = author_name(data_doc['author'])
     except: pass
     
-    return source_data
+    return ','.join(source_data)
 
 
 def author_name(author):

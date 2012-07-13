@@ -2,7 +2,13 @@ import sys
 reload(sys)
 sys.setdefaultencoding('latin1')
 import tax_resolve
+import getpass
 from taxonomy_lookup_itis import itis_lookup
+
+if len(sys.argv) > 1: email = sys.argv[1]
+else: email = raw_input('mendeley email: ')
+if len(sys.argv) > 2: email = sys.argv[2]
+else: password = getpass.getpass('mendeley password: ')
 
 
 species_lists = [
@@ -15,6 +21,7 @@ species_lists = [
                  ]
 
 species_list_data = {}
+sources = []
 for tax, _, _ in species_lists:
     species_list_data[tax] = [('source_id','site_id','spp_id','resource_id_status','status')]
 
@@ -104,7 +111,8 @@ def main():
                     if spp_id: 
                         correct += 1
                         print '->', spp_id
-                        species_list_data[taxon].append(('', site, spp_id, '', ''))
+                        sources.append(source)
+                        species_list_data[taxon].append((source, site, spp_id, '', ''))
                         taxonomy_info[spp_id] = (taxon, spp_id, '', '', genus, '', sp, subsp, '', '', '', common_name)
                     else:
                         unknown += 1
@@ -129,6 +137,10 @@ def main():
                     tax_file.write('\n' + ','.join(taxonomy_info[spp_id]))
                 except KeyError: pass
         tax_file.close()
+
+    for source_url in sources:
+        source_data = get_source_data(source_url, email, password)
+        
         
         
 if __name__ == '__main__':
