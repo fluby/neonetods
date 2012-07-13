@@ -138,8 +138,12 @@ def main():
                 except KeyError: pass
         tax_file.close()
 
+    source_file = open('sources.sources.csv', 'w')
+    source_file.write('source_id,info_type,file_type,notes,isbn,author,title,journal,volume,issue,pages,year,url,tags')
     for source_url in sources:
         source_data = get_source_data(source_url, email, password)
+        source_file.write('\n%s' % source_data)
+    source_file.close()
         
         
         
