@@ -1,4 +1,10 @@
+import sys
 from entered_data import *
+
+if len(sys.argv) > 1: email = sys.argv[1]
+else: email = raw_input('mendeley email: ')
+if len(sys.argv) > 2: email = sys.argv[2]
+else: password = getpass.getpass('mendeley password: ')
 
 
 def main():

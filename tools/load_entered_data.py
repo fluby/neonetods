@@ -5,11 +5,6 @@ import tax_resolve
 import getpass
 from taxonomy_lookup_itis import itis_lookup
 
-if len(sys.argv) > 1: email = sys.argv[1]
-else: email = raw_input('mendeley email: ')
-if len(sys.argv) > 2: email = sys.argv[2]
-else: password = getpass.getpass('mendeley password: ')
-
 
 species_lists = [
                  ('mammals', '../data/sp_list_mammals.csv', [('../data/mammals.csv', 1, [(3, False), (11, True)])]),
