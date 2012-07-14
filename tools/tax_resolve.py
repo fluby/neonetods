@@ -86,8 +86,8 @@ def tax_resolve_fuzzy(sci_name, synonyms=None, known_species=None, fuzzy=True, s
     all_taxes = synonyms.keys() + synonyms.values() + known_species
     scores = sorted([(key, difflib.SequenceMatcher(None, sci_name.lower(), key.lower()).ratio()) for key in all_taxes],
                      key=lambda s: s[1], reverse=True)
-    top_score = scores[0]
-    if top_score[1] >= sensitivity:  
+    if scores and scores[0][1] >= sensitivity:  
+        top_score = scores[0]
         result = synonyms[top_score[0]] if top_score[0] in synonyms.keys() else top_score[0]
     else:
         result = sci_name
@@ -131,6 +131,13 @@ def tax_resolve(genus, species, subspecies, com_name=None, taxon=None, known_spe
         for step in steps:
             name = step(name)
 
-    name = ' '.join(name.replace('var.', '').replace('subsp.', '').split())
+    if name: name = ' '.join(name.replace('var.', '').replace('subsp.', '').split())
 
     return name
+
+
+if __name__ == '__main__':
+    name = raw_input('species name: ').split()
+    taxon = raw_input('taxon (mammals, plants, inverts): ')
+    while len(name) < 3: name += (None,)
+    print tax_resolve(*name, taxon=taxon)
