@@ -15,6 +15,7 @@ ITIS_URL = 'http://www.itis.gov/'
 browser = spynner.Browser()
 
 def itis_lookup(name, TIMEOUT=30):
+    name = name.replace("'", '')
     if name in itis_cache:
         print "==> itis",
         return itis_cache[name]
