@@ -49,11 +49,15 @@ def itis_lookup(name, TIMEOUT=30):
             all_species.append(' '.join(this_species.split()[1:]))
         species = list(genus)[0] + ' ' + '/'.join(sorted(list(set(all_species))))
         itis_cache[name] = species
-        open('itis_cache.py', 'w').write('itis_cache = %s' % itis_cache)
         print "==> itis",
-        return species
+    else:
+        itis_cache[name] = False
 
-    return False
+    output = open('itis_cache.py', 'w')
+    output.write('itis_cache = %s' % itis_cache)
+    output.close()
+
+    return itis_cache[name]
 
 if __name__=='__main__':
     print itis_lookup('sparrowhawk')
