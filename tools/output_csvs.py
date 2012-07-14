@@ -1,9 +1,11 @@
 import sys
 from entered_data import *
+import getpass
+from get_mendeley_data import get_source_data
 
 if len(sys.argv) > 1: email = sys.argv[1]
 else: email = raw_input('mendeley email: ')
-if len(sys.argv) > 2: email = sys.argv[2]
+if len(sys.argv) > 2: password = sys.argv[2]
 else: password = getpass.getpass('mendeley password: ')
 
 
@@ -29,6 +31,7 @@ def main():
     source_file = open('sources.sources.csv', 'w')
     source_file.write('source_id,info_type,file_type,notes,isbn,author,title,journal,volume,issue,pages,year,url,tags')
     for source_url in sources:
+        print source_url
         source_data = get_source_data(source_url, email, password)
         source_file.write('\n%s' % source_data)
     source_file.close()
