@@ -15,11 +15,6 @@ species_lists = [
                  #herps
                  ]
 
-species_list_data = {}
-sources = []
-for tax, _, _ in species_lists:
-    species_list_data[tax] = [('source_id','site_id','spp_id','resource_id_status','status')]
-
 def get_spp_id(genus, species, subspecies, com_name, taxon, spp_code_dict):
     '''Get spp_id from spp_id dictionary. Returns: 
         a spp_id string if this is a known or unknown species,
@@ -60,6 +55,14 @@ def get_spp_id(genus, species, subspecies, com_name, taxon, spp_code_dict):
                  
                  
 def main():
+    species_list_data = {}
+    taxonomy_info = {}
+    sources = []
+    unknowns = []
+
+    for tax, _, _ in species_lists:
+        species_list_data[tax] = [('source_id','site_id','spp_id','resource_id_status','status')]
+
     # run through all entered data, generate a species id, and output 
     # species lists and taxonomies into CSV files
     for taxon, data_entry_file, spp_code_files in species_lists:
@@ -89,8 +92,6 @@ def main():
         correct = 0
         unknown = 0
 
-        taxonomy_info = {}
-
         # parse entered data
         data_file = open(data_entry_file, 'r')
         data = data_file.read().replace('\r', '\n')
@@ -111,6 +112,7 @@ def main():
                         taxonomy_info[spp_id] = (taxon, spp_id, '', '', genus, '', sp, subsp, '', '', '', common_name)
                     else:
                         unknown += 1
+                        unknowns.append(line)
                         print '**UNKNOWN**'
                 #except KeyboardInterrupt: raise
                 except Exception as e: print line, e; unknown += 1
@@ -118,7 +120,7 @@ def main():
 
     # output parsed data to separate file
     output_file = open('entered_data.py', 'w')
-    data = '\n'.join(['%s = %s' % (var, locals()[var]) for var in ('species_list_data', 'taxonomy_info', 'sources')])
+    data = '\n'.join(['%s = %s' % (var, locals()[var]) for var in ('species_list_data', 'taxonomy_info', 'sources', 'unknowns')])
     output_file.write(data)
     output_file.close()
 
