@@ -131,7 +131,10 @@ def tax_resolve(genus, species, subspecies, com_name=None, taxon=None, known_spe
         for step in steps:
             name = step(name)
 
-    if name: name = ' '.join(name.replace('var.', '').replace('subsp.', '').split())
+    if name: 
+        for word in ('var.', 'subsp.', 'fo.'):
+            name = name.replace(word, '')
+        name = ' '.join(name.split())
 
     return name
 
