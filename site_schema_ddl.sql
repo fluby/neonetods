@@ -40,8 +40,6 @@ COMMENT ON COLUMN site_info_v11.latitude IS 'in decimal degrees';
 COMMENT ON COLUMN site_info_v11.longitude IS 'in decimal degrees';
 COMMENT ON COLUMN site_info_v11.source IS 'source of coordinates';
 
----TO DO: Spatial extents of sites - corner coordinates, size in square kms?
-
 COMMIT;
 
 ------------------------------------------------------------------------------

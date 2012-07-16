@@ -12,8 +12,6 @@ CREATE TABLE species_lists.species_lists
    source_id  				 varchar(255)    NOT NULL,
    site_id                   char(4)         NOT NULL,
    spp_id                    varchar(255)    NOT NULL,
-   resource_id_status        varchar(255),
-   status                    varchar(255)
 );
 
 ALTER TABLE species_lists.species_lists
@@ -29,21 +27,6 @@ COMMIT;
 
 ---------------------------------------------------------------------------------------------------
 
-DROP TABLE species_lists.spatial_info CASCADE;
-CREATE TABLE species_lists.spatial_info
-(
-   source_id  				 varchar(255)    NOT NULL,
-   spatial_scale             varchar(255),
-   spatial_extent            numeric
-);
-
-ALTER TABLE species_lists.spatial_info
-   ADD CONSTRAINT spatial_info_pkey PRIMARY KEY (source_id);
-
-COMMIT;
-
------------------------------------------------------------------------------------------------------
-
 DROP TABLE species_lists.herps_species_lists CASCADE;
 CREATE TABLE species_lists.herps_species_lists
 (
@@ -53,8 +36,6 @@ CREATE TABLE species_lists.herps_species_lists
    family                    varchar(255),
    species                   varchar(255)    NOT NULL,
    common_name               varchar(255),
-   resource_id_status        varchar(255),
-   status                    varchar(255)
 );
 
 ALTER TABLE species_lists.herps_species_lists
