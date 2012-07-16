@@ -61,7 +61,7 @@ def main():
     unknowns = []
 
     for tax, _, _ in species_lists:
-        species_list_data[tax] = [('source_id','site_id','spp_id','resource_id_status','status')]
+        species_list_data[tax] = [('source_id','site_id','spp_id')]
 
     # run through all entered data, generate a species id, and output 
     # species lists and taxonomies into CSV files
@@ -108,8 +108,9 @@ def main():
                         correct += 1
                         print '->', spp_id
                         sources.append(source)
-                        species_list_data[taxon].append((source, site, spp_id, '', ''))
-                        taxonomy_info[spp_id] = (taxon, spp_id, '', '', genus, '', sp, subsp, '', '', '', common_name)
+                        species_list_data[taxon].append((source, site, spp_id))
+                        sci_name = ' '.join([n for n in (genus, sp, subsp) if n])
+                        taxonomy_info[spp_id] = (taxon, spp_id, '', sci_name, genus, '', sp, subsp, '', '', '', common_name)
                     else:
                         unknown += 1
                         unknowns.append(line)
