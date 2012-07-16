@@ -11,7 +11,7 @@ CREATE TABLE species_lists.species_lists
 (
    source_id  				 varchar(255)    NOT NULL,
    site_id                   char(4)         NOT NULL,
-   spp_id                    varchar(255)    NOT NULL,
+   spp_id                    varchar(255)    NOT NULL
 );
 
 ALTER TABLE species_lists.species_lists
@@ -35,7 +35,7 @@ CREATE TABLE species_lists.herps_species_lists
    order_name                varchar(255),
    family                    varchar(255),
    species                   varchar(255)    NOT NULL,
-   common_name               varchar(255),
+   common_name               varchar(255)
 );
 
 ALTER TABLE species_lists.herps_species_lists
@@ -57,7 +57,7 @@ CREATE TABLE species_lists.status
    spp_id  				varchar(255)    NOT NULL,
    state                varchar(255)    NOT NULL,
    status               varchar(255),
-   notes                varchar(255),
+   notes                varchar(255)
 );
 
 ALTER TABLE species_lists.status
