@@ -48,3 +48,19 @@ ALTER TABLE species_lists.herps_species_lists
    ON DELETE NO ACTION;
 
 COMMIT;
+
+---------------------------------------------------------------------------------------------------
+
+DROP TABLE species_lists.status CASCADE;
+CREATE TABLE species_lists.status
+(
+   spp_id  				varchar(255)    NOT NULL,
+   state                varchar(255)    NOT NULL,
+   status               varchar(255),
+   notes                varchar(255),
+);
+
+ALTER TABLE species_lists.status
+   ADD CONSTRAINT status_pkey PRIMARY KEY (spp_id, state);
+
+COMMIT;
