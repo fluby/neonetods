@@ -1,8 +1,9 @@
+--CREATE SCHEMA site_data;
 --DoDoBASE: SITE DATA SCHEMA--
  
 ---Site Info Table
 ---provided by NEON EHS, versioning from EHS
-DROP TABLE site_data.site_info_v11 CASCADE;
+DROP TABLE IF EXISTS site_data.site_info_v11 CASCADE;
 CREATE TABLE site_data.site_info_v11
 (
    domain_number                     varchar(255),
@@ -21,7 +22,7 @@ CREATE TABLE site_data.site_info_v11
    state                             varchar(255),
    county                            varchar(255),
    nearest_city                      varchar(255),
-   distance_to_city_mi       				 numeric,
+   distance_to_city_mi       				 numeric null,
    existing_infrastructure  				 varchar(255),
    website                           varchar(255),
    additional_website                varchar(255)
@@ -45,7 +46,7 @@ COMMIT;
 ------------------------------------------------------------------------------
 --Site Personnel table
 --TO DO: ultimately merge with Mel's table of DSECC and collections folk
-DROP TABLE site_data.site_personnel CASCADE;
+DROP TABLE IF EXISTS site_data.site_personnel CASCADE;
 CREATE TABLE site_data.site_personnel
 (
    site_id        varchar(255)    NOT NULL,

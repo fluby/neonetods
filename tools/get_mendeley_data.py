@@ -69,7 +69,8 @@ def get_source_data(url, email=None, password=None):
     
     source_data = []
     for key in ('', 'type', '', '', 'isbn', '', 'title', 'journal', 
-                'volume', 'issue', 'pages', 'year', 'website', 'tags'):
+                'volume', 'issue', 'pages', 'year', 'website', 'tags', 
+                'spat_scale', 'spat_extent'):
         try: source_data.append(str(data_doc[key]).replace('\\', ''))
         except KeyError: source_data.append('')
         
@@ -77,7 +78,7 @@ def get_source_data(url, email=None, password=None):
     try: source_data[5] = author_name(data_doc['author'])
     except: pass
     
-    return ','.join(source_data)
+    return ','.join(('"%s"' % source if source else '') for source in source_data)
 
 
 def author_name(author):

@@ -1,9 +1,10 @@
+--CREATE SCHEMA sources;
 --DoDoBASE: SOURCES SCHEMA--
 
 ---Master Sources Table to which many other schemas reference 
 ---all sources should also be stored in Mendeley
 
-DROP TABLE sources.sources CASCADE;
+DROP TABLE IF EXISTS sources.sources CASCADE;
 CREATE TABLE sources.sources
 (
    source_id    varchar(255)    NOT NULL,
@@ -14,10 +15,10 @@ CREATE TABLE sources.sources
    author       varchar(255),
    title        varchar(255),
    journal      varchar(255),
-   volume       integer,
-   issue        integer,
+   volume       varchar(255),
+   issue        varchar(255),
    pages        varchar(255),
-   year         integer,
+   year         integer null,
    url          varchar(255),
    tags         varchar(255),
    spat_scale   varchar(255),

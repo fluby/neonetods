@@ -1,3 +1,4 @@
+--CREATE SCHEMA species_lists;
 --DoDoBASE: SPECIES LISTS SCHEMA--
 
 ---Species Lists Table
@@ -6,7 +7,7 @@
 ---conservation status is included here, because status can vary across the geographical range of a species
 ---status should include state and federal listings
 
-DROP TABLE species_lists.species_lists CASCADE;
+DROP TABLE IF EXISTS species_lists.species_lists CASCADE;
 CREATE TABLE species_lists.species_lists
 (
    source_id  				 varchar(255)    NOT NULL,
@@ -27,7 +28,7 @@ COMMIT;
 
 ---------------------------------------------------------------------------------------------------
 
-DROP TABLE species_lists.herps_species_lists CASCADE;
+DROP TABLE IF EXISTS species_lists.herps_species_lists CASCADE;
 CREATE TABLE species_lists.herps_species_lists
 (
    source_id  				 varchar(255)    NOT NULL,
@@ -51,7 +52,7 @@ COMMIT;
 
 ---------------------------------------------------------------------------------------------------
 
-DROP TABLE species_lists.status CASCADE;
+DROP TABLE IF EXISTS species_lists.status CASCADE;
 CREATE TABLE species_lists.status
 (
    spp_id  				varchar(255)    NOT NULL,

@@ -1,3 +1,4 @@
+--CREATE SCHEMA taxonomy;
 --DoDoBASE: TAXONOMY SCHEMA--
 
 ---High Level Taxonomy table
@@ -6,7 +7,7 @@
 ---minimum reqs: kingdom, phylum, class, order_name, family, genus
 ---order has the field name of order_name to avoid confusion with SQL function
 
-DROP TABLE taxonomy.high_level CASCADE;
+DROP TABLE IF EXISTS taxonomy.high_level CASCADE;
 CREATE TABLE taxonomy.high_level
 (
    taxon_id                         varchar(255)     NOT NULL,
@@ -40,7 +41,7 @@ COMMIT;
 ---the only discrepancy is the inclusion of Microtus mogollonensis
 ---itis numbers still need to be filled in
 
-DROP TABLE taxonomy.mammals CASCADE;
+DROP TABLE IF EXISTS taxonomy.mammals CASCADE;
 CREATE TABLE taxonomy.mammals
 (
    taxon_id         varchar(255),
@@ -59,11 +60,11 @@ CREATE TABLE taxonomy.mammals
 ALTER TABLE taxonomy.mammals
    ADD CONSTRAINT mammals_pkey PRIMARY KEY (spp_id);
 
-ALTER TABLE taxonomy.mammals
+/*ALTER TABLE taxonomy.mammals
   ADD CONSTRAINT mammals_taxon_id_fkey FOREIGN KEY (taxon_id, genus)
   REFERENCES taxonomy.high_level (taxon_id,genus)
    ON UPDATE NO ACTION
-   ON DELETE NO ACTION;
+   ON DELETE NO ACTION;*/
 
 COMMENT ON TABLE taxonomy.mammals IS 'based on Wilson and Reeder, 2005';
 SET search_path TO taxonomy;
@@ -71,12 +72,33 @@ COMMENT ON COLUMN mammals.itis_number IS 'Integrated Taxonomic Information Syste
 
 COMMIT;
 ------------------------------------------------------------------------
+---Bird taxonomy
+---based on eBird
+---More notes
+
+DROP TABLE IF EXISTS taxonomy.birds CASCADE;
+CREATE TABLE taxonomy.birds
+(
+   taxon_id         varchar(255),
+   spp_id           varchar(255)     NOT NULL,
+   resource_id      varchar(255),
+   scientific_name  varchar(255),
+   genus            varchar(255),
+   subgenus         varchar(255),
+   species          varchar(255),
+   subspecies       varchar(255),
+   authority_name   varchar(255),
+   authority_year   numeric,
+   itis_number      numeric,
+   common_name      varchar(255)
+);
+------------------------------------------------------------------------
 ---Beetle taxonomy
 ---based on XXX
 ---More notes
 
-DROP TABLE taxonomy.beetles CASCADE;
-CREATE TABLE taxonomy.beetles
+DROP TABLE IF EXISTS taxonomy.inverts CASCADE;
+CREATE TABLE taxonomy.inverts
 (
    taxon_id         varchar(255),
    spp_id           varchar(255)     NOT NULL,
@@ -92,56 +114,21 @@ CREATE TABLE taxonomy.beetles
    common_name      varchar(255)
 );
 
-ALTER TABLE taxonomy.beetles
-   ADD CONSTRAINT beetles_pkey PRIMARY KEY (spp_id);
+/*ALTER TABLE taxonomy.inverts
+   ADD CONSTRAINT inverts_pkey PRIMARY KEY (spp_id);*/
    
 SET search_path TO taxonomy;
-COMMENT ON COLUMN beetles.itis_number IS 'Integrated Taxonomic Information System';
+COMMENT ON COLUMN inverts.itis_number IS 'Integrated Taxonomic Information System';
    
 ---beetles requires foreign key, but there are multiple genera in the beetles 
 ---table that does not appear in the high level table - RESOLUTION needed
 
 COMMIT;
-------------------------------------------------------------------------
----Mosquito taxonomy
----based on XXX
----More notes
-
-DROP TABLE taxonomy.mosquitoes CASCADE;
-CREATE TABLE taxonomy.mosquitoes
-(
-   taxon_id         varchar(255),
-   spp_id           varchar(255)     NOT NULL,
-   resource_id      varchar(255),
-   scientific_name  varchar(255),
-   genus            varchar(255),
-   subgenus         varchar(255),
-   species          varchar(255),
-   subspecies       varchar(255),
-   authority_name   varchar(255),
-   authority_year   numeric,
-   itis_number      numeric,
-   common_name      varchar(255)
-);
-ALTER TABLE taxonomy.mosquitoes
-   ADD CONSTRAINT mosquitoes_pkey PRIMARY KEY (spp_id);
-   
-ALTER TABLE taxonomy.mosquitoes
-  ADD CONSTRAINT mosquitoes_taxon_id_fkey FOREIGN KEY (taxon_id, genus)
-  REFERENCES taxonomy.high_level (taxon_id,genus)
-   ON UPDATE NO ACTION
-   ON DELETE NO ACTION;
-
-SET search_path TO taxonomy;
-COMMENT ON COLUMN mosquitoes.itis_number IS 'Integrated Taxonomic Information System';
-
-COMMIT;
-
 ----------------------------------------------------------------------------
 ---Plant taxonomy table
 ---from USDA plants (plants.gov)
 
-DROP TABLE taxonomy.plants CASCADE;
+DROP TABLE IF EXISTS taxonomy.plants CASCADE;
 CREATE TABLE taxonomy.plants
 (
    taxon_id                   varchar(255),
@@ -168,11 +155,11 @@ CREATE TABLE taxonomy.plants
 ALTER TABLE taxonomy.plants
    ADD CONSTRAINT plants_pkey PRIMARY KEY (spp_id);
    
-ALTER TABLE taxonomy.plants
+/*ALTER TABLE taxonomy.plants
   ADD CONSTRAINT plants_taxon_id_fkey FOREIGN KEY (taxon_id, genus)
   REFERENCES taxonomy.high_level (taxon_id,genus)
    ON UPDATE NO ACTION
-   ON DELETE NO ACTION;
+   ON DELETE NO ACTION;*/
    
 COMMENT ON TABLE taxonomy.plants IS 'from USDA plants (plants.gov)';
 SET search_path TO taxonomy;
