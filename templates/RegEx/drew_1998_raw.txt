@@ -87,7 +87,7 @@ Carex gigantea Rudge-K-2357;          0; 1,8; P; (THORNE-
 Carex glaucescens Ell.-K-3064; 0; 1,7,8; P; (THORNE-
         1595)
 Carex intumescens Rudge-K-1990; 0; 1,8; P; (*)
-Carexjoorii Bailey-K-3109; 0; 1,8; P; (*)
+Carex joorii Bailey-K-3109; 0; 1,8; P; (*)
 Carex louisianica Bailey-K-2964; U; 1; P; (*)
 Carex physorhyncha Liebm.-K-2816; U; 1; P; (*)
 Carex reniformis (Bailey) Small-G-11,609; U; 1; P; (*)
@@ -111,7 +111,7 @@ Rhynchospora perplexa Britt. ex Small -K-3116; 0; 2,7; P;
         (THORNE-4889)
 Rhynchospora pleiantha (Kukenth.) Gale-K-3476; U; 7;
         P; (*)
-Rhync,"ospora plumosa Ell.-K-2255; U; 2; P; (THORNE-
+Rhynchospora plumosa Ell.-K-2255; U; 2; P; (THORNE-
         4835)
 Rhynchospora pusilla Chapm.-K-3503; 0; 7; P; (*)
 Rhynchospora rariflora (Michx.) Ell.-K-2611; U; 7,8; P;
