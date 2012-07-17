@@ -1,3 +1,4 @@
+ ======= HEAD,,
 conflict,resolution,example
 old,data,1
 old,data,2
@@ -10,6 +11,10 @@ old,data,8
 old,data,9
 old,data,10
 old,data,11
+<<<<<<<,,
 Eugene,Odum,1
 Eugene,Odum,2
 Eugene,Odum,3
+>>>>>>> 6c805a069f0fc7686d8823f1a457ec606d05280e,,
+Robert,MacArthur,1
+Robert,MacArthur,2

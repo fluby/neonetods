@@ -1,9 +1,10 @@
+--CREATE SCHEMA sources;
 --DoDoBASE: SOURCES SCHEMA--
 
 ---Master Sources Table to which many other schemas reference 
 ---all sources should also be stored in Mendeley
 
-DROP TABLE sources.sources CASCADE;
+DROP TABLE IF EXISTS sources.sources CASCADE;
 CREATE TABLE sources.sources
 (
    source_id    varchar(255)    NOT NULL,
@@ -14,12 +15,14 @@ CREATE TABLE sources.sources
    author       varchar(255),
    title        varchar(255),
    journal      varchar(255),
-   volume       integer,
-   issue        integer,
+   volume       varchar(255),
+   issue        varchar(255),
    pages        varchar(255),
-   year         integer,
+   year         integer null,
    url          varchar(255),
-   tags         varchar(255)
+   tags         varchar(255),
+   spat_scale   varchar(255),
+   spat_extent  varchar(255)
 );
 
 ALTER TABLE sources.sources
@@ -31,21 +34,3 @@ COMMENT ON COLUMN sources.info_type IS 'e.g., taxonomic reference, dataset, spec
 COMMENT ON COLUMN sources.tags IS 'all Mendeley tags (see NEON-provided list) in one column, separated by semi-colons';
 
 COMMIT;
-
----------------------------------------------------------------------
----Mendeley Tags Table 
----controlled list of tags for sources in Mendeley and in the sources table
-
-DROP TABLE sources.mendeley_tags CASCADE;
-CREATE TABLE sources.mendeley_tags
-(
-   domain_number    varchar(255),
-   site_id          varchar(4),
-   taxon            varchar(255),
-   additional_tags  varchar(255),
-   habitat          varchar(255),
-   info_type        varchar(255)
-);
-
-COMMIT;
-------------------------------------------------------------------------

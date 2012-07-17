@@ -2,6 +2,7 @@ import sys
 reload(sys)
 sys.setdefaultencoding('latin1')
 import tax_resolve
+import getpass
 from taxonomy_lookup_itis import itis_lookup
 
 
@@ -13,10 +14,6 @@ species_lists = [
                                                              ('../data/mosquitoes.csv', 1, 3)]),
                  #herps
                  ]
-
-species_list_data = {}
-for tax, _, _ in species_lists:
-    species_list_data[tax] = [('source_id','site_id','spp_id','resource_id_status','status')]
 
 def get_spp_id(genus, species, subspecies, com_name, taxon, spp_code_dict):
     '''Get spp_id from spp_id dictionary. Returns: 
@@ -58,6 +55,14 @@ def get_spp_id(genus, species, subspecies, com_name, taxon, spp_code_dict):
                  
                  
 def main():
+    species_list_data = {}
+    taxonomy_info = {}
+    sources = []
+    unknowns = []
+
+    for tax, _, _ in species_lists:
+        species_list_data[tax] = [('source_id','site_id','spp_id')]
+
     # run through all entered data, generate a species id, and output 
     # species lists and taxonomies into CSV files
     for taxon, data_entry_file, spp_code_files in species_lists:
@@ -87,8 +92,6 @@ def main():
         correct = 0
         unknown = 0
 
-        taxonomy_info = {}
-
         # parse entered data
         data_file = open(data_entry_file, 'r')
         data = data_file.read().replace('\r', '\n')
@@ -104,32 +107,24 @@ def main():
                     if spp_id: 
                         correct += 1
                         print '->', spp_id
-                        species_list_data[taxon].append(('', site, spp_id, '', ''))
-                        taxonomy_info[spp_id] = (taxon, spp_id, '', '', genus, '', sp, subsp, '', '', '', common_name)
+                        sources.append(source)
+                        species_list_data[taxon].append((source, site, spp_id))
+                        sci_name = ' '.join([n for n in (genus, sp, subsp) if n])
+                        taxonomy_info[spp_id] = (taxon, spp_id, '', sci_name, genus, '', sp, subsp, '', '', '', common_name)
                     else:
                         unknown += 1
+                        unknowns.append(line)
                         print '**UNKNOWN**'
                 #except KeyboardInterrupt: raise
                 except Exception as e: print line, e; unknown += 1
         print '%s: Correct: %s; Unknown: %s (%s)' % (taxon, correct, unknown, correct / float(correct + unknown))
 
-        # generate species list
-        new_file = open('species_lists.%s.csv' % taxon, 'w')
-        new_file.write('\n'.join(','.join(str(cell) for cell in line) for line in species_list_data[taxon]))
-        new_file.close()
-        
-        # generate complete taxonomy
-        tax_done = set()
-        tax_file = open('taxonomy.%s.csv' % taxon, 'w')
-        tax_file.write('taxon_id,spp_id,resource_id,scientific_name,genus,subgenus,species,subspecies,authority_name,authority_year,itis_number,common_name')
-        for _, _, spp_id, _, _ in species_list_data[taxon][1:]:
-            if not spp_id in tax_done:
-                try:
-                    tax_done.add(spp_id)
-                    tax_file.write('\n' + ','.join(taxonomy_info[spp_id]))
-                except KeyError: pass
-        tax_file.close()
-        
+    # output parsed data to separate file
+    output_file = open('entered_data.py', 'w')
+    data = '\n'.join(['%s = %s' % (var, locals()[var]) for var in ('species_list_data', 'taxonomy_info', 'sources', 'unknowns')])
+    output_file.write(data)
+    output_file.close()
+
         
 if __name__ == '__main__':
     main()

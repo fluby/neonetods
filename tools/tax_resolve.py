@@ -1,6 +1,8 @@
 import difflib
 from taxonomy_lookup_tnrs import tnrs_lookup
 from taxonomy_lookup_itis import itis_lookup
+try: from fuzzy_cache import fuzzy_cache
+except: fuzzy_cache = {}
 
 
 # generate new spp_id when scientific name is not present in taxonomy tables
@@ -74,16 +76,25 @@ def get_synonyms(input_files, wrong_col=0, right_col=1):
 def tax_resolve_fuzzy(sci_name, synonyms=None, known_species=None, fuzzy=True, sensitivity=0.9):    
     """Performs fuzzy matching on a species name to determine whether it is in a list of synonyms or known species."""
     try: return synonyms[sci_name]
-    except:
-        if not fuzzy: return sci_name
-        if not known_species: known_species = []
-        if not synonyms: synonyms = {}
-        all_taxes = synonyms.keys() + synonyms.values() + known_species
-        scores = sorted([(key, difflib.SequenceMatcher(None, sci_name.lower(), key.lower()).ratio()) for key in all_taxes],
-                         key=lambda s: s[1], reverse=True)
+    except:pass
+    try: return fuzzy_cache[sci_name]
+    except: pass
+
+    if not fuzzy: return sci_name
+    if not known_species: known_species = []
+    if not synonyms: synonyms = {}
+    all_taxes = synonyms.keys() + synonyms.values() + known_species
+    scores = sorted([(key, difflib.SequenceMatcher(None, sci_name.lower(), key.lower()).ratio()) for key in all_taxes],
+                     key=lambda s: s[1], reverse=True)
+    if scores and scores[0][1] >= sensitivity:  
         top_score = scores[0]
-        if top_score[1] >= sensitivity: return synonyms[top_score[0]] if top_score[0] in synonyms.keys() else top_score[0]
-        else: return sci_name
+        result = synonyms[top_score[0]] if top_score[0] in synonyms.keys() else top_score[0]
+    else:
+        result = sci_name
+    fuzzy_cache[sci_name] = result
+    output = open('fuzzy_cache.py', 'w')
+    output.write('fuzzy_cache = %s' % fuzzy_cache)
+    output.close()
 
 
 syns = {
@@ -119,5 +130,17 @@ def tax_resolve(genus, species, subspecies, com_name=None, taxon=None, known_spe
         steps = extra_steps[taxon]
         for step in steps:
             name = step(name)
-    
+
+    if name: 
+        for word in ('var.', 'subsp.', 'fo.'):
+            name = name.replace(word, '')
+        name = ' '.join(name.split())
+
     return name
+
+
+if __name__ == '__main__':
+    name = raw_input('species name: ').split()
+    taxon = raw_input('taxon (mammals, plants, inverts): ')
+    while len(name) < 3: name += (None,)
+    print tax_resolve(*name, taxon=taxon)
