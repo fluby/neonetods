@@ -32,6 +32,7 @@ tables = [
                                            'species_lists.birds.csv',
                                            'species_lists.inverts.csv',
                                            ]),
+          ('species_lists.status', ['../data/status.csv']),
           ]
 for table, files in tables:
     try:
