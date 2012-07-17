@@ -31,7 +31,7 @@ Thelypteris quadrangularis (Fee) Schelpe var. versicolor
 Woodwardia areolata (L.) Moore-K-3416; 0; 1,8; P; (*)
 
                     SCHIZAEACEAE
-Lygodiumjaponicum    (Thunb.) Sw.-K-2015;        U; 1,10; P;
+Lygodium japonicum    (Thunb.) Sw.-K-2015;        U; 1,10; P;
        (THORNE-7578)
 
 
@@ -1839,8 +1839,7 @@ Seymeria cassioides (Walt.) Blake-K-3173; C; 3,4,9; A;
       (THORNE-4860a)
 Seymeria pectinata Pursh-K-2533; 0; 3,4; A; (UGA)
 Veronica arvensis L.-K-2824; C; 10; A; (*)
-Veronica
-       peregrina L.-K-2973; U; 10; A; (THORNE-3577)
+Veronica peregrina L.-K-2973; U; 10; A; (THORNE-3577)
 
                      SOLANACEAE
 Physalis angulata L.-K-3310; 0; 3,4,9,10; A; (*)
