@@ -1356,7 +1356,7 @@ Conoclinium coelestinum (L.) DC.-K-2484; 0; 1,10; P;
 Conyza bonariensis (L.) Cronq.-K-3497; U; 10; A; (*)
 Conyza canadensis (L.) Cronq. var. pusilla (Nutt.)
         Cronq.-K-2450; 0; 10; A; (*)
-Conyza canadensis (L.) Cronq. var Canadensis-K-3029;
+Conyza canadensis (L.) Cronq. var. canadensis -K-3029;
         0; 9,10,11; A; (THORNE-5439)
 Coreopsis lanceolata L.-K-1981; C; 1,2,3,9; P; (*)
 Coreopsis major Walt.-K-3016; 0; 3; P; (*)
