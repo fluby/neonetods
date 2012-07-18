@@ -1,3 +1,4 @@
+site,genus,sp,subsp,common_name,source
 BLAN,Acer,barbatum,,Southern Sugar Maple,http://blandy.virginia.edu/arboretum/woody-plants-db
 BLAN,Acer,buergeranum,,Trident Maple,http://blandy.virginia.edu/arboretum/woody-plants-db
 BLAN,Acer,circinatum,,Vine Maple,http://blandy.virginia.edu/arboretum/woody-plants-db
@@ -10848,7 +10849,6 @@ SERC,Xanthium,strumarium,,rough cocklebur,http://www.mendeley.com/c/5004790452/g
 SERC,Yucca,filamentosa,,Adam's needle,http://www.mendeley.com/c/5004790452/g/2058663/oneill-2012-sercplantspecieslist/
 SERC,Zannichellia,palustris,,horned pondweed,http://www.mendeley.com/c/5004790452/g/2058663/oneill-2012-sercplantspecieslist/
 SERC,Zizia,aptera,,meadow zizia,http://www.mendeley.com/c/5004790452/g/2058663/oneill-2012-sercplantspecieslist/
-site,genus,sp,subsp,common_name,source
 SRER,Acacia,angustissima,,,http://www.mendeley.com/c/5026768682/g/2058663/plants-of-santa-rita-experimental-range-srer/
 SRER,Acacia,constricta,,,http://www.mendeley.com/c/5026768682/g/2058663/plants-of-santa-rita-experimental-range-srer/
 SRER,Acacia,greggii,,,http://www.mendeley.com/c/5026768682/g/2058663/plants-of-santa-rita-experimental-range-srer/
@@ -11485,6 +11485,7 @@ WOOD,Alisma,triviale,,water-plantain,http://www.mendeley.com/c/5007912492/g/2058
 WOOD,Sparganium,eurycarpum,,bur-reed,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
 WOOD,Sium,suave,,water parsnip,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
 WOOD,Glyceria,grandis,,tall mannagrass,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
+<<<<<<< HEAD,,,,,
 FEXF,Triglochin,maritimum,,,http://www.mendeley.com/c/5077848192/g/2058663/2012-romoplantscertifiedspecieslist/
 FEXF,Triglochin,palustre,,,http://www.mendeley.com/c/5077848192/g/2058663/2012-romoplantscertifiedspecieslist/
 FEXF,Potamogeton,alpinus,,,http://www.mendeley.com/c/5077848192/g/2058663/2012-romoplantscertifiedspecieslist/
