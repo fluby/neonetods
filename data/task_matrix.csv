@@ -33,7 +33,7 @@
 32,D05,STEI, , , , , , , , 
 33, ,TREE,"Waiting for reply from contact.  Have data on sensitive species for the site, can get common names only for some of the other species. -EB", , , , , , , 
 34, ,UNDE, , , , , , , , 
-35,D13,FEXF,Waiting on contact. - ZB, , , , , , , 
+35,D13,FEXF,Waiting on contact. - ZB,"off_site, species list complete - ZB","off_site, species list complete - ZB","off_site, species list complete - ZB","off_site, species list complete - ZB","off_site, species list complete - ZB", , 
 36, ,MOAB,super site complete. - XX,super site complete. - XX ,super site complete. - XX ,super site complete. - XX ,super site complete. - XX ,super site complete. - XX ,super site complete. - XX ,super site complete. - XX 
 37, ,NIWO,working on this site. - XX ,sp_list complete. - XX ,sp_list largely complete. - XX ,sp_list largely complete. - XX ,no records. - XX ,no records. - XX , , 
 38,D15,MURR,"Contact declined data. We'll use regional lists - ZB, KT", , , , , , , 
@@ -46,20 +46,20 @@
 44,D18,BASC,,,,,,,,
 45, ,TOOL,,,,,,,,
 46,D16,ABBY,,,,,,,,
-47, ,THAY,,,,,,,,
-48, ,WREF,,,,,,,,
-49,D12,BOZE,,,,,,,,
-50, ,LOLE,,,,,,,,
-51, ,YELL,,,,,,,,
-52,D17,PSRS,,,,,,,,
-53, ,SOAP,,,,,,,,
-54, ,TEAK,,,,,,,,
-55,D20,OLAA,,,,,,,,
-56, ,PUWI,,,,,,,,
-57, ,PUWU,,,,,,,,
-58,D06,KONA,,,,,,,,
-59,,KONZ,,,,,,,,
-60,,UKFS,,,,,,,,
-,,,,,,,,,,
-, ,,,,,,,,,
-, ,,,,,,,,,
+47, ,THAY
+48, ,WREF
+49,D12,BOZE
+50, ,LOLE
+51, ,YELL
+52,D17,PSRS
+53, ,SOAP
+54, ,TEAK
+55,D20,OLAA
+56, ,PUWI
+57, ,PUWU
+58,D06,KONA
+59,,KONZ
+60,,UKFS
+
+, ,
+, 
