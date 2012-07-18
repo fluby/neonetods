@@ -1,1414 +1,766 @@
 site,genus,sp,subsp,common_name,source
-
-JERC,Blarina,carolinensis,,Southern short-tailed shrew,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
-
-JERC,Cryptotis,parva,,least shrew,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
-
-JERC,Castor,canadensis,,beaver,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
-
-JERC,Geomys,pinetis,,Southeastern pocket gopher,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
-
-JERC,Glaucomys,volans,,Southern flying squirrel,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
-
-JERC,Microtus,pinetorum,,pine vole,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
-
-JERC,Mus,musculus,,house mouse,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
-
-JERC,Neotoma,floridana,,Eastern woodrat,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
-
-JERC,Ochrytomys,nuttalli,,golden mouse,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
-
-JERC,Oryzomys,palustris,,rice rat,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
-
-JERC,Peromyscus,gossypinus,,cotton mouse,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
-
-JERC,Peromyscus,polionotus,,oldfield mouse,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
-
-JERC,Rattus,norvegicus,,Norway rat,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
-
-JERC,Reithrodontomys,humulis,,harvest mouse,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
-
-JERC,Sciurus,carolinensis,,gray squirrel,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
-
-JERC,Sciurus,niger,shermani,Sherman's fox squirrel,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
-
-JERC,Sigmodon,hispidus,,cotton rat,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
-
-JERC,Tamias,striatus,,Eastern chipmunk,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
-
-JERC,Sylvilagus,floridanus,,cottontail rabbit,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
-
-JERC,Sylvilagus,palustris,,marsh rabbit,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
-
-JERC,Myotis,austroriparius,,Southeastern myotis,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
-
-JERC,Pipistrellus,subflavus,,Eastern pipistrelle,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
-
-JERC,Eptesicus,fuscus,,big brown bat,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
-
-JERC,Lasiurus,borealis,,red bat,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
-
-JERC,Lasiurus,seminolus,,seminole bat,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
-
-JERC,Nycticeius,humeralis,,evening bat,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
-
-JERC,Tadarida,brasiliensis,,Brazilian free-tailed bat,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
-
-JERC,Canis,familiaris,,domestic dog,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
-
-JERC,Canis,latrans,,coyote,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
-
-JERC,Felis,catus,,domestic cat,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
-
-JERC,Lutra,canadensis,,river otter,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
-
-JERC,Lynx,rufus,,bobcat,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
-
-JERC,Mephitis,mephitis,,striped skunk,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
-
-JERC,Mustela,vison,,mink,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
-
-JERC,Procyon,lotor,,raccoon,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
-
-JERC,Urocyon,cinereoargenteus,,gray fox,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
-
-JERC,Vulpes,vulpes,,red fox,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
-
-JERC,Odocoileus,virginianus,,white-tailed deer,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
-
-JERC,Sus,scrofa,,feral hog,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
-
-JERC,Dasypus,novemcinctus,,nine-banded armadillo,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
-
-JERC,Didelphis,virginiana,,opossum,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
-
-DSNY,,,,southeastern big-eared bat,http://www.mendeley.com/c/4955268692/g/2058663/the-nature-conservancy-2012-disney-wilderness-preserve---about/
-
-DSNY,,,,Sherman's fox squirrel,http://www.mendeley.com/c/4955268692/g/2058663/the-nature-conservancy-2012-disney-wilderness-preserve---about/
-
-OSBS,Didelphis,virginiana,pigra,Virginia opossum,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
-
-OSBS,Sorex,longirostris,longirostris,Southeastern shrew,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
-
-OSBS,Blarina,carolinensis,,Short-tailed shrew,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
-
-OSBS,Cryptotis,parva,floridana,Least shrew,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
-
-OSBS,Scalopus,aquaticus,australis,Southern mole,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
-
-OSBS,Lasiurus,intermedius,,Yellow bar,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
-
-OSBS,Nycticeius,humeralis,humeralis,Evening bat,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
-
-OSBS,Myotis,austroriparius,austroriparius,Southeastern bat,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
-
-OSBS,Dasypus,novemcinctus,mexicanus,Mexican nine-banded armadillo,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
-
-OSBS,Sylvilagus,palustris,paludicola,Marsh rabbit,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
-
-OSBS,Sylvilagus,floridanus,mallurus,Cottontail,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
-
-OSBS,Sciurus,carolinensis,carolinensis,Eastern gray squirrel,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
-
-OSBS,Sciurus,niger,shermani,Sherman's fox squirrel,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
-
-OSBS,Glaucomys,volans,querceti,Southern flying squirrel,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
-
-OSBS,Geomys,pinetis,floridanus,Florida pocket gopher,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
-
-OSBS,Castor,canadensis,carolinensis,Beaver,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
-
-OSBS,Peromyscus,polionotus,subgriseus,Old field mouse,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
-
-OSBS,Peromyscus,gossypinus,gossypinus,Cotton mouse,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
-
-OSBS,Podomys,floridanus,,Florida mouse,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
-
-OSBS,Ochrotomys,nuttalli,oreolis,Golden mouse,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
-
-OSBS,Sigmodon,hispidus,hispidus,Cotton rat,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
-
-OSBS,Oryzomys,palustris,natator,Rice rat,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
-
-OSBS,Neotoma,floridana,floridana,Florida wood rat,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
-
-OSBS,Neofiber,alleni,,Round-tailed muskrat,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
-
-OSBS,Vulpes,vulpes,,Red fox,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
-
-OSBS,Urocyon,cinereoargenteus,floridanus,Gray fox,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
-
-OSBS,Canis,familiaris,,Dog,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
-
-OSBS,Canis,latrans,frustror,Coyote,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
-
-OSBS,Procyon,lotor,elucus,Raccoon,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
-
-OSBS,Lutra,canadensis,vaga,Otter,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
-
-OSBS,Mephitis,mephitis,elongata,Striped skunk,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
-
-OSBS,Lynx,rufus,floridanus,Florida bobcat,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
-
-OSBS,Felis,sylvestris,catus,Domestic cat,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
-
-OSBS,Ursus,americanus,floridanus,Florida black bear,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
-
-OSBS,Odocoileus,virginiana,seminola,White-tailed deer,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
-
-JERC,Glaucomys,volans,,Southern flying squirrel,http://www.mendeley.com/c/4971280602/g/2058663/jerc-2012-jercpublications2003present/
-
-JERC,Lynx,rufus,,bobcat,http://www.mendeley.com/c/4971280602/g/2058663/jerc-2012-jercpublications2003present/
-
-JERC,Sciurus,niger,,fox squirrel,http://www.mendeley.com/c/4971280602/g/2058663/jerc-2012-jercpublications2003present/
-
-JERC,Sciurus,carolinensis,,gray squirrel,http://www.mendeley.com/c/4971280602/g/2058663/jerc-2012-jercpublications2003present/
-
-JERC,Peromyscus,gossypinus,,cotton mouse,http://www.mendeley.com/c/4971280602/g/2058663/jerc-2012-jercpublications2003present/
-
-JERC,Dasypus,novemcinctus,,nine-banded armadillo,http://www.mendeley.com/c/4971280602/g/2058663/jerc-2012-jercpublications2003present/
-
-JERC,Odocoileus,virginiana,,,http://www.mendeley.com/c/4974603722/g/2058663/howze-2009-predator-removal-and-white-tailed-deer-recruitment-in-southwestern-georgia/
-
-JERC,Sylvilagus,,,,http://www.mendeley.com/c/4971280602/g/2058663/jerc-2012-jercpublications2003present/
-
-JERC,Canis,latrans,,,http://www.mendeley.com/c/4974603722/g/2058663/howze-2009-predator-removal-and-white-tailed-deer-recruitment-in-southwestern-georgia/
-
-JERC,Nycticeius,humeralis,,Evening bat,http://www.mendeley.com/c/4971280602/g/2058663/jerc-2012-jercpublications2003present/
-
-JERC,Urocyon,cinereoargenteus,,gray fox,http://www.mendeley.com/c/4971280602/g/2058663/jerc-2012-jercpublications2003present/
-
-WOOD,Blarina,brevicauda,,Northern short-tailed shrew,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
-
-WOOD,Sorex,arcticus,,Arctic shrew,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
-
-WOOD,Sorex,cinereus,,Masked shrew,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
-
-WOOD,Myotis,lucifugus,,Little brown bat,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
-
-WOOD,Canis,latrans,,Coyote,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
-
-WOOD,Vulpes,vulpes,,Red fox,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
-
-WOOD,Procyon,lotor,,Raccoon,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
-
-WOOD,Mustela,frenata,,Long-tailed weasel,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
-
-WOOD,Mustela,nivalis,,Least weasel,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
-
-WOOD,Mustela,vison,,Mink,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
-
-WOOD,Taxidea,taxus,,Badger,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
-
-WOOD,Mephitis,mephitis,,Striped skunk,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
-
-WOOD,Odocoileus,hemionus,,Mule deer,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
-
-WOOD,Odocoileus,virginianus,,White-tailed deer,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
-
-WOOD,Sciurus,niger,,Eastern fox squirrel,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
-
-WOOD,Spermophilis,franklinii,,Franklin's ground squirrrel,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
-
-WOOD,Spermophilis,richardsoni,,Richardson's ground squirrel,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
-
-WOOD,Spermophilis,tridecemlineatus,,Thirteen-lined ground squirrel,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
-
-WOOD,Thomomys,talpoides,,Northern pocket gopher,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
-
-WOOD,Onychomys,leucogaster,,Northern grasshopper mouse,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
-
-WOOD,Peromyscus,maniculatus,,Deer mouse,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
-
-WOOD,Reithrodonotomys,megalotis,,Western harvest mouse,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
-
-WOOD,Microtus,pennsylvanicus,,Meadow vole,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
-
-WOOD,Ondatra,zibethicus,,Muskrat,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
-
-WOOD,Mus,musculus,,House mouse,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
-
-WOOD,Rattus,norvegicus,,Norway rat,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
-
-WOOD,Zapus,hudsonius,,Meadow jumping mouse,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
-
-WOOD,Lepus,townsendii,,White-tailed jackrabbit,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
-
-WOOD,Sylvilagus,nuttalli,,Nuttall's cottontail,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
-
 BLAN,Peromyscus,leucopus,noveborcensis,white-footed mouse,http://www.mendeley.com/c/4997133882/g/2058663/bowers-1993-predation-hazard-and-seed-removal-by-small-mammals--microhabitat-versus-patch-scale-effects/
-
 BLAN,Microtus,pennsylvanicus,,meadow vole,http://www.mendeley.com/c/4997133882/g/2058663/bowers-1993-predation-hazard-and-seed-removal-by-small-mammals--microhabitat-versus-patch-scale-effects/
-
 BLAN,Mus,musculus,,house mouse,http://www.mendeley.com/c/4997133882/g/2058663/bowers-1993-predation-hazard-and-seed-removal-by-small-mammals--microhabitat-versus-patch-scale-effects/
-
 BLAN,Peromyscus,maniculatus,bairdii,deer mouse,http://www.mendeley.com/c/4997133882/g/2058663/bowers-1993-predation-hazard-and-seed-removal-by-small-mammals--microhabitat-versus-patch-scale-effects/
-
 BLAN,Marmota,monax,,woodchuck,http://www.mendeley.com/c/4997232292/g/2058663/bowers-1993-influence-of-herbivorous-mammals-on-an-old-field-plant-community--years-1-4-after-disturbance/
-
 BLAN,Sylvilagus,floridanus,,cottontail rabbit,http://www.mendeley.com/c/4997232292/g/2058663/bowers-1993-influence-of-herbivorous-mammals-on-an-old-field-plant-community--years-1-4-after-disturbance/
-
 BLAN,Tamias,striatus,,chipmunk,http://www.mendeley.com/c/4997238082/g/2058663/bowers-1995-use-of-space-and-habitats-by-the-eastern-chipmunk--tamias-striatus/
-
 BLAN,Vulpes,vulpes,,red fox,http://www.mendeley.com/c/4997250582/g/2058663/1996-habitat-fragmentation-and-the-perceived-and-actual-risk-of-predation/
-
 BLAN,Mephitis,mephitis,,Striped skunk,http://www.mendeley.com/c/4997250582/g/2058663/1996-habitat-fragmentation-and-the-perceived-and-actual-risk-of-predation/
-
 BLAN,Procyon,lotor,,raccoon,http://www.mendeley.com/c/4997250582/g/2058663/1996-habitat-fragmentation-and-the-perceived-and-actual-risk-of-predation/
-
 BLAN,Felis,catus,,feral cat,http://www.mendeley.com/c/4997250582/g/2058663/1996-habitat-fragmentation-and-the-perceived-and-actual-risk-of-predation/
-
 BLAN,Blarina,brevicauda,,Short-tailed shrew,http://www.mendeley.com/c/4997250582/g/2058663/1996-habitat-fragmentation-and-the-perceived-and-actual-risk-of-predation/
-
-SERC,Sciurus,canadensis,,,http://www.mendeley.com/c/5001047982/g/2058663/gomez-2008-land-use-and-west-nile-virus-seroprevalence-in-wild-mammals/
-
-SERC,Didelphis,virginiana,,,http://www.mendeley.com/c/5001047982/g/2058663/gomez-2008-land-use-and-west-nile-virus-seroprevalence-in-wild-mammals/
-
-SERC,Peromyscus,leucopus,,,http://www.mendeley.com/c/5001047982/g/2058663/gomez-2008-land-use-and-west-nile-virus-seroprevalence-in-wild-mammals/
-
-SERC,Procyon,lotor,,,http://www.mendeley.com/c/5001047982/g/2058663/gomez-2008-land-use-and-west-nile-virus-seroprevalence-in-wild-mammals/
-
-SERC,Felis,catus,,,http://www.mendeley.com/c/5001047982/g/2058663/gomez-2008-land-use-and-west-nile-virus-seroprevalence-in-wild-mammals/
-
-SERC,Marmota,monax,,,http://www.mendeley.com/c/5001047982/g/2058663/gomez-2008-land-use-and-west-nile-virus-seroprevalence-in-wild-mammals/
-
-SERC,Sylvilagus,floridanus,,,http://www.mendeley.com/c/5001047982/g/2058663/gomez-2008-land-use-and-west-nile-virus-seroprevalence-in-wild-mammals/
-
-GUAN,Eptesicus,fuscus,,,http://www.mendeley.com/c/5004975572/g/2058663/guanica-checklist/
-
-GUAN,Lasiurus,minor,,,http://www.mendeley.com/c/5004975572/g/2058663/guanica-checklist/
-
-GUAN,Artibeus,jamaicensis,,,http://www.mendeley.com/c/5004975572/g/2058663/guanica-checklist/
-
-GUAN,Brachyphylla,cavernarum,,,http://www.mendeley.com/c/5004975572/g/2058663/guanica-checklist/
-
-GUAN,Stenoderma,rufum,,,http://www.mendeley.com/c/5004975572/g/2058663/guanica-checklist/
-
-GUAN,Monophyllus,redmani,,,http://www.mendeley.com/c/5004975572/g/2058663/guanica-checklist/
-
-GUAN,Erophylla,bombifrons,,,http://www.mendeley.com/c/5004975572/g/2058663/guanica-checklist/
-
-GUAN,Noctilio,leporinus,,,http://www.mendeley.com/c/5004975572/g/2058663/guanica-checklist/
-
-GUAN,Pteronotus,parnellii,,,http://www.mendeley.com/c/5004975572/g/2058663/guanica-checklist/
-
-GUAN,Pteronotus,quadridens,,,http://www.mendeley.com/c/5004975572/g/2058663/guanica-checklist/
-
-GUAN,Mormoops,blainvillei,,,http://www.mendeley.com/c/5004975572/g/2058663/guanica-checklist/
-
-GUAN,Molossus,molossus,,,http://www.mendeley.com/c/5004975572/g/2058663/guanica-checklist/
-
-GUAN,Tadarida,brasiliensis,,,http://www.mendeley.com/c/5004975572/g/2058663/guanica-checklist/
-
-GUAN,Mus,musculus,,,http://www.mendeley.com/c/5004975572/g/2058663/guanica-checklist/
-
-GUAN,Eptesicus,fuscus,,,http://www.mendeley.com/c/5012256932/g/2058663/gannon-2005-bats-of-puerto-rico-an-island-focus-and-a-caribbean-perspective/
-
-GUAN,Lasiurus,minor,,,http://www.mendeley.com/c/5012256932/g/2058663/gannon-2005-bats-of-puerto-rico-an-island-focus-and-a-caribbean-perspective/
-
-GUAN,Artibeus,jamaicensis,,,http://www.mendeley.com/c/5012256932/g/2058663/gannon-2005-bats-of-puerto-rico-an-island-focus-and-a-caribbean-perspective/
-
-GUAN,Brachyphylla,cavernarum,,,http://www.mendeley.com/c/5012256932/g/2058663/gannon-2005-bats-of-puerto-rico-an-island-focus-and-a-caribbean-perspective/
-
-GUAN,Stenoderma,rufum,,,http://www.mendeley.com/c/5012256932/g/2058663/gannon-2005-bats-of-puerto-rico-an-island-focus-and-a-caribbean-perspective/
-
-GUAN,Monophyllus,redmani,,,http://www.mendeley.com/c/5012256932/g/2058663/gannon-2005-bats-of-puerto-rico-an-island-focus-and-a-caribbean-perspective/
-
-GUAN,Erophylla,sezekorni,,,http://www.mendeley.com/c/5012256932/g/2058663/gannon-2005-bats-of-puerto-rico-an-island-focus-and-a-caribbean-perspective/
-
-GUAN,Pteronotus,parnellii,,,http://www.mendeley.com/c/5012256932/g/2058663/gannon-2005-bats-of-puerto-rico-an-island-focus-and-a-caribbean-perspective/
-
-GUAN,Pteronotus,quadridens,,,http://www.mendeley.com/c/5012256932/g/2058663/gannon-2005-bats-of-puerto-rico-an-island-focus-and-a-caribbean-perspective/
-
-GUAN,Mormoops,blainvillii,,,http://www.mendeley.com/c/5012256932/g/2058663/gannon-2005-bats-of-puerto-rico-an-island-focus-and-a-caribbean-perspective/
-
-GUAN,Molossus,molossus,,,http://www.mendeley.com/c/5012256932/g/2058663/gannon-2005-bats-of-puerto-rico-an-island-focus-and-a-caribbean-perspective/
-
-GUAN,Tadarida,brasiliensis,,,http://www.mendeley.com/c/5012256932/g/2058663/gannon-2005-bats-of-puerto-rico-an-island-focus-and-a-caribbean-perspective/
-
-TALL,Corynorhinus,rafinesquii,,Rafinesque’s big-eared bat,http://www.mendeley.com/c/5014516852/g/2058663/evans-2007-environmental-assessment---non-native-invasive-plant-species-control/
-
-TALL,Myotis,leibii,,Eastern small-footed bat,http://www.mendeley.com/c/5014516852/g/2058663/evans-2007-environmental-assessment---non-native-invasive-plant-species-control/
-
-TALL,Myotis,sodalist,,Gray bat,http://www.mendeley.com/c/5014516852/g/2058663/evans-2007-environmental-assessment---non-native-invasive-plant-species-control/
-
-SERC,Didelphis,virginiana,,North American opossum,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-SERC,Blarina,brevicauda,,short-tailed shrew,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-SERC,Scalopus,aquaticus,,eastern mole,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-SERC,Condylura,cristata,,starnose mole,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-SERC,Eptesicus,fuscus,,big brown bat,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-SERC,Sylvilagus,floridanus,,eastern cottontail,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-SERC,Tamias,striatus,,eastern chipmunk,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-SERC,Marmota,monax,,woodchuck,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-SERC,Sciurus,carolinensis,,gray squirrel,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-SERC,Glaucomys,volans,,southern flying squirrel,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-SERC,Castor,canadensis,,beaver,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-SERC,Oryzomys,palustris,,marsh rice rat,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-SERC,Peromyscus,leucopus,,whire-footed mice,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-SERC,Microtis,pennsylvanicus,,meadow vole,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-SERC,Pitymys,pinetorum,,pine vole,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-SERC,Ondatra,zibethicus,,muskrat,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-SERC,Mus,musculus,,house mouse,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-SERC,Zapus,hudsonicus,,meadow jumping mice,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-SERC,Canis,latrans,,coyote,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-SERC,Vulpes,vulpes,,red fox,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-SERC,Urocyon,cinereoargenteus,,gray fox,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-SERC,Procyon,lotor,,raccoon,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-SERC,Mephitis,mephitis,,striped skunk,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-SERC,Lutra,canadensis,,river otter,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-SERC,Lynx,rufus,,bobcat,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-SERC,Tursiops,truncatus,,bottlenose dolphin,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-SERC,Cervus,nippon,,sika deer,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-SERC,Odocoileus,virginianus,,white-tailed deer,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-SERC,Sorex,cinereus,,masked shrew,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-SERC,Sorex,longirostris,,southeastern shrew,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-SERC,Microsorex,hoyi,,pygmy shrew,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-SERC,Cryptotis,parva,,least shrew,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-SERC,Myotis,lucifugus,,little brown bat,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-SERC,Myotis,septentrionalis,,northern long-eared bat,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-SERC,Lasionycteris,noctivagans,,silver-haired bat,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-SERC,Perimyotis,subflavus,,eastern pipistrelle,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-SERC,Lasiurus,borealis,,red bat,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-SERC,Lasiurus,cinereus,,hoary bat,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-SERC,Nycticeius,humeralis,,evening bat,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-SERC,Sciurus,niger,,fox squirrel,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-SERC,Tamasciurus,hudsonicus,,red squirrel,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-SERC,Synapotmys,cooperi,,southern bog lemming,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-SERC,Rattus,norvegicus,,Norway rat,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-SERC,Mustela,frenata,,long-tailed weasel,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-SERC,Mustela,vison,,mink,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-
-JORN,Notiosorex,crawfordi,,Desert shrew                  ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
-
-JORN,Sylvilagus,audubonii,,Desert cottontail             ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
-
-JORN,Lepus,californicus,,Black-tailed jackrabbit       ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
-
-JORN,Spermophilus,spilosoma,,Spotted ground squirrel       ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
-
-JORN,Spermophilus,variegatus,,Rock squirrel                 ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
-
-JORN,Thomomys,bottae,,Botta's pocket gopher         ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
-
-JORN,Perognathus,flavus,,Silky pocket mouse            ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
-
-JORN,Chaetodipus,intermedius,,Rock pocket mouse             ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
-
-JORN,Chaetodipus,penicillatus,,Desert pocket mouse           ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
-
-JORN,Dipodomys,merriami,,Merriam's kangaroo rat        ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
-
-JORN,Dipodomys,ordii,,Ord's kangaroo rat            ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
-
-JORN,Dipodomys,spectabilis,,Banner-tailed kangaroo rat    ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
-
-JORN,Peromyscus,boylii,,Brush mouse                   ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
-
-JORN,Peromyscus,eremicus,,Cactus mouse                  ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
-
-JORN,Peromyscus,leucopus,,White-footed mouse            ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
-
-JORN,Peromyscus,maniculatus,,Deer mouse                    ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
-
-JORN,Onychomys,arenicola,,Mearns' grasshopper mouse     ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
-
-JORN,Onychomys,leucogaster,,Northern grasshopper mouse    ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
-
-JORN,Neotoma,albigula,,White-throated woodrat        ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
-
-JORN,Neotoma,micropus,,Southern plains woodrat       ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
-
-JORN,Mus,musculus,,House mouse                   ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
-
-JORN,Erethizon,dorsatum,,Common porcupine              ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
-
-JORN,Canis,latrans,,Coyote                        ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
-
-JORN,Vulpes,velox,,Kit fox              ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
-
-JORN,Vulpes,vulpes,,Red fox                       ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
-
-JORN,Urocyon,cinereoargenteus,,Common gray fox               ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
-
-JORN,Bassariscus,astutus,,Ringtail                      ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
-
-JORN,Taxidea,taxus,,American badger               ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
-
-JORN,Lynx,rufus,,Bobcat                        ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
-
-JORN,Odocoileus,hemionus,,Mule deer                     ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
-
-JORN,Antilocapra,americana,,Pronghorn                     ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
-
-JORN,Oryx,gazella,,oryx ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
-
-CAPL,,,,Black-tailed Jackrabbit,http://www.mendeley.com/c/5017965982/g/2058663/ohmart-2000-vertebrate-species-composition-of-remnant-desert-islands-within-urban-phoenix/
-
-CAPL,,,,Harris' Antelope Ground Squirrel,http://www.mendeley.com/c/5017965982/g/2058663/ohmart-2000-vertebrate-species-composition-of-remnant-desert-islands-within-urban-phoenix/
-
-CAPL,,,,Rock Squirrel,http://www.mendeley.com/c/5017965982/g/2058663/ohmart-2000-vertebrate-species-composition-of-remnant-desert-islands-within-urban-phoenix/
-
-CAPL,,,,Desert Cottontail,http://www.mendeley.com/c/5017965982/g/2058663/ohmart-2000-vertebrate-species-composition-of-remnant-desert-islands-within-urban-phoenix/
-
-STER,Didelphis,virginiana,,Opossum,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Cryptotis,parva,,Least Shrew,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Sorex,cinereus,,Masked Shrew,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Scalopus,aquaticus,,Eastern Mole,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Eptesicus,fuscus,,Big Brown Bat,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Lasionycteris,noctivagans,,Silver-haired Bat,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Lasiurus,borealis,,Red Bat,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Lasiurus,cinereus,,Hoary Bat,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Myotis,ciliolabrum,,Western Small-footed Myotis,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Myotis,lucifugus,,Little Brown Myotis,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Nyctinomops,macrotis,,Big Free-tailed Bat,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Lepus,californicus,,Blacktail Jackrabbit,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Lepus,townsendi,,Whitetail Jackrabbit,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Sylvilagus,auduboni,,Desert Cottontail,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Sylvilagus,floridanus,,Eastern Cottontail,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Cynomys,ludovicianus,,Black-tailed Prairie Dog,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Sciurus,niger,,Fox Squirrel,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Spermophilus,spilosoma,,Spotted Ground Squirrel,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Spermophilus,tridecemlineatus,,Thirteen-lined Ground Squirrel,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Geomys,bursarius,,Plains Pocket Gopher,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Castor,canadensis,,Beaver,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Chaetodipus,hispidus,,Hispid Pocket Mouse,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Dipodomys,ordii,,Ord's Kangaroo Rat,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Microtus,ochrogaster,,Prairie Vole,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Microtus,pennsylvanicus,,Meadow Vole,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Mus,musculus,,House Mouse,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Neotoma,cinerea,,Bushy-tailed Woodrat,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Ondatra,zibethicus,,Muskrat,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Onychamys,leucogaster,,Northern Grasshopper Mouse,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Perognathus,flavescens,,Plains Pocket Mouse,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Perognathus,flavus,,Silky Pocket Mouse,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Peromyscus,maniculatus,,Deer Mouse,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Reithrodontomys,megalotis,,Western Harvest Mouse,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Reithrodontomys,montanus,,Plains Harvest Mouse,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Erethizon,dorsatum,,Porcupine,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Canis,latrans,,Coyote,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Vulpes,velox,,Swift fox,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Vulpes,vulpes,,Red Fox,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Procyon,lotor,,Raccoon,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Mephitis,mephitis,,Striped Skunk,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Mustela,frenata,,Longtail Weasel,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Mustela,vison,,Mink,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Spilogale,putorius,,Eastern Spotted Skunk,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Taxidea,taxus,,Badger,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Felis,concolor,,Mountain Lion,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Lynx,rufus,,Bobcat,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Cervus,canadensis,(elaphus),Elk,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Odocoileus,virginianus,,Whitetail Deer,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Odocoileus,hemionus,,Mule Deer,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-STER,Antilocapra,americana,,Pronghorn,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
-
-SRER,Lepus,californicus,,black tailed jackrabbit,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
-
-SRER,Lepus,alleni,,antelope jackrabbit,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
-
-SRER,Citellus,harrisi,,gray-tailed antelope squirrel,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
-
-SRER,Citellus,tereticaudus,,round-tailed ground squirrel,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
-
-SRER,Perognathus,amplus,,Arizona pocket mouse,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
-
-SRER,Perognathus,baileyi,,Bailey pocket mouse,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
-
-SRER,Perognathus,penicillatus,,Desert pocket mouse           ,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
-
-SRER,Dipodomys,spectabilis,,Banner-tailed kangaroo rat    ,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
-
-SRER,Dipodomys,merriami,,Merriam's kangaroo rat        ,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
-
-SRER,Reithrodontomys,megalotis,,desert harvest mouse,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
-
-SRER,Peromyscus,merriami,,Merriam mouse,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
-
-SRER,Onychomys,leucogaster,,Grasshopper mouse,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
-
-SRER,Neotoma,albigula,,white-throated packrat,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
-
-SRER,Canis ,latrans,,coyote,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
-
-SRER,Urocyon,cinereoargenteus,,gray fox,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
-
-SRER,Bassariscus,astutus,,Ringtail                      ,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
-
-SRER,Taxidea,taxus,,Badger,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
-
-SRER,Mephitis,mephitis,,common stiped skunk,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
-
-SRER,Conepatus,mesoleucus,,wester rooter skunk,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
-
-SRER,Lynx,rufus,,bobcat,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
-
-SRER,Tayassu,tajacu,,collared pecary,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
-
-SRER,Odocoileus,virginianus,,white-tailed deer,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
-
-SRER,Odocoileus,hemionus,,mule deer,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
-
 BONA,Alces,alces,,Moose,http://www.mendeley.com/c/5026914302/g/2058663/animal-species-list-for-bona/
-
 BONA,Rangifer,tarandus,,Caribou,http://www.mendeley.com/c/5026914302/g/2058663/animal-species-list-for-bona/
-
 BONA,Canis,latrans,,Coyote,http://www.mendeley.com/c/5026914302/g/2058663/animal-species-list-for-bona/
-
 BONA,Canis,lupus,,Gray Wolf,http://www.mendeley.com/c/5026914302/g/2058663/animal-species-list-for-bona/
-
 BONA,Vulpes,vulpes,,Red Fox,http://www.mendeley.com/c/5026914302/g/2058663/animal-species-list-for-bona/
-
 BONA,Gulo,gulo,,Wolverine,http://www.mendeley.com/c/5026914302/g/2058663/animal-species-list-for-bona/
-
 BONA,Martes,americana,,Marten,http://www.mendeley.com/c/5026914302/g/2058663/animal-species-list-for-bona/
-
 BONA,Mustela,erminea,,Ermine,http://www.mendeley.com/c/5026914302/g/2058663/animal-species-list-for-bona/
-
 BONA,Mustela,nivalis,,Least Weasel,http://www.mendeley.com/c/5026914302/g/2058663/animal-species-list-for-bona/
-
 BONA,Mustela,vision,,Mink,http://www.mendeley.com/c/5026914302/g/2058663/animal-species-list-for-bona/
-
 BONA,Ursus,americanus,,Black Bear,http://www.mendeley.com/c/5026914302/g/2058663/animal-species-list-for-bona/
-
 BONA,Myotis,lucifugus,,Little Brown Bat,http://www.mendeley.com/c/5026914302/g/2058663/animal-species-list-for-bona/
-
 BONA,Sorex,arcticus,,Arctic Shrew,http://www.mendeley.com/c/5026914302/g/2058663/animal-species-list-for-bona/
-
 BONA,Sorex,cinereus,,Masked Shrew,http://www.mendeley.com/c/5026914302/g/2058663/animal-species-list-for-bona/
-
 BONA,Sorex,hoyi,,Pygmy Shrew,http://www.mendeley.com/c/5026914302/g/2058663/animal-species-list-for-bona/
-
 BONA,Sorex,obscurus,,Dusky Shrew,http://www.mendeley.com/c/5026914302/g/2058663/animal-species-list-for-bona/
-
 BONA,Lepus,americanus,,Snowshoe Hare,http://www.mendeley.com/c/5026914302/g/2058663/animal-species-list-for-bona/
-
 BONA,Castor,canadensis,,Beaver,http://www.mendeley.com/c/5026914302/g/2058663/animal-species-list-for-bona/
-
 BONA,Zapus,hudsonius,,Meadow Jumping Mouse,http://www.mendeley.com/c/5026914302/g/2058663/animal-species-list-for-bona/
-
 BONA,Erethizon,dorsatum,,Porcupine,http://www.mendeley.com/c/5026914302/g/2058663/animal-species-list-for-bona/
-
 BONA,Clethrionomys,rutilus,,Northern Red-backed Vole,http://www.mendeley.com/c/5026914302/g/2058663/animal-species-list-for-bona/
-
 BONA,Lemmus,sibiricus,,Brown Lemming,http://www.mendeley.com/c/5026914302/g/2058663/animal-species-list-for-bona/
-
 BONA,Microtus,longicaudus,,Long-tailed Vole,http://www.mendeley.com/c/5026914302/g/2058663/animal-species-list-for-bona/
-
 BONA,Microtus,miurus,,Singing Vole,http://www.mendeley.com/c/5026914302/g/2058663/animal-species-list-for-bona/
-
 BONA,Microtus,oeconomus,,Tundra Vole,http://www.mendeley.com/c/5026914302/g/2058663/animal-species-list-for-bona/
-
 BONA,Microtus,pennsylvanicus,,Meadow Vole,http://www.mendeley.com/c/5026914302/g/2058663/animal-species-list-for-bona/
-
 BONA,Microtus,xanthognathus,,Yellow-cheeked Vole,http://www.mendeley.com/c/5026914302/g/2058663/animal-species-list-for-bona/
-
 BONA,Ondatra,zibethicus,,Muskrat,http://www.mendeley.com/c/5026914302/g/2058663/animal-species-list-for-bona/
-
 BONA,Synaptomys,borealis,,Northern Bog Lemming,http://www.mendeley.com/c/5026914302/g/2058663/animal-species-list-for-bona/
-
 BONA,Glaucomys,sabrinus,,Northern Flying Squirrel,http://www.mendeley.com/c/5026914302/g/2058663/animal-species-list-for-bona/
-
 BONA,Marmota,monax,,Woodchuck,http://www.mendeley.com/c/5026914302/g/2058663/animal-species-list-for-bona/
-
 BONA,Tamiasciurus,hudsonicus,,Red Squirrel,http://www.mendeley.com/c/5026914302/g/2058663/animal-species-list-for-bona/
-
+CAPL,,,,Black-tailed Jackrabbit,http://www.mendeley.com/c/5017965982/g/2058663/ohmart-2000-vertebrate-species-composition-of-remnant-desert-islands-within-urban-phoenix/
+CAPL,,,,Harris' Antelope Ground Squirrel,http://www.mendeley.com/c/5017965982/g/2058663/ohmart-2000-vertebrate-species-composition-of-remnant-desert-islands-within-urban-phoenix/
+CAPL,,,,Rock Squirrel,http://www.mendeley.com/c/5017965982/g/2058663/ohmart-2000-vertebrate-species-composition-of-remnant-desert-islands-within-urban-phoenix/
+CAPL,,,,Desert Cottontail,http://www.mendeley.com/c/5017965982/g/2058663/ohmart-2000-vertebrate-species-composition-of-remnant-desert-islands-within-urban-phoenix/
+DSNY,,,,southeastern big-eared bat,http://www.mendeley.com/c/4955268692/g/2058663/the-nature-conservancy-2012-disney-wilderness-preserve---about/
+DSNY,,,,Sherman's fox squirrel,http://www.mendeley.com/c/4955268692/g/2058663/the-nature-conservancy-2012-disney-wilderness-preserve---about/
 GRSM,Blarina,brevicauda,,Northern short-tailed shrew,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Bos,taurus,,Cow,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Canis,latrans,,Coyote,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Castor,canadensis,,American beaver,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Cervus,elaphus,,Elk,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Clethrionomys,gapperi,carolinensis,Southern red-backed vole,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Condylura,cristata,,Star-nosed mole,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Cryptotis,parva,,Least shrew,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Eptesicus,fuscus,,Big brown bat,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Equus,caballus,,Horse,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Felis,silvestris,,,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Glaucomys,sabrinus,coloratus,Carolina northern flying squirrel,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Glaucomys,volans,,Southern flying squirrel,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Homo,sapiens,,Human,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Lasiurus,borealis,,Eastern red bat,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Lasiurus,cinereus,,Hoary bat,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Lontra,canadensis,subspecies,River otter,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Lynx,rufus,,Bobcat,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Microtus,chrotorrhinus,carolinensis,Rock vole,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Microtus,pennsylvanicus,,Meadow Vole,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Microtus,pinetorum,,Woodland vole,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Myotis,lucifugus,,Little brown myotis,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Myotis,septentrionalis,,Northern myotis,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Myotis,sodalis,,Indiana myotis,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Napaeozapus,insignis,,Woodland jumping mouse,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Neotoma,floridana,,Eastern woodrat,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Neotoma,magister,,Allegheny woodrat,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Neotoma,species,,Woodrat species,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Ochrotomys,nuttalli,,Golden mouse,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Odocoileus,virginianus,,White-tailed deer,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Ovis,aries,,Sheep,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Parascalops,breweri,,Hairy-tailed mole,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Peromyscus,gossypinus,,Cotton mouse,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Peromyscus,leucopus,,White-footed mouse,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Peromyscus,maniculatus,,Deer mouse,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Pipistrellus,subflavus,,Tri-colored bat,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Plecotus,rafinesquii,,Rafinesque's big-eared bat,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Rattus,norvegicus,,Norway rat,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Sciurus,carolinensis,,Eastern gray squirrel,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Sorex,cinereus,,Masked shrew,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Sorex,dispar,blitchi,Long-tailed shrew,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Sorex,fumeus,,Smokey shrew,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Sorex,palustris,punctulatus,Water shrew,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Spilogale,putorius,,Eastern spotted skunk,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Sus,scrofa,,Wild hog,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Sylvilagus,floridanus,mallurus,Eastern cottontail,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Synaptomys,cooperi,,Southern bog lemming,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Tamias,striatus,,Eastern chipmunk,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Tamiasciurus,hudsonicus,,Red squirrel,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Ursus,americanus,,Black bear,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Vulpes,vulpes,,Red fox,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
 GRSM,Zapus,hudsonius,,Meadow jumping mouse,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-
-RBUT,Sorex,palustris,,water shrew,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
-
-RBUT,Sorex,vagrans,,wandering shrew,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
-
-RBUT,Sorex,cinereus,,masked shrew,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
-
-RBUT,Eptesicus,fuscus,,big brown bat,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
-
-RBUT,Lasiurus,townsendii,,white-tailed jackrabbit,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
-
-RBUT,Sylvilagus,nuttallii,,Nuttall cottontail,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
-
-RBUT,Tamiasciurus,hudsonicus,,red squirrel,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
-
-RBUT,Marmota,flaviventer,,yellow-bellied marmot,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
-
-RBUT,Spermophilus,armatus,,Uinta ground squirrel,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
-
-RBUT,Spermophilus,variegatus,,rock squirrel,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
-
-RBUT,Eutamias,minimus,,least chipmunk,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
-
-RBUT,Glaucomys,sabrinus,,northern flying squirrel,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
-
-RBUT,Thomomys,talpoides,,northern pocket gopher,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
-
-RBUT,Thomomys,bottae,,botta pocket gopher,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
-
-RBUT,Castor,canadensis,,beaver,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
-
-RBUT,Reithrodontomys,megalotis,,western harvest mouse,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
-
-RBUT,Peromyscus,maniculatus,,deer mouse,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
-
-RBUT,Peromyscus,boylii,,brush mouse,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
-
-RBUT,Clethrionomys,gapperi,,red-backed vole,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
-
-RBUT,Ondatra,zibethicus,,muskrat,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
-
-RBUT,Phenacomys,intermedius,,heather vole,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
-
-RBUT,Microtus,montanus,,montane vole,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
-
-RBUT,Microtus,longicaudus,,long-tailed vole,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
-
-RBUT,Arvicola,richardsoni,,water vole,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
-
-RBUT,Zapus,princeps,,western jumping mouse,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
-
-RBUT,Erethizon,dorsatum,,porcupine,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
-
-RBUT,Canis,latrans,,coyote,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
-
-RBUT,Bassariscus,astutus,,ring-tailed cat,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
-
-RBUT,Procyon,lotor,,racoon,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
-
-RBUT,Mustela,frenata,,long-tailed weasel,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
-
-RBUT,Mustela,erminea,,ermine,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
-
-RBUT,Mustela,vison,,mink,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
-
-RBUT,Taxidea,taxus,,badger,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
-
-RBUT,Mephitis,mephitis,,striped skunk,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
-
-RBUT,Lynx,rufus,,bobcat,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
-
-RBUT,Felis,concolor,,mountain lion,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
-
-RBUT,Cervus,canadensis,,elk,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
-
-RBUT,Odocoileus,heminous,,mule deer,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
-
-RBUT,Alces,americanus,,moose,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
-
+GUAN,Eptesicus,fuscus,,,http://www.mendeley.com/c/5004975572/g/2058663/guanica-checklist/
+GUAN,Lasiurus,minor,,,http://www.mendeley.com/c/5004975572/g/2058663/guanica-checklist/
+GUAN,Artibeus,jamaicensis,,,http://www.mendeley.com/c/5004975572/g/2058663/guanica-checklist/
+GUAN,Brachyphylla,cavernarum,,,http://www.mendeley.com/c/5004975572/g/2058663/guanica-checklist/
+GUAN,Stenoderma,rufum,,,http://www.mendeley.com/c/5004975572/g/2058663/guanica-checklist/
+GUAN,Monophyllus,redmani,,,http://www.mendeley.com/c/5004975572/g/2058663/guanica-checklist/
+GUAN,Erophylla,bombifrons,,,http://www.mendeley.com/c/5004975572/g/2058663/guanica-checklist/
+GUAN,Noctilio,leporinus,,,http://www.mendeley.com/c/5004975572/g/2058663/guanica-checklist/
+GUAN,Pteronotus,parnellii,,,http://www.mendeley.com/c/5004975572/g/2058663/guanica-checklist/
+GUAN,Pteronotus,quadridens,,,http://www.mendeley.com/c/5004975572/g/2058663/guanica-checklist/
+GUAN,Mormoops,blainvillei,,,http://www.mendeley.com/c/5004975572/g/2058663/guanica-checklist/
+GUAN,Molossus,molossus,,,http://www.mendeley.com/c/5004975572/g/2058663/guanica-checklist/
+GUAN,Tadarida,brasiliensis,,,http://www.mendeley.com/c/5004975572/g/2058663/guanica-checklist/
+GUAN,Mus,musculus,,,http://www.mendeley.com/c/5004975572/g/2058663/guanica-checklist/
+GUAN,Eptesicus,fuscus,,,http://www.mendeley.com/c/5012256932/g/2058663/gannon-2005-bats-of-puerto-rico-an-island-focus-and-a-caribbean-perspective/
+GUAN,Lasiurus,minor,,,http://www.mendeley.com/c/5012256932/g/2058663/gannon-2005-bats-of-puerto-rico-an-island-focus-and-a-caribbean-perspective/
+GUAN,Artibeus,jamaicensis,,,http://www.mendeley.com/c/5012256932/g/2058663/gannon-2005-bats-of-puerto-rico-an-island-focus-and-a-caribbean-perspective/
+GUAN,Brachyphylla,cavernarum,,,http://www.mendeley.com/c/5012256932/g/2058663/gannon-2005-bats-of-puerto-rico-an-island-focus-and-a-caribbean-perspective/
+GUAN,Stenoderma,rufum,,,http://www.mendeley.com/c/5012256932/g/2058663/gannon-2005-bats-of-puerto-rico-an-island-focus-and-a-caribbean-perspective/
+GUAN,Monophyllus,redmani,,,http://www.mendeley.com/c/5012256932/g/2058663/gannon-2005-bats-of-puerto-rico-an-island-focus-and-a-caribbean-perspective/
+GUAN,Erophylla,sezekorni,,,http://www.mendeley.com/c/5012256932/g/2058663/gannon-2005-bats-of-puerto-rico-an-island-focus-and-a-caribbean-perspective/
+GUAN,Pteronotus,parnellii,,,http://www.mendeley.com/c/5012256932/g/2058663/gannon-2005-bats-of-puerto-rico-an-island-focus-and-a-caribbean-perspective/
+GUAN,Pteronotus,quadridens,,,http://www.mendeley.com/c/5012256932/g/2058663/gannon-2005-bats-of-puerto-rico-an-island-focus-and-a-caribbean-perspective/
+GUAN,Mormoops,blainvillii,,,http://www.mendeley.com/c/5012256932/g/2058663/gannon-2005-bats-of-puerto-rico-an-island-focus-and-a-caribbean-perspective/
+GUAN,Molossus,molossus,,,http://www.mendeley.com/c/5012256932/g/2058663/gannon-2005-bats-of-puerto-rico-an-island-focus-and-a-caribbean-perspective/
+GUAN,Tadarida,brasiliensis,,,http://www.mendeley.com/c/5012256932/g/2058663/gannon-2005-bats-of-puerto-rico-an-island-focus-and-a-caribbean-perspective/
 HEAL,Sorex,cinereus,,cinereus shrew,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
-
 HEAL,Sorex,hoyi,,Pygmy Shrew,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
-
 HEAL,Sorex,monticolus,,montane shrew,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
-
 HEAL,Sorex,palustris,,water shrew,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
-
 HEAL,Sorex,tundrensis,,tundra shrew,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
-
 HEAL,Sorex,yukonicus,,tiny shrew,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
-
 HEAL,Myotis,lucifugus,,little brown bat,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
-
 HEAL,Canis,latrans,,coyote,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
-
 HEAL,Canis,lupus,,wolf,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
-
 HEAL,Vulpes,vulpes,,red fox,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
-
 HEAL,Lynx,canadensis,,Canada lynx,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
-
 HEAL,Gulo ,gulo,,wolverine,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
-
 HEAL,Lontra ,canadensis,,northern river otter,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
-
 HEAL,Martes,americana,,American marten,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
-
 HEAL,Mustela,erminea,,ermine,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
-
 HEAL,Mustela,nivalis,,Least Weasel,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
-
 HEAL,Mustela,vison,,American mink,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
-
 HEAL,Ursus,americanus,,American black bear,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
-
 HEAL,Ursus,arctos,,brown bear,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
-
 HEAL,Alces,alces,,moose,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
-
 HEAL,Rangifer,tarandus,,caribou,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
-
 HEAL,Ovis,dalli,,Dall's sheep,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
-
 HEAL,Galucomys ,sabrinus,,northern flying squirrel,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
-
 HEAL,Marmota,caligata,,hoary marmot,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
-
 HEAL,Spermophilus,parryii,,arctic ground squirrel,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
-
 HEAL,Tamiasciurus,hudsonicus,,Red squirrel,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
-
 HEAL,Castor,canadensis,,American beaver,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
-
 HEAL,Zapus,hudsonius,,meadow jumping mouse,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
-
 HEAL,Clethrionomys,rutilus,,northern red-backed vole,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
-
 HEAL,Lemmus,trimucronatu,,brown lemming,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
-
 HEAL,Microtus,miurus,,singing vole,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
-
 HEAL,Microtus,oeconomus,,tundra vole,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
-
 HEAL,Microtus,pennsylvanicus,,meadow vole,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
-
 HEAL,Microtus,xanthognathus,,taiga vole,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
-
 HEAL,Ondatra,zibethicus,,muskrat,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
-
 HEAL,Synaptomys,borealis,,northern bog lemming,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
-
 HEAL,Erethizon dorsatum,,,North American porcupine,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
-
 HEAL,Ochotona,collaris,,collared pika,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
-
 HEAL,Lepus,americanus,,snowshoe hare,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
-
-ORNL,Sorex,longirostris,,Southeastern shrew,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Sorex,fumeus,,Smoky shrew,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Blarina,brevicauda,,Northern short-tailed shrew ,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Sorex,dispar,,Rock (long-tailed) shrew,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Sorex,cinereus,,Masked shrew,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Cryptotis,parva,,Least shrew,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Scalopus,aquaticus,,Eastern mole,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Myotis,grisescens,,Gray bat,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Perimyotis,subflavus,,Tri-colored  bat ,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Lasionycteris,noctivagans,,Silver-haired bat,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Eptesicus,fuscus,,Big brown bat,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Lasiurus,borealis,,Eastern red bat,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Nycticeius,humeralis,,Evening bat,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Myotis,lucifugus,,Little brown bat,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Lasiurus,seminolus,,Seminole bat,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Sylvilagus,floridanus,,Eastern cottontail ,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Tamias,striatus,,Eastern chipmunk ,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Marmota,monax,,Groundhog,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Sciurus,carolinensis,,Eastern gray squirrel,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Glaucomys,volans,,Southern flying squirrel ,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Castor,canadensis,,Beaver,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Zapus,hudsonius,,Meadow jumping mouse,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Napaeozapus,insignis,,Woodland jumping mouse,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Reithrodontomys,humulis,,Eastern harvest mouse,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Peromyscus,leucopus,,White-footed mouse ,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Peromyscus,nuttalli,,Golden mouse ,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Peromyscus,maniculatus,,Deer mouse,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Synaptomys,cooperi,,Southern bog lemming,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Oryzomys,palustris,,Marsh rice rat,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Sigmodon,hispidus,,Hispid cotton rat,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Pitymys,pinetorum,,Woodland vole,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Microtus,pennsylvanicus,,Meadow vole,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Ondatra,zibethicus,,Muskrat,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Rattus,norvegicus,,Norway rat,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Mus,musculus,,House mouse,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Canis,latrans,,Coyote,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Vulpes,vulpes,,Red fox,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Urocyon,cinereoargenteus,,Gray fox,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Procyon,lotor,,Raccoon,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Mustela,frenata,,Long-tailed weasel,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Mustela,vison,,Mink,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Lontra,canadensis,,Northern River Otter,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Didelphis,virginiana,,Opossum ,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Mephitis,mephitis,,Striped skunk,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Sus,scrofa,,Feral hog,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Lynx,rufus,,Bobcat,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Odocoileus,virginianus,,White-tailed deer,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Cervus,canadensis,,Elk,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-ORNL,Ursus,americana,,Black bear,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-
-MOAB,Ovis,canadensis,,Bighorn Sheep,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Cervus,canadensis,,Elk,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Odocoileus,hemionus,,Mule Deer,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Canis,latrans,,Coyote,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Urocyon,cinereoargenteus,,Common Gray Fox,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Vulpes,vulpes,,Red Fox,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Lynx,rufus,,Bobcat,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Puma,concolor,,Mountain Lion,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Mephitis,mephitis,,Striped Skunk,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Spilogale,gracilis,,Western Spotted Skunk,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Lontra,canadensis,,Northern River Otter,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Mustela,frenata,,Long-tailed Weasel,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Taxidea,taxus,,American Badger,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Bassariscus,astutus,,Ringtail,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Procyon,lotor,,Northern Raccoon,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Ursus,americanus,,American Black Bear,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Nyctinomops,macrotis,,Big Free-tailed Bat,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Tadarida,brasiliensis,,Brazilian free-tailed bat,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Antrozous,pallidus,,Pallid Bat,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Corynorhinus,townsendii,,Townsend's Big-eared Bat,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Eptesicus,fuscus,,Big Brown Bat,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Euderma,maculatum,,Spotted Bat,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Idionycteris,phyllotis,,Allen's Big-eared Bat,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Lasionycteris,noctivagans,,Silver-haired Bat,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Lasiurus,cinereus,,Hoary Bat,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Myotis,californicus,,California Myotis,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Myotis,ciliolabrum,,Western Small-footed Myotis,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Myotis,evotis,,Long-eared Myotis,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Myotis,thysanodes,,Fringed Myotis,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Myotis,volans,,Long-legged Myotis,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Myotis,yumanensis,,Yuma Myotis,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Pipistrellus,hesperus,,Western Pipistrelle,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Lepus,californicus,,Black-tailed Jackrabbit,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Sylvilagus,audubonii,,Desert Cottontail,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Castor,canadensis,,American Beaver,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Erethizon,dorsatum,,North American Porcupine,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Thomomys,bottae,,Botta's Pocket Gopher,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Dipodomys,ordii,,Ord's Kangaroo Rat,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Perognathus,flavescens,,Plains Pocket Mouse,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Perognathus,parvus,,Great Basin Pocket Mouse,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Neotoma,albigula,,Western White-throated Woodrat,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Neotoma,cinerea,,Bushy-tailed Woodrat,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Neotoma,lepida,,Desert Woodrat,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Neotoma,mexicana,,Mexican Woodrat,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Ondatra,zibethicus,,Common Muskrat,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Onychomys,leucogaster,,Northern Grasshopper Mouse,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Peromyscus,boylii,,Brush Mouse,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Peromyscus,crinitus,,Canyon Mouse,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Peromyscus,maniculatus,,Deer Mouse,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Peromyscus,truei,,Pinon Mouse,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Reithrodontomys,megalotis,,Western Harvest Mouse,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Ammospermophilus,leucurus,,White-tailed Antelope Squirrel,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Neotamias,rufus,,Hopi Chipmunk,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Spermophilus,variegatus,,Rock Squirrel,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-MOAB,Notiosorex,crawfordi,,Crawford's Desert Shrew,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
-
-NIWO,Sorex,cinereus,,Masked shrew,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
-
-NIWO,Sorex,nanus,,Dwarf Shrew,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
-
-NIWO,Sorex ,monticolus,,Montane Shrew,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
-
-NIWO,Ochotona,princeps,,American Pika,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
-
-NIWO,Lepus,americanus,,Snowshoe Hare,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
-
-NIWO,Lepus,townsendii,,White-tailed Jackrabbit,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
-
-NIWO,Tamias ,minimus,,least chipmunk,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
-
-NIWO,Marmota,flaviventris,,yellow-bellied marmot,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
-
-NIWO,Spermophilus,lateralis,,Golden-mantled Ground Squirrel,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
-
-NIWO,Thomomys,talpoides,,Northern Pocket Gopher,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
-
-NIWO,Peromyscus,maniculatus,,Deer Mouse,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
-
-NIWO,Neotoma,cinerea,,Bushy-tailed Woodrat,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
-
-NIWO,Clethrionomys,gapperi,,Southern red-backed vole,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
-
-NIWO,Phenacomys,intermedius,,Heather vole,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
-
-NIWO,Microtus,montanus,,Montane vole,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
-
-NIWO,Microtus,longicaudus,,Long-tailed Vole,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
-
-NIWO,Zapus,princeps,,Western Jumping Mouse,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
-
-NIWO,Erethizon,dorsatum,,Porcupine,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
-
-NIWO,Canis,latrans,,Coyote,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
-
-NIWO,Canis,lupus,,Gray Wolf,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
-
-NIWO,Vulpes,vulpes,,Red fox,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
-
-NIWO,Ursus,americanus,,Black Bear,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
-
-NIWO,Ursus,arctos,,Grizzly Bear,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
-
-NIWO,Martes,americana,,American Marten,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
-
-NIWO,Mustela,erminea,,Short-tailed Weasel,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
-
-NIWO,Mustela,frenata,,Long-tailed Weasel,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
-
-NIWO,Taxidea,taxus,,American Badger,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
-
-NIWO,Felis,concolor,,Mountain Lion,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
-
-NIWO,Felis,rufus,,Bobcat,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
-
-NIWO,Cervus,elaphus,,American Elk,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
-
-NIWO,Odocoileus,hemionus,,Mule Deer,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
-
-NIWO,Bison,bison,,Bison,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
-
-NIWO,Ovis,canadensis,,Bighorn Sheep,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
-
+JERC,Blarina,carolinensis,,Southern short-tailed shrew,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
+JERC,Cryptotis,parva,,least shrew,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
+JERC,Castor,canadensis,,beaver,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
+JERC,Geomys,pinetis,,Southeastern pocket gopher,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
+JERC,Glaucomys,volans,,Southern flying squirrel,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
+JERC,Microtus,pinetorum,,pine vole,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
+JERC,Mus,musculus,,house mouse,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
+JERC,Neotoma,floridana,,Eastern woodrat,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
+JERC,Ochrytomys,nuttalli,,golden mouse,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
+JERC,Oryzomys,palustris,,rice rat,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
+JERC,Peromyscus,gossypinus,,cotton mouse,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
+JERC,Peromyscus,polionotus,,oldfield mouse,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
+JERC,Rattus,norvegicus,,Norway rat,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
+JERC,Reithrodontomys,humulis,,harvest mouse,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
+JERC,Sciurus,carolinensis,,gray squirrel,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
+JERC,Sciurus,niger,shermani,Sherman's fox squirrel,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
+JERC,Sigmodon,hispidus,,cotton rat,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
+JERC,Tamias,striatus,,Eastern chipmunk,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
+JERC,Sylvilagus,floridanus,,cottontail rabbit,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
+JERC,Sylvilagus,palustris,,marsh rabbit,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
+JERC,Myotis,austroriparius,,Southeastern myotis,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
+JERC,Pipistrellus,subflavus,,Eastern pipistrelle,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
+JERC,Eptesicus,fuscus,,big brown bat,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
+JERC,Lasiurus,borealis,,red bat,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
+JERC,Lasiurus,seminolus,,seminole bat,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
+JERC,Nycticeius,humeralis,,evening bat,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
+JERC,Tadarida,brasiliensis,,Brazilian free-tailed bat,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
+JERC,Canis,familiaris,,domestic dog,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
+JERC,Canis,latrans,,coyote,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
+JERC,Felis,catus,,domestic cat,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
+JERC,Lutra,canadensis,,river otter,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
+JERC,Lynx,rufus,,bobcat,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
+JERC,Mephitis,mephitis,,striped skunk,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
+JERC,Mustela,vison,,mink,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
+JERC,Procyon,lotor,,raccoon,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
+JERC,Urocyon,cinereoargenteus,,gray fox,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
+JERC,Vulpes,vulpes,,red fox,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
+JERC,Odocoileus,virginianus,,white-tailed deer,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
+JERC,Sus,scrofa,,feral hog,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
+JERC,Dasypus,novemcinctus,,nine-banded armadillo,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
+JERC,Didelphis,virginiana,,opossum,http://www.mendeley.com/research/vertebrate-fauna-ichauway-baker-county-ga/
+JERC,Glaucomys,volans,,Southern flying squirrel,http://www.mendeley.com/c/4971280602/g/2058663/jerc-2012-jercpublications2003present/
+JERC,Lynx,rufus,,bobcat,http://www.mendeley.com/c/4971280602/g/2058663/jerc-2012-jercpublications2003present/
+JERC,Sciurus,niger,,fox squirrel,http://www.mendeley.com/c/4971280602/g/2058663/jerc-2012-jercpublications2003present/
+JERC,Sciurus,carolinensis,,gray squirrel,http://www.mendeley.com/c/4971280602/g/2058663/jerc-2012-jercpublications2003present/
+JERC,Peromyscus,gossypinus,,cotton mouse,http://www.mendeley.com/c/4971280602/g/2058663/jerc-2012-jercpublications2003present/
+JERC,Dasypus,novemcinctus,,nine-banded armadillo,http://www.mendeley.com/c/4971280602/g/2058663/jerc-2012-jercpublications2003present/
+JERC,Odocoileus,virginiana,,,http://www.mendeley.com/c/4974603722/g/2058663/howze-2009-predator-removal-and-white-tailed-deer-recruitment-in-southwestern-georgia/
+JERC,Sylvilagus,,,,http://www.mendeley.com/c/4971280602/g/2058663/jerc-2012-jercpublications2003present/
+JERC,Canis,latrans,,,http://www.mendeley.com/c/4974603722/g/2058663/howze-2009-predator-removal-and-white-tailed-deer-recruitment-in-southwestern-georgia/
+JERC,Nycticeius,humeralis,,Evening bat,http://www.mendeley.com/c/4971280602/g/2058663/jerc-2012-jercpublications2003present/
+JERC,Urocyon,cinereoargenteus,,gray fox,http://www.mendeley.com/c/4971280602/g/2058663/jerc-2012-jercpublications2003present/
+JORN,Notiosorex,crawfordi,,Desert shrew                  ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
+JORN,Sylvilagus,audubonii,,Desert cottontail             ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
+JORN,Lepus,californicus,,Black-tailed jackrabbit       ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
+JORN,Spermophilus,spilosoma,,Spotted ground squirrel       ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
+JORN,Spermophilus,variegatus,,Rock squirrel                 ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
+JORN,Thomomys,bottae,,Botta's pocket gopher         ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
+JORN,Perognathus,flavus,,Silky pocket mouse            ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
+JORN,Chaetodipus,intermedius,,Rock pocket mouse             ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
+JORN,Chaetodipus,penicillatus,,Desert pocket mouse           ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
+JORN,Dipodomys,merriami,,Merriam's kangaroo rat        ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
+JORN,Dipodomys,ordii,,Ord's kangaroo rat            ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
+JORN,Dipodomys,spectabilis,,Banner-tailed kangaroo rat    ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
+JORN,Peromyscus,boylii,,Brush mouse                   ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
+JORN,Peromyscus,eremicus,,Cactus mouse                  ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
+JORN,Peromyscus,leucopus,,White-footed mouse            ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
+JORN,Peromyscus,maniculatus,,Deer mouse                    ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
+JORN,Onychomys,arenicola,,Mearns' grasshopper mouse     ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
+JORN,Onychomys,leucogaster,,Northern grasshopper mouse    ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
+JORN,Neotoma,albigula,,White-throated woodrat        ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
+JORN,Neotoma,micropus,,Southern plains woodrat       ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
+JORN,Mus,musculus,,House mouse                   ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
+JORN,Erethizon,dorsatum,,Common porcupine              ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
+JORN,Canis,latrans,,Coyote                        ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
+JORN,Vulpes,velox,,Kit fox              ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
+JORN,Vulpes,vulpes,,Red fox                       ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
+JORN,Urocyon,cinereoargenteus,,Common gray fox               ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
+JORN,Bassariscus,astutus,,Ringtail                      ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
+JORN,Taxidea,taxus,,American badger               ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
+JORN,Lynx,rufus,,Bobcat                        ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
+JORN,Odocoileus,hemionus,,Mule deer                     ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
+JORN,Antilocapra,americana,,Pronghorn                     ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
+JORN,Oryx,gazella,,oryx ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
 MLBS,Sorex,cinereus,,Masked shrew,http://www.mendeley.com/download/shared/2058663/5069088332/365555136935f1a4359acba8df8ed6b62d867fdc/dl.html
-
 MLBS,Sorex,dispar,,Longtail shrew,http://www.mendeley.com/download/shared/2058663/5069088332/365555136935f1a4359acba8df8ed6b62d867fdc/dl.html
-
 MLBS,Sorex,fumeus,,Smoky shrew,http://www.mendeley.com/download/shared/2058663/5069088332/365555136935f1a4359acba8df8ed6b62d867fdc/dl.html
-
 MLBS,Cryptotis,parva,,Least shrew,http://www.mendeley.com/download/shared/2058663/5069088332/365555136935f1a4359acba8df8ed6b62d867fdc/dl.html
-
 MLBS,Blarina,brevicauda,,Short-tailed shrew,http://www.mendeley.com/download/shared/2058663/5069088332/365555136935f1a4359acba8df8ed6b62d867fdc/dl.html
-
 MLBS,Parascalopus,breweri,,Hairytail mole,http://www.mendeley.com/download/shared/2058663/5069088332/365555136935f1a4359acba8df8ed6b62d867fdc/dl.html
-
 MLBS,Tamias,striatus,,Eastern chipmunk,http://www.mendeley.com/download/shared/2058663/5069088332/365555136935f1a4359acba8df8ed6b62d867fdc/dl.html
-
 MLBS,Tamiasciurus,hudsonicus,,Red squirrel,http://www.mendeley.com/download/shared/2058663/5069088332/365555136935f1a4359acba8df8ed6b62d867fdc/dl.html
-
 MLBS,Glaucomys ,volans,,Southern flying squirrel,http://www.mendeley.com/download/shared/2058663/5069088332/365555136935f1a4359acba8df8ed6b62d867fdc/dl.html
-
 MLBS,Peromyscus,maniculatus,,Deer mouse,http://www.mendeley.com/download/shared/2058663/5069088332/365555136935f1a4359acba8df8ed6b62d867fdc/dl.html
-
 MLBS,Peromyscus,leucopus,,White-footed mouse,http://www.mendeley.com/download/shared/2058663/5069088332/365555136935f1a4359acba8df8ed6b62d867fdc/dl.html
-
 MLBS,Ochrotomys,nuttalli,,Golden mouse,http://www.mendeley.com/download/shared/2058663/5069088332/365555136935f1a4359acba8df8ed6b62d867fdc/dl.html
-
 MLBS,Neotoma,floridana,,Eastern woodrat,http://www.mendeley.com/download/shared/2058663/5069088332/365555136935f1a4359acba8df8ed6b62d867fdc/dl.html
-
 MLBS,Synaptomys,cooperi,,Southern bog lemming,http://www.mendeley.com/download/shared/2058663/5069088332/365555136935f1a4359acba8df8ed6b62d867fdc/dl.html
-
 MLBS,Cleithronomys,gapperi,,Boreal redback vole,http://www.mendeley.com/download/shared/2058663/5069088332/365555136935f1a4359acba8df8ed6b62d867fdc/dl.html
-
 MLBS,Microtus,pennsyvanicus,,Meadow vole,http://www.mendeley.com/download/shared/2058663/5069088332/365555136935f1a4359acba8df8ed6b62d867fdc/dl.html
-
 MLBS,Mus,musculus,,House mouse,http://www.mendeley.com/download/shared/2058663/5069088332/365555136935f1a4359acba8df8ed6b62d867fdc/dl.html
-
 MLBS,Napaeozapus,insignis,,Woodlandjumping mouse,http://www.mendeley.com/download/shared/2058663/5069088332/365555136935f1a4359acba8df8ed6b62d867fdc/dl.html
-
 MLBS,Procyon,lotor,,Raccoon,http://www.mendeley.com/download/shared/2058663/5069088332/365555136935f1a4359acba8df8ed6b62d867fdc/dl.html
-
 MLBS,Didelphis,marsupialis,,Opossum,http://www.mendeley.com/download/shared/2058663/5069088332/365555136935f1a4359acba8df8ed6b62d867fdc/dl.html
-
 MLBS,Mephitis,mephitis,,Striped skunk,http://www.mendeley.com/download/shared/2058663/5069088332/365555136935f1a4359acba8df8ed6b62d867fdc/dl.html
-
 MLBS,Spilogale,putorius,,Spotted skunk,http://www.mendeley.com/download/shared/2058663/5069088332/365555136935f1a4359acba8df8ed6b62d867fdc/dl.html
-
 MLBS,Marmota,monax,,Groundhog,http://www.mendeley.com/download/shared/2058663/5069088332/365555136935f1a4359acba8df8ed6b62d867fdc/dl.html
-
 MLBS,Vulpes,fulva,,Red fox,http://www.mendeley.com/download/shared/2058663/5069088332/365555136935f1a4359acba8df8ed6b62d867fdc/dl.html
-
 MLBS,Mustela,frenata,,Longtail weasel,http://www.mendeley.com/download/shared/2058663/5069088332/365555136935f1a4359acba8df8ed6b62d867fdc/dl.html
-
-TREE,Canis,lupus,,Gray Wolf,http://www.mendeley.com/download/shared/2058663/5072967812/7460a93d356b55a52ff964f05426339f1cc06e01/dl.html
-
+MOAB,Ovis,canadensis,,Bighorn Sheep,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Cervus,canadensis,,Elk,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Odocoileus,hemionus,,Mule Deer,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Canis,latrans,,Coyote,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Urocyon,cinereoargenteus,,Common Gray Fox,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Vulpes,vulpes,,Red Fox,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Lynx,rufus,,Bobcat,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Puma,concolor,,Mountain Lion,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Mephitis,mephitis,,Striped Skunk,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Spilogale,gracilis,,Western Spotted Skunk,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Lontra,canadensis,,Northern River Otter,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Mustela,frenata,,Long-tailed Weasel,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Taxidea,taxus,,American Badger,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Bassariscus,astutus,,Ringtail,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Procyon,lotor,,Northern Raccoon,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Ursus,americanus,,American Black Bear,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Nyctinomops,macrotis,,Big Free-tailed Bat,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Tadarida,brasiliensis,,Brazilian free-tailed bat,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Antrozous,pallidus,,Pallid Bat,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Corynorhinus,townsendii,,Townsend's Big-eared Bat,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Eptesicus,fuscus,,Big Brown Bat,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Euderma,maculatum,,Spotted Bat,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Idionycteris,phyllotis,,Allen's Big-eared Bat,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Lasionycteris,noctivagans,,Silver-haired Bat,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Lasiurus,cinereus,,Hoary Bat,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Myotis,californicus,,California Myotis,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Myotis,ciliolabrum,,Western Small-footed Myotis,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Myotis,evotis,,Long-eared Myotis,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Myotis,thysanodes,,Fringed Myotis,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Myotis,volans,,Long-legged Myotis,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Myotis,yumanensis,,Yuma Myotis,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Pipistrellus,hesperus,,Western Pipistrelle,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Lepus,californicus,,Black-tailed Jackrabbit,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Sylvilagus,audubonii,,Desert Cottontail,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Castor,canadensis,,American Beaver,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Erethizon,dorsatum,,North American Porcupine,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Thomomys,bottae,,Botta's Pocket Gopher,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Dipodomys,ordii,,Ord's Kangaroo Rat,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Perognathus,flavescens,,Plains Pocket Mouse,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Perognathus,parvus,,Great Basin Pocket Mouse,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Neotoma,albigula,,Western White-throated Woodrat,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Neotoma,cinerea,,Bushy-tailed Woodrat,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Neotoma,lepida,,Desert Woodrat,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Neotoma,mexicana,,Mexican Woodrat,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Ondatra,zibethicus,,Common Muskrat,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Onychomys,leucogaster,,Northern Grasshopper Mouse,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Peromyscus,boylii,,Brush Mouse,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Peromyscus,crinitus,,Canyon Mouse,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Peromyscus,maniculatus,,Deer Mouse,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Peromyscus,truei,,Pinon Mouse,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Reithrodontomys,megalotis,,Western Harvest Mouse,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Ammospermophilus,leucurus,,White-tailed Antelope Squirrel,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Neotamias,rufus,,Hopi Chipmunk,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Spermophilus,variegatus,,Rock Squirrel,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+MOAB,Notiosorex,crawfordi,,Crawford's Desert Shrew,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
+NIWO,Sorex,cinereus,,Masked shrew,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
+NIWO,Sorex,nanus,,Dwarf Shrew,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
+NIWO,Sorex ,monticolus,,Montane Shrew,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
+NIWO,Ochotona,princeps,,American Pika,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
+NIWO,Lepus,americanus,,Snowshoe Hare,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
+NIWO,Lepus,townsendii,,White-tailed Jackrabbit,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
+NIWO,Tamias ,minimus,,least chipmunk,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
+NIWO,Marmota,flaviventris,,yellow-bellied marmot,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
+NIWO,Spermophilus,lateralis,,Golden-mantled Ground Squirrel,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
+NIWO,Thomomys,talpoides,,Northern Pocket Gopher,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
+NIWO,Peromyscus,maniculatus,,Deer Mouse,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
+NIWO,Neotoma,cinerea,,Bushy-tailed Woodrat,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
+NIWO,Clethrionomys,gapperi,,Southern red-backed vole,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
+NIWO,Phenacomys,intermedius,,Heather vole,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
+NIWO,Microtus,montanus,,Montane vole,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
+NIWO,Microtus,longicaudus,,Long-tailed Vole,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
+NIWO,Zapus,princeps,,Western Jumping Mouse,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
+NIWO,Erethizon,dorsatum,,Porcupine,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
+NIWO,Canis,latrans,,Coyote,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
+NIWO,Canis,lupus,,Gray Wolf,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
+NIWO,Vulpes,vulpes,,Red fox,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
+NIWO,Ursus,americanus,,Black Bear,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
+NIWO,Ursus,arctos,,Grizzly Bear,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
+NIWO,Martes,americana,,American Marten,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
+NIWO,Mustela,erminea,,Short-tailed Weasel,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
+NIWO,Mustela,frenata,,Long-tailed Weasel,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
+NIWO,Taxidea,taxus,,American Badger,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
+NIWO,Felis,concolor,,Mountain Lion,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
+NIWO,Felis,rufus,,Bobcat,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
+NIWO,Cervus,elaphus,,American Elk,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
+NIWO,Odocoileus,hemionus,,Mule Deer,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
+NIWO,Bison,bison,,Bison,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
+NIWO,Ovis,canadensis,,Bighorn Sheep,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
+ORNL,Sorex,longirostris,,Southeastern shrew,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Sorex,fumeus,,Smoky shrew,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Blarina,brevicauda,,Northern short-tailed shrew ,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Sorex,dispar,,Rock (long-tailed) shrew,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Sorex,cinereus,,Masked shrew,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Cryptotis,parva,,Least shrew,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Scalopus,aquaticus,,Eastern mole,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Myotis,grisescens,,Gray bat,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Perimyotis,subflavus,,Tri-colored  bat ,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Lasionycteris,noctivagans,,Silver-haired bat,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Eptesicus,fuscus,,Big brown bat,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Lasiurus,borealis,,Eastern red bat,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Nycticeius,humeralis,,Evening bat,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Myotis,lucifugus,,Little brown bat,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Lasiurus,seminolus,,Seminole bat,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Sylvilagus,floridanus,,Eastern cottontail ,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Tamias,striatus,,Eastern chipmunk ,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Marmota,monax,,Groundhog,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Sciurus,carolinensis,,Eastern gray squirrel,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Glaucomys,volans,,Southern flying squirrel ,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Castor,canadensis,,Beaver,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Zapus,hudsonius,,Meadow jumping mouse,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Napaeozapus,insignis,,Woodland jumping mouse,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Reithrodontomys,humulis,,Eastern harvest mouse,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Peromyscus,leucopus,,White-footed mouse ,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Peromyscus,nuttalli,,Golden mouse ,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Peromyscus,maniculatus,,Deer mouse,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Synaptomys,cooperi,,Southern bog lemming,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Oryzomys,palustris,,Marsh rice rat,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Sigmodon,hispidus,,Hispid cotton rat,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Pitymys,pinetorum,,Woodland vole,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Microtus,pennsylvanicus,,Meadow vole,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Ondatra,zibethicus,,Muskrat,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Rattus,norvegicus,,Norway rat,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Mus,musculus,,House mouse,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Canis,latrans,,Coyote,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Vulpes,vulpes,,Red fox,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Urocyon,cinereoargenteus,,Gray fox,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Procyon,lotor,,Raccoon,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Mustela,frenata,,Long-tailed weasel,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Mustela,vison,,Mink,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Lontra,canadensis,,Northern River Otter,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Didelphis,virginiana,,Opossum ,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Mephitis,mephitis,,Striped skunk,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Sus,scrofa,,Feral hog,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Lynx,rufus,,Bobcat,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Odocoileus,virginianus,,White-tailed deer,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Cervus,canadensis,,Elk,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Ursus,americana,,Black bear,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+OSBS,Didelphis,virginiana,pigra,Virginia opossum,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Sorex,longirostris,longirostris,Southeastern shrew,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Blarina,carolinensis,,Short-tailed shrew,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Cryptotis,parva,floridana,Least shrew,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Scalopus,aquaticus,australis,Southern mole,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Lasiurus,intermedius,,Yellow bar,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Nycticeius,humeralis,humeralis,Evening bat,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Myotis,austroriparius,austroriparius,Southeastern bat,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Dasypus,novemcinctus,mexicanus,Mexican nine-banded armadillo,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Sylvilagus,palustris,paludicola,Marsh rabbit,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Sylvilagus,floridanus,mallurus,Cottontail,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Sciurus,carolinensis,carolinensis,Eastern gray squirrel,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Sciurus,niger,shermani,Sherman's fox squirrel,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Glaucomys,volans,querceti,Southern flying squirrel,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Geomys,pinetis,floridanus,Florida pocket gopher,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Castor,canadensis,carolinensis,Beaver,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Peromyscus,polionotus,subgriseus,Old field mouse,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Peromyscus,gossypinus,gossypinus,Cotton mouse,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Podomys,floridanus,,Florida mouse,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Ochrotomys,nuttalli,oreolis,Golden mouse,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Sigmodon,hispidus,hispidus,Cotton rat,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Oryzomys,palustris,natator,Rice rat,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Neotoma,floridana,floridana,Florida wood rat,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Neofiber,alleni,,Round-tailed muskrat,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Vulpes,vulpes,,Red fox,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Urocyon,cinereoargenteus,floridanus,Gray fox,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Canis,familiaris,,Dog,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Canis,latrans,frustror,Coyote,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Procyon,lotor,elucus,Raccoon,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Lutra,canadensis,vaga,Otter,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Mephitis,mephitis,elongata,Striped skunk,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Lynx,rufus,floridanus,Florida bobcat,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Felis,sylvestris,catus,Domestic cat,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Ursus,americanus,floridanus,Florida black bear,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+OSBS,Odocoileus,virginiana,seminola,White-tailed deer,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
 POKE,Alces,alces,,Moose,http://www.mendeley.com/c/5076198512/g/2058663/animal-species-list-from-bona-for-poke/
-
 POKE,Rangifer,tarandus,,Caribou,http://www.mendeley.com/c/5076198512/g/2058663/animal-species-list-from-bona-for-poke/
-
 POKE,Canis,latrans,,Coyote,http://www.mendeley.com/c/5076198512/g/2058663/animal-species-list-from-bona-for-poke/
-
 POKE,Canis,lupus,,Gray Wolf,http://www.mendeley.com/c/5076198512/g/2058663/animal-species-list-from-bona-for-poke/
-
 POKE,Vulpes,vulpes,,Red Fox,http://www.mendeley.com/c/5076198512/g/2058663/animal-species-list-from-bona-for-poke/
-
 POKE,Gulo,gulo,,Wolverine,http://www.mendeley.com/c/5076198512/g/2058663/animal-species-list-from-bona-for-poke/
-
 POKE,Martes,americana,,Marten,http://www.mendeley.com/c/5076198512/g/2058663/animal-species-list-from-bona-for-poke/
-
 POKE,Mustela,erminea,,Ermine,http://www.mendeley.com/c/5076198512/g/2058663/animal-species-list-from-bona-for-poke/
-
 POKE,Mustela,nivalis,,Least Weasel,http://www.mendeley.com/c/5076198512/g/2058663/animal-species-list-from-bona-for-poke/
-
 POKE,Mustela,vision,,Mink,http://www.mendeley.com/c/5076198512/g/2058663/animal-species-list-from-bona-for-poke/
-
 POKE,Ursus,americanus,,Black Bear,http://www.mendeley.com/c/5076198512/g/2058663/animal-species-list-from-bona-for-poke/
-
 POKE,Myotis,lucifugus,,Little Brown Bat,http://www.mendeley.com/c/5076198512/g/2058663/animal-species-list-from-bona-for-poke/
-
 POKE,Sorex,arcticus,,Arctic Shrew,http://www.mendeley.com/c/5076198512/g/2058663/animal-species-list-from-bona-for-poke/
-
 POKE,Sorex,cinereus,,Masked Shrew,http://www.mendeley.com/c/5076198512/g/2058663/animal-species-list-from-bona-for-poke/
-
 POKE,Sorex,hoyi,,Pygmy Shrew,http://www.mendeley.com/c/5076198512/g/2058663/animal-species-list-from-bona-for-poke/
-
 POKE,Sorex,obscurus,,Dusky Shrew,http://www.mendeley.com/c/5076198512/g/2058663/animal-species-list-from-bona-for-poke/
-
 POKE,Lepus,americanus,,Snowshoe Hare,http://www.mendeley.com/c/5076198512/g/2058663/animal-species-list-from-bona-for-poke/
-
 POKE,Castor,canadensis,,Beaver,http://www.mendeley.com/c/5076198512/g/2058663/animal-species-list-from-bona-for-poke/
-
 POKE,Zapus,hudsonius,,Meadow Jumping Mouse,http://www.mendeley.com/c/5076198512/g/2058663/animal-species-list-from-bona-for-poke/
-
 POKE,Erethizon,dorsatum,,Porcupine,http://www.mendeley.com/c/5076198512/g/2058663/animal-species-list-from-bona-for-poke/
-
 POKE,Clethrionomys,rutilus,,Northern Red-backed Vole,http://www.mendeley.com/c/5076198512/g/2058663/animal-species-list-from-bona-for-poke/
-
 POKE,Lemmus,sibiricus,,Brown Lemming,http://www.mendeley.com/c/5076198512/g/2058663/animal-species-list-from-bona-for-poke/
-
 POKE,Microtus,longicaudus,,Long-tailed Vole,http://www.mendeley.com/c/5076198512/g/2058663/animal-species-list-from-bona-for-poke/
-
 POKE,Microtus,miurus,,Singing Vole,http://www.mendeley.com/c/5076198512/g/2058663/animal-species-list-from-bona-for-poke/
-
 POKE,Microtus,oeconomus,,Tundra Vole,http://www.mendeley.com/c/5076198512/g/2058663/animal-species-list-from-bona-for-poke/
-
 POKE,Microtus,pennsylvanicus,,Meadow Vole,http://www.mendeley.com/c/5076198512/g/2058663/animal-species-list-from-bona-for-poke/
-
 POKE,Microtus,xanthognathus,,Yellow-cheeked Vole,http://www.mendeley.com/c/5076198512/g/2058663/animal-species-list-from-bona-for-poke/
-
 POKE,Ondatra,zibethicus,,Muskrat,http://www.mendeley.com/c/5076198512/g/2058663/animal-species-list-from-bona-for-poke/
-
 POKE,Synaptomys,borealis,,Northern Bog Lemming,http://www.mendeley.com/c/5076198512/g/2058663/animal-species-list-from-bona-for-poke/
-
 POKE,Glaucomys,sabrinus,,Northern Flying Squirrel,http://www.mendeley.com/c/5076198512/g/2058663/animal-species-list-from-bona-for-poke/
-
 POKE,Marmota,monax,,Woodchuck,http://www.mendeley.com/c/5076198512/g/2058663/animal-species-list-from-bona-for-poke/
-
 POKE,Tamiasciurus,hudsonicus,,Red Squirrel,http://www.mendeley.com/c/5076198512/g/2058663/animal-species-list-from-bona-for-poke/
-
+RBUT,Sorex,palustris,,water shrew,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
+RBUT,Sorex,vagrans,,wandering shrew,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
+RBUT,Sorex,cinereus,,masked shrew,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
+RBUT,Eptesicus,fuscus,,big brown bat,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
+RBUT,Lasiurus,townsendii,,white-tailed jackrabbit,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
+RBUT,Sylvilagus,nuttallii,,Nuttall cottontail,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
+RBUT,Tamiasciurus,hudsonicus,,red squirrel,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
+RBUT,Marmota,flaviventer,,yellow-bellied marmot,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
+RBUT,Spermophilus,armatus,,Uinta ground squirrel,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
+RBUT,Spermophilus,variegatus,,rock squirrel,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
+RBUT,Eutamias,minimus,,least chipmunk,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
+RBUT,Glaucomys,sabrinus,,northern flying squirrel,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
+RBUT,Thomomys,talpoides,,northern pocket gopher,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
+RBUT,Thomomys,bottae,,botta pocket gopher,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
+RBUT,Castor,canadensis,,beaver,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
+RBUT,Reithrodontomys,megalotis,,western harvest mouse,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
+RBUT,Peromyscus,maniculatus,,deer mouse,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
+RBUT,Peromyscus,boylii,,brush mouse,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
+RBUT,Clethrionomys,gapperi,,red-backed vole,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
+RBUT,Ondatra,zibethicus,,muskrat,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
+RBUT,Phenacomys,intermedius,,heather vole,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
+RBUT,Microtus,montanus,,montane vole,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
+RBUT,Microtus,longicaudus,,long-tailed vole,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
+RBUT,Arvicola,richardsoni,,water vole,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
+RBUT,Zapus,princeps,,western jumping mouse,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
+RBUT,Erethizon,dorsatum,,porcupine,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
+RBUT,Canis,latrans,,coyote,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
+RBUT,Bassariscus,astutus,,ring-tailed cat,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
+RBUT,Procyon,lotor,,racoon,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
+RBUT,Mustela,frenata,,long-tailed weasel,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
+RBUT,Mustela,erminea,,ermine,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
+RBUT,Mustela,vison,,mink,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
+RBUT,Taxidea,taxus,,badger,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
+RBUT,Mephitis,mephitis,,striped skunk,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
+RBUT,Lynx,rufus,,bobcat,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
+RBUT,Felis,concolor,,mountain lion,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
+RBUT,Cervus,canadensis,,elk,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
+RBUT,Odocoileus,heminous,,mule deer,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
+RBUT,Alces,americanus,,moose,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
+SERC,Sciurus,canadensis,,,http://www.mendeley.com/c/5001047982/g/2058663/gomez-2008-land-use-and-west-nile-virus-seroprevalence-in-wild-mammals/
+SERC,Didelphis,virginiana,,,http://www.mendeley.com/c/5001047982/g/2058663/gomez-2008-land-use-and-west-nile-virus-seroprevalence-in-wild-mammals/
+SERC,Peromyscus,leucopus,,,http://www.mendeley.com/c/5001047982/g/2058663/gomez-2008-land-use-and-west-nile-virus-seroprevalence-in-wild-mammals/
+SERC,Procyon,lotor,,,http://www.mendeley.com/c/5001047982/g/2058663/gomez-2008-land-use-and-west-nile-virus-seroprevalence-in-wild-mammals/
+SERC,Felis,catus,,,http://www.mendeley.com/c/5001047982/g/2058663/gomez-2008-land-use-and-west-nile-virus-seroprevalence-in-wild-mammals/
+SERC,Marmota,monax,,,http://www.mendeley.com/c/5001047982/g/2058663/gomez-2008-land-use-and-west-nile-virus-seroprevalence-in-wild-mammals/
+SERC,Sylvilagus,floridanus,,,http://www.mendeley.com/c/5001047982/g/2058663/gomez-2008-land-use-and-west-nile-virus-seroprevalence-in-wild-mammals/
+SERC,Didelphis,virginiana,,North American opossum,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Blarina,brevicauda,,short-tailed shrew,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Scalopus,aquaticus,,eastern mole,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Condylura,cristata,,starnose mole,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Eptesicus,fuscus,,big brown bat,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Sylvilagus,floridanus,,eastern cottontail,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Tamias,striatus,,eastern chipmunk,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Marmota,monax,,woodchuck,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Sciurus,carolinensis,,gray squirrel,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Glaucomys,volans,,southern flying squirrel,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Castor,canadensis,,beaver,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Oryzomys,palustris,,marsh rice rat,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Peromyscus,leucopus,,whire-footed mice,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Microtis,pennsylvanicus,,meadow vole,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Pitymys,pinetorum,,pine vole,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Ondatra,zibethicus,,muskrat,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Mus,musculus,,house mouse,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Zapus,hudsonicus,,meadow jumping mice,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Canis,latrans,,coyote,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Vulpes,vulpes,,red fox,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Urocyon,cinereoargenteus,,gray fox,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Procyon,lotor,,raccoon,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Mephitis,mephitis,,striped skunk,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Lutra,canadensis,,river otter,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Lynx,rufus,,bobcat,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Tursiops,truncatus,,bottlenose dolphin,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Cervus,nippon,,sika deer,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Odocoileus,virginianus,,white-tailed deer,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Sorex,cinereus,,masked shrew,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Sorex,longirostris,,southeastern shrew,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Microsorex,hoyi,,pygmy shrew,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Cryptotis,parva,,least shrew,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Myotis,lucifugus,,little brown bat,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Myotis,septentrionalis,,northern long-eared bat,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Lasionycteris,noctivagans,,silver-haired bat,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Perimyotis,subflavus,,eastern pipistrelle,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Lasiurus,borealis,,red bat,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Lasiurus,cinereus,,hoary bat,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Nycticeius,humeralis,,evening bat,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Sciurus,niger,,fox squirrel,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Tamasciurus,hudsonicus,,red squirrel,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Synapotmys,cooperi,,southern bog lemming,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Rattus,norvegicus,,Norway rat,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Mustela,frenata,,long-tailed weasel,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Mustela,vison,,mink,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SRER,Lepus,californicus,,black tailed jackrabbit,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
+SRER,Lepus,alleni,,antelope jackrabbit,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
+SRER,Citellus,harrisi,,gray-tailed antelope squirrel,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
+SRER,Citellus,tereticaudus,,round-tailed ground squirrel,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
+SRER,Perognathus,amplus,,Arizona pocket mouse,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
+SRER,Perognathus,baileyi,,Bailey pocket mouse,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
+SRER,Perognathus,penicillatus,,Desert pocket mouse           ,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
+SRER,Dipodomys,spectabilis,,Banner-tailed kangaroo rat    ,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
+SRER,Dipodomys,merriami,,Merriam's kangaroo rat        ,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
+SRER,Reithrodontomys,megalotis,,desert harvest mouse,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
+SRER,Peromyscus,merriami,,Merriam mouse,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
+SRER,Onychomys,leucogaster,,Grasshopper mouse,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
+SRER,Neotoma,albigula,,white-throated packrat,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
+SRER,Canis ,latrans,,coyote,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
+SRER,Urocyon,cinereoargenteus,,gray fox,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
+SRER,Bassariscus,astutus,,Ringtail                      ,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
+SRER,Taxidea,taxus,,Badger,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
+SRER,Mephitis,mephitis,,common stiped skunk,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
+SRER,Conepatus,mesoleucus,,wester rooter skunk,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
+SRER,Lynx,rufus,,bobcat,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
+SRER,Tayassu,tajacu,,collared pecary,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
+SRER,Odocoileus,virginianus,,white-tailed deer,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
+SRER,Odocoileus,hemionus,,mule deer,http://www.mendeley.com/c/5026781362/g/2058663/martin-1973-the-santa-rita-experimental-range--your-facility-for-research-on-semidesert-ecosystems/
+STER,Didelphis,virginiana,,Opossum,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Cryptotis,parva,,Least Shrew,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Sorex,cinereus,,Masked Shrew,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Scalopus,aquaticus,,Eastern Mole,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Eptesicus,fuscus,,Big Brown Bat,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Lasionycteris,noctivagans,,Silver-haired Bat,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Lasiurus,borealis,,Red Bat,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Lasiurus,cinereus,,Hoary Bat,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Myotis,ciliolabrum,,Western Small-footed Myotis,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Myotis,lucifugus,,Little Brown Myotis,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Nyctinomops,macrotis,,Big Free-tailed Bat,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Lepus,californicus,,Blacktail Jackrabbit,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Lepus,townsendi,,Whitetail Jackrabbit,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Sylvilagus,auduboni,,Desert Cottontail,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Sylvilagus,floridanus,,Eastern Cottontail,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Cynomys,ludovicianus,,Black-tailed Prairie Dog,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Sciurus,niger,,Fox Squirrel,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Spermophilus,spilosoma,,Spotted Ground Squirrel,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Spermophilus,tridecemlineatus,,Thirteen-lined Ground Squirrel,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Geomys,bursarius,,Plains Pocket Gopher,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Castor,canadensis,,Beaver,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Chaetodipus,hispidus,,Hispid Pocket Mouse,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Dipodomys,ordii,,Ord's Kangaroo Rat,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Microtus,ochrogaster,,Prairie Vole,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Microtus,pennsylvanicus,,Meadow Vole,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Mus,musculus,,House Mouse,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Neotoma,cinerea,,Bushy-tailed Woodrat,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Ondatra,zibethicus,,Muskrat,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Onychamys,leucogaster,,Northern Grasshopper Mouse,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Perognathus,flavescens,,Plains Pocket Mouse,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Perognathus,flavus,,Silky Pocket Mouse,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Peromyscus,maniculatus,,Deer Mouse,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Reithrodontomys,megalotis,,Western Harvest Mouse,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Reithrodontomys,montanus,,Plains Harvest Mouse,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Erethizon,dorsatum,,Porcupine,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Canis,latrans,,Coyote,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Vulpes,velox,,Swift fox,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Vulpes,vulpes,,Red Fox,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Procyon,lotor,,Raccoon,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Mephitis,mephitis,,Striped Skunk,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Mustela,frenata,,Longtail Weasel,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Mustela,vison,,Mink,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Spilogale,putorius,,Eastern Spotted Skunk,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Taxidea,taxus,,Badger,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Felis,concolor,,Mountain Lion,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Lynx,rufus,,Bobcat,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Cervus,canadensis,(elaphus),Elk,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Odocoileus,virginianus,,Whitetail Deer,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Odocoileus,hemionus,,Mule Deer,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+STER,Antilocapra,americana,,Pronghorn,http://www.mendeley.com/c/5023417322/g/2058663/2008-north-sterling-state-park-wildlife-list/
+TALL,Corynorhinus,rafinesquii,,Rafinesque’s big-eared bat,http://www.mendeley.com/c/5014516852/g/2058663/evans-2007-environmental-assessment---non-native-invasive-plant-species-control/
+TALL,Myotis,leibii,,Eastern small-footed bat,http://www.mendeley.com/c/5014516852/g/2058663/evans-2007-environmental-assessment---non-native-invasive-plant-species-control/
+TALL,Myotis,sodalist,,Gray bat,http://www.mendeley.com/c/5014516852/g/2058663/evans-2007-environmental-assessment---non-native-invasive-plant-species-control/
+TREE,Canis,lupus,,Gray Wolf,http://www.mendeley.com/download/shared/2058663/5072967812/7460a93d356b55a52ff964f05426339f1cc06e01/dl.html
+WOOD,Blarina,brevicauda,,Northern short-tailed shrew,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
+WOOD,Sorex,arcticus,,Arctic shrew,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
+WOOD,Sorex,cinereus,,Masked shrew,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
+WOOD,Myotis,lucifugus,,Little brown bat,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
+WOOD,Canis,latrans,,Coyote,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
+WOOD,Vulpes,vulpes,,Red fox,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
+WOOD,Procyon,lotor,,Raccoon,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
+WOOD,Mustela,frenata,,Long-tailed weasel,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
+WOOD,Mustela,nivalis,,Least weasel,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
+WOOD,Mustela,vison,,Mink,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
+WOOD,Taxidea,taxus,,Badger,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
+WOOD,Mephitis,mephitis,,Striped skunk,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
+WOOD,Odocoileus,hemionus,,Mule deer,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
+WOOD,Odocoileus,virginianus,,White-tailed deer,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
+WOOD,Sciurus,niger,,Eastern fox squirrel,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
+WOOD,Spermophilis,franklinii,,Franklin's ground squirrrel,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
+WOOD,Spermophilis,richardsoni,,Richardson's ground squirrel,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
+WOOD,Spermophilis,tridecemlineatus,,Thirteen-lined ground squirrel,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
+WOOD,Thomomys,talpoides,,Northern pocket gopher,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
+WOOD,Onychomys,leucogaster,,Northern grasshopper mouse,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
+WOOD,Peromyscus,maniculatus,,Deer mouse,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
+WOOD,Reithrodonotomys,megalotis,,Western harvest mouse,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
+WOOD,Microtus,pennsylvanicus,,Meadow vole,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
+WOOD,Ondatra,zibethicus,,Muskrat,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
+WOOD,Mus,musculus,,House mouse,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
+WOOD,Rattus,norvegicus,,Norway rat,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
+WOOD,Zapus,hudsonius,,Meadow jumping mouse,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
+WOOD,Lepus,townsendii,,White-tailed jackrabbit,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
+WOOD,Sylvilagus,nuttalli,,Nuttall's cottontail,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
 WOOD,Blarina,brevicauda,,Northern short-tailed shrew,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-duplicate-copy-for-dcfs/
-
 WOOD,Sorex,arcticus,,Arctic shrew,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-duplicate-copy-for-dcfs/
-
 WOOD,Sorex,cinereus,,Masked shrew,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-duplicate-copy-for-dcfs/
-
 WOOD,Myotis,lucifugus,,Little brown bat,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-duplicate-copy-for-dcfs/
-
 WOOD,Canis,latrans,,Coyote,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-duplicate-copy-for-dcfs/
-
 WOOD,Vulpes,vulpes,,Red fox,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-duplicate-copy-for-dcfs/
-
 WOOD,Procyon,lotor,,Raccoon,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-duplicate-copy-for-dcfs/
-
 WOOD,Mustela,frenata,,Long-tailed weasel,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-duplicate-copy-for-dcfs/
-
 WOOD,Mustela,nivalis,,Least weasel,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-duplicate-copy-for-dcfs/
-
 WOOD,Mustela,vison,,Mink,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-duplicate-copy-for-dcfs/
-
 WOOD,Taxidea,taxus,,Badger,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-duplicate-copy-for-dcfs/
-
 WOOD,Mephitis,mephitis,,Striped skunk,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-duplicate-copy-for-dcfs/
-
 WOOD,Odocoileus,hemionus,,Mule deer,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-duplicate-copy-for-dcfs/
-
 WOOD,Odocoileus,virginianus,,White-tailed deer,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-duplicate-copy-for-dcfs/
-
 WOOD,Sciurus,niger,,Eastern fox squirrel,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-duplicate-copy-for-dcfs/
-
 WOOD,Spermophilis,franklinii,,Franklin's ground squirrrel,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-duplicate-copy-for-dcfs/
-
 WOOD,Spermophilis,richardsoni,,Richardson's ground squirrel,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-duplicate-copy-for-dcfs/
-
 WOOD,Spermophilis,tridecemlineatus,,Thirteen-lined ground squirrel,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-duplicate-copy-for-dcfs/
-
 WOOD,Thomomys,talpoides,,Northern pocket gopher,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-duplicate-copy-for-dcfs/
-
 WOOD,Onychomys,leucogaster,,Northern grasshopper mouse,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-duplicate-copy-for-dcfs/
-
 WOOD,Peromyscus,maniculatus,,Deer mouse,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-duplicate-copy-for-dcfs/
-
 WOOD,Reithrodonotomys,megalotis,,Western harvest mouse,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-duplicate-copy-for-dcfs/
-
 WOOD,Microtus,pennsylvanicus,,Meadow vole,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-duplicate-copy-for-dcfs/
-
 WOOD,Ondatra,zibethicus,,Muskrat,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-duplicate-copy-for-dcfs/
-
 WOOD,Mus,musculus,,House mouse,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-duplicate-copy-for-dcfs/
-
 WOOD,Rattus,norvegicus,,Norway rat,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-duplicate-copy-for-dcfs/
-
 WOOD,Zapus,hudsonius,,Meadow jumping mouse,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-duplicate-copy-for-dcfs/
-
 WOOD,Lepus,townsendii,,White-tailed jackrabbit,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-duplicate-copy-for-dcfs/
-
 WOOD,Sylvilagus,nuttalli,,Nuttall's cottontail,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-duplicate-copy-for-dcfs/
-
+FEXF,Antilocapra,americana,,Pronghorn Antelope,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Bos,taurus,,"domestic cattle (feral), aurochs, domesticated cattle",http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Ovis,canadensis,,bighorn sheep,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Alces,alces,,Moose,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Cervus,elaphus,,"wapiti, or American elk",http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Odocoileus,hemionus,,mule deer,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Canis,latrans,,coyote,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Urocyon,cinereoargenteus,,gray fox,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Vulpes,vulpes,,red fox,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Lynx,rufus,,Bobcat,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Puma,concolor,,mountain lion,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Mephitis,mephitis,,striped skunk,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Spilogale,gracilis,,western spotted skunk,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Lontra,canadensis,,river otter,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Martes,americana,,marten,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Mustela,erminea,,ermine,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Mustela,frenata,,long-tailed weasel,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Mustela,vison,,Mink,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Taxidea,taxus,,badger,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Procyon,lotor,,raccoon,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Ursus,americanus,,black bear,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Lasionycteris,noctivagans,,silver-haired bat,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Lasiurus,cinereus,,hoary bat,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Myotis,ciliolabrum,,Western small-footed myotis,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Myotis,evotis,,long-eared myotis,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Myotis,lucifugus,,little brown bat,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Myotis,volans,,long-legged myotis,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Plecotus,townsendii,,townsend's big-eared bat,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Lepus,americanus,,snowshoe hare,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Lepus,townsendii,,white-tailed jackrabbit,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Sylvilagus,nuttallii,,nuttall's cottontail,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Ochotona,princeps,,pika,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Castor,canadensis,,beaver,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Zapus,princeps,,western jumping mouse,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Erethizon,dorsatum,,porcupine,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Thomomys,talpoides,,northern pocket gopher,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Clethrionomys,gapperi,,southern red-backed vole,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Microtus,longicaudus,,long-tailed vole,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Microtus,montanus,,montane vole,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Neotoma,cinerea,,bushy-tailed woodrat,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Neotoma,mexicana,,mexican woodrat,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Ondatra,zibethicus,,muskrat,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Peromyscus,maniculatus,,deer mouse,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Peromyscus,nasutus,,rock mouse,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Phenacomys,intermedius,,heather vole,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Marmota,flaviventris,,yellow-bellied marmot,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Sciurus,aberti,,Abert's squirrel,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Sciurus,niger,,Fox Squirrel,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Spermophilus,elegans,,Wyoming ground squirrel,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Spermophilus,lateralis,,golden-mantled ground squirrel,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Spermophilus,variegatus,,rock squirrel,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Tamias,minimus,,least chipmunk,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Tamias,quadrivittatus,,Colorado chipmunk,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Tamias,umbrinus,,uinta chipmunk,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Tamiasciurus,hudsonicus,,"chickaree, Pine Squirrel",http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Sorex,cinereus,,masked shrew,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Sorex,monticolus,,montane shrew,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Sorex,nanus,,dwarf shrew,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Sorex,palustris,,water shrew,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
