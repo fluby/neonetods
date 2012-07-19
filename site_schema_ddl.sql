@@ -8,7 +8,7 @@ CREATE TABLE site_data.site_info_v11
 (
    domain_number                     varchar(255),
    domain_name                       varchar(255),
-   site_id                           varchar(255)     NOT NULL,
+   site_id                           varchar(4)     NOT NULL,
    site_name                         varchar(255),
    site_type                         varchar(255),
    latitude                          numeric,
@@ -22,8 +22,8 @@ CREATE TABLE site_data.site_info_v11
    state                             varchar(255),
    county                            varchar(255),
    nearest_city                      varchar(255),
-   distance_to_city_mi       				 numeric null,
-   existing_infrastructure  				 varchar(255),
+   distance_to_city_mi       		numeric null,
+   existing_infrastructure		varchar(255),
    website                           varchar(255),
    additional_website                varchar(255)
 );
@@ -49,8 +49,8 @@ COMMIT;
 DROP TABLE IF EXISTS site_data.site_personnel CASCADE;
 CREATE TABLE site_data.site_personnel
 (
-   site_id        varchar(255)    NOT NULL,
-   contact_name   varchar(255)    NOT NULL,
+   site_id        varchar(4)    	NOT NULL,
+   contact_name   varchar(255)    	NOT NULL,
    contact_title  varchar(255),
    contact_phone  varchar(255),
    contact_email  varchar(255),
