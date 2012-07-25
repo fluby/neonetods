@@ -1,6 +1,6 @@
 ,Domain,Site,Notes,Small Mammals ,Birds ,Trees/shrubs ,Forbs/Grasses ,Reptiles ,Amphibians,Beetles ,Mosquitoes 
-1,D03,DSNY,Used search protocol for initial sp_list. More work likely needed for completeness. ZB,"p_list-30+spp, waiting on response for shaky resource-ZB ",sp_list-waiting email response-ZB,sp_list-waiting for email response-ZB,sp_list-finished search protocol_ list remains incomplete-ZB,sp_list-finished search protocol_ list remains incomplete-ZB,sp_list-finished search protocol_ list remains incomplete-ZB,sp_list-finished search protocol_ list remains incomplete-ZB,sp_list-finished search protocol_ list remains incomplete-ZB
-2, ,JERC,Working on this site. ZB,sp_list - complete - ZB,"sp_list - 1002/1013 in reg ex, please help - ZB","sp_list - 1002/1013 in reg ex, please help - ZB",sp_list  - complete - ZB,sp_list  - complete - ZB,sp_list  - complete - ZB,complete search protocol- no data - ZB, complete search protocol- no data - ZB
+1,D03,DSNY,Used search protocol for initial sp_list. More work likely needed for completeness. ZB,sp_list- largely compete -ZB ,sp_list-waiting email response-ZB,sp_list-waiting for email response-ZB,sp_list-finished search protocol_ list remains incomplete-ZB,sp_list-finished search protocol_ list remains incomplete-ZB,sp_list-finished search protocol_ list remains incomplete-ZB,sp_list-finished search protocol_ list remains incomplete-ZB,sp_list-finished search protocol_ list remains incomplete-ZB
+2, ,JERC,Working on this site. ZB,sp_list - complete - ZB,sp_list - complete - regex confirmation warranted ZB,sp_list - complete - regex confirmation warranted ZB,sp_list  - complete - ZB,sp_list  - complete - ZB,sp_list  - complete - ZB,complete search protocol- no data - ZB, complete search protocol- no data - ZB
 3, ,OSBS,Used site website for lists.  EB,species list finished EB,species list finished EB,species list finished EB,species list finished EB,species list finished EB,species list finished EB,species list finished EB, 
 4,D10,CPER,COMPLETE -KL ,sp_list-NEON,sp_list-NEON,sp_list-NEON,sp_list - complete -KL ,sp_list -complete -KL ,sp_list -complete -KL ,sp_list-NEON,sp_list - complete -KL 
 5, ,RMNP,COMPLETE -KL,sp_list-NEON,sp_list-NEON,sp_list-NEON,sp_list complete -KL ,sp_list complete -KL ,sp_list complete -KL ,sp_list-NEON,sp_list-NEON
@@ -12,7 +12,7 @@
 11,,NOGP,Working on this site. -KL , ,awaiting sp_list from contact -KL ,awaiting sp_list from contact -KL , , , , , 
 12, ,WOOD,Working on this site. - XX ,sp_list largely complete - XX ,sp_list largely complete - XX ,sp_list largely complete - XX  ,sp_list largely complete - XX ,sp_list largely complete - XX ,sp_list largely complete - XX , sp_list from off site. incomplete. - XX,sp_list incomplete - XX  
 13,D02,BLAN,Working on this site. Contacted site curator. Emailed site research professor-KL ,sp_list largely complete -KL ,sp_list complete -KL ,sp_list complete -KL ,sp_list started -KL , , ,sp_list started -KL , 
-14,,SCBI,"Contact declined data. We'll use regional lists - ZB, KT", , , , , , , , 
+14,,SCBI,"Contact declined data. We'll use regional lists - ZB, KT",, , , , , , , 
 15, ,SERC,Largely Complete - ZB,sp_list - complete - ZB,sp_list - complete - ZB,sp_list - complete - ZB,sp_list - complete - ZB,sp_list - complete - ZB,sp_list - complete - ZB,Complete for Leaf Beetles and Lepidoptera - (SERC expert acknowledges lack of Carabid list) - ZB,sp_list - incomplete - ZB
 16,D08,CHOC,Working on this site. Waiting for response from contact. - XX , ,sp_list largely complete - XX ,sp_list largely complete - XX , , , , , 
 17, ,"DELA - Amistead Selden, Hale Co., AL - Greene Co. - Sawyerville (USACoE), Greensboro - Buckman's Island - Demopolis Wildlife Management Area",Waiting on contacts.- ZB, , , ,sp_list - incomplete - ZB, , , , 
@@ -33,7 +33,7 @@
 32,D05,STEI, , , , , , , , , 
 33, ,TREE,"Waiting for reply from contact.  Have data on sensitive species for the site, can get common names only for some of the other species. -EB", , , , , , , , 
 34, ,UNDE, , , , , , , , , 
-35,D13,FEXF,Waiting on contact. - ZB,"off_site, species list complete - ZB","off_site, species list complete - ZB","off_site, species list complete - ZB","off_site, species list complete - ZB","off_site, species list complete - ZB", ,sp_list incomplete - ZB, 
+35,D13,FEXF,Waiting on contact. - ZB,"off_site, species list complete - ZB","off_site, species list complete - ZB","off_site, species list complete - ZB","off_site, species list complete - ZB","off_site, species list complete - ZB","off_site, species list complete - ZB",sp_list incomplete - ZB, 
 36, ,MOAB,super site complete. - XX,super site complete. - XX ,super site complete. - XX ,super site complete. - XX ,super site complete. - XX ,super site complete. - XX ,super site complete. - XX ,super site complete. - XX ,super site complete. - XX 
 37, ,NIWO,working on this site. - XX ,sp_list complete. - XX ,sp_list largely complete. - XX ,sp_list largely complete. - XX ,no records. - XX ,no records. - XX ,no records. - XX , , 
 38,D15,MURR,"Contact declined data. We'll use regional lists - ZB, KT", , , , , , , , 
