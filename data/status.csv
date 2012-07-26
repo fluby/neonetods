@@ -1,4 +1,4 @@
-genus,sp,subsp,state,federal status,state status,notes,source
+genus,sp,subsp,state,federal status,state status,notes/additional state status,source
 Epioblasma,othcaloogensis,,Alabama,Endangered,,,
 Elliptoideus,sloatianus,,Alabama,Threatened,,,
 Myotis,grisescens,,Alabama,Endangered,,,
@@ -4205,3 +4205,561 @@ Lejeunea,blomquistii,,Alabama,,Critically imperiled,,http://www.mendeley.com/c/5
 Lejeunea,cardoti,,Alabama,,Critically imperiled,,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Homaliadelphus,sharpii,,Alabama,,Critically imperiled,,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Myurella,siberica,,Alabama,,Critically imperiled,,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
+Botaurus,lentiginosus,,Arizona,,Critically Imperiled,Imperiled,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Buteo,nitidus,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Buteo,nitidus,maxima,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Buteo,regalis,,Arizona,,Imperiled,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Buteogallus,anthracinus,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Caracara,cheriway,,Arizona,,Critically Imperiled,Imperiled,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Catharus,fuscescens,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Centrocercus,urophasianus,,Arizona,,Presumed extinct,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Charadrius,alexandrinus,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Charadrius,alexandrinus,nivosus,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Charadrius,montanus,,Arizona,,Critically Imperiled,Imperiled,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Coccyzus,americanus,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Coccyzus,americanus,occidentalis,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Colinus,virginianus,ridgwayi,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Contopus,cooperi,,Arizona,,Apparently Secure,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Dendrocygna,autumnalis,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Dendrocygna,bicolor,,Arizona,,SAN,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Dolichonyx,oryzivorus,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Dumetella,carolinensis,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Egretta,rufescens,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Egretta,thula,,Arizona,,Apparently Secure,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Empidonax,fulvifrons,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Empidonax,fulvifrons,pygmaeus,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Empidonax,traillii,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Empidonax,traillii,extimus,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Euptilotis,neoxenus,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Falco,femoralis,septentrionalis,Arizona,,Historical possibly extirpated,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Falco,peregrinus,,Arizona,,Apparently Secure,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Falco,peregrinus,anatum,Arizona,,Apparently Secure,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Glaucidium,brasilianum,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Glaucidium,brasilianum,cactorum,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Gymnogyps,californianus,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Haliaeetus,leucocephalus,,Arizona,,Apparently Secure,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Haliaeetus,leucocephalus,,Arizona,,Apparently Secure,wintering population,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Histrionicus,histrionicus,,Arizona,,SAN,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Ictinia,mississippiensis,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Ixobrychus,exilis,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Ixobrychus,exilis,hesperis,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Lanius,ludovicianus,,Arizona,,Apparently Secure,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Laterallus,jamaicensis,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Laterallus,jamaicensis,coturniculus,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Megaceryle,alcyon,,Arizona,,Imperiled,Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Meleagris,gallopavo,mexicana,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Mycteria,americana,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Pachyramphus,aglaiae,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Pandion,haliaetus,,Arizona,,Imperiled,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Passerculus,sandwichensis,rostratus,Arizona,,SA,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Passerculus,sandwichensis,rufofuscus,Arizona,,Imperiled,Vulnerable,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Pelecanus,occidentalis,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Pelecanus,occidentalis,californicus,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Pica,hudsonia,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Pinicola,enucleator,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Plegadis,chihi,,Arizona,,Imperiled,Vulnerable,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Polioptila,nigriceps,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Rallus,longirostris,yumanensis,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Rhynchopsitta,pachyrhyncha,,Arizona,,Historical possibly extirpated,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Setophaga,ruticilla,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Sternula,antillarum,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Strix,occidentalis,,Arizona,,Vulnerable,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Strix,occidentalis,lucida,Arizona,,Vulnerable,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Trogon,elegans,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Tyrannus,crassirostris,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Tyrannus,melancholicus,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Vireo,bellii,,Arizona,,Apparently Secure,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Vireo,bellii,arizonae,Arizona,,Apparently Secure,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Agosia,chrysogaster,,Arizona,,Vulnerable,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Agosia,chrysogaster,chrysogaster,Arizona,,Vulnerable,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Agosia,chrysogaster,ssp,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Campostoma,ornatum,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Catostomus,bernardini,,Arizona,,Presumed extinct,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Catostomus,clarki,,Arizona,,Vulnerable,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Catostomus,discobolus,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Catostomus,discobolus,discobolus,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Catostomus,discobolus,yarrowi,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Catostomus,insignis,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Catostomus,latipinnis,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Catostomus,sp 3,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Cyprinella,formosa,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Cyprinodon,arcuatus,,Arizona,,Presumed extinct,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Cyprinodon,eremus,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Cyprinodon,macularius,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Gila,cypha,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Gila,ditaenia,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Gila,elegans,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Gila,intermedia,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Gila,nigra,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Gila,purpurea,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Gila,robusta,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Gila,seminuda,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Ictalurus,pricei,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Lepidomeda,mollispinis,mollispinis,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Lepidomeda,vittata,,Arizona,,Critically Imperiled,Imperiled,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Meda,fulgida,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Oncorhynchus,apache,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Oncorhynchus,gilae,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Plagopterus,argentissimus,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Poeciliopsis,occidentalis,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Poeciliopsis,occidentalis,occidentalis,Arizona,,Critically Imperiled,Imperiled,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Poeciliopsis,occidentalis,sonoriensis,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Ptychocheilus,lucius,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Rhinichthys,osculus,,Arizona,,Vulnerable,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Tiaroga,cobitis,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Xyrauchen,texanus,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Amblycheila,baroni,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Amblycheila,picolominii,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Amblycheila,schwarzi,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Ameletus,falsus,,Arizona,,Historical possibly extirpated,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Anodonta,californiensis,,Arizona,,Critically Imperiled,Imperiled,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Apodemia,phyciodoides,,Arizona,,Historical possibly extirpated,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Calephelis,rawsoni,arizonensis,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Cicindela,hirticollis,corpuscula,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Cicindela,hornii,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Cicindela,oregona,maricopa,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Cicindela,praetextata,pallidofemora,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Cicindela,purpurea,cimarrona,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Daihinibaenetes,arizonensis,Arizona,Arizona,,Critically Imperiled,Vulnerable,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Eumorsea,pinaleno,,Arizona,,Critically Imperiled,Vulnerable,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Heterelmis,stephani,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Lycaena,ferrisi,,Arizona,,Critically Imperiled,Imperiled,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Oreohelix,grahamensis,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Oreohelix,yavapai,cummingsi,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Oxyloma,haydeni,haydeni,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Pyrgulopsis,arizonae,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Pyrgulopsis,bacchus,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Pyrgulopsis,bernardina,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Pyrgulopsis,conica,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Pyrgulopsis,deserta,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Pyrgulopsis,glandulosa,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Pyrgulopsis,montezumensis,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Pyrgulopsis,morrisoni,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Pyrgulopsis,simplex,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Pyrgulopsis,sola,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Pyrgulopsis,thompsoni,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Pyrgulopsis,trivialis,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Sonorella,allynsmithi,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Sonorella,christenseni,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Sonorella,eremita,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Sonorella,grahamensis,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Sonorella,imitator,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Sonorella,macrophallus,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Sonorella,papagorum,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Speyeria,nokomis,coerulescens,Arizona,,Historical possibly extirpated,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Stenopelmatus,navajo,,Arizona,,Critically Imperiled,Vulnerable,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Tryonia,gilae,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Tryonia,quitobaquitae,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Ammospermophilus,leucurus,tersus,Arizona,,Historical possibly extirpated,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Antilocapra,americana,mexicana,Arizona,,Presumed extinct,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Antilocapra,americana,sonoriensis,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Brachylagus,idahoensis,,Arizona,,State protected,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Canis,lupus,,Arizona,,Historical possibly extirpated,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Canis,lupus,baileyi,Arizona,,Presumed extinct,Critically Imperiled,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Canis,lupus,youngi,Arizona,,Presumed extinct,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Cervus,canadensis,,Arizona,,Presumed extinct,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Choeronycteris,mexicana,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Corynorhinus,townsendii,,Arizona,,Vulnerable,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Cynomys,ludovicianus,,Arizona,,Presumed extinct,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Dipodomys,microps,leucotis,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Dipodomys,spectabilis,baileyi,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Euderma,maculatum,,Arizona,,Critically Imperiled,Imperiled,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Eumops,perotis,californicus,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Eumops,underwoodi,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Herpailurus,yaguarondi,tolteca,Arizona,,SRF,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Idionycteris,phyllotis,,Arizona,,Imperiled,Vulnerable,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Lasiurus,blossevillii,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Lasiurus,xanthinus,,Arizona,,Imperiled,Vulnerable,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Leopardus,pardalis,,Arizona,,Presumed extinct,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Leptonycteris,curasoae,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Leptonycteris,curasoae,yerbabuenae,Arizona,,Imperiled,Vulnerable,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Lontra,canadensis,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Lontra,canadensis,sonora,Arizona,,Historical possibly extirpated,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Macrotus,californicus,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Microtus,longicaudus,leucophaeus,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Microtus,mexicanus,hualpaiensis,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Microtus,mexicanus,navaho,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Mustela,nigripes,,Arizona,,Presumed extinct,Critically Imperiled,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Myotis,ciliolabrum,,Arizona,,Vulnerable,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Myotis,evotis,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Myotis,occultus,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Myotis,thysanodes,,Arizona,,Vulnerable,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Myotis,velifer,,Arizona,,Vulnerable,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Myotis,volans,,Arizona,,Vulnerable,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Myotis,yumanensis,,Arizona,,Vulnerable,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Nyctinomops,femorosaccus,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Nyctinomops,macrotis,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Ovis,canadensis,,Arizona,,Vulnerable,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Panthera,onca,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Perognathus,amplus,amplus,Arizona,,Secure,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Perognathus,amplus,cineris,Arizona,,Imperiled,Vulnerable,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Perognathus,flavus,goodpasteri,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Sciurus,nayaritensis,chiricahuae,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Sigmodon,arizonae,arizonae,Arizona,,Historical possibly extirpated,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Sigmodon,arizonae,jacksoni,Arizona,,Historical possibly extirpated,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Sigmodon,hispidus,eremicus,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Sigmodon,ochrognathus,,Arizona,,Apparently Secure,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Sorex,arizonae,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Sorex,palustris,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Spermophilus,tridecemlineatus,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Spermophilus,tridecemlineatus,monticola,Arizona,,Critically Imperiled,Imperiled,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Tamiasciurus,hudsonicus,grahamensis,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Thomomys,bottae,mearnsi,Arizona,,Secure,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Thomomys,bottae,subsimilis,Arizona,,Historical possibly extirpated,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Thomomys,umbrinus,intermedius,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Ursus,arctos,,Arizona,,Presumed extinct,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Ursus,arctos,horribilis,Arizona,,Presumed extinct,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Zapus,hudsonius,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Zapus,hudsonius,luteus,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Abutilon,parishii,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Abutilon,thurberi,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Acacia,farnesiana,,Arizona,,Critically Imperiled,Imperiled,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Aconitum,infectum,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Agave,arizonica,,Arizona,,SHYB,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Agave,chrysantha,,Arizona,,Apparently Secure,Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Agave,delamateri,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Agave,mckelveyana,,Arizona,,Apparently Secure,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Agave,murpheyi,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Agave,parviflora,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Agave,parviflora,parviflora,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Agave,schottii,treleasei,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Agave,toumeyana,bella,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Agave,utahensis,kaibabensis,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Allium,bigelovii,,Arizona,,Imperiled,Vulnerable,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Allium,glandulosum,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Allium,gooddingii,,Arizona,,Vulnerable,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Allium,parishii,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Allium,plummerae,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Allium,rhizomatum,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Amoreuxia,gonzalezii,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Amsonia,grandiflora,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Amsonia,kearneyana,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Apacheria,chiricahuensis,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Aquilegia,chrysantha,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Aquilegia,chrysantha,rydbergii,Arizona,,SRF,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Aquilegia,desertorum,,Arizona,,Apparently Secure,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Arctomecon,californica,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Arenaria,aberrans,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Argemone,arizonica,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Asclepias,lemmonii,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Asclepias,welshii,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Asplenium,dalhousiae,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Astragalus,amphioxys,musimonum,Arizona,,Historical possibly extirpated,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Astragalus,ampullarius,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Astragalus,beathii,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Astragalus,cobrensis,maguirei,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Astragalus,cremnophylax,cremnophylax,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Astragalus,cremnophylax,hevronii,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Astragalus,cremnophylax,myriorrhaphis,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Astragalus,geyeri,triquetrus,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Astragalus,holmgreniorum,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Astragalus,hypoxylus,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Astragalus,lentiginosus,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Astragalus,newberryi,aquarii,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Astragalus,preussii,cutleri,Arizona,,State protected,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Astragalus,rusbyi,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Astragalus,toanus,scidulus,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Astragalus,xiphoides,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Ayenia,glabra,SRF,Arizona,,SRF,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Berberis,harrisoniana,,Arizona,,Critically Imperiled,Imperiled,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Boerhavia,megaptera,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Botrychium,crenulatum,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Browallia,eludens,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Bursera,fagaroides,,Arizona,,Historical possibly extirpated,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Calypso,bulbosa,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Camissonia,brevipes,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Camissonia,exilis,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Camissonia,specuicola,hesperia,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Capsicum,annuum,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Capsicum,annuum,glabriusculum,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Carex,chihuahuensis,,Arizona,,Imperiled,Vulnerable,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Carex,specuicola,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Carex,ultra,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Castela,emoryi,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Castilleja,kaibabensis,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Castilleja,mogollonica,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Castilleja,nervata,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Choisya,mollis,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Chrysothamnus,,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Cimicifuga,arizonica,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Cirsium,parryi,mogollonicum,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Cirsium,virginense,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Cleome,multicaulis,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Coeloglossum,viride,virescens,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Conioselinum,mexicanum,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Coryphantha,missouriensis,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Coryphantha,recurvata,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Coryphantha,robbinsorum,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Coryphantha,scheeri,robustispina,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Coursetia,glabella,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Cryptantha,cinerea,arenicola,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Cryptantha,ganderi,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Cryptantha,insolita,,Arizona,,State protected,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Cuscuta,warneri,,Arizona,,Historical possibly extirpated,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Cycladenia,humilis,jonesii,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Cymopterus,megacephalus,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Cypripedium,parviflorum,pubescens,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Dalea,tentaculoides,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Desmanthus,covillei,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Draba,standleyi,,Arizona,,Imperiled,Vulnerable,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Dudleya,collomiae,,Arizona,,Apparently Secure,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Echinocactus,horizonthalonius,nicholii,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Echinocactus,polycephalus,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Echinocactus,polycephalus,polycephalus,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Echinocactus,polycephalus,xeranthemoides,Arizona,,Imperiled,Vulnerable,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Echinocereus,coccineus,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Echinocereus,fendleri,,Arizona,,Vulnerable,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Echinocereus,ledingii,,Arizona,,Apparently Secure,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Echinocereus,pectinatus,,Arizona,,Apparently Secure,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Echinocereus,pectinatus,neomexicanus,Arizona,,Apparently Secure,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Echinocereus,pectinatus,pectinatus,Arizona,,Apparently Secure,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Echinocereus,triglochidiatus,,Arizona,,Secure,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Echinocereus,triglochidiatus,arizonicus,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Echinomastus,erectocentrus,acunensis,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Echinomastus,erectocentrus,erectocentrus,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Enceliopsis,argophylla,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Epithelantha,micromeris,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Eremocrinum,albomarginatum,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Erigeron,anchana,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Erigeron,arisolius,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Erigeron,heliographis,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Erigeron,kuschei,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Erigeron,lemmonii,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Erigeron,piscaticus,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Erigeron,rhizomatus,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Erigeron,saxatilis,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Eriogonum,capillare,,Arizona,,Apparently Secure,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Eriogonum,ericifolium,ericifolium,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Eriogonum,mortonianum,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Eriogonum,ripleyi,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Eriogonum,terrenatum,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Eriogonum,thompsoniae,atwoodii,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Eriogonum,viscidulum,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Errazurizia,rotundata,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Eryngium,phyteumae,,Arizona,,SR,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Escobaria,alversonii,,Arizona,,State protected,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Escobaria,tuberculosa,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Escobaria,vivipara,rosea,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Eupatorium,bigelovii,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Euphorbia,gracillima,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Euphorbia,macropus,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Euphorbia,platysperma,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Ferocactus,cylindraceus,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Ferocactus,cylindraceus,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Ferocactus,cylindraceus,lecontei,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Ferocactus,emoryi,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Flaveria,mcdougallii,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Fremontodendron,californicum,,Arizona,,Imperiled,Vulnerable,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Gentianella,wislizeni,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Gentianopsis,barbellata,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Goodyera,repens,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Graptopetalum,bartramii,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Graptopetalum,rusbyi,,Arizona,,Apparently Secure,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Hackelia,ursina,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Hedeoma,costatum,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Hedeoma,dentatum,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Hedeoma,diffusum,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Helenium,arizonicum,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Helianthus,niveus,tephrodes,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Hermannia,pauciflora,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Heterotheca,rutteri,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Heuchera,eastwoodiae,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Heuchera,glomerulata,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Hexalectris,revoluta,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Hexalectris,spicata,,Arizona,,Vulnerable,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Hexalectris,warnockii,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Hieracium,pringlei,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Hieracium,rusbyi,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Ipomoea,plummerae,cuneifolia,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Ipomoea,thurberi,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Laennecia,eriophylla,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Lesquerella,kaibabensis,,Arizona,,Critically Imperiled,Imperiled,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Lilaeopsis,schaffneriana,recurva,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Lilium,parryi,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Limosella,pubiflora,,Arizona,,Presumed extinct,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Listera,convallarioides,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Lobelia,fenestralis,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Lobelia,laxiflora,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Lophocereus,schottii,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Lotus,alamosanus,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Lupinus,huachucanus,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Lupinus,latifolius,leucanthus,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Lupinus,lemmonii,,Arizona,,Critically Imperiled,Imperiled,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Lysiloma,watsonii,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Mabrya,acerifolia,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Macroptilium,supinum,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Malacothrix,sonorae,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Malaxis,corymbosa,,Arizona,,Vulnerable,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Malaxis,porphyrea,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Malaxis,tenuis,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Mammillaria,lasiacantha,,Arizona,,SR,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Mammillaria,mainiae,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Mammillaria,thornberi,,Arizona,,Apparently Secure,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Mammillaria,viridiflora,,Arizona,,Apparently Secure,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Mammillaria,wrightii,wilcoxii,Arizona,,Apparently Secure,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Mammillaria,wrightii,wrightii,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Manihot,davisiae,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Margaranthus,solanaceus,,Arizona,,Imperiled,Vulnerable,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Marina,diffusa,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Matelea,cordifolia,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Mentzelia,memorabalis,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Metastelma,mexicanum,,Arizona,,Critically Imperiled,Imperiled,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Muhlenbergia,dubioides,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Muhlenbergia,xerophila,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Notholaena,lemmonii,,Arizona,,Critically Imperiled,Imperiled,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Olneya,tesota,,Arizona,,Apparently Secure,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Opuntia,arbuscula,,Arizona,,Vulnerable,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Opuntia,basilaris,aurea,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Opuntia,basilaris,longiareolata,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Opuntia,echinocarpa,,Arizona,,Secure,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Opuntia,martiniana,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Opuntia,nicholii,,Arizona,,Apparently Secure,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Opuntia,phaeacantha,major,Arizona,,,Vulnerable,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Opuntia,pulchella,,Arizona,,SRF,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Opuntia,superbospina,,Arizona,,Historical possibly extirpated,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Opuntia,versicolor,,Arizona,,Imperiled,Vulnerable,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Opuntia,whipplei,multigeniculata,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Opuntia,whipplei,whipplei,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Opuntia,x,kelvinensis,Arizona,,Historical possibly extirpated,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Opuntia,x,tetracantha,Arizona,,Historical possibly extirpated,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Osmorhiza,brachypoda,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Palafoxia,arida,gigantea,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Paspalum,virletii,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Passiflora,arizonica,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Passiflora,foetida,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Pectis,imberbis,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Pediocactus,bradyi,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Pediocactus,papyracanthus,,Arizona,,Imperiled,Vulnerable,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Pediocactus,paradinei,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Pediocactus,peeblesianus,fickeiseniae,Arizona,,Critically Imperiled,Imperiled,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Pediocactus,peeblesianus,peeblesianus,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Pediocactus,sileri,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Pediocactus,simpsonii,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Pediomelum,castoreum,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Pediomelum,epipsilum,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Pediomelum,pentaphyllum,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Peniocereus,greggii,greggii,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Peniocereus,greggii,transmontanus,Arizona,,Vulnerable,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Peniocereus,striatus,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Penstemon,albomarginatus,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Penstemon,ammophilus,,Arizona,,State protected,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Penstemon,bicolor,roseus,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Penstemon,clutei,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Penstemon,discolor,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Penstemon,distans,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Penstemon,linarioides,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Penstemon,nudiflorus,,Arizona,,Imperiled,Vulnerable,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Penstemon,petiolatus,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Penstemon,ramosus,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Perityle,ajoensis,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Perityle,ambrosiifolia,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Perityle,cochisensis,,Arizona,,Critically Imperiled,Imperiled,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Perityle,saxicola,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Phacelia,parishii,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Phacelia,serrata,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Phacelia,welshii,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Pherotrichis,balbisii,,Arizona,,Historical possibly extirpated,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Phlox,amabilis,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Pholisma,arenarium,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Pholisma,sonorae,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Physalis,latiphysa,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Pinus,aristata,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Platanthera,hyperborea,,Arizona,,Vulnerable,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Platanthera,limosa,,Arizona,,Apparently Secure,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Platanthera,purpurascens,,Arizona,,Apparently Secure,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Platanthera,zothecina,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Polemonium,flavum,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Polemonium,pauciflorum,hinckleyi,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Polygala,rusbyi,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Potentilla,albiflora,,Arizona,,Critically Imperiled,Imperiled,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Primula,specuicola,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Prosopis,pubescens,,Arizona,,Apparently Secure,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Prosopis,velutina,,Arizona,,Secure,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Psilactis,gentryi,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Psilotum,nudum,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Psorothamnus,thompsonae,whitingii,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Puccinellia,parishii,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Purshia,subintegra,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Rhus,kearneyi,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Rosa,stellata,abyssa,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Rumex,orthoneurus,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Salix,arizonica,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Salvia,amissa,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Salvia,dorrii,mearnsii,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Samolus,vagans,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Schiedeella,arizonica,,Arizona,,Apparently Secure,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Sclerocactus,parviflorus,intermedius,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Sclerocactus,parviflorus,parviflorus,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Sclerocactus,pubispinus,,Arizona,,State protected,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Sclerocactus,sileri,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Senecio,carlomasonii,,Arizona,,Imperiled,Vulnerable,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Senecio,franciscanus,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Senecio,multidentatus,huachucanus,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Senecio,neomexicanus,toumeyi,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Senecio,quaerens,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Silene,rectiramea,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Sisyrinchium,cernuum,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Solanum,lumholtzianum,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Spiranthes,delitescens,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Spiranthes,diluvialis,,Arizona,,SRF,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Spiranthes,romanzoffiana,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Stellaria,porsildii,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Stenocereus,thurberi,,Arizona,,Apparently Secure,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Stenorrhynchos,michuacanum,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Stephanomeria,schottii,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Stevia,lemmonii,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Streptanthus,lemmonii,,Arizona,,Historical possibly extirpated,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Streptopus,amplexifolius,,Arizona,,Imperiled,Vulnerable,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Talinum,humile,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Talinum,marginatum,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Talinum,validulum,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Tephrosia,thurberi,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Thelypteris,puberula,sonorensis,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Townsendia,smithii,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Tricardia,watsonii,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Trichostema,micranthum,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Trifolium,neurophyllum,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Triteleia,lemmoniae,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Triteleiopsis,palmeri,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Tumamoca,macdougalii,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Vauquelinia,californica,pauciflora,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Vauquelinia,californica,sonorensis,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Washingtonia,filifera,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Yucca,whipplei,,Arizona,,Vulnerable,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Zigadenus,virescens,,Arizona,,Apparently Secure,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Aspidoscelis,burti,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Aspidoscelis,burti,stictogrammus,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Aspidoscelis,xanthonota,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Charina,trivirgata,,Arizona,,Vulnerable,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Charina,trivirgata,gracia,Arizona,,Vulnerable,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Charina,trivirgata,trivirgata,Arizona,,Critically Imperiled,Imperiled,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Chionactis,occipitalis,klauberi,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Chionactis,palarostris,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Chionactis,palarostris,organica,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Crotalus,oreganus,abyssus,Arizona,,Apparently Secure,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Crotalus,willardi,,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Crotalus,willardi,obscurus,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Crotalus,willardi,willardi,Arizona,,Critically Imperiled,Imperiled,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Eumeces,gilberti,arizonensis,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Gopherus,agassizii,,Arizona,,Apparently Secure,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Gopherus,agassizii,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Gopherus,agassizii,,Arizona,,Apparently Secure,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Heloderma,suspectum,cinctum,Arizona,,Apparently Secure,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Kinosternon,sonoriense,longifemorale,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Lampropeltis,getula,nigrita,Arizona,,Vulnerable,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Lampropeltis,pyromelana,infralabialis,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Oxybelis,aeneus,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Phrynosoma,cornutum,,Arizona,,Vulnerable,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Phrynosoma,mcallii,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Sauromalus,ater,,Arizona,,Apparently Secure,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Sauromalus,ater,,Arizona,,Apparently Secure,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Sauromalus,ater,,Arizona,,Apparently Secure,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Sceloporus,graciosus,graciosus,Arizona,,Vulnerable,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Sistrurus,catenatus,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Sistrurus,catenatus,edwardsii,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Thamnophis,eques,,Arizona,,Imperiled,Vulnerable,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Thamnophis,eques,megalops,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Thamnophis,rufipunctatus,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Uma,rufopunctata,,Arizona,,Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Uma,scoparia,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Xantusia,arizonae,,Arizona,,Critically Imperiled,,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
