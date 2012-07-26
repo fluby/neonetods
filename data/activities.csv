@@ -173,5 +173,7 @@ zack,UNDE,all,7/25/12,,,UNDERC - East Main Office,906-842-8633,,Reach Jennifer B
 zack,UNDE,all,7/25/12,,,"Michael Cramer, Gary Belovsky","mcramer@nd.edu, Belovsky.1@nd.edu",waiting,
 zack,D04,all,7/25/12,,,Skip Vanbloem,skip.vanbloem@upr.edu,waiting,follow-up
 zack,DELA,all,7/25/12,,,"Jay Haffner, Will Brantley","Jay.Haffner@dcnr.alabama.gov, Will.Brantley@dcnr.alabama.gov",,follow-up
-zack,NOGP,birds,7/25/12,http://www.mbr-pwrc.usgs.gov/bbs/trend/rtehtm10a_nlcd.html,"North Dakota, Ft. Yates",,,,
-zack,DEJU,birds,7/25/12,http://www.mbr-pwrc.usgs.gov/bbs/trend/rtehtm10a_nlcd.html,"Alaska, Delta"
+zack,NOGP,birds,7/25/12,"http://www.mbr-pwrc.usgs.gov/bbs/trend/rtehtm10a_nlcd.html, http://nationalatlas.gov/mapmaker","North Dakota, Ft. Yates",,,,Route 64020
+zack,DEJU,birds,7/25/12,"http://www.mbr-pwrc.usgs.gov/bbs/trend/rtehtm10a_nlcd.html, http://nationalatlas.gov/mapmaker","Alaska, Delta",,,,Route 431
+zack,UNDE,birds,7/25/12,"http://www.mbr-pwrc.usgs.gov/bbs/trend/rtehtm10a_nlcd.html, http://nationalatlas.gov/mapmaker","Wisconsin, Land O' Lakes",,,,"Route 91008, not entered"
+zack,"STEI, TREE",birds,7/25/12,"http://www.mbr-pwrc.usgs.gov/bbs/trend/rtehtm10a_nlcd.html, http://nationalatlas.gov/mapmaker","Wisconsin, Irma",,,,"Route 91022, not entered"
