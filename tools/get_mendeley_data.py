@@ -2,8 +2,11 @@ import urllib2 as u
 import pyquery as p
 import mechanize
 import getpass
-try: from mendeley_cache import mendeley_cache
-except: mendeley_cache = {}
+import cPickle as pickle
+try:
+    mendeley_cache = pickle.load(open('mendeley.cache', 'r')) 
+except: 
+    mendeley_cache = {}
 
 b = mechanize.Browser()
 b.set_handle_robots(False)
@@ -43,9 +46,7 @@ def get_mendeley_data(url, email=None, password=None):
     else: data_doc['tags'] = ''
 
     mendeley_cache[url] = data_doc
-    output = open('mendeley_cache.py', 'w')
-    output.write('mendeley_cache = %s' % mendeley_cache)
-    output.close()
+    pickle.dump(mendeley_cache, open('mendeley.cache', 'w'))
     
     return data_doc
     

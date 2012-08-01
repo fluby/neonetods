@@ -1,6 +1,7 @@
 import urllib2
+import cPickle as pickle
 try:
-    from tnrs_cache import tnrs_cache
+    tnrs_cache = pickle.load(open('tnrs.cache', 'r'))
 except:
     tnrs_cache = {}
 
@@ -24,5 +25,5 @@ def tnrs_lookup(name):
     # cache results and return
     if result:
         tnrs_cache[name] = result
-        open('tnrs_cache.py', 'w').write('tnrs_cache = %s' % tnrs_cache)
+        pickle.dump(tnrs_cache, open('tnrs.cache', 'w'))
     return result
