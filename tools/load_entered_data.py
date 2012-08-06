@@ -1,6 +1,7 @@
 import sys
 reload(sys)
 sys.setdefaultencoding('latin1')
+import csv
 import tax_resolve
 import getpass
 from taxonomy_lookup_itis import itis_lookup
@@ -15,6 +16,9 @@ species_lists = [
                  #herps
                  ]
 
+def col_split(line):
+    return csv.reader([line], dialect=csv.excel, delimiter=',').next()
+    
 def get_spp_id(genus, species, subspecies, com_name, taxon, spp_code_dict):
     '''Get spp_id from spp_id dictionary. Returns: 
         a spp_id string if this is a known or unknown species,
@@ -42,6 +46,7 @@ def get_spp_id(genus, species, subspecies, com_name, taxon, spp_code_dict):
             new_name = tax_resolve.tax_resolve(genus, species, subspecies, com_name=com_name, known_species=spp_code_dict.keys(), taxon=taxon)
             if new_name != sci_name:
                 print '==> corrected to %s' % new_name,
+                sys.stdout.flush()
             if new_name:
                 try:
                     return spp_code_dict[new_name]
@@ -75,8 +80,8 @@ def main():
             data_file.readline()
             for line in data_file:
                 line = line.strip()
+                cols = col_split(line)
                 if line:
-                    cols = line.split(',')
                     spp_code = cols[spcode_col]
                     if isinstance(sciname_col, list):
                         name_cols = sciname_col
@@ -100,8 +105,9 @@ def main():
             line = line.strip()
             if line:
                 try:
-                    site,genus,sp,subsp,common_name,source = [s.strip() for s in line.split(',')]
+                    site,genus,sp,subsp,common_name,source = [s.strip() for s in col_split(line)]
                     print genus, sp, subsp, common_name,
+                    sys.stdout.flush()
                     spp_id = get_spp_id(genus, sp, subsp, com_name=common_name,
                                         taxon=taxon, spp_code_dict=spp_codes)
                     if spp_id: 
