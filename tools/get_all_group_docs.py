@@ -1,4 +1,6 @@
 from mendeley_client import MendeleyClient
+import cPickle as pickle
+
 
 mendeley = MendeleyClient('e85bfd505c149d2ab7b2516b3f524a69050202682', 'b90e70f2e369bac1ba944b4fca621d9d')
 
@@ -15,6 +17,11 @@ response = mendeley.group_documents(groupId, items=1000)
 docs = response['document_ids']
 print docs
 
+all_docs = {}
 for doc in docs:
     response = mendeley.group_doc_details(groupId, doc)
-    print doc, response
+    url = response['mendeley_url']
+    all_docs[url] = response
+    print url, response
+
+pickle.dump(all_docs, open('group_docs.pkl', 'w'))
