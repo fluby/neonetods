@@ -3,10 +3,10 @@ import pyquery as p
 import mechanize
 import getpass
 import cPickle as pickle
-try:
-    mendeley_cache = pickle.load(open('mendeley.cache', 'r')) 
-except: 
-    mendeley_cache = {}
+try: mendeley_cache = pickle.load(open('mendeley.cache', 'r')) 
+except: mendeley_cache = {}
+try: group_docs = pickle.load(open('group_docs.pkl', 'r'))
+except: group_docs = {}
 
 b = mechanize.Browser()
 b.set_handle_robots(False)
@@ -17,22 +17,25 @@ def get_mendeley_data(url, email=None, password=None):
     if url[:4] == 'www.': url = 'http://' + url
     if url in mendeley_cache: return mendeley_cache[url]
 
-    b.open(url)
-    new_url = b.response().geturl()
-    if 'login' in new_url:
-        b.select_form(nr=1)
-        b['email'] = email
-        b['password'] = password
-        b.submit()
+    if url in group_docs: data_doc = group_docs[url]
+    else:
+        b.open(url)
         new_url = b.response().geturl()
-        if not new_url == url: raise('Failed to login.')
+        if 'login' in new_url:
+            b.select_form(nr=1)
+            b['email'] = email
+            b['password'] = password
+            b.submit()
+            new_url = b.response().geturl()
+            if not new_url == url: raise('Failed to login.')
 
-    html = b.response().read()
-    open('output.html','w').write(html)
+        html = b.response().read()
+        open('output.html','w').write(html)
 
-    true, false = True, False
+        true, false = True, False
 
-    data_doc = p.PyQuery(html)("article")[0].get("data-doc")
+        data_doc = p.PyQuery(html)("article")[0].get("data-doc")
+
     if '&quot;' in data_doc: data_doc = data_doc.replace('&quot;', '"')
     if '\\' in data_doc: data_doc = data_doc.replace('\\', '')
 
