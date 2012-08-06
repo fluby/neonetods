@@ -1,7 +1,8 @@
 import difflib
 from taxonomy_lookup_tnrs import tnrs_lookup
 from taxonomy_lookup_itis import itis_lookup
-try: from fuzzy_cache import fuzzy_cache
+import cPickle as pickle
+try: fuzzy_cache = cPickle.load(open('fuzzy.cache', 'r'))
 except: fuzzy_cache = {}
 
 
@@ -92,9 +93,7 @@ def tax_resolve_fuzzy(sci_name, synonyms=None, known_species=None, fuzzy=True, s
     else:
         result = sci_name
     fuzzy_cache[sci_name] = result
-    output = open('fuzzy_cache.py', 'w')
-    output.write('fuzzy_cache = %s' % fuzzy_cache)
-    output.close()
+    pickle.dump(fuzzy_cache, open('fuzzy.cache', 'w'))
 
 
 syns = {
