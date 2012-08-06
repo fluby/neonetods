@@ -36,17 +36,17 @@ def get_mendeley_data(url, email=None, password=None):
 
         data_doc = p.PyQuery(html)("article")[0].get("data-doc")
 
-    if '&quot;' in data_doc: data_doc = data_doc.replace('&quot;', '"')
-    if '\\' in data_doc: data_doc = data_doc.replace('\\', '')
+        if '&quot;' in data_doc: data_doc = data_doc.replace('&quot;', '"')
+        if '\\' in data_doc: data_doc = data_doc.replace('\\', '')
 
-    data_doc = eval(data_doc)
+        data_doc = eval(data_doc)
+        tags = p.PyQuery(html)('div.tags-list')
+        
+        if tags:
+            data_doc['tags'] = ','.join(a.text for a in tags.find('a'))
+        else: data_doc['tags'] = ''
 
     if data_doc['title'][-1] == '.': data_doc['title'] = data_doc['title'][:-1]
-    
-    tags = p.PyQuery(html)('div.tags-list')
-    if tags:
-        data_doc['tags'] = ','.join(a.text for a in tags.find('a'))
-    else: data_doc['tags'] = ''
 
     mendeley_cache[url] = data_doc
     pickle.dump(mendeley_cache, open('mendeley.cache', 'w'))
