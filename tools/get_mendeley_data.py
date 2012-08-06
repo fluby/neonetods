@@ -6,7 +6,7 @@ import cPickle as pickle
 try: mendeley_cache = pickle.load(open('mendeley.cache', 'r')) 
 except: mendeley_cache = {}
 try: group_docs = pickle.load(open('group_docs.pkl', 'r'))
-except: group_docs = {}
+except: from get_all_group_docs import all_docs as group_docs
 
 b = mechanize.Browser()
 b.set_handle_robots(False)
