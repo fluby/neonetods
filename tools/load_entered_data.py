@@ -18,6 +18,9 @@ species_lists = [
 
 def col_split(line):
     return csv.reader([line], dialect=csv.excel, delimiter=',').next()
+
+def format_line(line):
+    return line.strip().replace('\xef\xbf\xbd', "'")
     
 def get_spp_id(genus, species, subspecies, com_name, taxon, spp_code_dict):
     '''Get spp_id from spp_id dictionary. Returns: 
@@ -79,7 +82,7 @@ def main():
             data_file = open(spp_file, 'r')
             data_file.readline()
             for line in data_file:
-                line = line.strip()
+                line = format_line(line)
                 cols = col_split(line)
                 if line:
                     spp_code = cols[spcode_col]
@@ -102,7 +105,7 @@ def main():
         data = data_file.read().replace('\r', '\n')
         lines = data.split('\n')[1:]
         for line in lines:
-            line = line.strip()
+            line = format_line(line)
             if line:
                 try:
                     site,genus,sp,subsp,common_name,source = [s.strip() for s in col_split(line)]
