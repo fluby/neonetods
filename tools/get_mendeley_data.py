@@ -29,22 +29,24 @@ def get_mendeley_data(url, email=None, password=None):
             new_url = b.response().geturl()
             if not new_url == url: raise('Failed to login.')
 
-        html = b.response().read()
-        open('output.html','w').write(html)
+        if new_url in group_docs: data_doc = group_docs[new_url]
+        else:
+            html = b.response().read()
+            open('output.html','w').write(html)
 
-        true, false = True, False
+            true, false = True, False
 
-        data_doc = p.PyQuery(html)("article")[0].get("data-doc")
+            data_doc = p.PyQuery(html)("article")[0].get("data-doc")
 
-        if '&quot;' in data_doc: data_doc = data_doc.replace('&quot;', '"')
-        if '\\' in data_doc: data_doc = data_doc.replace('\\', '')
+            if '&quot;' in data_doc: data_doc = data_doc.replace('&quot;', '"')
+            if '\\' in data_doc: data_doc = data_doc.replace('\\', '')
 
-        data_doc = eval(data_doc)
-        tags = p.PyQuery(html)('div.tags-list')
+            data_doc = eval(data_doc)
+            tags = p.PyQuery(html)('div.tags-list')
         
-        if tags:
-            data_doc['tags'] = ','.join(a.text for a in tags.find('a'))
-        else: data_doc['tags'] = ''
+            if tags:
+                data_doc['tags'] = ','.join(a.text for a in tags.find('a'))
+            else: data_doc['tags'] = ''
 
     if data_doc['title'][-1] == '.': data_doc['title'] = data_doc['title'][:-1]
 
