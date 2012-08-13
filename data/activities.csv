@@ -1,183 +1,184 @@
 name,site,taxon,date,url,keywords,contact,contact_method,result,notes
-zack,DSNY,all,5/21/12,http://www.nature.org/wherewework/northamerica/states/florida/preserves/art5523.html,,,,,collect all
-zack,DSNY,plants,5/22/12,http://www.google.com,disney wilderness preserve plant species,,,,found contacts for FNPS and TNC
-zack,DSNY,plants,5/22/12,http://www.fnps.org/pages/chapters/chapterpg.php?keyword=tarflower,,Catherine Bowman,garberia08@gmail.com,,need form letter
-zack,DSNY,plants,5/22/12,http://gcmd.nasa.gov/KeywordSearch/Freetext.do?KeywordPath=&Portal=GCMD&MetadataType=0&Freetext=+Disney+Wilderness+Preserve&action.x=0&action.y=0,,Sandy Woiak,swoiak@tnc.org,,need form letter
-zack,DSNY,birds,5/23/12,http://www.books.google.com,disney wilderness preserve birds,,,,find book: Birding Florida
-zack,DSNY,birds,5/23/12,http://www.google.com,disney wilderness preserve birds,,,,find wedsite: my birding plance (not useful)
-zack,DSNY,birds,5/23/12,http://www.scholar.google.com,disney wilderness preserve birds,,,,find papers about longleaf pine and herpetofauna
-zack,DSNY,mammals,5/23/12,http://www.books.google.com,disney wilderness preserve mammals,,,,find field guide (unavailable electronically)
-zack,DSNY,mammals,5/23/12,http://www.books.google.com,disney wilderness preserve animals,,,,no further results
-zack,DSNY,all,5/23/12,ISI Web of Science,TOPIC: disney wilderness preserve,,,,no further results
-zack,DSNY,herps,5/23/12,http://www.books.google.com,disney wilderness preserve reptiles,,,,no further results
-zack,DSNY,herps,5/23/12,http://www.google.com,disney wilderness preserve reptiles,,,,no further results
-zack,DSNY,herps,5/23/12,http://www.books.google.com,disney wilderness preserve amphibians,,,,find Lannoo_2005 (no info for DSNY)
-zack,DSNY,herps,5/23/12,http://www.google.com,disney wilderness preserve amphibians,,,,no further results
-zack,DSNY,inverts,5/23/12,http://www.books.google.com,disney wilderness preserve beetles,,,,no further results
-zack,DSNY,inverts,5/23/12,http://www.books.google.com,disney wilderness preserve invertebrates,,,,no further results
-zack,DSNY,inverts,5/23/12,http://www.books.google.com,disney wilderness preserve mosquitoes,,,,no further results
-zack,DSNY,inverts,5/23/12,http://www.google.com,disney wilderness preserve beetles,,,,NeSmith_2010
-zack,DSNY,inverts,5/23/12,http://www.google.com,disney wilderness preserve invertebrates,,,,no further results
-zack,DSNY,inverts,5/23/12,http://www.google.com,disney wilderness preserve mosquitoes,,,,no further results
-Elita,OSBS,plants,5/23/12,http://ordway-swisher.ufl.edu/species/os-flora.htm,,,,,complete
-Elita,OSBS,birds,5/24/12,http://ordway-swisher.ufl.edu/species/os-aves.htm,,,,,complete
-Elita,OSBS,mammals,5/25/12,http://ordway-swisher.ufl.edu/species/os-mammalia.htm,,,,,complete
-zack,DSNY,plants,5/29/12,,,Catherine Bowman,garberia08@gmail.com,no response,
-zack,DSNY,plants,5/29/12,,,Sandy Woiak,swoiak@tnc.org,no response,
-zack,JERC,all,5/29/12,http://www.jonesctr.org/index.html,,,,,use publication list (2003-present) for initial sp_list
-Elita,OSBS,reptiles,5/29/12,http://ordway-swisher.ufl.edu/species/os-reptilia.htm,,,,,use publication list (2003-present) for initial sp_list
-Elita,OSBS,beetles,5/30/12,http://ordway-swisher.ufl.edu/species/os-coleoptera.htm,,,,,use publication list (2003-present) for initial sp_list
-Elita,PLUM,all,5/30/12,http://www.fws.gov/northeast/parkerriver/,,,,,might be able to use the birding list
-Elita,PLUM,all,5/30/12,http://scholar.google.com/scholar?q=PIE-LTER&btnG=&hl=en&as_sdt=0%2C45,PIE-LTER,,,,
-Elita,PLUM,all,5/30/12,http://scholar.google.com/scholar?hl=en&q=Plum+island&btnG=&as_sdt=1%2C45&as_sdtp=,Plum island,,,,
-Elita,PLUM,all,5/30/12,http://scholar.google.com/scholar?hl=en&q=Parker+River+National+Wildlife+Refuge&btnG=&as_sdt=1%2C45&as_sdtp=,Parker River National Wildlife Refuge,,,,
-zack,JERC,herps,5/30/12,http://www.jonesctr.org/index.html,,,,,find Amphibians and Reptiles of Georgia
-zack,JERC,plants,5/30/12,http://www.jonesctr.org/research/llp_research/groundcover_restoration.html,,,,,"Norden, H. and L. K. Kirkman. 2006. Field guide to common legume species of the longleaf pine ecosystem."
-zack,JERC,all,5/30/12,http://www.jonesctr.org/research/research_publications/publications_2003_present.html,,,,,Smith_2006; Coffey_2006; Stuble_2009; Cathey_2008
-ken,BART,all,6/1/12,http://environment.yale.edu/gisf/files/pdfs/LTS/Wildlife%20Assessments%20at%20the%20Bartlett%20Experimental%20Forest.pdf,,,,,no results on species lists
-ken,BART,mammals,6/1/12,http://nrs.fs.fed.us/pubs/jrnl/2006/ne_2006_yamasaki001.pdf,Bartlett Experimental Forest small mammal,,,,no results on species lists
-ken ,BART,all,6/1/12,,,John Brisette,jbrissette@fs.fed.us,,appears to focus on botany and forestry
-ken,BART,all,6/1/12,http://nrs.fs.fed.us/ef/locations/nh/bartlett/,,,,,no results on species lists
-ken,BART,mammals,6/1/12,http://scholarsarchive.library.oregonstate.edu/xmlui/handle/1957/17587,"Bartlett Experimental Forest ""small mammals""",,,,no results on species lists
-ken,BART,mammals,6/1/12,http://www.nrs.fs.fed.us/pubs/gtr/gtr_ne238/gtr_ne238_115.pdf,"Bartlett Experimental Forest ""small mammals""",,,,
-ken,BART,all,6/2/12,https://www.google.com/search?q=Bartlett+Experimental+Forest+&btnG=Search+Books&tbm=bks&tbo=1,Bartlett Experimental Forest,,,,no results on species lists
-ken,BART,all,6/2/12,http://www.bioone.org/doi/full/10.1641/0006-3568%282006%29056%5B0039%3ALRATUF%5D2.0.CO%3B2,,,,,
-ken,BART,all,6/2/12,http://northernwoodlands.org/pdf/PYCH_UPVALLEY_SPREADS.pdf,,,,,
-ken,BART,all,6/2/12,http://www.ecostudies.org/nerc/nercsites.pdf,,,,,no results on species lists
-ken,BART,all,6/2/12,,,Mariko Yamasaki,myamasaki@fs.fed.us,,appears to be the best contact for vertebrate species lists
-ken,BART,all,6/2/12,http://www.sciencedirect.com/science/article/pii/S0378112710004214,,,,,no results on species lists
-ken,BART,all,6/2/12,http://www.nrs.fs.fed.us/pubs/adv_search.asp,Bartlett Experimental,,,,no results on species lists; may be useful in the future for searching out NFS related pubs
-Elita,OSBS,amphibians,6/4/12,http://ordway-swisher.ufl.edu/species/os-amphibia.htm,,,,,
-ken ,CPER,herpetiles,6/4/12,http://sgslter.colostate.edu/dataset_view.aspx?id=LTMntrArthroWebs,,Paul Stapp,pstapp@fullerton.edu,,requested herp species list data from long term study (1998-2006); received species lists
-ken ,CPER,herpetiles,6/4/12,http://books.google.com/books?hl=en&lr=&id=7B98z3u1OB8C&oi=fnd&pg=PA132&dq=%22Shortgrass+Steppe%22++Reptiles&ots=iO6brrUfiW&sig=n9bN-rAiR8LC0yyd-m_DOXWXA6I#v=onepage&q=%22Shortgrass%20Steppe%22%20%20Reptiles&f=false,,,,,no results on species lists
-ken ,CPER,amphibians,6/4/12,http://sgslter.colostate.edu/ars/ProjDisplay.asp?ProjectNum=154,,,,,record of project headed by Paul Stapp (provided herp species lists)
-ken ,CPER,all,6/4/12,http://sgslter.colostate.edu/ars/default.asp,,,,,"Little useful information, has a lists of projects proposed and conducted on CPER"
-xiao,HARV,all,6/4/12,ISI Web of Science,harvard forest AND amphibians/reptiles/beetles/mosquitoes,,,,no results
-xiao,HARV,amphibians,6/4/12,http://arnoldia.arboretum.harvard.edu/pdf/issues/232.pdf#page=21,,,,,contains a list of all salamanders in Massachusettes; only one species is specifically associated with HARV
-xiao,HARV,amphibians,6/4/12,http://scholar.google.com,harvard forest amphibians,,,,found only papers for two specific species
-xiao,HARV,all,6/4/12,http://harvardforest.fas.harvard.edu:8080/exist/xquery/da-browse-title.xq,,,,,no results on species lists for herps and inverts
-xiao,HARV,inverts,6/4/12,http://harvardforest.fas.harvard.edu:8080/exist/xquery/data.xq?id=hf177,,,,,data file contains an incomplete list of beetles identified only to the family level
-xiao,HARV,reptiles,6/5/12,http://scholar.google.com,harvard forest reptiles,,,,no results
-ken,RMNP,herps,6/7/12,http://www.nps.gov/romo/naturescience/amphibians_reptiles.htm,,,,,incomplete list of herps
-ken,CPER,mosquitoes,6/7/12,,,"Dr. Boris Kondratieff, C.P. Gillette Museum of Arthropod Diversity, Colorado State Univ.",,,CPER contributed to the museum's collection
-ken,RMNP,amphibians,6/7/12,http://www.nps.gov/romo/amphibians.htm,,,,,info on amphibian species concerns and status
-ken,NOGP,all,6/7/12,http://www.ars.usda.gov/main/site_main.htm?modecode=54-45-00-00,,,,,no results on species lists thus far
-ken,NOGP,all,6/7/12,https://www.google.com/search?hl=en&rlz=1C1CHFX_enUS368US368&q=%22northern+great+plains+research+laboratory%22&oq=%22northern+great+plains+research+laboratory%22&aq=f&aqi=g-K5g-mK2&aql=&gs_l=serp.12..0i30l5j0i5i30l2.3141.3278.0.5636.2.2.0.0.0.0.121.240.0j2.2.0...0.0.CDi92FF0LwE,"""northern great plains research laboratory"" and one or more of the following: amphibian, reptile, mammal, bird, grasses, forb, beetle, mosquito, rat, mice, mouse, vole, snake, lizard",,,,no results on species lists thus far
-ken,NOGP,mammals,6/8/12,http://scholar.google.com/scholar?q=%22northern+great+plains+research+laboratory%22+%22small+mammals%22&btnG=&hl=en&as_sdt=0%2C45,"""northern great plains research laboratory"" small mammals",,,,no results on species lists 
-ken,NOGP,amphibians,6/8/12,http://scholar.google.com/scholar?q=%22northern+great+plains+research+laboratory%22+%22amphibians%22&btnG=&hl=en&as_sdt=0%2C45,"""northern great plains research laboratory"" amphibians",,,,no results on species lists 
-ken,NOGP,reptiles,6/8/12,http://scholar.google.com/scholar?q=%22northern+great+plains+research+laboratory%22+%22reptiles%22&btnG=&hl=en&as_sdt=0%2C45,"""northern great plains research laboratory"" reptiles",,,,no results on species lists 
-ken,NOGP,birds,6/8/12,http://scholar.google.com/scholar?q=%22northern+great+plains+research+laboratory%22+%22breeding+birds%22&btnG=&hl=en&as_sdt=0%2C45,"""northern great plains research laboratory"" breeding birds",,,,no results on species lists 
-ken,NOGP,mosquitoes,6/8/12,http://scholar.google.com/scholar?q=%22northern+great+plains+research+laboratory%22+%22mosquitoes%22&btnG=&hl=en&as_sdt=0%2C45,"""northern great plains research laboratory"" mosquitoes",,,,no results on species lists 
-ken,NOGP,beetles,6/8/12,http://scholar.google.com/scholar?q=%22northern+great+plains+research+laboratory%22+%22beetles%22&btnG=&hl=en&as_sdt=0%2C45,"""northern great plains research laboratory"" beetles",,,,no results on species lists 
-zack,JERC,inverts,6/4/12,http://www.books.google.com,Jones Ecological Invertebrates,,,,no results
-zack,JERC,inverts,6/4/12,http://www.books.google.com,Ichauway Invertebrates,,,,no results
-zack,JERC,inverts,6/4/12,http://www.google.com,Jones Ecological Invertebrates,,,,found results for aquatic macroinvertebrates
-zack,JERC,inverts,6/4/12,http://www.google.com,Ichauway Invertebrates,,,,found results for aquatic macroinvertebrates
-zack,JERC,inverts,6/4/12,http://www.google.com,Jones Ecological Terrestrial Invertebrates,,,,no results
-zack,JERC,inverts,6/4/12,http://www.google.com,Ichauway Terrestrial Invertebrates,,,,no results
-ken,BLAN,plants,6/9/12,http://blandy.virginia.edu/,,,,,"complete species list exists, but not in usable form"
-ken,BLAN,all,6/9/12,http://www.jstor.org/stable/10.2307/20168167,,,,,no results on species lists 
-ken,BLAN,all,6/9/12,http://blandy.virginia.edu/research/publications,,,,,"many pubs, some listing several species for plants and mammals"
-xiao,WOOD,amphibians,6/10/12,http://scholar.google.com,woodworth study area amphibians,,,,no additional records
-xiao,WOOD,reptiles,6/10/12,http://scholar.google.com,woodworth study area reptiles,,,,no records
-zack,SERC,all,6/11/12,http://www.serc.si.edu/,,,,,"find tree list, 2 grass spp, winter birds"
-xiao,CHOC,all,6/10/12,http://scholar.google.com,"""choctaw national wildlife refuge""",,,,no records
-xiao,CHOC,birds,6/10/12,Audubon chapters in Alabama,,,,,no species list
-zack,SERC,all,6/11/12,http://www.books.google.com,Smithsonian Environmental Research Center & mammals/birds/plants/orchids/amphibians/reptiles/beetles/mosquitos/invertebrates,,,,no results
-zack,SERC,mammals,6/11/12,http://www.google.com,Smithsonian Environmental Research Center mammals,,,,Gomez_2008 also mosquito
-zack,SERC,,6/11/12,,,Eric Hazelton,eric@hazelton-ecological.com,,complete species list from collegues for all but carabids.
-ken,GUAN,all,6/11/12,http://www.unesco.org/mabdb/br/brdir/directory/biores.asp?code=USA+35&mode=all,,,,,no results on species lists and contact info
-ken,GUAN,"birds, herps, mammals",6/11/12,http://www.inaturalist.org/check_lists/14412-Gu%25C3%25A1nica-Check-List?page=1&view=plain,,,,,"checklists for birds, herps, and mammals"
-zack,STER,birds,6/13/12,http://www.parks.state.co.us/parks/northsterling/Pages/NorthSterling.aspx,,,,,checklist for birds on publication page
-zack,STER,all,6/13/12,,,"Jeff Thompson, Brian Kurzel","jeff.thompson@state.co.us, brian.kurzel@state.co.us",responded,"Complete species list from Jeff for herps, birds, mammals"
-ken,BLAN,all,6/16/12,https://www.google.com,Blandy Experimental Farm and invertebrate or arthropod or beetle,,,,no results for species list
-ken,JORN,all,6/17/12,http://jornada-www.nmsu.edu/,,,,,"species lists for birds, mammals, herps, plants, ants"
-ken,GUAN,inverts,6/17/12,https://www.google.com,Guanica Biosphere Reserve and arthropods or invertebrates or beetles or insects or mosquitoes,,,,no results for species list in Books or Scholar
-xiao,TALL,beetles,6/18/12,http://scholar.google.com,talladega oakmulgee beetles,,,,found thesis: Thompson 2011
-xiao,TALL,mammals,6/18/12,http://www.google.com,talladega oakmulgee mammals,,,,no records
-xiao,TALL,mammals,6/18/12,http://scholar.google.com,talladega oakmulgee mammals,,,,no records
-xiao,TALL,plants,6/18/12,http://scholar.google.com,talladega oakmulgee plants,,,,found several journal articles
-zack,SERC,inverts,6/19/12,http://google.com,smithsonian environmental research center beetles,,,,Cavey_2004 off-site leaf beetle records
-zack,SERC,inverts,6/19/12,http://google.com,smithsonian environmental research center carabid beetles,,,,no results
-zack ,SERC,inverts,6/19/12,http://google.com,edgewater maryland carabid beetles,,,,no results
-zack,SERC,inverts,6/19/12,http://google.com,anne arundal carabid beetles,,,,Schueman_2007 county result
-zack,SERC,mosquitoes,6/19/12,,,Pete Marra,marrap@si.edu,waiting,
-zack,STER,all,6/19/12,,,Dave Piper,north.sterling.park@state.co.us,no response,Jeff Thompson provided species lists
-zack,STER,all,6/19/12,http://www.books.google.com,North Sterling CO (species),,,,no results
-zack,STER,plants,6/19/12,http://www.parks.state.co.us/Parks/NorthSterling/Nature/Plants/Pages/NorthSterlingStateParkPlants.aspx,,,,,listed common names
-zack,STER,mammals,6/19/12,http://www.parks.state.co.us/Parks/NorthSterling/Nature/Wildlife/Pages/NorthSterlingStateParkWildlife.aspx,,,,,too general
-zack,STER,plants,6/19/12,http://www.google.com,"North Sterling CO plants, mammals, beetles, reptiles, amphibians, mosquitoes",,,,Statewide publications only
-zack,STER,all,6/19/12,http://www.scholar.google.com,North Sterling Colorado (species),,,,no site-specific results
-zack,SCBI,all,6/19/12,,,Eric Hazelton,eric@hazelton-ecological.com,response,no help for this site.
-zack,DELA,all,6/19/12,http://www.google.com,"Dead Lake Alabama, Dead Lake Island Alabama, Armistead Selden, Hale County AL, Greene County AL, Cook's Natural History Museum, Greensboro, Buckman's Island (species / animals) ",,,,no results
-zack,DELA,all,6/19/12,http://www.google.com,Armistead I. Seldon Lock and Dam,,,,riversofalabama.org shows endangered musk turtle in watershed
-zack,DELA,all,6/19/12,http://www.books.google.com,Dead Lake Alabama,,,,Outdoor Alabama reference to wading birds and turtles. (only preview)
-zack,DELA,all,6/19/12,http://www.google.com,Alabama Department of Conservation,"Will Brantley, Mike Sievering","Will.Brantley@dcnr.alabama.gov, Mike.Sievering@dcnr.alabama.gov",no response,David K. Nelson (Demopolis) Wildlife Management Area
-xiao,CAPL,mammals,6/19/12,http://scholar.google.com,central arizona-phoenix mammals/rodents,,,,no results
-xiao,CAPL,beetles,6/20/12,http://scholar.google.com,central arizona-phoenix beetles,,,,found two pubs
-Elita,PLUM,all,6/20/12,http://ecosystems.mbl.edu/PIE/Pub.html,,,,,no results
-Elita,PLUM,all,6/20/12,http://ecosystems.mbl.edu/PIE/Bib.html,,,,,no results
-Elita,PLUM,birds,6/20/12,,,Peter Buchsbaum,rbuchsbaum@massaudubon.org ,data use approved,
-Elita,PLUM,plants,6/20/12,,,Peter Buchsbaum,rbuchsbaum@massaudubon.org ,data use approved,
-zack,STER,"plants, inverts",6/21/12,,,Jeff Thompson,jeff.thompson@state.co.us,response,"follow-up, shared species lists"
-zack,DSNY,plants,6/21/12,,,Catherine Bowman,garberia08@gmail.com,waiting,follow-up
-zack,DSNY,plants,6/21/12,,,Sandy Woiak,swoiak@tnc.org,waiting,follow-up
-zack,DELA,all,6/21/12,http://www.google.com,Demopolis Wildlife Management Area,,,,site map
-zack,DELA,all,6/21/12,,,Jay Haffnetr,Jay.Haffner@dcnr.alabama.gov,no response,
-Elita,PLUM,birds,6/22/12,http://ecosystems.mbl.edu/PIE/data/htl/HTL-MAR-BreedingBirds.html,,Peter Buchsbaum,,,near NEON site
-Elita,PLUM,plants,6/22/12,http://ecosystems.mbl.edu/PIE/data/LTE/LTE-MD-VEGQUADS.html,,Peter Buchsbaum,,,"near NEON site, not many species"
-ken,JORN,all,6/22/12,http://jornada-www.nmsu.edu/,,,,,"contains species list for herps,plants,mammals,birds,ants"
-ken,RMNP,,6/22/12,http://www.nps.gov/romo/parkmgmt/staffandoffices.htm,,,,,"no staff info; general park contact phone,email,fax"
-ken,GUAN,,6/22/12,http://www.unesco.org/mabdb/br/brdir/directory/biores.asp?code=USA+35&mode=all,,,,,no staff or contact info
-ken,JORN,all,6/22/12,http://jornada-www.nmsu.edu/datacat.php#DsdAnimal,,,,,"Most taxonomic data is given in two-letter codes, with no key or reference provided"
-ken ,JORN,mosquitoes,6/22/12,http://jornada-www.nmsu.edu/longtermdatasets.php,,,,,no data on mosquitoes
-ken ,JORN,mosquitoes,6/22/12,https://www.google.com,Jornada experimental range mosquitoes,,,,no results for mosquito species list so far
-ken ,JORN,mosquitoes,6/22/12,http://jornada-www.nmsu.edu/datacat.php,,,,,no results for mosquito species list
-ken,SRER,plants,6/23/12,http://ag.arizona.edu/SRER/data.html,,,,,contains plants species list and varied rangeland data
-ken,SRER,all but plants,6/23/12,,,"Mitch McClaran, Director of research at SRER",email: mcclaran@u.arizona.edu,,requested species lists for all but plants
-ken,BONA,all but mosquitoes,6/23/12,http://www.lter.uaf.edu/data_b.cfm,,,,,data catalog including plant and animal species lists
-ken,DEJU,all,6/23/12,http://www.blm.gov/ak/st/en/prog/minerals/mineral_assessment_prog/studies/delta_river_mining.html,,,,,no species lists or links to species lists
-Elita,GRSM,all,6/25/12,http://www.dlia.org/smokies-species-tally,,,,,Contains complete species lists for all taxa of interest
-Elita,MLBS,plants,6/26/12,http://www.discoverlife.org/nh/cl/US/VA/Giles/Mountain_Lake_Biological_Station/,,,,,Complete plant list plus keys and ID guides
-zack,LAJA,all,6/26/12,http://www.google.com,"Lajas Experimental Station, Centro Plaza Lajas",,,,"USGS, EAS UPR, Bio-Optical contacts"
-zack,LAJA,all,6/26/12,,,USGS Water Data Inquiry: Puerto Rico,http://nwis.waterdata.usgs.gov/nwis/feedback/?to=Puerto%20Rico%20Water%20Science%20Center%20Water-Data%20Inquiries&site_state_abbrev=pr&site_district_abbrev=pr,forwarded,correspondance identifier: GSFC24VW
-zack,LAJA,all,6/26/12,,,Lajas Experimental Station,ASKME@EEA.UPRM.EDU,response,http://openpublic.eea.uprm.edu/about
-zack,LAJA,all,6/26/12,,,"Roy Armstrong, Yasmin Detres","roy.armstrong@upr.edu, ydetres@gmail.com",no response,"Bio-Optical Oceanography Laboratory, UPRM"
-zack,RBUT,all,6/27/12,,,John Sperry,j.sperry@utah.edu,response,forward to Jim Ehleringer
-zack ,LAJA,all,6/27/12,,,Skip Vanbloem,skip.vanbloem@upr.edu,response,"no data, but says he'll look"
-zack,RBUT,all,6/28/12,,,Jim Ehleringer,jim.ehleringer@utah.edu,no response,
-zack,SCBI,all,6/28/12,,,Francisco Dallmeier,http://nationalzoo.si.edu/contact/contact_us1.cfm?mail_id=116&send_page=/SCBI/Scientific_Staff/staff_scientists.cfm?id=73&to_line=&attach=,response,forwarded to William McShea who declined data
-zack,RBUT,all,6/28/12,http://www.redbuttecanyon.net,,,,,mammals and birds
-ken,DEJU ,all,7/1/12,http://www.ci.delta-junction.ak.us/,,,,,no useful links to species info
-ken ,DEJU,birds,7/1/12,book.google.com,,,,,no useful links to species info
-ken ,DEJU,birds,7/1/12,http://scholar.google.com/,,,,,"no useful links to species info, yet"
-xiao,HEAL,inverts,7/3/12,http://scholar.google.com/,"""Denali national park"" beetles/mosquitoes",,,,found one record
-xiao,ORNL,inverts,7/3/12,http://scholar.google.com/,oak ridge nerp beetles/mosquitoes,,,,records added 
-zack,RBUT,reptiles,7/4/12,http://www.google.com,Red Butte Canyon reptiles,,,,"festuca record,"
-zack,RBUT,amphibians,7/4/12,http://www.google.com,Red Butte Canyon amphibians,,,,no records
-zack,RBUT,all,7/4/12,http://scholar.google.com,Red Butte Canyon,,,,Ehleringer_1992
-zack,RBUT,all,7/4/12,http://scholar.google.com,Red Butte Canyon reptiles,,,,Goldberg_1975
-zack,D19,all,7/5/12,,,Jim Ehleringer,720-746-4844,response,decline data and suggest not to contact Forest Service-SLC Rancher Division for invertebrates or Ogden RMRS for other sites.
-Elita,MLBS,contacts,7/12/12,http://www.mlbs.virginia.edu/contacts,,,,,
-Elita,MLBS,all,7/12/12,http://www.refworks.com/refshare/?site=022481125558000000/RWWS1A1465605/MLBS%20Publications,,,,,Checking through reference list for other taxa
-Elita,MLBS,all,7/13/12,http://scholar.google.com/scholar?hl=en&q=Mountain+Lake+Biological+Station&btnG=&as_sdt=1%2C5,,,,,
-Elita,TREE,all,7/16/12,,,Kevin Burns,kevin.burns@uwsp.edu,response,
-zack,FEXF,all,7/16/12,,,Kelly Elder,kelder@fs.fed.us,waiting,
-zack,FEXF,all,7/16/12,http://www.fs.usda.gov/main/fraser/home,,,,,"publications useful for later search, Rocky Mtn NP potential off-site"
-Elita,TREE,all,7/16/12,http://scholar.google.com/scholar?hl=en&q=UW+Stevens+Point+Tree+Haven+Center&btnG=&as_sdt=1%2C5&as_sdtp=,,,,Nothing,
-Elita,TREE ,all,7/17/12,http://scholar.google.com/scholar?q=Treehaven&btnG=&hl=en&as_sdt=0%2C5,,,,Nothing,
-zack,FEXF,all,7/18/12,http://irma.nps.gov,"Rocky Mountain National Park (ROMO); mammals, birds, reptiles, amphibians, vascular plants",,,,
-zack,STEI,all,7/25/12,,,"Steigerwalt, Tomahawk Location",715.453.3274,,Reach Carol Steigerwalt who reffered to email
-zack,STEI,all,7/25/12,,,Ed Steigerwalt,eds@slstomahawk.com,response,minimal woody plant list
-zack,UNDE,all,7/25/12,,,UNDERC - East Main Office,906-842-8633,,Reach Jennifer Belovsky who reffered to email
-zack,UNDE,all,7/25/12,,,"Michael Cramer, Gary Belovsky","mcramer@nd.edu, Belovsky.1@nd.edu",response,all taxon made available bry Gary Belovsky
-zack,D04,all,7/25/12,,,Skip Vanbloem,skip.vanbloem@upr.edu,waiting,follow-up
-zack,DELA,all,7/25/12,,,"Jay Haffner, Will Brantley","Jay.Haffner@dcnr.alabama.gov, Will.Brantley@dcnr.alabama.gov",,William Brantley forward to Ashley Peters
-zack,NOGP,birds,7/25/12,"http://www.mbr-pwrc.usgs.gov/bbs/trend/rtehtm10a_nlcd.html, http://nationalatlas.gov/mapmaker","North Dakota, Ft. Yates",,,,Route 64020
-zack,DEJU,birds,7/25/12,"http://www.mbr-pwrc.usgs.gov/bbs/trend/rtehtm10a_nlcd.html, http://nationalatlas.gov/mapmaker","Alaska, Delta",,,,Route 431
-zack,UNDE,birds,7/26/12,"http://www.mbr-pwrc.usgs.gov/bbs/trend/rtehtm10a_nlcd.html, http://nationalatlas.gov/mapmaker","Wisconsin, Land O' Lakes",,,,Route 91008
-zack,"STEI, TREE",birds,7/26/12,"http://www.mbr-pwrc.usgs.gov/bbs/trend/rtehtm10a_nlcd.html, http://nationalatlas.gov/mapmaker","Wisconsin, Irma",,,,Route 91022
-Elita,TREE,all,7/16/12,http://www.uwsp.edu/cnr-ap/treehaven/Pages/default.aspx,,,,,Land management plan available.
-zack,UNDE,mosquitoes,7/29/12,,,Ronald Hellenthal,Ronald.A.Hellenthal.1@nd.edu,response,"referred from Paul Grimstad through Gary Bellovsky, decline data. Gary Bellovsky pursuing records."
-zack,ONAQ,all,6/28/12,,,"Eugene Schupp, Mark Brunson","eugene.schupp@usu.edu, mark.brunson@usu.edu",,respond with bird and plant data following data request
-zack,DELA,all,7/31/12,,,Ashley Peters,Ashley.Peters@dcnr.alabama.gov,waiting,
+zack,DSNY,all,5/21/2012,http://www.nature.org/wherewework/northamerica/states/florida/preserves/art5523.html,,,,,collect all
+zack,DSNY,plants,5/22/2012,http://www.google.com,disney wilderness preserve plant species,,,,found contacts for FNPS and TNC
+zack,DSNY,plants,5/22/2012,http://www.fnps.org/pages/chapters/chapterpg.php?keyword=tarflower,,Catherine Bowman,garberia08@gmail.com,,need form letter
+zack,DSNY,plants,5/22/2012,http://gcmd.nasa.gov/KeywordSearch/Freetext.do?KeywordPath=&Portal=GCMD&MetadataType=0&Freetext=+Disney+Wilderness+Preserve&action.x=0&action.y=0,,Sandy Woiak,swoiak@tnc.org,,need form letter
+zack,DSNY,birds,5/23/2012,http://www.books.google.com,disney wilderness preserve birds,,,,find book: Birding Florida
+zack,DSNY,birds,5/23/2012,http://www.google.com,disney wilderness preserve birds,,,,find wedsite: my birding plance (not useful)
+zack,DSNY,birds,5/23/2012,http://www.scholar.google.com,disney wilderness preserve birds,,,,find papers about longleaf pine and herpetofauna
+zack,DSNY,mammals,5/23/2012,http://www.books.google.com,disney wilderness preserve mammals,,,,find field guide (unavailable electronically)
+zack,DSNY,mammals,5/23/2012,http://www.books.google.com,disney wilderness preserve animals,,,,no further results
+zack,DSNY,all,5/23/2012,ISI Web of Science,TOPIC: disney wilderness preserve,,,,no further results
+zack,DSNY,herps,5/23/2012,http://www.books.google.com,disney wilderness preserve reptiles,,,,no further results
+zack,DSNY,herps,5/23/2012,http://www.google.com,disney wilderness preserve reptiles,,,,no further results
+zack,DSNY,herps,5/23/2012,http://www.books.google.com,disney wilderness preserve amphibians,,,,find Lannoo_2005 (no info for DSNY)
+zack,DSNY,herps,5/23/2012,http://www.google.com,disney wilderness preserve amphibians,,,,no further results
+zack,DSNY,inverts,5/23/2012,http://www.books.google.com,disney wilderness preserve beetles,,,,no further results
+zack,DSNY,inverts,5/23/2012,http://www.books.google.com,disney wilderness preserve invertebrates,,,,no further results
+zack,DSNY,inverts,5/23/2012,http://www.books.google.com,disney wilderness preserve mosquitoes,,,,no further results
+zack,DSNY,inverts,5/23/2012,http://www.google.com,disney wilderness preserve beetles,,,,NeSmith_2010
+zack,DSNY,inverts,5/23/2012,http://www.google.com,disney wilderness preserve invertebrates,,,,no further results
+zack,DSNY,inverts,5/23/2012,http://www.google.com,disney wilderness preserve mosquitoes,,,,no further results
+Elita,OSBS,plants,5/23/2012,http://ordway-swisher.ufl.edu/species/os-flora.htm,,,,,complete
+Elita,OSBS,birds,5/24/2012,http://ordway-swisher.ufl.edu/species/os-aves.htm,,,,,complete
+Elita,OSBS,mammals,5/25/2012,http://ordway-swisher.ufl.edu/species/os-mammalia.htm,,,,,complete
+zack,DSNY,plants,5/29/2012,,,Catherine Bowman,garberia08@gmail.com,no response,
+zack,DSNY,plants,5/29/2012,,,Sandy Woiak,swoiak@tnc.org,no response,
+zack,JERC,all,5/29/2012,http://www.jonesctr.org/index.html,,,,,use publication list (2003-present) for initial sp_list
+Elita,OSBS,reptiles,5/29/2012,http://ordway-swisher.ufl.edu/species/os-reptilia.htm,,,,,use publication list (2003-present) for initial sp_list
+Elita,OSBS,beetles,5/30/2012,http://ordway-swisher.ufl.edu/species/os-coleoptera.htm,,,,,use publication list (2003-present) for initial sp_list
+Elita,PLUM,all,5/30/2012,http://www.fws.gov/northeast/parkerriver/,,,,,might be able to use the birding list
+Elita,PLUM,all,5/30/2012,http://scholar.google.com/scholar?q=PIE-LTER&btnG=&hl=en&as_sdt=0%2C45,PIE-LTER,,,,
+Elita,PLUM,all,5/30/2012,http://scholar.google.com/scholar?hl=en&q=Plum+island&btnG=&as_sdt=1%2C45&as_sdtp=,Plum island,,,,
+Elita,PLUM,all,5/30/2012,http://scholar.google.com/scholar?hl=en&q=Parker+River+National+Wildlife+Refuge&btnG=&as_sdt=1%2C45&as_sdtp=,Parker River National Wildlife Refuge,,,,
+zack,JERC,herps,5/30/2012,http://www.jonesctr.org/index.html,,,,,find Amphibians and Reptiles of Georgia
+zack,JERC,plants,5/30/2012,http://www.jonesctr.org/research/llp_research/groundcover_restoration.html,,,,,"Norden, H. and L. K. Kirkman. 2006. Field guide to common legume species of the longleaf pine ecosystem."
+zack,JERC,all,5/30/2012,http://www.jonesctr.org/research/research_publications/publications_2003_present.html,,,,,Smith_2006; Coffey_2006; Stuble_2009; Cathey_2008
+ken,BART,all,6/1/2012,http://environment.yale.edu/gisf/files/pdfs/LTS/Wildlife%20Assessments%20at%20the%20Bartlett%20Experimental%20Forest.pdf,,,,,no results on species lists
+ken,BART,mammals,6/1/2012,http://nrs.fs.fed.us/pubs/jrnl/2006/ne_2006_yamasaki001.pdf,Bartlett Experimental Forest small mammal,,,,no results on species lists
+ken ,BART,all,6/1/2012,,,John Brisette,jbrissette@fs.fed.us,,appears to focus on botany and forestry
+ken,BART,all,6/1/2012,http://nrs.fs.fed.us/ef/locations/nh/bartlett/,,,,,no results on species lists
+ken,BART,mammals,6/1/2012,http://scholarsarchive.library.oregonstate.edu/xmlui/handle/1957/17587,"Bartlett Experimental Forest ""small mammals""",,,,no results on species lists
+ken,BART,mammals,6/1/2012,http://www.nrs.fs.fed.us/pubs/gtr/gtr_ne238/gtr_ne238_115.pdf,"Bartlett Experimental Forest ""small mammals""",,,,
+ken,BART,all,6/2/2012,https://www.google.com/search?q=Bartlett+Experimental+Forest+&btnG=Search+Books&tbm=bks&tbo=1,Bartlett Experimental Forest,,,,no results on species lists
+ken,BART,all,6/2/2012,http://www.bioone.org/doi/full/10.1641/0006-3568%282006%29056%5B0039%3ALRATUF%5D2.0.CO%3B2,,,,,
+ken,BART,all,6/2/2012,http://northernwoodlands.org/pdf/PYCH_UPVALLEY_SPREADS.pdf,,,,,
+ken,BART,all,6/2/2012,http://www.ecostudies.org/nerc/nercsites.pdf,,,,,no results on species lists
+ken,BART,all,6/2/2012,,,Mariko Yamasaki,myamasaki@fs.fed.us,,appears to be the best contact for vertebrate species lists
+ken,BART,all,6/2/2012,http://www.sciencedirect.com/science/article/pii/S0378112710004214,,,,,no results on species lists
+ken,BART,all,6/2/2012,http://www.nrs.fs.fed.us/pubs/adv_search.asp,Bartlett Experimental,,,,no results on species lists; may be useful in the future for searching out NFS related pubs
+Elita,OSBS,amphibians,6/4/2012,http://ordway-swisher.ufl.edu/species/os-amphibia.htm,,,,,
+ken ,CPER,herpetiles,6/4/2012,http://sgslter.colostate.edu/dataset_view.aspx?id=LTMntrArthroWebs,,Paul Stapp,pstapp@fullerton.edu,,requested herp species list data from long term study (1998-2006); received species lists
+ken ,CPER,herpetiles,6/4/2012,http://books.google.com/books?hl=en&lr=&id=7B98z3u1OB8C&oi=fnd&pg=PA132&dq=%22Shortgrass+Steppe%22++Reptiles&ots=iO6brrUfiW&sig=n9bN-rAiR8LC0yyd-m_DOXWXA6I#v=onepage&q=%22Shortgrass%20Steppe%22%20%20Reptiles&f=false,,,,,no results on species lists
+ken ,CPER,amphibians,6/4/2012,http://sgslter.colostate.edu/ars/ProjDisplay.asp?ProjectNum=154,,,,,record of project headed by Paul Stapp (provided herp species lists)
+ken ,CPER,all,6/4/2012,http://sgslter.colostate.edu/ars/default.asp,,,,,"Little useful information, has a lists of projects proposed and conducted on CPER"
+xiao,HARV,all,6/4/2012,ISI Web of Science,harvard forest AND amphibians/reptiles/beetles/mosquitoes,,,,no results
+xiao,HARV,amphibians,6/4/2012,http://arnoldia.arboretum.harvard.edu/pdf/issues/232.pdf#page=21,,,,,contains a list of all salamanders in Massachusettes; only one species is specifically associated with HARV
+xiao,HARV,amphibians,6/4/2012,http://scholar.google.com,harvard forest amphibians,,,,found only papers for two specific species
+xiao,HARV,all,6/4/2012,http://harvardforest.fas.harvard.edu:8080/exist/xquery/da-browse-title.xq,,,,,no results on species lists for herps and inverts
+xiao,HARV,inverts,6/4/2012,http://harvardforest.fas.harvard.edu:8080/exist/xquery/data.xq?id=hf177,,,,,data file contains an incomplete list of beetles identified only to the family level
+xiao,HARV,reptiles,6/5/2012,http://scholar.google.com,harvard forest reptiles,,,,no results
+ken,RMNP,herps,6/7/2012,http://www.nps.gov/romo/naturescience/amphibians_reptiles.htm,,,,,incomplete list of herps
+ken,CPER,mosquitoes,6/7/2012,,,"Dr. Boris Kondratieff, C.P. Gillette Museum of Arthropod Diversity, Colorado State Univ.",,,CPER contributed to the museum's collection
+ken,RMNP,amphibians,6/7/2012,http://www.nps.gov/romo/amphibians.htm,,,,,info on amphibian species concerns and status
+ken,NOGP,all,6/7/2012,http://www.ars.usda.gov/main/site_main.htm?modecode=54-45-00-00,,,,,no results on species lists thus far
+ken,NOGP,all,6/7/2012,https://www.google.com/search?hl=en&rlz=1C1CHFX_enUS368US368&q=%22northern+great+plains+research+laboratory%22&oq=%22northern+great+plains+research+laboratory%22&aq=f&aqi=g-K5g-mK2&aql=&gs_l=serp.12..0i30l5j0i5i30l2.3141.3278.0.5636.2.2.0.0.0.0.121.240.0j2.2.0...0.0.CDi92FF0LwE,"""northern great plains research laboratory"" and one or more of the following: amphibian, reptile, mammal, bird, grasses, forb, beetle, mosquito, rat, mice, mouse, vole, snake, lizard",,,,no results on species lists thus far
+ken,NOGP,mammals,6/8/2012,http://scholar.google.com/scholar?q=%22northern+great+plains+research+laboratory%22+%22small+mammals%22&btnG=&hl=en&as_sdt=0%2C45,"""northern great plains research laboratory"" small mammals",,,,no results on species lists 
+ken,NOGP,amphibians,6/8/2012,http://scholar.google.com/scholar?q=%22northern+great+plains+research+laboratory%22+%22amphibians%22&btnG=&hl=en&as_sdt=0%2C45,"""northern great plains research laboratory"" amphibians",,,,no results on species lists 
+ken,NOGP,reptiles,6/8/2012,http://scholar.google.com/scholar?q=%22northern+great+plains+research+laboratory%22+%22reptiles%22&btnG=&hl=en&as_sdt=0%2C45,"""northern great plains research laboratory"" reptiles",,,,no results on species lists 
+ken,NOGP,birds,6/8/2012,http://scholar.google.com/scholar?q=%22northern+great+plains+research+laboratory%22+%22breeding+birds%22&btnG=&hl=en&as_sdt=0%2C45,"""northern great plains research laboratory"" breeding birds",,,,no results on species lists 
+ken,NOGP,mosquitoes,6/8/2012,http://scholar.google.com/scholar?q=%22northern+great+plains+research+laboratory%22+%22mosquitoes%22&btnG=&hl=en&as_sdt=0%2C45,"""northern great plains research laboratory"" mosquitoes",,,,no results on species lists 
+ken,NOGP,beetles,6/8/2012,http://scholar.google.com/scholar?q=%22northern+great+plains+research+laboratory%22+%22beetles%22&btnG=&hl=en&as_sdt=0%2C45,"""northern great plains research laboratory"" beetles",,,,no results on species lists 
+zack,JERC,inverts,6/4/2012,http://www.books.google.com,Jones Ecological Invertebrates,,,,no results
+zack,JERC,inverts,6/4/2012,http://www.books.google.com,Ichauway Invertebrates,,,,no results
+zack,JERC,inverts,6/4/2012,http://www.google.com,Jones Ecological Invertebrates,,,,found results for aquatic macroinvertebrates
+zack,JERC,inverts,6/4/2012,http://www.google.com,Ichauway Invertebrates,,,,found results for aquatic macroinvertebrates
+zack,JERC,inverts,6/4/2012,http://www.google.com,Jones Ecological Terrestrial Invertebrates,,,,no results
+zack,JERC,inverts,6/4/2012,http://www.google.com,Ichauway Terrestrial Invertebrates,,,,no results
+ken,BLAN,plants,6/9/2012,http://blandy.virginia.edu/,,,,,"complete species list exists, but not in usable form"
+ken,BLAN,all,6/9/2012,http://www.jstor.org/stable/10.2307/20168167,,,,,no results on species lists 
+ken,BLAN,all,6/9/2012,http://blandy.virginia.edu/research/publications,,,,,"many pubs, some listing several species for plants and mammals"
+xiao,WOOD,amphibians,6/10/2012,http://scholar.google.com,woodworth study area amphibians,,,,no additional records
+xiao,WOOD,reptiles,6/10/2012,http://scholar.google.com,woodworth study area reptiles,,,,no records
+zack,SERC,all,6/11/2012,http://www.serc.si.edu/,,,,,"find tree list, 2 grass spp, winter birds"
+xiao,CHOC,all,6/10/2012,http://scholar.google.com,"""choctaw national wildlife refuge""",,,,no records
+xiao,CHOC,birds,6/10/2012,Audubon chapters in Alabama,,,,,no species list
+zack,SERC,all,6/11/2012,http://www.books.google.com,Smithsonian Environmental Research Center & mammals/birds/plants/orchids/amphibians/reptiles/beetles/mosquitos/invertebrates,,,,no results
+zack,SERC,mammals,6/11/2012,http://www.google.com,Smithsonian Environmental Research Center mammals,,,,Gomez_2008 also mosquito
+zack,SERC,,6/11/2012,,,Eric Hazelton,eric@hazelton-ecological.com,,complete species list from collegues for all but carabids.
+ken,GUAN,all,6/11/2012,http://www.unesco.org/mabdb/br/brdir/directory/biores.asp?code=USA+35&mode=all,,,,,no results on species lists and contact info
+ken,GUAN,"birds, herps, mammals",6/11/2012,http://www.inaturalist.org/check_lists/14412-Gu%25C3%25A1nica-Check-List?page=1&view=plain,,,,,"checklists for birds, herps, and mammals"
+zack,STER,birds,6/13/2012,http://www.parks.state.co.us/parks/northsterling/Pages/NorthSterling.aspx,,,,,checklist for birds on publication page
+zack,STER,all,6/13/2012,,,"Jeff Thompson, Brian Kurzel","jeff.thompson@state.co.us, brian.kurzel@state.co.us",responded,"Complete species list from Jeff for herps, birds, mammals"
+ken,BLAN,all,6/16/2012,https://www.google.com,Blandy Experimental Farm and invertebrate or arthropod or beetle,,,,no results for species list
+ken,JORN,all,6/17/2012,http://jornada-www.nmsu.edu/,,,,,"species lists for birds, mammals, herps, plants, ants"
+ken,GUAN,inverts,6/17/2012,https://www.google.com,Guanica Biosphere Reserve and arthropods or invertebrates or beetles or insects or mosquitoes,,,,no results for species list in Books or Scholar
+xiao,TALL,beetles,6/18/2012,http://scholar.google.com,talladega oakmulgee beetles,,,,found thesis: Thompson 2011
+xiao,TALL,mammals,6/18/2012,http://www.google.com,talladega oakmulgee mammals,,,,no records
+xiao,TALL,mammals,6/18/2012,http://scholar.google.com,talladega oakmulgee mammals,,,,no records
+xiao,TALL,plants,6/18/2012,http://scholar.google.com,talladega oakmulgee plants,,,,found several journal articles
+zack,SERC,inverts,6/19/2012,http://google.com,smithsonian environmental research center beetles,,,,Cavey_2004 off-site leaf beetle records
+zack,SERC,inverts,6/19/2012,http://google.com,smithsonian environmental research center carabid beetles,,,,no results
+zack ,SERC,inverts,6/19/2012,http://google.com,edgewater maryland carabid beetles,,,,no results
+zack,SERC,inverts,6/19/2012,http://google.com,anne arundal carabid beetles,,,,Schueman_2007 county result
+zack,SERC,mosquitoes,6/19/2012,,,Pete Marra,marrap@si.edu,waiting,
+zack,STER,all,6/19/2012,,,Dave Piper,north.sterling.park@state.co.us,no response,Jeff Thompson provided species lists
+zack,STER,all,6/19/2012,http://www.books.google.com,North Sterling CO (species),,,,no results
+zack,STER,plants,6/19/2012,http://www.parks.state.co.us/Parks/NorthSterling/Nature/Plants/Pages/NorthSterlingStateParkPlants.aspx,,,,,listed common names
+zack,STER,mammals,6/19/2012,http://www.parks.state.co.us/Parks/NorthSterling/Nature/Wildlife/Pages/NorthSterlingStateParkWildlife.aspx,,,,,too general
+zack,STER,plants,6/19/2012,http://www.google.com,"North Sterling CO plants, mammals, beetles, reptiles, amphibians, mosquitoes",,,,Statewide publications only
+zack,STER,all,6/19/2012,http://www.scholar.google.com,North Sterling Colorado (species),,,,no site-specific results
+zack,SCBI,all,6/19/2012,,,Eric Hazelton,eric@hazelton-ecological.com,response,no help for this site.
+zack,DELA,all,6/19/2012,http://www.google.com,"Dead Lake Alabama, Dead Lake Island Alabama, Armistead Selden, Hale County AL, Greene County AL, Cook's Natural History Museum, Greensboro, Buckman's Island (species / animals) ",,,,no results
+zack,DELA,all,6/19/2012,http://www.google.com,Armistead I. Seldon Lock and Dam,,,,riversofalabama.org shows endangered musk turtle in watershed
+zack,DELA,all,6/19/2012,http://www.books.google.com,Dead Lake Alabama,,,,Outdoor Alabama reference to wading birds and turtles. (only preview)
+zack,DELA,all,6/19/2012,http://www.google.com,Alabama Department of Conservation,"Will Brantley, Mike Sievering","Will.Brantley@dcnr.alabama.gov, Mike.Sievering@dcnr.alabama.gov",no response,David K. Nelson (Demopolis) Wildlife Management Area
+xiao,CAPL,mammals,6/19/2012,http://scholar.google.com,central arizona-phoenix mammals/rodents,,,,no results
+xiao,CAPL,beetles,6/20/2012,http://scholar.google.com,central arizona-phoenix beetles,,,,found two pubs
+Elita,PLUM,all,6/20/2012,http://ecosystems.mbl.edu/PIE/Pub.html,,,,,no results
+Elita,PLUM,all,6/20/2012,http://ecosystems.mbl.edu/PIE/Bib.html,,,,,no results
+Elita,PLUM,birds,6/20/2012,,,Peter Buchsbaum,rbuchsbaum@massaudubon.org ,data use approved,
+Elita,PLUM,plants,6/20/2012,,,Peter Buchsbaum,rbuchsbaum@massaudubon.org ,data use approved,
+zack,STER,"plants, inverts",6/21/2012,,,Jeff Thompson,jeff.thompson@state.co.us,response,"follow-up, shared species lists"
+zack,DSNY,plants,6/21/2012,,,Catherine Bowman,garberia08@gmail.com,waiting,follow-up
+zack,DSNY,plants,6/21/2012,,,Sandy Woiak,swoiak@tnc.org,waiting,follow-up
+zack,DELA,all,6/21/2012,http://www.google.com,Demopolis Wildlife Management Area,,,,site map
+zack,DELA,all,6/21/2012,,,Jay Haffnetr,Jay.Haffner@dcnr.alabama.gov,no response,
+Elita,PLUM,birds,6/22/2012,http://ecosystems.mbl.edu/PIE/data/htl/HTL-MAR-BreedingBirds.html,,Peter Buchsbaum,,,near NEON site
+Elita,PLUM,plants,6/22/2012,http://ecosystems.mbl.edu/PIE/data/LTE/LTE-MD-VEGQUADS.html,,Peter Buchsbaum,,,"near NEON site, not many species"
+ken,JORN,all,6/22/2012,http://jornada-www.nmsu.edu/,,,,,"contains species list for herps,plants,mammals,birds,ants"
+ken,RMNP,,6/22/2012,http://www.nps.gov/romo/parkmgmt/staffandoffices.htm,,,,,"no staff info; general park contact phone,email,fax"
+ken,GUAN,,6/22/2012,http://www.unesco.org/mabdb/br/brdir/directory/biores.asp?code=USA+35&mode=all,,,,,no staff or contact info
+ken,JORN,all,6/22/2012,http://jornada-www.nmsu.edu/datacat.php#DsdAnimal,,,,,"Most taxonomic data is given in two-letter codes, with no key or reference provided"
+ken ,JORN,mosquitoes,6/22/2012,http://jornada-www.nmsu.edu/longtermdatasets.php,,,,,no data on mosquitoes
+ken ,JORN,mosquitoes,6/22/2012,https://www.google.com,Jornada experimental range mosquitoes,,,,no results for mosquito species list so far
+ken ,JORN,mosquitoes,6/22/2012,http://jornada-www.nmsu.edu/datacat.php,,,,,no results for mosquito species list
+ken,SRER,plants,6/23/2012,http://ag.arizona.edu/SRER/data.html,,,,,contains plants species list and varied rangeland data
+ken,SRER,all but plants,6/23/2012,,,"Mitch McClaran, Director of research at SRER",email: mcclaran@u.arizona.edu,,requested species lists for all but plants
+ken,BONA,all but mosquitoes,6/23/2012,http://www.lter.uaf.edu/data_b.cfm,,,,,data catalog including plant and animal species lists
+ken,DEJU,all,6/23/2012,http://www.blm.gov/ak/st/en/prog/minerals/mineral_assessment_prog/studies/delta_river_mining.html,,,,,no species lists or links to species lists
+Elita,GRSM,all,6/25/2012,http://www.dlia.org/smokies-species-tally,,,,,Contains complete species lists for all taxa of interest
+Elita,MLBS,plants,6/26/2012,http://www.discoverlife.org/nh/cl/US/VA/Giles/Mountain_Lake_Biological_Station/,,,,,Complete plant list plus keys and ID guides
+zack,LAJA,all,6/26/2012,http://www.google.com,"Lajas Experimental Station, Centro Plaza Lajas",,,,"USGS, EAS UPR, Bio-Optical contacts"
+zack,LAJA,all,6/26/2012,,,USGS Water Data Inquiry: Puerto Rico,http://nwis.waterdata.usgs.gov/nwis/feedback/?to=Puerto%20Rico%20Water%20Science%20Center%20Water-Data%20Inquiries&site_state_abbrev=pr&site_district_abbrev=pr,forwarded,correspondance identifier: GSFC24VW
+zack,LAJA,all,6/26/2012,,,Lajas Experimental Station,ASKME@EEA.UPRM.EDU,response,http://openpublic.eea.uprm.edu/about
+zack,LAJA,all,6/26/2012,,,"Roy Armstrong, Yasmin Detres","roy.armstrong@upr.edu, ydetres@gmail.com",no response,"Bio-Optical Oceanography Laboratory, UPRM"
+zack,RBUT,all,6/27/2012,,,John Sperry,j.sperry@utah.edu,response,forward to Jim Ehleringer
+zack ,LAJA,all,6/27/2012,,,Skip Vanbloem,skip.vanbloem@upr.edu,response,"no data, but says he'll look"
+zack,RBUT,all,6/28/2012,,,Jim Ehleringer,jim.ehleringer@utah.edu,no response,
+zack,SCBI,all,6/28/2012,,,Francisco Dallmeier,http://nationalzoo.si.edu/contact/contact_us1.cfm?mail_id=116&send_page=/SCBI/Scientific_Staff/staff_scientists.cfm?id=73&to_line=&attach=,response,forwarded to William McShea who declined data
+zack,RBUT,all,6/28/2012,http://www.redbuttecanyon.net,,,,,mammals and birds
+ken,DEJU ,all,7/1/2012,http://www.ci.delta-junction.ak.us/,,,,,no useful links to species info
+ken ,DEJU,birds,7/1/2012,book.google.com,,,,,no useful links to species info
+ken ,DEJU,birds,7/1/2012,http://scholar.google.com/,,,,,"no useful links to species info, yet"
+xiao,HEAL,inverts,7/3/2012,http://scholar.google.com/,"""Denali national park"" beetles/mosquitoes",,,,found one record
+xiao,ORNL,inverts,7/3/2012,http://scholar.google.com/,oak ridge nerp beetles/mosquitoes,,,,records added 
+zack,RBUT,reptiles,7/4/2012,http://www.google.com,Red Butte Canyon reptiles,,,,"festuca record,"
+zack,RBUT,amphibians,7/4/2012,http://www.google.com,Red Butte Canyon amphibians,,,,no records
+zack,RBUT,all,7/4/2012,http://scholar.google.com,Red Butte Canyon,,,,Ehleringer_1992
+zack,RBUT,all,7/4/2012,http://scholar.google.com,Red Butte Canyon reptiles,,,,Goldberg_1975
+zack,D19,all,7/5/2012,,,Jim Ehleringer,720-746-4844,response,decline data and suggest not to contact Forest Service-SLC Rancher Division for invertebrates or Ogden RMRS for other sites.
+Elita,MLBS,contacts,7/12/2012,http://www.mlbs.virginia.edu/contacts,,,,,
+Elita,MLBS,all,7/12/2012,http://www.refworks.com/refshare/?site=022481125558000000/RWWS1A1465605/MLBS%20Publications,,,,,Checking through reference list for other taxa
+Elita,MLBS,all,7/13/2012,http://scholar.google.com/scholar?hl=en&q=Mountain+Lake+Biological+Station&btnG=&as_sdt=1%2C5,,,,,
+Elita,TREE,all,7/16/2012,,,Kevin Burns,kevin.burns@uwsp.edu,response,"very helpful, as much data as available provided"
+zack,FEXF,all,7/16/2012,,,Kelly Elder,kelder@fs.fed.us,waiting,
+zack,FEXF,all,7/16/2012,http://www.fs.usda.gov/main/fraser/home,,,,,"publications useful for later search, Rocky Mtn NP potential off-site"
+Elita,TREE,all,7/16/2012,http://scholar.google.com/scholar?hl=en&q=UW+Stevens+Point+Tree+Haven+Center&btnG=&as_sdt=1%2C5&as_sdtp=,,,,Nothing,
+Elita,TREE ,all,7/17/2012,http://scholar.google.com/scholar?q=Treehaven&btnG=&hl=en&as_sdt=0%2C5,,,,Nothing,
+zack,FEXF,all,7/18/2012,http://irma.nps.gov,"Rocky Mountain National Park (ROMO); mammals, birds, reptiles, amphibians, vascular plants",,,,
+zack,STEI,all,7/25/2012,,,"Steigerwalt, Tomahawk Location",715.453.3274,,Reach Carol Steigerwalt who reffered to email
+zack,STEI,all,7/25/2012,,,Ed Steigerwalt,eds@slstomahawk.com,response,minimal woody plant list
+zack,UNDE,all,7/25/2012,,,UNDERC - East Main Office,906-842-8633,,Reach Jennifer Belovsky who reffered to email
+zack,UNDE,all,7/25/2012,,,"Michael Cramer, Gary Belovsky","mcramer@nd.edu, Belovsky.1@nd.edu",response,all taxon made available bry Gary Belovsky
+zack,D04,all,7/25/2012,,,Skip Vanbloem,skip.vanbloem@upr.edu,waiting,follow-up
+zack,DELA,all,7/25/2012,,,"Jay Haffner, Will Brantley","Jay.Haffner@dcnr.alabama.gov, Will.Brantley@dcnr.alabama.gov",,William Brantley forward to Ashley Peters
+zack,NOGP,birds,7/25/2012,"http://www.mbr-pwrc.usgs.gov/bbs/trend/rtehtm10a_nlcd.html, http://nationalatlas.gov/mapmaker","North Dakota, Ft. Yates",,,,Route 64020
+zack,DEJU,birds,7/25/2012,"http://www.mbr-pwrc.usgs.gov/bbs/trend/rtehtm10a_nlcd.html, http://nationalatlas.gov/mapmaker","Alaska, Delta",,,,Route 431
+zack,UNDE,birds,7/26/2012,"http://www.mbr-pwrc.usgs.gov/bbs/trend/rtehtm10a_nlcd.html, http://nationalatlas.gov/mapmaker","Wisconsin, Land O' Lakes",,,,Route 91008
+zack,"STEI, TREE",birds,7/26/2012,"http://www.mbr-pwrc.usgs.gov/bbs/trend/rtehtm10a_nlcd.html, http://nationalatlas.gov/mapmaker","Wisconsin, Irma",,,,Route 91022
+Elita,TREE,all,7/16/2012,http://www.uwsp.edu/cnr-ap/treehaven/Pages/default.aspx,,,,,Land management plan available.
+zack,UNDE,mosquitoes,7/29/2012,,,Ronald Hellenthal,Ronald.A.Hellenthal.1@nd.edu,response,"referred from Paul Grimstad through Gary Bellovsky, decline data. Gary Bellovsky pursuing records."
+zack,ONAQ,all,6/28/2012,,,"Eugene Schupp, Mark Brunson","eugene.schupp@usu.edu, mark.brunson@usu.edu",,respond with bird and plant data following data request
+zack,DELA,all,7/31/2012,,,Ashley Peters,Ashley.Peters@dcnr.alabama.gov,waiting,
+Elita,TREE,mammals,8/13/2012,http://www.uwsp.edu/cnr-ap/treehaven/Documents/maps/TH_LandManagementPlan.pdf,,,,,"larger mammals only, common names"
