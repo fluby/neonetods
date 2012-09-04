@@ -11,7 +11,7 @@ DROP TABLE IF EXISTS taxonomy.high_level CASCADE;
 CREATE TABLE taxonomy.high_level
 (
    taxon_id                         varchar(255)     NOT NULL,
-   resource_id_family_up    				varchar(255),
+   source_id_family_up    	    varchar(255),
    kingdom                          varchar(255),
    subkingdom                       varchar(255),
    superdivision                    varchar(255),
@@ -22,7 +22,7 @@ CREATE TABLE taxonomy.high_level
    order_name                       varchar(255),
    family                           varchar(255),
    family_common                    varchar(255),
-   resource_id_subfamily_down	  		varchar(255),
+   source_id_subfamily_down	    varchar(255),
    subfamily                        varchar(255),
    tribe                            varchar(255),
    genus                            varchar(255)     NOT NULL,
@@ -46,7 +46,7 @@ CREATE TABLE taxonomy.mammals
 (
    taxon_id         varchar(255),
    spp_id           varchar(255)     NOT NULL,
-   resource_id      varchar(255),
+   source_id        varchar(255),
    scientific_name  varchar(255),
    genus            varchar(255),
    subgenus         varchar(255),
@@ -81,7 +81,7 @@ CREATE TABLE taxonomy.birds
 (
    taxon_id         varchar(255),
    spp_id           varchar(255)     NOT NULL,
-   resource_id      varchar(255),
+   source_id        varchar(255),
    scientific_name  varchar(255),
    genus            varchar(255),
    subgenus         varchar(255),
@@ -102,7 +102,7 @@ CREATE TABLE taxonomy.inverts
 (
    taxon_id         varchar(255),
    spp_id           varchar(255)     NOT NULL,
-   resource_id      varchar(255),
+   source_id        varchar(255),
    scientific_name  varchar(255),
    genus            varchar(255),
    subgenus         varchar(255),
@@ -132,7 +132,7 @@ DROP TABLE IF EXISTS taxonomy.plants CASCADE;
 CREATE TABLE taxonomy.plants
 (
    taxon_id                   varchar(255),
-   resource_id                varchar(255),
+   source_id                  varchar(255),
    spp_id                     varchar(255)     NOT NULL,
    scientific_name            varchar(255),
    hybrid_genus_indicator     varchar(1),
