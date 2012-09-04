@@ -60,13 +60,11 @@ CREATE TABLE site_data.site_personnel
 );
 
 ALTER TABLE site_data.site_personnel
-   ADD CONSTRAINT site_personnel_pkey PRIMARY KEY (site_id, contact_name);
+   ADD person_ID serial PRIMARY KEY;
    
 ALTER TABLE site_data.site_personnel
   ADD CONSTRAINT site_personnel_site_id_fkey FOREIGN KEY (site_id)
-  REFERENCES site_data.site_info (site_id)
-   ON UPDATE NO ACTION
-   ON DELETE NO ACTION;
+  REFERENCES site_data.site_info (site_id);
    
 SET search_path TO site_data;
 COMMENT ON COLUMN site_personnel.specialty IS 'in NEON-relevant terms';
