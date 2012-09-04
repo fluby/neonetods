@@ -20,7 +20,7 @@ ALTER TABLE species_lists.species_lists
 
 ALTER TABLE species_lists.species_lists
   ADD CONSTRAINT species_lists_site_id_fkey FOREIGN KEY (site_id)
-  REFERENCES site_data.site_info_v11 (site_id);
+  REFERENCES site_data.site_info (site_id);
 
 COMMIT;
 
@@ -42,7 +42,7 @@ ALTER TABLE species_lists.herps_sp_lists
 
 ALTER TABLE species_lists.herps_sp_lists
   ADD CONSTRAINT herps_species_lists_site_id_fkey FOREIGN KEY (site_id)
-  REFERENCES site_data.site_info_v11 (site_id);
+  REFERENCES site_data.site_info (site_id);
 
 COMMIT;
 
