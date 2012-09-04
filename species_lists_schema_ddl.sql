@@ -22,6 +22,10 @@ ALTER TABLE species_lists.species_lists
   ADD CONSTRAINT species_lists_site_id_fkey FOREIGN KEY (site_id)
   REFERENCES site_data.site_info (site_id);
 
+ALTER TABLE species_lists.species_lists
+  ADD CONSTRAINT species_lists_source_id_fkey FOREIGN KEY (source_id)
+  REFERENCES sources.sources (source_id);
+
 COMMIT;
 
 ---------------------------------------------------------------------------------------------------
@@ -38,11 +42,15 @@ CREATE TABLE species_lists.herps_sp_lists
 );
 
 ALTER TABLE species_lists.herps_sp_lists
-   ADD CONSTRAINT herps_species_lists_pkey PRIMARY KEY (source_id, site_id, species);
+   ADD CONSTRAINT herps_sp_lists_pkey PRIMARY KEY (source_id, site_id, species);
 
 ALTER TABLE species_lists.herps_sp_lists
-  ADD CONSTRAINT herps_species_lists_site_id_fkey FOREIGN KEY (site_id)
+  ADD CONSTRAINT herps_sp_lists_site_id_fkey FOREIGN KEY (site_id)
   REFERENCES site_data.site_info (site_id);
+
+ALTER TABLE species_lists.herps_sp_lists
+  ADD CONSTRAINT herps_sp_lists_source_id_fkey FOREIGN KEY (source_id)
+  REFERENCES sources.sources (source_id);
 
 COMMIT;
 
