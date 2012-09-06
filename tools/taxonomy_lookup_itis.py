@@ -5,10 +5,8 @@ import spynner
 import re
 from pyquery import PyQuery as p
 import cPickle as pickle
-try:
-    itis_cache = pickle.load(open('itis.cache', 'r'))
-except:
-    itis_cache = {}
+try: itis_cache = pickle.load(open('itis.cache', 'r'))
+except: itis_cache = {}
 
 
 ITIS_URL = 'http://www.itis.gov/'
@@ -57,7 +55,7 @@ def itis_lookup(name, TIMEOUT=10):
         itis_cache[name] = False
 
     #print 'itis_cache = %s' % itis_cache
-    pickle.dump(itis_cache, open('itis.cache', 'w'))
+    pickle.dump(itis_cache, open('itis.cache', 'w'), protocol=-1)
 
     return itis_cache[name]
 

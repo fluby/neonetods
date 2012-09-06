@@ -1,9 +1,7 @@
 import urllib2
 import cPickle as pickle
-try:
-    tnrs_cache = pickle.load(open('tnrs.cache', 'r'))
-except:
-    tnrs_cache = {}
+try: tnrs_cache = pickle.load(open('tnrs.cache', 'r'))
+except: tnrs_cache = {}
 
 URL = "http://tnrs.iplantc.org/tnrsm-svc/matchNames?retrieve=best&names=%s"
 
@@ -25,5 +23,5 @@ def tnrs_lookup(name):
     # cache results and return
     if result:
         tnrs_cache[name] = result
-        pickle.dump(tnrs_cache, open('tnrs.cache', 'w'))
+        pickle.dump(tnrs_cache, open('tnrs.cache', 'w'), protocol=-1)
     return result
