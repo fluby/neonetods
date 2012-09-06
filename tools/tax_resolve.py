@@ -112,7 +112,6 @@ def tax_resolve_fuzzy(sci_name, synonyms=None, known_species=None, fuzzy=True, s
     scores = sorted([(key, difflib_match(sci_name, key)) for key in all_taxes],
                      key=lambda s: s[1], reverse=True)
     pickle.dump(difflib_cache, open('difflib.cache', 'w'))
-    print difflib_cache.keys()
 
     if scores and scores[0][1] >= sensitivity:  
         top_score = scores[0]
