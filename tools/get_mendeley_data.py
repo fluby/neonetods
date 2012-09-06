@@ -17,7 +17,9 @@ def get_mendeley_data(url, email=None, password=None):
     if url[:4] == 'www.': url = 'http://' + url
     if url in mendeley_cache: return mendeley_cache[url]
 
-    if url in group_docs: data_doc = group_docs[url]
+    if url in group_docs: 
+        data_doc = group_docs[url]
+        data_doc['tags'] = ','.join(data_doc['tags'])
     else:
         b.open(url)
         new_url = b.response().geturl()
@@ -29,7 +31,9 @@ def get_mendeley_data(url, email=None, password=None):
             new_url = b.response().geturl()
             if not new_url == url: raise('Failed to login.')
 
-        if new_url in group_docs: data_doc = group_docs[new_url]
+        if new_url in group_docs: 
+            data_doc = group_docs[new_url]
+            data_doc['tags'] = ','.join(data_doc['tags'])
         else:
             html = b.response().read()
             open('output.html','w').write(html)
@@ -43,10 +47,10 @@ def get_mendeley_data(url, email=None, password=None):
 
             data_doc = eval(data_doc)
             tags = p.PyQuery(html)('div.tags-list')
-        
             if tags:
                 data_doc['tags'] = ','.join(a.text for a in tags.find('a'))
             else: data_doc['tags'] = ''
+        
 
     if data_doc['title'][-1] == '.': data_doc['title'] = data_doc['title'][:-1]
 
