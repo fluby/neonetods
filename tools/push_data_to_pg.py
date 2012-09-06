@@ -8,15 +8,19 @@ sys.setdefaultencoding('latin-1')
 def main():
     args = sys.argv[1:]
     if args: user = args[0]
-    else: user = raw_input('username: ')
+    else: user = raw_input('postgres username: ')
     if len(args) > 1: password = args[1]
-    else: password = getpass('password:')
+    else: password = getpass('postgres password:')
     if len(args) > 2: host = args[2]
-    else: host = 'serenity.bluezone.usu.edu'
+    else: 
+        host = raw_input('host: ')
+        if not host: 'serenity.bluezone.usu.edu'
     if len(args) > 3: database = args[3]
-    else: database = 'dodobase'
+    else:
+        database = raw_input('database: ') 
+        if not database: database = 'dodobase'
 
-    connection = dbapi.connect(host=host, user=user, password=password, database=database)
+    connection = dbapi.connect(host=host, port=5432, user=user, password=password, database=database)
     cursor = connection.cursor()
 
     connection.set_client_encoding('latin-1')
