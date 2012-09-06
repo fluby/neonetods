@@ -2,9 +2,9 @@ import difflib
 from taxonomy_lookup_tnrs import tnrs_lookup
 from taxonomy_lookup_itis import itis_lookup
 import cPickle as pickle
-try: fuzzy_cache = cPickle.load(open('fuzzy.cache', 'r'))
+try: fuzzy_cache = pickle.load(open('fuzzy.cache', 'r'))
 except: fuzzy_cache = {}
-try: difflib_cache = cPickle.load(open('difflib.cache', 'r'))
+try: difflib_cache = pickle.load(open('difflib.cache', 'r'))
 except: difflib_cache = {}
 difflib_cache_changes = False
 
@@ -78,6 +78,7 @@ def get_synonyms(input_files, wrong_col=0, right_col=1):
     return syn
 
 def difflib_match(n1, n2, max_len_diff=5):
+    n1 = n1.lower(); n2 = n2.lower()
     if abs(len(n1) - len(n2)) > max_len_diff:
         return 0
     if n2 in difflib_cache:
@@ -89,6 +90,7 @@ def difflib_match(n1, n2, max_len_diff=5):
     else:
         difflib_cache[n1] = {}
     
+    #print n1, n2, n1 in difflib_cache
     result = difflib.SequenceMatcher(None, n1, n2).ratio()
     difflib_cache[n1][n2] = result
     global difflib_cache_changes
@@ -107,9 +109,10 @@ def tax_resolve_fuzzy(sci_name, synonyms=None, known_species=None, fuzzy=True, s
     if not known_species: known_species = []
     if not synonyms: synonyms = {}
     all_taxes = [s for s in synonyms.keys() + synonyms.values() + known_species if s]
-    scores = sorted([(key, difflib_match(sci_name.lower(), key.lower())) for key in all_taxes],
+    scores = sorted([(key, difflib_match(sci_name, key)) for key in all_taxes],
                      key=lambda s: s[1], reverse=True)
     pickle.dump(difflib_cache, open('difflib.cache', 'w'))
+    print difflib_cache.keys()
 
     if scores and scores[0][1] >= sensitivity:  
         top_score = scores[0]
