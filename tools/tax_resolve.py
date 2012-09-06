@@ -4,6 +4,9 @@ from taxonomy_lookup_itis import itis_lookup
 import cPickle as pickle
 try: fuzzy_cache = cPickle.load(open('fuzzy.cache', 'r'))
 except: fuzzy_cache = {}
+try: difflib_cache = cPickle.load(open('difflib.cache', 'r'))
+except: difflib_cache = {}
+difflib_cache_changes = False
 
 
 # generate new spp_id when scientific name is not present in taxonomy tables
@@ -72,28 +75,52 @@ def get_synonyms(input_files, wrong_col=0, right_col=1):
             wrong_name = cols[wrong_col]
             right_name = cols[right_col]
             syn[wrong_name] = right_name
-    return syn    
+    return syn
+
+def difflib_match(n1, n2, max_len_diff=5):
+    if abs(len(n1) - len(n2)) > max_len_diff:
+        return 0
+    if n2 in difflib_cache:
+        if n1 in difflib_cache[n2]:
+            return difflib_cache[n2][n1]
+    if n1 in difflib_cache:
+        if n2 in difflib_cache[n1]:
+            return difflib_cache[n1][n2]
+    else:
+        difflib_cache[n1] = {}
+    
+    result = difflib.SequenceMatcher(None, n1, n2).ratio()
+    difflib_cache[n1][n2] = result
+    global difflib_cache_changes
+    difflib_cache_changes = True
+    
+    return difflib_cache[n1][n2]
 
 def tax_resolve_fuzzy(sci_name, synonyms=None, known_species=None, fuzzy=True, sensitivity=0.9):    
     """Performs fuzzy matching on a species name to determine whether it is in a list of synonyms or known species."""
     try: return synonyms[sci_name]
-    except:pass
+    except: pass
     try: return fuzzy_cache[sci_name]
     except: pass
 
     if not fuzzy: return sci_name
     if not known_species: known_species = []
     if not synonyms: synonyms = {}
-    all_taxes = synonyms.keys() + synonyms.values() + known_species
-    scores = sorted([(key, difflib.SequenceMatcher(None, sci_name.lower(), key.lower()).ratio()) for key in all_taxes],
+    all_taxes = [s for s in synonyms.keys() + synonyms.values() + known_species if s]
+    scores = sorted([(key, difflib_match(sci_name.lower(), key.lower())) for key in all_taxes],
                      key=lambda s: s[1], reverse=True)
+    pickle.dump(difflib_cache, open('difflib.cache', 'w'))
+
     if scores and scores[0][1] >= sensitivity:  
         top_score = scores[0]
         result = synonyms[top_score[0]] if top_score[0] in synonyms.keys() else top_score[0]
     else:
         result = sci_name
     fuzzy_cache[sci_name] = result
-    pickle.dump(fuzzy_cache, open('fuzzy.cache', 'w'))
+    global difflib_cache_changes
+    if difflib_cache_changes:
+        pickle.dump(fuzzy_cache, open('fuzzy.cache', 'w'))
+        difflib_cache_changes = False
 
 
 syns = {
