@@ -108,7 +108,7 @@ def tax_resolve_fuzzy(sci_name, synonyms=None, known_species=None, fuzzy=True, s
     if not fuzzy: return sci_name
     if not known_species: known_species = []
     if not synonyms: synonyms = {}
-    all_taxes = [s for s in synonyms.keys() + synonyms.values() + known_species if s]
+    all_taxes = [s for s in synonyms.keys() + synonyms.values() + known_species if s and s[0].lower() == sci_name[0].lower()]
     scores = sorted([(key, difflib_match(sci_name, key)) for key in all_taxes],
                      key=lambda s: s[1], reverse=True)
     pickle.dump(difflib_cache, open('difflib.cache', 'w'), protocol=-1)
