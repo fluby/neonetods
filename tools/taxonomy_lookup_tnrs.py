@@ -5,17 +5,18 @@ except: tnrs_cache = {}
 
 URL = "http://tnrs.iplantc.org/tnrsm-svc/matchNames?retrieve=best&names=%s"
 
-def tnrs_lookup(name):
+def tnrs_lookup(name, TIMEOUT=10):
     # lookup canonical plant names on TNRS web service
     true, false, null = True, False, None
-    response = urllib2.urlopen(URL % name.replace(' ', '%20')).read()
-
     try:
+        response = urllib2.urlopen(URL % name.replace(' ', '%20'), timeout=TIMEOUT).read()
+
         response_dict = eval(response)
         sci_name = response_dict['items'][0]['nameScientific']
 
         if sci_name: result = sci_name
         else: result = None
+
     except Exception as e:
         print e
         result = None
