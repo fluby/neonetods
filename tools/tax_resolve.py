@@ -6,6 +6,7 @@ try: fuzzy_cache = pickle.load(open('fuzzy.cache', 'r'))
 except: fuzzy_cache = {}
 try: difflib_cache = pickle.load(open('difflib.cache', 'r'))
 except: difflib_cache = {}
+import time
 difflib_cache_changes = False
 
 
@@ -111,7 +112,6 @@ def tax_resolve_fuzzy(sci_name, synonyms=None, known_species=None, fuzzy=True, s
     all_taxes = [s for s in synonyms.keys() + synonyms.values() + known_species if s and s[0].lower() == sci_name[0].lower()]
     scores = sorted([(key, difflib_match(sci_name, key)) for key in all_taxes],
                      key=lambda s: s[1], reverse=True)
-    pickle.dump(difflib_cache, open('difflib.cache', 'w'), protocol=-1)
 
     if scores and scores[0][1] >= sensitivity:  
         top_score = scores[0]
@@ -119,9 +119,11 @@ def tax_resolve_fuzzy(sci_name, synonyms=None, known_species=None, fuzzy=True, s
     else:
         result = sci_name
     fuzzy_cache[sci_name] = result
+    pickle.dump(fuzzy_cache, open('fuzzy.cache', 'w'), protocol=-1)
+
     global difflib_cache_changes
     if difflib_cache_changes:
-        pickle.dump(fuzzy_cache, open('fuzzy.cache', 'w'), protocol=-1)
+        pickle.dump(difflib_cache, open('difflib.cache', 'w'), protocol=-1)
         difflib_cache_changes = False
 
 
