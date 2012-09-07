@@ -7,14 +7,21 @@ import getpass
 from taxonomy_lookup_itis import itis_lookup
 
 
-species_lists = [
-                 ('mammals', '../data/sp_list_mammals.csv', [('../data/mammals.csv', 1, [(3, False), (11, True)])]),
-                 ('birds', '../data/sp_list_birds.csv',     [('../data/ebird_tax_clean.csv', 0, [(1,False),(2,True)])]),
-                 ('plants', '../data/sp_list_plants.csv',   [('../data/plants.csv', 2, 3)]),
-                 ('inverts', '../data/sp_list_inverts.csv', [('../data/beetles.csv', 1, 3), 
-                                                             ('../data/mosquitoes.csv', 1, 3)]),
-                 #herps
-                 ]
+default_synonyms = {
+                    'mammals': [('../data/mammals.csv', 1, [(3, False), (11, True)])],
+                    'birds': [('../data/ebird_tax_clean.csv', 0, [(1,False),(2,True)])],
+                    'plants': [('../data/plants.csv', 2, 3)],
+                    'inverts': [('../data/beetles.csv', 1, 3), 
+                                ('../data/mosquitoes.csv', 1, 3)],
+                    #herps
+                    }
+
+default_species_lists = [
+                         ('mammals', '../data/sp_list_mammals.csv'),
+                         ('birds', '../data/sp_list_birds.csv'),
+                         ('plants', '../data/sp_list_plants.csv'),
+                         ('inverts', '../data/sp_list_inverts.csv'),
+                         ]
 
 def col_split(line):
     return csv.reader([line], dialect=csv.excel, delimiter=',').next()
@@ -63,12 +70,13 @@ def get_spp_id(genus, species, subspecies, com_name, taxon, spp_code_dict):
         
                  
                  
-def main():
+def main(species_lists):
     species_list_data = {}
     taxonomy_info = {}
     sources = []
     unknowns = []
 
+    species_lists = [(tax, file,) + (default_synonyms[tax],) for tax, file in species_lists]
     for tax, _, _ in species_lists:
         species_list_data[tax] = [('source_id','site_id','spp_id')]
 
@@ -137,4 +145,4 @@ def main():
 
         
 if __name__ == '__main__':
-    main()
+    main(default_species_lists)
