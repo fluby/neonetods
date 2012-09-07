@@ -4,6 +4,7 @@ sys.setdefaultencoding('latin1')
 import csv
 import tax_resolve
 import getpass
+import cPickle as pickle
 from taxonomy_lookup_itis import itis_lookup
 
 
@@ -65,6 +66,7 @@ def get_spp_id(genus, species, subspecies, com_name, taxon, spp_code_dict):
                     new_spp_id = tax_resolve.new_spp_id(taxon, *corrected_sci_name)
                     if new_spp_id:
                         spp_code_dict[new_name] = new_spp_id
+                        pickle.dump(spp_code_dict, open('%s.spp_codes.cache' % taxon, 'w'), protocol=-1)
                         return new_spp_id
             return None
         
@@ -84,28 +86,33 @@ def main(species_lists):
     # species lists and taxonomies into CSV files
     for taxon, data_entry_file, spp_code_files in species_lists:
         print '*** %s ***' % taxon
-        spp_codes = {}
+        try:
+            spp_codes = pickle.load(open('%s.spp_codes.cache' % taxon, 'r'))
+        except:
+            spp_codes = {}
         
-        # read known species ids
-        for (spp_file, spcode_col, sciname_col) in spp_code_files:
-            data_file = open(spp_file, 'r')
-            data_file.readline()
-            for line in data_file:
-                line = format_line(line)
-                cols = col_split(line)
-                if line:
-                    spp_code = cols[spcode_col]
-                    if isinstance(sciname_col, list):
-                        name_cols = sciname_col
-                    else:
-                        name_cols = [(sciname_col, False)]
-                    for name_col, common in name_cols:
-                        name = cols[name_col]
-                        if name:
-                            if common: name = name.lower()
-                            spp_codes[name] = spp_code
-                            tax_resolve.ALL_SPP_IDS[name] = spp_code
-            data_file.close()
+            # read known species ids
+            for (spp_file, spcode_col, sciname_col) in spp_code_files:
+                data_file = open(spp_file, 'r')
+                data_file.readline()
+                for line in data_file:
+                    line = format_line(line)
+                    cols = col_split(line)
+                    if line:
+                        spp_code = cols[spcode_col]
+                        if isinstance(sciname_col, list):
+                            name_cols = sciname_col
+                        else:
+                            name_cols = [(sciname_col, False)]
+                        for name_col, common in name_cols:
+                            name = cols[name_col]
+                            if name:
+                                if common: name = name.lower()
+                                spp_codes[name] = spp_code
+                                tax_resolve.ALL_SPP_IDS[name] = spp_code
+                data_file.close()
+            
+            pickle.dump(spp_codes, open('%s.spp_codes.cache' % taxon, 'w'), protocol=-1)
         correct = 0
         unknown = 0
 
