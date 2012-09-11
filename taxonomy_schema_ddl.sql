@@ -131,26 +131,18 @@ COMMIT;
 DROP TABLE IF EXISTS taxonomy.plants CASCADE;
 CREATE TABLE taxonomy.plants
 (
-   taxon_id                   varchar(255),
-   source_id                  varchar(255),
-   spp_id                     varchar(255)     NOT NULL,
-   scientific_name            varchar(255),
-   hybrid_genus_indicator     varchar(1),
-   genus                      varchar(255),
-   hybrid_sp_indicator        varchar(1),
-   species_epithet            varchar(255),
-   subspecies                 varchar(255),
-   variety                    varchar(255),
-   genera_binomial_author     varchar(255),
-   trinomial_author           varchar(255),
-   quadranomial_author        varchar(255),
-   parents                    varchar(255),
-   common_name                varchar(255),
-   usdaplants_floristic_area  varchar(255),
-   category                   varchar(255),
-   itis_number                numeric,
-   duration                   varchar(255),
-   growth_habit               varchar(255)
+   taxon_id         varchar(255),
+   spp_id           varchar(255)     NOT NULL,
+   source_id        varchar(255),
+   scientific_name  varchar(255),
+   genus            varchar(255),
+   subgenus         varchar(255),
+   species          varchar(255),
+   subspecies       varchar(255),
+   authority_name   varchar(255),
+   authority_year   numeric,
+   itis_number      numeric,
+   common_name      varchar(255)
 );
 ALTER TABLE taxonomy.plants
    ADD CONSTRAINT plants_pkey PRIMARY KEY (spp_id);

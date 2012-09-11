@@ -66,20 +66,17 @@ def push_data(tables=None):
     cursor = connection.cursor()
 
     if tables is None:
-        tables = [
+        groups = 'mammals', 'birds', 'plants', 'inverts'
+        tables = ([
             ('site_data.site_info', ['../data/site_data_v11.csv']),
             ('sources.sources', ['sources.sources.csv']),
             ('taxonomy.high_level', ['../data/high_level.csv']),
-            ('taxonomy.mammals', ['taxonomy.mammals.csv']),
-            ('taxonomy.birds', ['taxonomy.birds.csv']),
-            ('taxonomy.inverts', ['taxonomy.inverts.csv']),
-            ('species_lists.species_lists', [
-                                            'species_lists.mammals.csv',
-                                            'species_lists.birds.csv',
-                                            'species_lists.inverts.csv',
-                                            ]),
-            #('species_lists.status', ['../data/status.csv']),
-            ]
+            ] 
+            + [('taxonomy.%s' % group, ['taxonomy.%s.csv' % group]) for group in groups]
+            + [('species_lists.%s' % group, ['species_lists.%s.csv' % group]) for group in groups]
+            #+ [('species_lists.status', ['../data/status.csv']),]
+            )
+            
     for table, files in tables:
         try:
             cursor.execute('DELETE FROM %s;' % table)
@@ -98,6 +95,15 @@ def push_data(tables=None):
         
     print 'done'
     connection.close()
+
+
+def get_species_list(taxon, site):
+    global connection
+    if connection is None: get_connection()
+    cursor = connection.cursor()
+
+    table = 'species_lists.species_lists'
+    stmt = 'SELECT DISTINCT spp_id FROM %s' % table
 
 
 if __name__ == '__main__':

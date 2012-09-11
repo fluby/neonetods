@@ -7,49 +7,115 @@
 ---conservation status is included here, because status can vary across the geographical range of a species
 ---status should include state and federal listings
 
-DROP TABLE IF EXISTS species_lists.species_lists CASCADE;
-CREATE TABLE species_lists.species_lists
+DROP TABLE IF EXISTS species_lists.mammals CASCADE;
+CREATE TABLE species_lists.mammals
 (
    source_id  			varchar(1000)    NOT NULL,
    site_id                   varchar(4)      NOT NULL,
    spp_id                    varchar(255)    NOT NULL
 );
 
-ALTER TABLE species_lists.species_lists
-   ADD CONSTRAINT species_lists_pkey PRIMARY KEY (source_id, site_id, spp_id);
+ALTER TABLE species_lists.mammals
+   ADD CONSTRAINT mammals_pkey PRIMARY KEY (source_id, site_id, spp_id);
 
-ALTER TABLE species_lists.species_lists
-  ADD CONSTRAINT species_lists_site_id_fkey FOREIGN KEY (site_id)
+ALTER TABLE species_lists.mammals
+  ADD CONSTRAINT mammals_site_id_fkey FOREIGN KEY (site_id)
   REFERENCES site_data.site_info (site_id);
 
-ALTER TABLE species_lists.species_lists
-  ADD CONSTRAINT species_lists_source_id_fkey FOREIGN KEY (source_id)
+ALTER TABLE species_lists.mammals
+  ADD CONSTRAINT mammals_source_id_fkey FOREIGN KEY (source_id)
   REFERENCES sources.sources (source_id);
 
 COMMIT;
 
 ---------------------------------------------------------------------------------------------------
 
-DROP TABLE IF EXISTS species_lists.herps_sp_lists CASCADE;
-CREATE TABLE species_lists.herps_sp_lists
+DROP TABLE IF EXISTS species_lists.birds CASCADE;
+CREATE TABLE species_lists.birds
 (
-   source_id  			varchar(255)    NOT NULL,
+   source_id  			varchar(1000)    NOT NULL,
    site_id                   varchar(4)      NOT NULL,
-   order_name                varchar(255),
-   family                    varchar(255),
-   species                   varchar(255)    NOT NULL,
-   common_name               varchar(255)
+   spp_id                    varchar(255)    NOT NULL
 );
 
-ALTER TABLE species_lists.herps_sp_lists
-   ADD CONSTRAINT herps_sp_lists_pkey PRIMARY KEY (source_id, site_id, species);
+ALTER TABLE species_lists.birds
+   ADD CONSTRAINT birds_pkey PRIMARY KEY (source_id, site_id, spp_id);
 
-ALTER TABLE species_lists.herps_sp_lists
-  ADD CONSTRAINT herps_sp_lists_site_id_fkey FOREIGN KEY (site_id)
+ALTER TABLE species_lists.birds
+  ADD CONSTRAINT birds_site_id_fkey FOREIGN KEY (site_id)
   REFERENCES site_data.site_info (site_id);
 
-ALTER TABLE species_lists.herps_sp_lists
-  ADD CONSTRAINT herps_sp_lists_source_id_fkey FOREIGN KEY (source_id)
+ALTER TABLE species_lists.birds
+  ADD CONSTRAINT birds_source_id_fkey FOREIGN KEY (source_id)
+  REFERENCES sources.sources (source_id);
+
+COMMIT;
+
+---------------------------------------------------------------------------------------------------
+
+DROP TABLE IF EXISTS species_lists.plants CASCADE;
+CREATE TABLE species_lists.plants
+(
+   source_id  			varchar(1000)    NOT NULL,
+   site_id                   varchar(4)      NOT NULL,
+   spp_id                    varchar(255)    NOT NULL
+);
+
+ALTER TABLE species_lists.plants
+   ADD CONSTRAINT plants_pkey PRIMARY KEY (source_id, site_id, spp_id);
+
+ALTER TABLE species_lists.plants
+  ADD CONSTRAINT plants_site_id_fkey FOREIGN KEY (site_id)
+  REFERENCES site_data.site_info (site_id);
+
+ALTER TABLE species_lists.plants
+  ADD CONSTRAINT plants_source_id_fkey FOREIGN KEY (source_id)
+  REFERENCES sources.sources (source_id);
+
+COMMIT;
+
+---------------------------------------------------------------------------------------------------
+
+DROP TABLE IF EXISTS species_lists.inverts CASCADE;
+CREATE TABLE species_lists.inverts
+(
+   source_id  			varchar(1000)    NOT NULL,
+   site_id                   varchar(4)      NOT NULL,
+   spp_id                    varchar(255)    NOT NULL
+);
+
+ALTER TABLE species_lists.inverts
+   ADD CONSTRAINT inverts_pkey PRIMARY KEY (source_id, site_id, spp_id);
+
+ALTER TABLE species_lists.inverts
+  ADD CONSTRAINT inverts_site_id_fkey FOREIGN KEY (site_id)
+  REFERENCES site_data.site_info (site_id);
+
+ALTER TABLE species_lists.inverts
+  ADD CONSTRAINT inverts_source_id_fkey FOREIGN KEY (source_id)
+  REFERENCES sources.sources (source_id);
+
+COMMIT;
+
+---------------------------------------------------------------------------------------------------
+
+DROP TABLE IF EXISTS species_lists.herps CASCADE;
+CREATE TABLE species_lists.herps
+(
+   source_id  			varchar(1000)    NOT NULL,
+   site_id                   varchar(4)      NOT NULL,
+   spp_id                    varchar(255)    NOT NULL
+);
+
+ALTER TABLE species_lists.herps
+   ADD CONSTRAINT herps_pkey PRIMARY KEY (source_id, site_id, spp_id);
+
+ALTER TABLE species_lists.herps
+  ADD CONSTRAINT herps_site_id_fkey FOREIGN KEY (site_id)
+  REFERENCES site_data.site_info (site_id);
+
+ALTER TABLE species_lists.herps
+  ADD CONSTRAINT herps_source_id_fkey FOREIGN KEY (source_id)
   REFERENCES sources.sources (source_id);
 
 COMMIT;
