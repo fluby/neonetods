@@ -3,9 +3,14 @@ import pyquery as p
 import mechanize
 import getpass
 import cPickle as pickle
-try: mendeley_cache = pickle.load(open('mendeley.cache', 'r')) 
+import os
+
+import dodobase.data as data
+DATA_DIR = '/'.join(data.__file__.split('/')[:-1]) + '/'
+
+try: mendeley_cache = pickle.load(open(os.path.join(DATA_DIR, 'mendeley.cache'), 'r')) 
 except: mendeley_cache = {}
-try: group_docs = pickle.load(open('group_docs.pkl', 'r'))
+try: group_docs = pickle.load(open(os.path.join(DATA_DIR, 'group_docs.pkl'), 'r'))
 except: from get_all_group_docs import all_docs as group_docs
 
 b = mechanize.Browser()
@@ -36,7 +41,6 @@ def get_mendeley_data(url, email=None, password=None):
             data_doc['tags'] = ','.join(data_doc['tags'])
         else:
             html = b.response().read()
-            open('output.html','w').write(html)
 
             true, false = True, False
 
@@ -55,7 +59,7 @@ def get_mendeley_data(url, email=None, password=None):
     if data_doc['title'][-1] == '.': data_doc['title'] = data_doc['title'][:-1]
 
     mendeley_cache[url] = data_doc
-    pickle.dump(mendeley_cache, open('mendeley.cache', 'w'))
+    pickle.dump(mendeley_cache, open(os.path.join(DATA_DIR, 'mendeley.cache'), 'w'))
     
     return data_doc
     

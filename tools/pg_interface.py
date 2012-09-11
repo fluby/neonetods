@@ -1,3 +1,4 @@
+from config import DATA_DIR
 import psycopg2 as dbapi
 from getpass import getpass
 from StringIO import StringIO
@@ -68,12 +69,12 @@ def push_data(tables=None):
     if tables is None:
         groups = 'mammals', 'birds', 'plants', 'inverts'
         tables = ([
-            ('site_data.site_info', ['../data/site_data_v11.csv']),
-            ('sources.sources', ['sources.sources.csv']),
-            ('taxonomy.high_level', ['../data/high_level.csv']),
+            ('site_data.site_info', [os.path.join(DATA_DIR, 'site_data_v11.csv')]),
+            ('sources.sources', [os.path.join(DATA_DIR, 'sources.sources.csv')]),
+            ('taxonomy.high_level', [os.path.join(DATA_DIR, '../data/high_level.csv')]),
             ] 
-            + [('taxonomy.%s' % group, ['taxonomy.%s.csv' % group]) for group in groups]
-            + [('species_lists.%s' % group, ['species_lists.%s.csv' % group]) for group in groups]
+            + [('taxonomy.%s' % group, [os.path.join(DATA_DIR, 'taxonomy.%s.csv' % group)]) for group in groups]
+            + [('species_lists.%s' % group, [os.path.join(DATA_DIR, 'species_lists.%s.csv' % group)]) for group in groups]
             #+ [('species_lists.status', ['../data/status.csv']),]
             )
             
@@ -88,8 +89,12 @@ def push_data(tables=None):
             #input_file.readline()
             print table, file
             stmt = "COPY %s FROM stdin WITH DELIMITER ',' NULL AS '' CSV HEADER;" % (table)
-            cursor.copy_expert(stmt, input_file)
-            connection.commit()
+            try:
+                cursor.copy_expert(stmt, input_file)
+                connection.commit()
+            except Exception as e:
+                print 'EXCEPTION:', e
+                connection.rollback()
             input_file.close()
         
         

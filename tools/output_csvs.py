@@ -1,21 +1,24 @@
+import os
 import sys
 from entered_data import *
 import getpass
 from get_mendeley_data import get_source_data
 
-if len(sys.argv) > 1: email = sys.argv[1]
-else: email = raw_input('mendeley email: ')
-if len(sys.argv) > 2: password = sys.argv[2]
-else: password = getpass.getpass('mendeley password: ')
+from config import DATA_DIR
 
 
-def main():
-    source_file = open('sources.sources.csv', 'w')
+def main(*args):
+    if len(args) > 0: email = args[0]
+    else: email = raw_input('mendeley email: ')
+    if len(args) > 1: password = args[1]
+    else: password = getpass.getpass('mendeley password: ')
+
+    source_file = open(os.path.join(DATA_DIR, 'sources.sources.csv'), 'w')
     source_file.write('source_id,info_type,file_type,notes,isbn,author,title,journal,volume,issue,pages,year,url,tags,spat_scale,spat_extent')
     completed_sources = set()
     failed_sources = []
     for n, source_url in enumerate(sources):
-        print '%s/%s' % (n+1, len(sources))
+        if (n+1 % 100) == 0: print '%s/%s' % (n+1, len(sources))
         if not source_url in completed_sources:
             try:
                 source_data = get_source_data(source_url, email, password)
@@ -29,7 +32,7 @@ def main():
 
     for taxon in species_list_data.keys():
         # generate species lists
-        new_file = open('species_lists.%s.csv' % taxon, 'w')
+        new_file = open(os.path.join(DATA_DIR, 'species_lists.%s.csv' % taxon), 'w')
         lines = []
         seen_lines = set()
         for line in species_list_data[taxon]:
@@ -43,7 +46,7 @@ def main():
 
         # generate complete taxonomy
         tax_done = set()
-        tax_file = open('taxonomy.%s.csv' % taxon, 'w')
+        tax_file = open(os.path.join(DATA_DIR, 'taxonomy.%s.csv' % taxon), 'w')
         tax_file.write('taxon_id,spp_id,resource_id,scientific_name,genus,subgenus,species,subspecies,authority_name,authority_year,itis_number,common_name')
         for _, _, spp_id in species_list_data[taxon][1:]:
             if not spp_id in tax_done:

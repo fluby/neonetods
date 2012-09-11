@@ -1,14 +1,16 @@
+import os
 import difflib
 from taxonomy_lookup_tnrs import tnrs_lookup
 from taxonomy_lookup_itis import itis_lookup
 import cPickle as pickle
-try: fuzzy_cache = pickle.load(open('fuzzy.cache', 'r'))
+from config import DATA_DIR
+
+try: fuzzy_cache = pickle.load(open(os.path.join(DATA_DIR, 'fuzzy.cache'), 'r'))
 except: fuzzy_cache = {}
-try: difflib_cache = pickle.load(open('difflib.cache', 'r'))
+try: difflib_cache = pickle.load(open(os.path.join(DATA_DIR, 'difflib.cache'), 'r'))
 except: difflib_cache = {}
 import time
 difflib_cache_changes = False
-
 
 # generate new spp_id when scientific name is not present in taxonomy tables
 def spuh_1(genus):
@@ -99,7 +101,7 @@ def difflib_match(n1, n2, max_len_diff=5):
     
     return difflib_cache[n1][n2]
 
-def tax_resolve_fuzzy(sci_name, synonyms=None, known_species=None, fuzzy=True, sensitivity=0.9):    
+def tax_resolve_fuzzy(sci_name, synonyms=None, known_species=None, fuzzy=True, sensitivity=0.9):
     """Performs fuzzy matching on a species name to determine whether it is in a list of synonyms or known species."""
     try: return synonyms[sci_name]
     except: pass
@@ -119,31 +121,31 @@ def tax_resolve_fuzzy(sci_name, synonyms=None, known_species=None, fuzzy=True, s
     else:
         result = sci_name
     fuzzy_cache[sci_name] = result
-    pickle.dump(fuzzy_cache, open('fuzzy.cache', 'w'), protocol=-1)
+    pickle.dump(fuzzy_cache, open(os.path.join(DATA_DIR, 'fuzzy.cache'), 'w'), protocol=-1)
 
     global difflib_cache_changes
     if difflib_cache_changes:
-        pickle.dump(difflib_cache, open('difflib.cache', 'w'), protocol=-1)
+        pickle.dump(difflib_cache, open(os.path.join(DATA_DIR, 'difflib.cache'), 'w'), protocol=-1)
         difflib_cache_changes = False
 
 
 syns = {
-        'mammals': get_synonyms('../data/mammal_synonyms.csv'),
-        'inverts': get_synonyms('../data/mosquito_synonyms.csv'),
+        'mammals': get_synonyms(os.path.join(DATA_DIR, 'mammal_synonyms.csv')),
+        'inverts': get_synonyms(os.path.join(DATA_DIR, 'mosquito_synonyms.csv')),
         }
 
 extra_steps = {
-               'mammals': [lambda n: tax_resolve_fuzzy(n, synonyms=syns['mammals'])],
-               'inverts': [lambda n: tax_resolve_fuzzy(n, synonyms=syns['inverts'])],
-               'plants': [tnrs_lookup],
-               }
+                'mammals': [lambda n: tax_resolve_fuzzy(n, synonyms=syns['mammals'])],
+                'inverts': [lambda n: tax_resolve_fuzzy(n, synonyms=syns['inverts'])],
+                'plants': [tnrs_lookup],
+                }
 
 def scientific_name(*args):
     return ' '.join([s for s in args if s])
 def tax_resolve(genus, species, subspecies, com_name=None, taxon=None, known_species=None):
     if not known_species: known_species = []
     sci_name = scientific_name(genus, species, subspecies)
-    
+
     name = sci_name
     if sci_name:
         new_name = tax_resolve_fuzzy(sci_name=sci_name, known_species=known_species)

@@ -1,27 +1,29 @@
 import sys
 reload(sys)
 sys.setdefaultencoding('latin1')
+import os
 import csv
 import tax_resolve
 import getpass
 import cPickle as pickle
 from taxonomy_lookup_itis import itis_lookup
 
+from config import DATA_DIR
 
 default_synonyms = {
-                    'mammals': [('../data/mammals.csv', 1, [(3, False), (11, True)])],
-                    'birds': [('../data/ebird_tax_clean.csv', 0, [(1,False),(2,True)])],
-                    'plants': [('../data/plants.csv', 2, 3)],
-                    'inverts': [('../data/beetles.csv', 1, 3), 
-                                ('../data/mosquitoes.csv', 1, 3)],
+                    'mammals': [('mammals.csv', 1, [(3, False), (11, True)])],
+                    'birds': [('ebird_tax_clean.csv', 0, [(1,False),(2,True)])],
+                    'plants': [('plants.csv', 2, 3)],
+                    'inverts': [('beetles.csv', 1, 3), 
+                                ('mosquitoes.csv', 1, 3)],
                     #herps
                     }
 
 default_species_lists = [
-                         ('mammals', '../data/sp_list_mammals.csv'),
-                         ('birds', '../data/sp_list_birds.csv'),
-                         ('plants', '../data/sp_list_plants.csv'),
-                         ('inverts', '../data/sp_list_inverts.csv'),
+                         ('mammals', 'sp_list_mammals.csv'),
+                         ('birds', 'sp_list_birds.csv'),
+                         ('plants', 'sp_list_plants.csv'),
+                         ('inverts', 'sp_list_inverts.csv'),
                          ]
 
 def col_split(line):
@@ -66,7 +68,7 @@ def get_spp_id(genus, species, subspecies, com_name, taxon, spp_code_dict):
                     new_spp_id = tax_resolve.new_spp_id(taxon, *corrected_sci_name)
                     if new_spp_id:
                         spp_code_dict[new_name] = new_spp_id
-                        pickle.dump(spp_code_dict, open('%s.spp_codes.cache' % taxon, 'w'), protocol=-1)
+                        pickle.dump(spp_code_dict, open(os.path.join(DATA_DIR, '%s.spp_codes.cache' % taxon), 'w'), protocol=-1)
                         return new_spp_id
             return None
         
@@ -84,6 +86,8 @@ def main(species_lists):
 
     # run through all entered data, generate a species id, and output 
     # species lists and taxonomies into CSV files
+    total_correct = 0
+    total_unknown = 0
     for taxon, data_entry_file, spp_code_files in species_lists:
         print '*** %s ***' % taxon
         try:
@@ -93,6 +97,8 @@ def main(species_lists):
         
             # read known species ids
             for (spp_file, spcode_col, sciname_col) in spp_code_files:
+                spp_file = os.path.join(DATA_DIR, spp_file)
+
                 data_file = open(spp_file, 'r')
                 data_file.readline()
                 for line in data_file:
@@ -112,7 +118,7 @@ def main(species_lists):
                                 tax_resolve.ALL_SPP_IDS[name] = spp_code
                 data_file.close()
             
-            pickle.dump(spp_codes, open('%s.spp_codes.cache' % taxon, 'w'), protocol=-1)
+            pickle.dump(spp_codes, open(os.path.join(DATA_DIR, '%s.spp_codes.cache' % taxon), 'w'), protocol=-1)
         correct = 0
         unknown = 0
 
@@ -144,11 +150,16 @@ def main(species_lists):
                 except Exception as e: print line, e; unknown += 1
         print '%s: Correct: %s; Unknown: %s (%s)' % (taxon, correct, unknown, correct / float(correct + unknown))
 
+        total_correct += correct
+        total_unknown += unknown
+
     # output parsed data to separate file
-    output_file = open('entered_data.py', 'w')
+    output_file = open(os.path.join(DATA_DIR, 'entered_data.py'), 'w')
     data = '\n'.join(['%s = %s' % (var, locals()[var]) for var in ('species_list_data', 'taxonomy_info', 'sources', 'unknowns')])
     output_file.write(data)
     output_file.close()
+
+    return total_correct, total_unknown
 
         
 if __name__ == '__main__':

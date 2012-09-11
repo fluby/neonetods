@@ -1,11 +1,15 @@
 import sys
 reload(sys)
 sys.setdefaultencoding('latin1')
+import os
 import spynner
 import re
 from pyquery import PyQuery as p
 import cPickle as pickle
-try: itis_cache = pickle.load(open('itis.cache', 'r'))
+
+from config import DATA_DIR
+
+try: itis_cache = pickle.load(open(os.path.join(DATA_DIR, 'itis.cache'), 'r'))
 except: itis_cache = {}
 
 
@@ -55,7 +59,7 @@ def itis_lookup(name, TIMEOUT=10):
         itis_cache[name] = False
 
     #print 'itis_cache = %s' % itis_cache
-    pickle.dump(itis_cache, open('itis.cache', 'w'), protocol=-1)
+    pickle.dump(itis_cache, open(os.path.join(DATA_DIR, 'itis.cache'), 'w'), protocol=-1)
 
     return itis_cache[name]
 
