@@ -10,7 +10,7 @@
 DROP TABLE IF EXISTS species_lists.species_lists CASCADE;
 CREATE TABLE species_lists.species_lists
 (
-   source_id  			varchar(255)    NOT NULL,
+   source_id  			varchar(1000)    NOT NULL,
    site_id                   varchar(4)      NOT NULL,
    spp_id                    varchar(255)    NOT NULL
 );

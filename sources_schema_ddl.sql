@@ -7,7 +7,7 @@
 DROP TABLE IF EXISTS sources.sources CASCADE;
 CREATE TABLE sources.sources
 (
-   source_id    varchar(255)    NOT NULL,
+   source_id    varchar(1000)    NOT NULL,
    info_type    varchar(255),
    file_type    varchar(255),
    notes        text,
