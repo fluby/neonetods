@@ -1,6 +1,4 @@
 import sys
-reload(sys)
-sys.setdefaultencoding('latin1')
 import os
 import spynner
 import re
