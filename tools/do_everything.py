@@ -12,9 +12,8 @@ def do_everything(species_lists, output_csvs_args, connection_args):
     m2.main(*output_csvs_args)
     import pg_interface as m3
     m3.get_connection(*connection_args)
-    species_lists = [('species_lists.%s' % l[0], [os.path.join(DATA_DIR, 'species_lists.%s.csv' % l[0])]) for l in species_lists]
-    print species_lists
-    m3.push_data(species_lists)
+    groups = list(set(str(s[0]) for s in species_lists))
+    m3.push_data(groups)
     
     return correct, unknown
     

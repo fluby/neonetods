@@ -3,10 +3,7 @@ import psycopg2 as dbapi
 from getpass import getpass
 from StringIO import StringIO
 import os
-import sys
 import re
-reload(sys)
-sys.setdefaultencoding('latin-1')
 
 
 connection = None
@@ -61,21 +58,20 @@ def create_databases():
                 sql_files = failures
 
 
-def push_data(tables=None):
+def push_data(groups=groups):
     global connection
     if connection is None: get_connection()
     cursor = connection.cursor()
 
-    if tables is None:
-        tables = ([
-            ('site_data.site_info', [os.path.join(DATA_DIR, 'site_data_v11.csv')]),
-            ('sources.sources', [os.path.join(DATA_DIR, 'sources.sources.csv')]),
-            ('taxonomy.high_level', [os.path.join(DATA_DIR, '../data/high_level.csv')]),
-            ] 
-            + [('taxonomy.%s' % group, [os.path.join(DATA_DIR, 'taxonomy.%s.csv' % group)]) for group in groups]
+    tables = ([('taxonomy.%s' % group, [os.path.join(DATA_DIR, 'taxonomy.%s.csv' % group)]) for group in groups]
             + [('species_lists.%s' % group, [os.path.join(DATA_DIR, 'species_lists.%s.csv' % group)]) for group in groups]
             #+ [('species_lists.status', ['../data/status.csv']),]
-            )
+              )
+
+    tables = [('site_data.site_info', [os.path.join(DATA_DIR, 'site_data_v11.csv')]),
+              ('sources.sources', [os.path.join(DATA_DIR, 'sources.sources.csv')]),
+              ('taxonomy.high_level', [os.path.join(DATA_DIR, '../data/high_level.csv')]),
+              ] + tables
             
     for table, files in tables:
         try:
