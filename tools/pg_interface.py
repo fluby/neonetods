@@ -1,4 +1,4 @@
-from config import DATA_DIR
+from config import DATA_DIR, groups
 import psycopg2 as dbapi
 from getpass import getpass
 from StringIO import StringIO
@@ -67,7 +67,6 @@ def push_data(tables=None):
     cursor = connection.cursor()
 
     if tables is None:
-        groups = 'mammals', 'birds', 'plants', 'inverts'
         tables = ([
             ('site_data.site_info', [os.path.join(DATA_DIR, 'site_data_v11.csv')]),
             ('sources.sources', [os.path.join(DATA_DIR, 'sources.sources.csv')]),
@@ -96,6 +95,14 @@ def push_data(tables=None):
                 print 'EXCEPTION:', e
                 connection.rollback()
             input_file.close()
+            
+
+    # de-duplicate species lists
+    for group in groups:
+        cursor.execute('''DELETE FROM species_lists.%s
+                      WHERE source_id NOT IN (SELECT min(source_id)
+                      FROM species_lists.%s
+                      GROUP BY source_id, site_id, spp_id)''' % (group, group))
         
         
     print 'done'
