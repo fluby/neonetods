@@ -4,6 +4,8 @@ from getpass import getpass
 from StringIO import StringIO
 import os
 import re
+import sys
+import csv
 
 
 connection = None
@@ -34,7 +36,7 @@ def create_databases():
     if connection is None: get_connection()
     cursor = connection.cursor()
 
-    sql_files = [f for f in os.listdir('..') if f.endswith('.sql')]
+    sql_files = [f for f in os.listdir(os.path.join(DATA_DIR, '..')) if f.endswith('.sql')]
     failures = True
     tries = 0
     while failures:
@@ -42,7 +44,7 @@ def create_databases():
         failures = []
         for sql_file in sql_files:
             print sql_file
-            contents = open('../%s' % sql_file).read()
+            contents = open(os.path.join(DATA_DIR, '../%s' % sql_file)).read()
             try:
                 try:
                     cursor.execute(contents)
@@ -83,13 +85,34 @@ def push_data(groups=groups):
             input_file = open(file, 'r')
             #input_file.readline()
             print table, file
+            
             stmt = "COPY %s FROM stdin WITH DELIMITER ',' NULL AS '' CSV HEADER;" % (table)
             try:
                 cursor.copy_expert(stmt, input_file)
                 connection.commit()
-            except Exception as e:
-                print 'EXCEPTION:', e
-                connection.rollback()
+            except:
+                try:
+                    connection.rollback()
+                    input_file.close()
+                    reader = csv.reader(open(file, 'r').readlines())
+                    header = reader.next()
+                    
+                    def is_number(n):
+                        try:
+                            float(n)
+                            return True
+                        except: return False
+                    
+                    for line in reader:
+                        values= [(v if is_number(v) else "'%s'" % v.replace("'", "''")) if v else 'NULL' for v in line]
+                        try:
+                            cursor.execute('INSERT INTO %s (%s) VALUES (%s);' % (table, ', '.join(header), ', '.join(values)))
+                            connection.commit()
+                        except dbapi.IntegrityError:
+                            connection.rollback()
+                            pass
+                except Exception as e:
+                    print 'EXCEPTION:', e
             input_file.close()
             
 
