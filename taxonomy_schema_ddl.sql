@@ -158,6 +158,36 @@ SET search_path TO taxonomy;
 COMMENT ON COLUMN plants.itis_number IS 'Integrated Taxonomic Information System';
 
 COMMIT;
+----------------------------------------------------------------------------
+
+DROP TABLE IF EXISTS taxonomy.herps CASCADE;
+CREATE TABLE taxonomy.herps
+(
+   taxon_id         varchar(255),
+   spp_id           varchar(255)     NOT NULL,
+   source_id        varchar(255),
+   scientific_name  varchar(255),
+   genus            varchar(255),
+   subgenus         varchar(255),
+   species          varchar(255),
+   subspecies       varchar(255),
+   authority_name   varchar(255),
+   authority_year   numeric,
+   itis_number      numeric,
+   common_name      varchar(255)
+);
+ALTER TABLE taxonomy.herps
+   ADD CONSTRAINT herps_pkey PRIMARY KEY (spp_id);
+   
+/*ALTER TABLE taxonomy.herps
+  ADD CONSTRAINT herps_taxon_id_fkey FOREIGN KEY (taxon_id, genus)
+  REFERENCES taxonomy.high_level (taxon_id,genus)
+   ON UPDATE NO ACTION
+   ON DELETE NO ACTION;*/
+   
+COMMENT ON COLUMN herps.itis_number IS 'Integrated Taxonomic Information System';
+
+COMMIT;
 
 ---TO DO: add Bird taxonomy table  - eBird or Hurlbert table?
 ---TO DO: add synonomy table for beetles (and mosquitoes?)
