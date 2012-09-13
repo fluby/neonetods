@@ -16,7 +16,7 @@ default_synonyms = {
                     'plants': [('plants.csv', 2, 3)],
                     'inverts': [('beetles.csv', 1, 3), 
                                 ('mosquitoes.csv', 1, 3)],
-                    #herps
+                    'herps': [],
                     }
 
 default_species_lists = [
@@ -24,6 +24,7 @@ default_species_lists = [
                          ('birds', 'sp_list_birds.csv'),
                          ('plants', 'sp_list_plants.csv'),
                          ('inverts', 'sp_list_inverts.csv'),
+                         ('herps', 'sp_list_herps.csv'),
                          ]
 
 def col_split(line):

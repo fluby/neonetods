@@ -25,16 +25,19 @@ spp_id_formats =    {
                     'mammals': (lambda genus, species: '%s_%s' % (genus[:3].lower(), species[:3].lower())),
                     'plants': (lambda genus, species: '%s_%s' % (genus[:3].lower(), species[:3].lower())),
                     'inverts': (lambda genus, species: '%s%s' % (genus[:2].lower(), species[:2].lower())),
+                    'herps': (lambda genus, species: '%s_%s' % (genus[:3].lower(), species[:3].lower())),
                     }
 spuh_formats =      {
                     'mammals': spuh_2,
                     'plants': spuh_1,
                     'inverts': spuh_1,
+                    'herps': spuh_1,
                     }
 slash_formats =     {
                     'mammals': slash_2,
                     'plants': slash_1,
                     'inverts': slash_1,
+                    'herps': slash_1,
                     }
 ALL_SPP_IDS = dict()
 def new_spp_id(taxon, genus, species=None, subspecies=None):
