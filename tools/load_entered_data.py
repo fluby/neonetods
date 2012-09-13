@@ -1,6 +1,4 @@
 import sys
-reload(sys)
-sys.setdefaultencoding('latin1')
 import os
 import csv
 import tax_resolve
@@ -155,9 +153,9 @@ def main(species_lists):
         total_unknown += unknown
 
     # output parsed data to separate file
-    output_file = open(os.path.join(DATA_DIR, 'entered_data.py'), 'w')
-    data = '\n'.join(['%s = %s' % (var, locals()[var]) for var in ('species_list_data', 'taxonomy_info', 'sources', 'unknowns')])
-    output_file.write(data)
+    to_pickle = (species_list_data, taxonomy_info, sources, unknowns)
+    output_file = open(os.path.join(DATA_DIR, 'entered_data.pkl'), 'w')
+    pickle.dump(to_pickle, output_file, protocol=-1)
     output_file.close()
 
     return total_correct, total_unknown
