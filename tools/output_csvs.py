@@ -28,7 +28,11 @@ def main(*args):
     source_file.close()
 
     print 'Failed sources:', failed_sources
-
+    failed_sources_path = os.path.join(DATA_DIR, 'failed_sources')
+    if not os.path.exists(failed_sources_path): open(failed_sources_path, 'w').close()
+    failed_sources_file = open(failed_sources_path, 'a')
+    failed_sources_file.write('\n' + '\n'.join(failed_sources))
+    failed_sources_file.close()
 
     for taxon in species_list_data.keys():
         # generate species lists
