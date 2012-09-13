@@ -1,10 +1,11 @@
 import os
 import sys
-from entered_data import *
 import getpass
 from get_mendeley_data import get_source_data
 
 from config import DATA_DIR
+import cPickle as pickle
+(species_list_data, taxonomy_info, sources, unknowns) = pickle.load(open(os.path.join(DATA_DIR, 'entered_data.pkl'), 'r'))
 
 
 def main(*args):
