@@ -8,7 +8,7 @@ subspdata=[]
 altdata=[]
 
 regex = "([A-Z][a-z]+)\s+([a-z][a-z]+\\-?[a-z]+) " #1002 entries
-regexsub = "(var.|x|subsp.)\s([a-z]+)"
+regexsub = "(var.| x|subsp.)\s([a-z]+)"
 
 for line in inputfile:
     match = re.search(regex, line)

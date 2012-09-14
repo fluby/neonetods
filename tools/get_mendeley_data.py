@@ -2,8 +2,16 @@ import urllib2 as u
 import pyquery as p
 import mechanize
 import getpass
-try: from mendeley_cache import mendeley_cache
+import cPickle as pickle
+import os
+
+import dodobase.data as data
+DATA_DIR = '/'.join(data.__file__.split('/')[:-1]) + '/'
+
+try: mendeley_cache = pickle.load(open(os.path.join(DATA_DIR, 'mendeley.cache'), 'r')) 
 except: mendeley_cache = {}
+try: group_docs = pickle.load(open(os.path.join(DATA_DIR, 'group_docs.pkl'), 'r'))
+except: from get_all_group_docs import all_docs as group_docs
 
 b = mechanize.Browser()
 b.set_handle_robots(False)
@@ -14,38 +22,44 @@ def get_mendeley_data(url, email=None, password=None):
     if url[:4] == 'www.': url = 'http://' + url
     if url in mendeley_cache: return mendeley_cache[url]
 
-    b.open(url)
-    new_url = b.response().geturl()
-    if 'login' in new_url:
-        b.select_form(nr=1)
-        b['email'] = email
-        b['password'] = password
-        b.submit()
+    if url in group_docs: 
+        data_doc = group_docs[url]
+        data_doc['tags'] = ','.join(data_doc['tags'])
+    else:
+        b.open(url)
         new_url = b.response().geturl()
-        if not new_url == url: raise('Failed to login.')
+        if 'login' in new_url:
+            b.select_form(nr=1)
+            b['email'] = email
+            b['password'] = password
+            b.submit()
+            new_url = b.response().geturl()
+            if not new_url == url: raise('Failed to login.')
 
-    html = b.response().read()
-    open('output.html','w').write(html)
+        if new_url in group_docs: 
+            data_doc = group_docs[new_url]
+            data_doc['tags'] = ','.join(data_doc['tags'])
+        else:
+            html = b.response().read()
 
-    true, false = True, False
+            true, false = True, False
 
-    data_doc = p.PyQuery(html)("article")[0].get("data-doc")
-    if '&quot;' in data_doc: data_doc = data_doc.replace('&quot;', '"')
-    if '\\' in data_doc: data_doc = data_doc.replace('\\', '')
+            data_doc = p.PyQuery(html)("article")[0].get("data-doc")
 
-    data_doc = eval(data_doc)
+            if '&quot;' in data_doc: data_doc = data_doc.replace('&quot;', '"')
+            if '\\' in data_doc: data_doc = data_doc.replace('\\', '')
+
+            data_doc = eval(data_doc)
+            tags = p.PyQuery(html)('div.tags-list')
+            if tags:
+                data_doc['tags'] = ','.join(a.text for a in tags.find('a'))
+            else: data_doc['tags'] = ''
+        
 
     if data_doc['title'][-1] == '.': data_doc['title'] = data_doc['title'][:-1]
-    
-    tags = p.PyQuery(html)('div.tags-list')
-    if tags:
-        data_doc['tags'] = ','.join(a.text for a in tags.find('a'))
-    else: data_doc['tags'] = ''
 
     mendeley_cache[url] = data_doc
-    output = open('mendeley_cache.py', 'w')
-    output.write('mendeley_cache = %s' % mendeley_cache)
-    output.close()
+    pickle.dump(mendeley_cache, open(os.path.join(DATA_DIR, 'mendeley.cache'), 'w'))
     
     return data_doc
     

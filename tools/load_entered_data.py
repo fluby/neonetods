@@ -1,20 +1,36 @@
 import sys
-reload(sys)
-sys.setdefaultencoding('latin1')
+import os
+import csv
 import tax_resolve
 import getpass
+import cPickle as pickle
 from taxonomy_lookup_itis import itis_lookup
 
+from config import DATA_DIR
 
-species_lists = [
-                 ('mammals', '../data/sp_list_mammals.csv', [('../data/mammals.csv', 1, [(3, False), (11, True)])]),
-                 ('birds', '../data/sp_list_birds.csv',     [('../data/ebird_tax_clean.csv', 0, [(1,False),(2,True)])]),
-                 ('plants', '../data/sp_list_plants.csv',   [('../data/plants.csv', 2, 3)]),
-                 ('inverts', '../data/sp_list_inverts.csv', [('../data/beetles.csv', 1, 3), 
-                                                             ('../data/mosquitoes.csv', 1, 3)]),
-                 #herps
-                 ]
+default_synonyms = {
+                    'mammals': [('mammals.csv', 1, [(3, False), (11, True)])],
+                    'birds': [('ebird_tax_clean.csv', 0, [(1,False),(2,True)])],
+                    'plants': [('plants.csv', 2, 3)],
+                    'inverts': [('beetles.csv', 1, 3), 
+                                ('mosquitoes.csv', 1, 3)],
+                    'herps': [],
+                    }
 
+default_species_lists = [
+                         ('mammals', 'sp_list_mammals.csv'),
+                         ('birds', 'sp_list_birds.csv'),
+                         ('plants', 'sp_list_plants.csv'),
+                         ('inverts', 'sp_list_inverts.csv'),
+                         ('herps', 'sp_list_herps.csv'),
+                         ]
+
+def col_split(line):
+    return csv.reader([line], dialect=csv.excel, delimiter=',').next()
+
+def format_line(line):
+    return line.strip().replace('\xef\xbf\xbd', "'")
+    
 def get_spp_id(genus, species, subspecies, com_name, taxon, spp_code_dict):
     '''Get spp_id from spp_id dictionary. Returns: 
         a spp_id string if this is a known or unknown species,
@@ -42,53 +58,66 @@ def get_spp_id(genus, species, subspecies, com_name, taxon, spp_code_dict):
             new_name = tax_resolve.tax_resolve(genus, species, subspecies, com_name=com_name, known_species=spp_code_dict.keys(), taxon=taxon)
             if new_name != sci_name:
                 print '==> corrected to %s' % new_name,
+                sys.stdout.flush()
             if new_name:
                 try:
                     return spp_code_dict[new_name]
                 except KeyError:
-                    new_spp_id = tax_resolve.new_spp_id(taxon, *new_name.split())
+                    corrected_sci_name = (new_name.split('(')[0].strip()).split()
+                    new_spp_id = tax_resolve.new_spp_id(taxon, *corrected_sci_name)
                     if new_spp_id:
                         spp_code_dict[new_name] = new_spp_id
+                        pickle.dump(spp_code_dict, open(os.path.join(DATA_DIR, '%s.spp_codes.cache' % taxon), 'w'), protocol=-1)
                         return new_spp_id
             return None
         
                  
                  
-def main():
+def main(species_lists):
     species_list_data = {}
     taxonomy_info = {}
     sources = []
     unknowns = []
 
+    species_lists = [(tax, file,) + (default_synonyms[tax],) for tax, file in species_lists]
     for tax, _, _ in species_lists:
         species_list_data[tax] = [('source_id','site_id','spp_id')]
 
     # run through all entered data, generate a species id, and output 
     # species lists and taxonomies into CSV files
+    total_correct = 0
+    total_unknown = 0
     for taxon, data_entry_file, spp_code_files in species_lists:
         print '*** %s ***' % taxon
-        spp_codes = {}
+        try:
+            spp_codes = pickle.load(open('%s.spp_codes.cache' % taxon, 'r'))
+        except:
+            spp_codes = {}
         
-        # read known species ids
-        for (spp_file, spcode_col, sciname_col) in spp_code_files:
-            data_file = open(spp_file, 'r')
-            data_file.readline()
-            for line in data_file:
-                line = line.strip()
-                if line:
-                    cols = line.split(',')
-                    spp_code = cols[spcode_col]
-                    if isinstance(sciname_col, list):
-                        name_cols = sciname_col
-                    else:
-                        name_cols = [(sciname_col, False)]
-                    for name_col, common in name_cols:
-                        name = cols[name_col]
-                        if name:
-                            if common: name = name.lower()
-                            spp_codes[name] = spp_code
-                            tax_resolve.ALL_SPP_IDS[name] = spp_code
-            data_file.close()
+            # read known species ids
+            for (spp_file, spcode_col, sciname_col) in spp_code_files:
+                spp_file = os.path.join(DATA_DIR, spp_file)
+
+                data_file = open(spp_file, 'r')
+                data_file.readline()
+                for line in data_file:
+                    line = format_line(line)
+                    cols = col_split(line)
+                    if line:
+                        spp_code = cols[spcode_col]
+                        if isinstance(sciname_col, list):
+                            name_cols = sciname_col
+                        else:
+                            name_cols = [(sciname_col, False)]
+                        for name_col, common in name_cols:
+                            name = cols[name_col]
+                            if name:
+                                if common: name = name.lower()
+                                spp_codes[name] = spp_code
+                                tax_resolve.ALL_SPP_IDS[name] = spp_code
+                data_file.close()
+            
+            pickle.dump(spp_codes, open(os.path.join(DATA_DIR, '%s.spp_codes.cache' % taxon), 'w'), protocol=-1)
         correct = 0
         unknown = 0
 
@@ -97,11 +126,12 @@ def main():
         data = data_file.read().replace('\r', '\n')
         lines = data.split('\n')[1:]
         for line in lines:
-            line = line.strip()
+            line = format_line(line)
             if line:
                 try:
-                    site,genus,sp,subsp,common_name,source = [s.strip() for s in line.split(',')]
+                    site,genus,sp,subsp,common_name,source = [s.strip() for s in col_split(line)]
                     print genus, sp, subsp, common_name,
+                    sys.stdout.flush()
                     spp_id = get_spp_id(genus, sp, subsp, com_name=common_name,
                                         taxon=taxon, spp_code_dict=spp_codes)
                     if spp_id: 
@@ -119,12 +149,17 @@ def main():
                 except Exception as e: print line, e; unknown += 1
         print '%s: Correct: %s; Unknown: %s (%s)' % (taxon, correct, unknown, correct / float(correct + unknown))
 
+        total_correct += correct
+        total_unknown += unknown
+
     # output parsed data to separate file
-    output_file = open('entered_data.py', 'w')
-    data = '\n'.join(['%s = %s' % (var, locals()[var]) for var in ('species_list_data', 'taxonomy_info', 'sources', 'unknowns')])
-    output_file.write(data)
+    to_pickle = (species_list_data, taxonomy_info, sources, unknowns)
+    output_file = open(os.path.join(DATA_DIR, 'entered_data.pkl'), 'w')
+    pickle.dump(to_pickle, output_file, protocol=-1)
     output_file.close()
+
+    return total_correct, total_unknown
 
         
 if __name__ == '__main__':
-    main()
+    main(default_species_lists)

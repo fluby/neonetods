@@ -1,9 +1,16 @@
+import os
 import difflib
 from taxonomy_lookup_tnrs import tnrs_lookup
 from taxonomy_lookup_itis import itis_lookup
-try: from fuzzy_cache import fuzzy_cache
-except: fuzzy_cache = {}
+import cPickle as pickle
+from config import DATA_DIR
 
+try: fuzzy_cache = pickle.load(open(os.path.join(DATA_DIR, 'fuzzy.cache'), 'r'))
+except: fuzzy_cache = {}
+try: difflib_cache = pickle.load(open(os.path.join(DATA_DIR, 'difflib.cache'), 'r'))
+except: difflib_cache = {}
+import time
+difflib_cache_changes = False
 
 # generate new spp_id when scientific name is not present in taxonomy tables
 def spuh_1(genus):
@@ -17,17 +24,20 @@ def slash_2(genus, all_species):
 spp_id_formats =    {
                     'mammals': (lambda genus, species: '%s_%s' % (genus[:3].lower(), species[:3].lower())),
                     'plants': (lambda genus, species: '%s_%s' % (genus[:3].lower(), species[:3].lower())),
-                    'inverts': (lambda genus, species: '%s%s%s' % (genus[:2].lower(), species[:2].lower())),
+                    'inverts': (lambda genus, species: '%s%s' % (genus[:2].lower(), species[:2].lower())),
+                    'herps': (lambda genus, species: '%s_%s' % (genus[:3].lower(), species[:3].lower())),
                     }
 spuh_formats =      {
                     'mammals': spuh_2,
                     'plants': spuh_1,
                     'inverts': spuh_1,
+                    'herps': spuh_1,
                     }
 slash_formats =     {
                     'mammals': slash_2,
                     'plants': slash_1,
                     'inverts': slash_1,
+                    'herps': slash_1,
                     }
 ALL_SPP_IDS = dict()
 def new_spp_id(taxon, genus, species=None, subspecies=None):
@@ -71,49 +81,74 @@ def get_synonyms(input_files, wrong_col=0, right_col=1):
             wrong_name = cols[wrong_col]
             right_name = cols[right_col]
             syn[wrong_name] = right_name
-    return syn    
+    return syn
 
-def tax_resolve_fuzzy(sci_name, synonyms=None, known_species=None, fuzzy=True, sensitivity=0.9):    
+def difflib_match(n1, n2, max_len_diff=5):
+    n1 = n1.lower(); n2 = n2.lower()
+    if abs(len(n1) - len(n2)) > max_len_diff:
+        return 0
+    if n2 in difflib_cache:
+        if n1 in difflib_cache[n2]:
+            return difflib_cache[n2][n1]
+    if n1 in difflib_cache:
+        if n2 in difflib_cache[n1]:
+            return difflib_cache[n1][n2]
+    else:
+        difflib_cache[n1] = {}
+    
+    #print n1, n2, n1 in difflib_cache
+    result = difflib.SequenceMatcher(None, n1, n2).ratio()
+    difflib_cache[n1][n2] = result
+    global difflib_cache_changes
+    difflib_cache_changes = True
+    
+    return difflib_cache[n1][n2]
+
+def tax_resolve_fuzzy(sci_name, synonyms=None, known_species=None, fuzzy=True, sensitivity=0.9):
     """Performs fuzzy matching on a species name to determine whether it is in a list of synonyms or known species."""
     try: return synonyms[sci_name]
-    except:pass
+    except: pass
     try: return fuzzy_cache[sci_name]
     except: pass
 
     if not fuzzy: return sci_name
     if not known_species: known_species = []
     if not synonyms: synonyms = {}
-    all_taxes = synonyms.keys() + synonyms.values() + known_species
-    scores = sorted([(key, difflib.SequenceMatcher(None, sci_name.lower(), key.lower()).ratio()) for key in all_taxes],
+    all_taxes = [s for s in synonyms.keys() + synonyms.values() + known_species if s and s[0].lower() == sci_name[0].lower()]
+    scores = sorted([(key, difflib_match(sci_name, key)) for key in all_taxes],
                      key=lambda s: s[1], reverse=True)
+
     if scores and scores[0][1] >= sensitivity:  
         top_score = scores[0]
         result = synonyms[top_score[0]] if top_score[0] in synonyms.keys() else top_score[0]
     else:
         result = sci_name
     fuzzy_cache[sci_name] = result
-    output = open('fuzzy_cache.py', 'w')
-    output.write('fuzzy_cache = %s' % fuzzy_cache)
-    output.close()
+    pickle.dump(fuzzy_cache, open(os.path.join(DATA_DIR, 'fuzzy.cache'), 'w'), protocol=-1)
+
+    global difflib_cache_changes
+    if difflib_cache_changes:
+        pickle.dump(difflib_cache, open(os.path.join(DATA_DIR, 'difflib.cache'), 'w'), protocol=-1)
+        difflib_cache_changes = False
 
 
 syns = {
-        'mammals': get_synonyms('../data/mammal_synonyms.csv'),
-        'inverts': get_synonyms('../data/mosquito_synonyms.csv'),
+        'mammals': get_synonyms(os.path.join(DATA_DIR, 'mammal_synonyms.csv')),
+        'inverts': get_synonyms(os.path.join(DATA_DIR, 'mosquito_synonyms.csv')),
         }
 
 extra_steps = {
-               'mammals': [lambda n: tax_resolve_fuzzy(n, synonyms=syns['mammals'])],
-               'inverts': [lambda n: tax_resolve_fuzzy(n, synonyms=syns['inverts'])],
-               'plants': [tnrs_lookup],
-               }
+                'mammals': [lambda n: tax_resolve_fuzzy(n, synonyms=syns['mammals'])],
+                'inverts': [lambda n: tax_resolve_fuzzy(n, synonyms=syns['inverts'])],
+                'plants': [tnrs_lookup],
+                }
 
 def scientific_name(*args):
     return ' '.join([s for s in args if s])
 def tax_resolve(genus, species, subspecies, com_name=None, taxon=None, known_species=None):
     if not known_species: known_species = []
     sci_name = scientific_name(genus, species, subspecies)
-    
+
     name = sci_name
     if sci_name:
         new_name = tax_resolve_fuzzy(sci_name=sci_name, known_species=known_species)
