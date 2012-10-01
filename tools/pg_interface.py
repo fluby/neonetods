@@ -27,7 +27,7 @@ def get_connection(*args):
     global connection
     connection = dbapi.connect(host=host, port=5432, user=user, password=password, database=database)
     
-    connection.set_client_encoding('latin-1')
+    #connection.set_client_encoding('latin-1')
 
 
 
@@ -49,6 +49,7 @@ def create_databases():
                 try:
                     cursor.execute(contents)
                 except:
+                    connection.rollback()
                     contents = contents[2:]
                     cursor.execute(contents)
             except dbapi.ProgrammingError as e:
@@ -76,11 +77,6 @@ def push_data(groups=groups):
               ] + tables
             
     for table, files in tables:
-        try:
-            cursor.execute('DELETE FROM %s;' % table)
-        except:
-            connection.rollback()
-    
         for file in files:
             input_file = open(file, 'r')
             #input_file.readline()

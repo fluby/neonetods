@@ -43,8 +43,7 @@ def main(*args):
         for line in species_list_data[taxon]:
             if not line in seen_lines:
                 source = line[0]
-                if not source in failed_sources:
-                    lines.append(line)
+                lines.append(line)
                 seen_lines.add(line)
         new_file.write('\n'.join(','.join(str(cell) for cell in line) for line in lines))
         new_file.close()
@@ -52,7 +51,7 @@ def main(*args):
         # generate complete taxonomy
         tax_done = set()
         tax_file = open(os.path.join(DATA_DIR, 'taxonomy.%s.csv' % taxon), 'w')
-        tax_file.write('taxon_id,spp_id,resource_id,scientific_name,genus,subgenus,species,subspecies,authority_name,authority_year,itis_number,common_name')
+        tax_file.write('taxon_id,spp_id,source_id,scientific_name,genus,subgenus,species,subspecies,authority_name,authority_year,itis_number,common_name')
         for _, _, spp_id in species_list_data[taxon][1:]:
             if not spp_id in tax_done:
                 try:

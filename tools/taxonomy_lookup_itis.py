@@ -1,6 +1,7 @@
 import sys
 import os
-import spynner
+import urllib
+import urllib2
 import re
 from pyquery import PyQuery as p
 import cPickle as pickle
@@ -10,33 +11,33 @@ from config import DATA_DIR
 try: itis_cache = pickle.load(open(os.path.join(DATA_DIR, 'itis.cache'), 'r'))
 except: itis_cache = {}
 
+TIMEOUTS = 0
 
-ITIS_URL = 'http://www.itis.gov/'
-
-browser = spynner.Browser()
 
 def itis_lookup(name, TIMEOUT=10):
+    global TIMEOUTS
+
     name = name.replace("'", '').lower()
     if name in itis_cache:
         print "==> itis",
         return itis_cache[name]
+    elif TIMEOUTS >= 5:
+        # if ITIS seems to be down, do nothing
+        raise Exception('ITIS seems to be down.')
 
-    success = browser.load(ITIS_URL)
-    if not success: raise Exception('ITIS failed to load.')
-
-    # fill in search box and submit form
-    browser.fill('input#search', name.decode())
-    browser.runjs('doSubmit();')
-
-    # wait for results to load
-    waits = 0
-    html = browser.html
-    while not 'results of' in html.lower() and not 'no data found' in html.lower():
-        browser.wait(1)
-        html = browser.html
-        waits += 1
-        if waits >= TIMEOUT:
-            raise Exception('ITIS lookup timed out')
+    url = 'http://www.itis.gov/servlet/SingleRpt/SingleRpt'
+    values = {'search_topic': 'all', 
+              'search_kingdom':'every', 
+              'search_span':'containing', 
+              'search_value': name.decode(), 
+              'categories':'All', 
+              'source':'html', 
+              'search_credRating': 'All'}
+    data = urllib.urlencode(values)
+    req = urllib2.Request(url, data)
+    response = urllib2.urlopen(req, timeout=TIMEOUT)
+    html = response.read()
+    response.close()
 
     # parse results to pull out unique species
     results = [s.tail for s in p(html)('td.body a')]
