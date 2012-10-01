@@ -13,7 +13,6 @@ except: itis_cache = {}
 
 TIMEOUTS = 0
 
-
 def itis_lookup(name, TIMEOUT=10):
     global TIMEOUTS
 
