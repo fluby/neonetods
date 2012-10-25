@@ -7,7 +7,9 @@ import csv
 import numpy as np
 import numpy.lib.recfunctions as nprf
 
-#from tax_resolve import tax_resolve
+import itis
+
+from tax_resolve import tax_resolve
 
 def get_csv_file(filename):
     """Import CSV data"""
@@ -47,18 +49,40 @@ def remove_spaces(table):
             cleaned_line.append(item.strip())
         cleaned_table.append(cleaned_line)
     return cleaned_table
-        
+
+def get_genus_sp_subsp(name):
+    """Splits a scientific name into it's component part. Empty sting if no subsp"""
+    names = name.split()
+    if len(names) == 3:
+        return names
+    else:
+        return names + ['']
+
+    
 datadir = '../data/'
 taxonomy_files = ['beetles_clean.csv', 'ebird_tax_clean.csv', 'mammals.csv',
                   'mosquitoes.csv', 'plants.csv']
 
 status_table = get_csv_file(datadir + 'status.csv') #using csv due to commas in comment fields
 status_table = remove_spaces(status_table[:])
+header = status_table[0]
+del(status_table[0])
 spp_ids = import_taxonomy_files(taxonomy_files, datadir)
-status_table_restructured = []
+status_table_clean = []
+status_table_notadded = []
 for row in status_table:
-    name = ' '.join(row[0:2]) #why there are spaces after the csv import I do not know
-    new_row = [spp_ids.get(name, 'unknown')] + row
-    status_table_restructured.append(new_row)
-status_table_restructured[0][0] = 'spp_id'
-export_to_csv(status_table_restructured, '../data/status_spp_id.csv')
+    genus, sp, subsp, state, fed_status, st_status, notes, source = row
+    name = tax_resolve(genus, sp, subsp)
+    #TODO Actually change the species name and associated columns
+    spp_id = spp_ids.get(name, None)
+    if spp_id:
+        new_row = [spp_id] + get_genus_sp_subsp(name) + row[3:]
+        status_table_clean.append(new_row)
+    else:
+        status_table_notadded.append(row)
+    
+status_table_notadded.insert(0, header)
+export_to_csv(status_table_notadded, '../data/status_notentered.csv')
+header.insert(0, 'spp_id')
+status_table_clean.insert(0, header)
+export_to_csv(status_table_clean, '../data/status_clean.csv')
