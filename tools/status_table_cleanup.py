@@ -1,7 +1,6 @@
 """Restructure the NEON ETODS status table to include spp_id"""
 
 #TODO
-#Ebird is currently not handled due to different structure
 #No herps because I don't have the raw data
 import csv
 import numpy as np
@@ -30,8 +29,7 @@ def export_to_csv(data, filename):
 
 def import_taxonomy_files(taxonomy_files, datadir):
     """Import the existing taxonomy files and store them in a single table"""
-    #TODO Resolve taxonomy using tax_resolve, at the moment one subsp may
-    #overwrite another
+    #TODO Do we need to resolve the taxonomy in the taxonomy files?
     taxon_dict = dict()
     for taxon in taxonomy_files:
         data = np.genfromtxt(datadir + taxon, delimiter=',', dtype=None, names=True)
@@ -73,7 +71,6 @@ status_table_notadded = []
 for row in status_table:
     genus, sp, subsp, state, fed_status, st_status, notes, source = row
     name = tax_resolve(genus, sp, subsp)
-    #TODO Actually change the species name and associated columns
     spp_id = spp_ids.get(name, None)
     if spp_id:
         new_row = [spp_id] + get_genus_sp_subsp(name) + row[3:]
