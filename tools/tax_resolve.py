@@ -106,7 +106,7 @@ def difflib_match(n1, n2, max_len_diff=5):
 
 def tax_resolve_fuzzy(sci_name, synonyms=None, known_species=None, fuzzy=True, sensitivity=0.9):
     """Performs fuzzy matching on a species name to determine whether it is in a list of synonyms or known species."""
-    try: return synonyms[sci_name]
+    try: return synonyms[sci_name.capitalize()]
     except: pass
     try: return fuzzy_cache[sci_name]
     except: pass
