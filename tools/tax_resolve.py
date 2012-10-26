@@ -18,13 +18,13 @@ def spuh_1(genus):
 def spuh_2(genus):
     return '%s_spp' % genus[:3].lower()
 def slash_1(genus, all_species):
-    return '%s%s' % (genus[:2].upper(), ''.join([sp[:2].upper() for sp in all_species]))
+    return '%s%s' % (genus[:3].upper(), ''.join([sp[:3].upper() for sp in all_species]))
 def slash_2(genus, all_species):
     return '%s_%s' % (genus[:3].upper(), '_'.join([sp[0].upper() for sp in all_species]))
 spp_id_formats =    {
                     'mammals': (lambda genus, species: '%s_%s' % (genus[:3].lower(), species[:3].lower())),
                     'plants': (lambda genus, species: '%s_%s' % (genus[:3].lower(), species[:3].lower())),
-                    'inverts': (lambda genus, species: '%s%s' % (genus[:2].lower(), species[:2].lower())),
+                    'inverts': (lambda genus, species: '%s%s' % (genus[:3].lower(), species[:3].lower())),
                     'herps': (lambda genus, species: '%s_%s' % (genus[:3].lower(), species[:3].lower())),
                     }
 spuh_formats =      {
