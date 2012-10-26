@@ -5,7 +5,8 @@ from get_mendeley_data import get_mendeley_data, citation
 
 class TestTaxResolve(TestCase):
     def setUp(self):
-        self.syn1 = {'applb': 'apple', 'applc': 'apple', 'bannnna': 'banana'}
+        self.syn1 = {'applb': 'apple', 'applc': 'apple', 'bannnna': 'banana',
+                     'orangee': 'Orange'}
 
         self.syn2 = get_synonyms('../data/mosquito_synonyms.csv')
 
@@ -19,6 +20,9 @@ class TestTaxResolve(TestCase):
                      ('bionan', 'bionan'), 
                      ('banann', 'banana'), 
                      ('bannans', 'banana'),
+                     ('bannnna', 'banana'),
+                     ('orangee', 'Orange'),
+                     ('Orangee', 'Orange'),
                      ]:
             new_name = tax_resolve(l, syns=self.syn1)
             new_name = new_name if new_name else l
@@ -28,7 +32,10 @@ class TestTaxResolve(TestCase):
         for to_test in ['Aedes clivis', 'Aedes clivid', 'Ochlerotatus clivis', 'Ochlerotatus clivid', 'Ochlarodadus clivus']:
             self.assertEqual(tax_resolve(to_test, syns=self.syn2), 'Aedes clivis')
 
-
+    def test_mosquitos_case_sensitivty(self):
+        for to_test in ['Aedes clivis', 'Aedes Clivid', 'ochlerotatus clivis', 'Ochlerotatus Clivid']:
+            self.assertEqual(tax_resolve(to_test, syns=self.syn2), 'Aedes clivis')
+            
 class TestMendeleyTags(TestCase):
     def setUp(self):
         self.urls = [
