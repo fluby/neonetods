@@ -82,14 +82,14 @@ def get_source_data(url, email=None, password=None):
     data_doc = get_mendeley_data(url, email, password)
     
     source_data = []
-    for key in ('', 'type', '', '', 'isbn', '', 'title', 'journal', 
+    for key in ('', 'type', '', '', 'isbn', '', 'title', 'published_in', 
                 'volume', 'issue', 'pages', 'year', 'website', 'tags', 
                 'spat_scale', 'spat_extent'):
         try: source_data.append(str(data_doc[key]).replace('\\', ''))
         except KeyError: source_data.append('')
         
     source_data[0] = url
-    try: source_data[5] = author_name(data_doc['author'])
+    try: source_data[5] = author_string(data_doc['authors'])
     except: pass
     
     return ','.join(('"%s"' % source if source else '') for source in source_data)
