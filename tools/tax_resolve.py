@@ -131,7 +131,7 @@ def tax_resolve_fuzzy(sci_name, synonyms=None, known_species=None, fuzzy=True, s
     if difflib_cache_changes:
         pickle.dump(difflib_cache, open(os.path.join(DATA_DIR, 'difflib.cache'), 'w'), protocol=-1)
         difflib_cache_changes = False
-
+    return result
 
 syns = {
         'mammals': get_synonyms(os.path.join(DATA_DIR, 'mammal_synonyms.csv')),
