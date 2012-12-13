@@ -6,8 +6,6 @@ import csv
 import numpy as np
 import numpy.lib.recfunctions as nprf
 
-import itis
-
 from tax_resolve import tax_resolve
 
 def get_csv_file(filename):
