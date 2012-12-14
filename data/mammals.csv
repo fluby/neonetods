@@ -1,6 +1,6 @@
 taxon_id,spp_id,resource_id,scientific_name,genus,subgenus,species,subspecies,authority_name,authority_year,itis_number,common_name,species_level_id
 mammal,alc_alc,Wilson_2005,Alces alces,Alces,,alces,,Linnaeus,1758,,Eurasian Elk,1
-mammal,amm_har,Wilson_2005,Ammospermophilus harrisii,Ammospermophilus,,harrisii,,Audubon and Bachman,1854,,Harris’s Antelope Squirrel,1
+mammal,amm_har,Wilson_2005,Ammospermophilus harrisii,Ammospermophilus,,harrisii,,Audubon and Bachman,1854,,Harris's Antelope Squirrel,1
 mammal,amm_int,Wilson_2005,Ammospermophilus interpres,Ammospermophilus,,interpres,,Merriam,1890,,Texas Antelope Squirrel,1
 mammal,amm_leu,Wilson_2005,Ammospermophilus leucurus,Ammospermophilus,,leucurus,,Merriam,1889,,White-tailed Antelope Squirrel,1
 mammal,ant_ame,Wilson_2005,Antilocapra americana,Antilocapra,,americana,,Ord,1815,,Pronghorn,1
@@ -16,7 +16,7 @@ mammal,can_lat,Wilson_2005,Canis latrans,Canis,,latrans,,Say,1823,,Coyote,1
 mammal,can_lup,Wilson_2005,Canis lupus,Canis,,lupus,,Linnaeus,1758,,Wolf,1
 mammal,cas_can,Wilson_2005,Castor canadensis,Castor,,canadensis,,Kuhl,1820,,American Beaver,1
 mammal,cer_ela,Wilson_2005,Cervus elaphus,Cervus,,elaphus,,Linnaeus,1758,,Red Deer (see comments),1
-mammal,cha_bai,Wilson_2005,Chaetodipus baileyi,Chaetodipus,,baileyi,,Merriam,1894,,Bailey’s Pocket Mouse,1
+mammal,cha_bai,Wilson_2005,Chaetodipus baileyi,Chaetodipus,,baileyi,,Merriam,1894,,Bailey's Pocket Mouse,1
 mammal,cha_cal,Wilson_2005,Chaetodipus californicus,Chaetodipus,,californicus,,Merriam,1889,,California Pocket Mouse,1
 mammal,cha_ere,Wilson_2005,Chaetodipus eremicus,Chaetodipus,,eremicus,,Mearns,1898,,Chihuahuan Pocket Mouse,1
 mammal,cha_for,Wilson_2005,Chaetodipus formosus,Chaetodipus,,formosus,,Merriam,1889,,Long-tailed Pocket Mouse,1
@@ -34,10 +34,10 @@ mammal,das_nov,Wilson_2005,Dasypus novemcinctus,Dasypus,,novemcinctus,,Linnaeus,
 mammal,dic_gro,Wilson_2005,Dicrostonyx groenlandicus,Dicrostonyx,,groenlandicus,,Traill,1823,,Nearctic Collared Lemming,1
 mammal,did_vir,Wilson_2005,Didelphis virginiana,Didelphis,,virginiana,,Kerr,1792,,Virginia Opossum,1
 mammal,dip_des,Wilson_2005,Dipodomys deserti,Dipodomys,,deserti,,Stephens,1887,,Desert Kangaroo Rat,1
-mammal,dip_hee,Wilson_2005,Dipodomys heermanni,Dipodomys,,heermanni,,Le Conte,1853,,Heermann’s Kangaroo Rat,1
+mammal,dip_hee,Wilson_2005,Dipodomys heermanni,Dipodomys,,heermanni,,Le Conte,1853,,Heermann's Kangaroo Rat,1
 mammal,dip_mer,Wilson_2005,Dipodomys merriami,Dipodomys,,merriami,,Mearns,1897,,NULL,1
 mammal,dip_mic,Wilson_2005,Dipodomys microps,Dipodomys,,microps,,Merriam,1904,,Chisel-toothed Kangaroo Rat,1
-mammal,dip_ord,Wilson_2005,Dipodomys ordii,Dipodomys,,ordii,,Woodhouse,1853,,Ord’s Kangaroo Rat,1
+mammal,dip_ord,Wilson_2005,Dipodomys ordii,Dipodomys,,ordii,,Woodhouse,1853,,Ord's Kangaroo Rat,1
 mammal,dip_spe,Wilson_2005,Dipodomys spectabilis,Dipodomys,,spectabilis,,Merriam,1890,,Banner-tailed Kangaroo Rat,1
 mammal,ept_fus,Wilson_2005,Eptesicus fuscus,Eptesicus,,fuscus,,Beauvois,1796,,Big Brown Bat,1
 mammal,ere_dor,Wilson_2005,Erethizon dorsata,Erethizon,,dorsata,,Linnaeus,1758,,North American Porcupine,1
@@ -45,7 +45,7 @@ mammal,eud_mac,Wilson_2005,Euderma maculatum,Euderma,,maculatum,,J. A. Allen,189
 mammal,eum_per,Wilson_2005,Eumops perotis,Eumops,,perotis,,Schinz,1821,,Greater Bonneted Bat,1
 mammal,eum_und,Wilson_2005,Eumops underwoodi,Eumops,,underwoodi,,Goodwin,1940,,Underwood's Bonneted Bat,1
 mammal,geo_are,Wilson_2005,Geomys arenarius,Geomys,,arenarius,,Merriam,1895,,Desert Pocket Gopher.,1
-mammal,geo_bre,Wilson_2005,Geomys breviceps,Geomys,,breviceps,,Baird,1855,,Baird’s Pocket Gopher.,1
+mammal,geo_bre,Wilson_2005,Geomys breviceps,Geomys,,breviceps,,Baird,1855,,Baird's Pocket Gopher.,1
 mammal,geo_bur,Wilson_2005,Geomys bursarius,Geomys,,bursarius,,(Shaw),1800,,Plains Pocket Gopher.,1
 mammal,geo_pin,Wilson_2005,Geomys pinetis,Geomys,,pinetis,,Rafinesque,1817,,Southeastern Pocket Gopher.,1
 mammal,gla_sab,Wilson_2005,Glaucomys sabrinus,Glaucomys,,sabrinus,,Shaw,1801,,Northern Flying Squirrel,1
@@ -91,7 +91,7 @@ mammal,mic_ore,Wilson_2005,Microtus oregoni,Microtus,,oregoni,,Bachman,1839,,Cre
 mammal,mic_pen,Wilson_2005,Microtus pennsylvanicus,Microtus,,pennsylvanicus,,Ord,1815,,Meadow Vole,1
 mammal,mic_pin,Wilson_2005,Microtus pinetorum,Microtus,,pinetorum,,Le Conte,1830,,Woodland Vole,1
 mammal,mic_ric,Wilson_2005,Microtus richardsoni,Microtus,,richardsoni,,DeKay,1842,,North American Water Vole,1
-mammal,mic_tow,Wilson_2005,Microtus townsendii,Microtus,,townsendii,,Bachman,1839,,Townsend’s Vole,1
+mammal,mic_tow,Wilson_2005,Microtus townsendii,Microtus,,townsendii,,Bachman,1839,,Townsend's Vole,1
 mammal,mic_xan,Wilson_2005,Microtus xanthognathus,Microtus,,xanthognathus,,Leach,1815,,Taiga Vole,1
 mammal,mol_mol,Wilson_2005,Molossus molossus,Molossus,,molossus,,Pallas,1766,,Pallas's Mastiff Bat,1
 mammal,mor_meg,Wilson_2005,Mormoops megalophylla,Mormoops,,megalophylla,,Peters,1864,,Peters's Ghost-faced Bat,1
@@ -158,7 +158,7 @@ mammal,per_ere,Wilson_2005,Peromyscus eremicus,Peromyscus,,eremicus,,Baird,1857,
 mammal,per_gos,Wilson_2005,Peromyscus gossypinus,Peromyscus,,gossypinus,,Le Conte,1853,,Cotton Deermouse,1
 mammal,per_leu,Wilson_2005,Peromyscus leucopus,Peromyscus,,leucopus,,Rafinesque,1818,,White-footed Deermouse,1
 mammal,per_man,Wilson_2005,Peromyscus maniculatus,Peromyscus,,maniculatus,,Wagner,1845,,North American Deermouse,1
-mammal,per_mer,Wilson_2005,Peromyscus merriami,Peromyscus,,merriami,,Mearns,1896,,Merriam’s Deermouse,1
+mammal,per_mer,Wilson_2005,Peromyscus merriami,Peromyscus,,merriami,,Mearns,1896,,Merriam's Deermouse,1
 mammal,per_nas,Wilson_2005,Peromyscus nasutus,Peromyscus,,nasutus,,J. A. Allen,1891,,Northern Rock Deermouse,1
 mammal,per_pol,Wilson_2005,Peromyscus polionotus,Peromyscus,,polionotus,,Wagner,1843,,Oldfield Deermouse,1
 mammal,per_tru,Wilson_2005,Peromyscus truei,Peromyscus,,truei,,Shufeldt,1885,,Piñon Deermouse,1
@@ -176,7 +176,7 @@ mammal,rei_mon,Wilson_2005,Reithrodontomys montanus,Reithrodontomys,,montanus,,B
 mammal,sca_aqu,Wilson_2005,Scalopus aquaticus,Scalopus,,aquaticus,,Linnaeus,1758,,Eastern Mole,1
 mammal,sca_lat,Wilson_2005,Scapanus latimanus,Scapanus,,latimanus,,Bachman,1842,,Broad-footed Mole,1
 mammal,sca_ora,Wilson_2005,Scapanus orarius,Scapanus,,orarius,,TRUE,1896,,Coast Mole,1
-mammal,sca_tow,Wilson_2005,Scapanus townsendii,Scapanus,,townsendii,,Bachman,1839,,Townsend’s Mole,1
+mammal,sca_tow,Wilson_2005,Scapanus townsendii,Scapanus,,townsendii,,Bachman,1839,,Townsend's Mole,1
 mammal,sci_abe,Wilson_2005,Sciurus aberti,Sciurus,,aberti,,Woodhouse,1852,,Abert's Squirrel,1
 mammal,sci_car,Wilson_2005,Sciurus carolinensis,Sciurus,,carolinensis,,Gmelin,1788,,Eastern Gray Squirrel,1
 mammal,sci_gri,Wilson_2005,Sciurus griseus,Sciurus,,griseus,,Ord,1818,,Western Gray Squirrel,1
@@ -246,7 +246,7 @@ mammal,tam_umb,Wilson_2005,Tamias umbrinus,Tamias,,umbrinus,,J. A. Allen,1890,,U
 mammal,tam_dou,Wilson_2005,Tamiasciurus douglasii,Tamiasciurus,,douglasii,,Bachman,1838,,Douglas's Squirrel,1
 mammal,tam_hud,Wilson_2005,Tamiasciurus hudsonicus,Tamiasciurus,,hudsonicus,,Erxleben,1777,,Red Squirrel,1
 mammal,tax_tax,Wilson_2005,Taxidea taxus,Taxidea,,taxus,,Schreber,1777,,American Badger,1
-mammal,tho_bot,Wilson_2005,Thomomys bottae,Thomomys,,bottae,,(Eydoux and Gervais),1836,,Botta’s Pocket Gopher.,1
+mammal,tho_bot,Wilson_2005,Thomomys bottae,Thomomys,,bottae,,(Eydoux and Gervais),1836,,Botta's Pocket Gopher.,1
 mammal,tho_ida,Wilson_2005,Thomomys idahoensis,Thomomys,,idahoensis,,Merriam,1901,,Idaho Pocket Gopher.,1
 mammal,tho_tal,Wilson_2005,Thomomys talpoides,Thomomys,,talpoides,,(Richardson),1828,,Northern Pocket Gopher.,1
 mammal,tho_umb,Wilson_2005,Thomomys umbrinus,Thomomys,,umbrinus,,(Richardson),1829,,Southern Pocket Gopher.,1

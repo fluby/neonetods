@@ -127,8 +127,11 @@ CREATE TABLE species_lists.status
 (
    spp_id  		varchar(255)    NOT NULL,
    state                varchar(255)    NOT NULL,
-   status               varchar(255),
-   notes                varchar(255)
+   fedstatus            varchar(255),
+   statestatus          varchar(255), 
+   fednotes             varchar(1000),
+   statenotes           varchar(1000),
+   sources              varchar(1000)
 );
 
 ALTER TABLE species_lists.status

@@ -1,4 +1,4 @@
-taxon_id,resource_id_family_up,kingdom,subkingdom,superdivision,phylum_or_division,subdivision,class,subclass,order_name,family,family_common,resource_id_subfamily_down,subfamily,tribe,genus,notes
+taxon_id,source_id_family_up,kingdom,subkingdom,superdivision,phylum_or_division,subdivision,class,subclass,order_name,family,family_common,source_id_subfamily_down,subfamily,tribe,genus,notes
 beetle,ITIS_2012dl_carabid,Animalia,,,Arthropoda,,Insecta,,Coleoptera,Carabidae,ground beetles,Ball_2001,Paussinae,Metriini,Metrius,
 beetle,ITIS_2012dl_carabid,Animalia,,,Arthropoda,,Insecta,,Coleoptera,Carabidae,ground beetles,Ball_2001,Paussinae,Ozaenini,Physea,
 beetle,ITIS_2012dl_carabid,Animalia,,,Arthropoda,,Insecta,,Coleoptera,Carabidae,ground beetles,Ball_2001,Paussinae,Ozaenini,Pachyteles,

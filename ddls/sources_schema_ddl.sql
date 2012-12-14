@@ -13,14 +13,14 @@ CREATE TABLE sources.sources
    notes        text,
    isbn         varchar(255),
    author       varchar(255),
-   title        varchar(255),
+   title        varchar(1000),
    journal      varchar(255),
    volume       varchar(255),
    issue        varchar(255),
    pages        varchar(255),
    year         integer null,
    url          varchar(255),
-   tags         varchar(255),
+   tags         varchar(1000),
    spat_scale   varchar(255),
    spat_extent  varchar(255)
 );

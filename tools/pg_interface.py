@@ -36,7 +36,7 @@ def create_databases():
     if connection is None: get_connection()
     cursor = connection.cursor()
 
-    sql_files = [f for f in os.listdir(os.path.join(DATA_DIR, '..')) if f.endswith('.sql')]
+    sql_files = [f for f in os.listdir(os.path.join(DATA_DIR, '../ddls/')) if f.endswith('.sql')]
     failures = True
     tries = 0
     while failures:
@@ -44,7 +44,7 @@ def create_databases():
         failures = []
         for sql_file in sql_files:
             print sql_file
-            contents = open(os.path.join(DATA_DIR, '../%s' % sql_file)).read()
+            contents = open(os.path.join(DATA_DIR, '../ddls/%s' % sql_file)).read()
             try:
                 try:
                     cursor.execute(contents)
