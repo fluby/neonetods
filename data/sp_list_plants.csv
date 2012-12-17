@@ -1479,7 +1479,7 @@ DCFS,Poa,pratensis,,Kentucky bluegrass,http://www.mendeley.com/c/5076345952/g/20
 DCFS,Agropyron,smithii,,western wheatgrass,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-dup
 DCFS,Galium,boreale,,northern bedstraw,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-dup
 DCFS,Cerastium,arvense,,chickweed,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-dup
-DCFS,Artemisia ,ludoviciana,,white sage,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-dup
+DCFS,Artemisia,ludoviciana,,white sage,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-dup
 DCFS,Carex,pennsylvanica,,yellow sedge,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-dup
 DCFS,Helianthus,rigidus,,stiff sunflower,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-dup
 DCFS,Psoralea,argophylla,,silver-leaf scurf pea,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-dup
@@ -1499,11 +1499,11 @@ DCFS,Carex,lanuginosa,,narrow-leafed sedge,http://www.mendeley.com/c/5076345952/
 DCFS,Hordeum,jubatum,,foxtail barley,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-dup
 DCFS,Mentha,arvensis,,wild mint,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-dup
 DCFS,Poa,palustris,,fowl bluegrass,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-dup
-DCFS,Stachys ,palustris,,hedge nettle,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-dup
+DCFS,Stachys,palustris,,hedge nettle,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-dup
 DCFS,Carex,atherodes,,slough sedge,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-dup
 DCFS,Scolochloa,festucacea,,whitetop,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-dup
-DCFS,Typha ,latifolia,,common cattail,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-dup
-DCFS,Typha ,glauca,,hybrid cattail,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-dup
+DCFS,Typha,latifolia,,common cattail,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-dup
+DCFS,Typha,glauca,,hybrid cattail,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-dup
 DCFS,Scirpus,acutus,,hardstem bulrush,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-dup
 DCFS,Scirpus,heterochaetus,,slender bulrush,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-dup
 DCFS,Scirpus,validus,,softstem bulrush,http://www.mendeley.com/c/5076345952/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981-dup
@@ -1589,7 +1589,7 @@ GRSM,Carex,digitalis,,Sedge,http://www.mendeley.com/c/5032231852/g/2058663/grsm-
 GRSM,Carex,eburnea,,Black-fruited sedge,http://www.mendeley.com/c/5032231852/g/2058663/grsm-cyperaceae/
 GRSM,Carex,emmonsii,,Emmon`s sedge,http://www.mendeley.com/c/5032231852/g/2058663/grsm-cyperaceae/
 GRSM,Carex,folliculata,,,http://www.mendeley.com/c/5032231852/g/2058663/grsm-cyperaceae/
-GRSM,Carex,frankii,,Frank’s sedge,http://www.mendeley.com/c/5032231852/g/2058663/grsm-cyperaceae/
+GRSM,Carex,frankii,,Frank's sedge,http://www.mendeley.com/c/5032231852/g/2058663/grsm-cyperaceae/
 GRSM,Carex,fraseriana,,,http://www.mendeley.com/c/5032231852/g/2058663/grsm-cyperaceae/
 GRSM,Carex,fumosimontana,,Smoky Mountain sedge,http://www.mendeley.com/c/5032231852/g/2058663/grsm-cyperaceae/
 GRSM,Carex,gracillima,,Graceful sedge,http://www.mendeley.com/c/5032231852/g/2058663/grsm-cyperaceae/
@@ -1599,7 +1599,7 @@ GRSM,Carex,gynandra,,,http://www.mendeley.com/c/5032231852/g/2058663/grsm-cypera
 GRSM,Carex,hirsutella,,Hirsute sedge,http://www.mendeley.com/c/5032231852/g/2058663/grsm-cyperaceae/
 GRSM,Carex,incomperta,,,http://www.mendeley.com/c/5032231852/g/2058663/grsm-cyperaceae/
 GRSM,Carex,intumescens,,Intumescent sedge,http://www.mendeley.com/c/5032231852/g/2058663/grsm-cyperaceae/
-GRSM,Carex,jamesii,,James’ sedge,http://www.mendeley.com/c/5032231852/g/2058663/grsm-cyperaceae/
+GRSM,Carex,jamesii,,James' sedge,http://www.mendeley.com/c/5032231852/g/2058663/grsm-cyperaceae/
 GRSM,Carex,kraliana,,,http://www.mendeley.com/c/5032231852/g/2058663/grsm-cyperaceae/
 GRSM,Carex,laevivaginata,,Sedge,http://www.mendeley.com/c/5032231852/g/2058663/grsm-cyperaceae/
 GRSM,Carex,laxiculmis,variety,,http://www.mendeley.com/c/5032231852/g/2058663/grsm-cyperaceae/
@@ -1623,7 +1623,7 @@ GRSM,Carex,prasina,,Drooping sedge,http://www.mendeley.com/c/5032231852/g/205866
 GRSM,Carex,purpurifera,,Purple-based sedge,http://www.mendeley.com/c/5032231852/g/2058663/grsm-cyperaceae/
 GRSM,Carex,retroflexa,,,http://www.mendeley.com/c/5032231852/g/2058663/grsm-cyperaceae/
 GRSM,Carex,rosea,,Roseate sedge,http://www.mendeley.com/c/5032231852/g/2058663/grsm-cyperaceae/
-GRSM,Carex,ruthii,,Ruth’s sedge,http://www.mendeley.com/c/5032231852/g/2058663/grsm-cyperaceae/
+GRSM,Carex,ruthii,,Ruth's sedge,http://www.mendeley.com/c/5032231852/g/2058663/grsm-cyperaceae/
 GRSM,Carex,scabrata,,Rough sedge,http://www.mendeley.com/c/5032231852/g/2058663/grsm-cyperaceae/
 GRSM,Carex,scoparia,scoparia,Sedge,http://www.mendeley.com/c/5032231852/g/2058663/grsm-cyperaceae/
 GRSM,Carex,siccata,,,http://www.mendeley.com/c/5032231852/g/2058663/grsm-cyperaceae/
@@ -1632,7 +1632,7 @@ GRSM,Carex,species,,,http://www.mendeley.com/c/5032231852/g/2058663/grsm-cyperac
 GRSM,Carex,squarrosa,,Round-headed sedge,http://www.mendeley.com/c/5032231852/g/2058663/grsm-cyperaceae/
 GRSM,Carex,stipata,,Stipate sedge,http://www.mendeley.com/c/5032231852/g/2058663/grsm-cyperaceae/
 GRSM,Carex,styloflexa,,Sedge,http://www.mendeley.com/c/5032231852/g/2058663/grsm-cyperaceae/
-GRSM,Carex,swanii,,Swan’s sedge,http://www.mendeley.com/c/5032231852/g/2058663/grsm-cyperaceae/
+GRSM,Carex,swanii,,Swan's sedge,http://www.mendeley.com/c/5032231852/g/2058663/grsm-cyperaceae/
 GRSM,Carex,texensis,,Texas sedge,http://www.mendeley.com/c/5032231852/g/2058663/grsm-cyperaceae/
 GRSM,Carex,tonsa,rugosperma,,http://www.mendeley.com/c/5032231852/g/2058663/grsm-cyperaceae/
 GRSM,Carex,torta,,Twisted sedge,http://www.mendeley.com/c/5032231852/g/2058663/grsm-cyperaceae/
@@ -1694,7 +1694,7 @@ GRSM,Bromus,inermis,inermis inermis,,http://www.mendeley.com/c/5032232432/g/2058
 GRSM,Bromus,japonicus,,Japanese chess,http://www.mendeley.com/c/5032232432/g/2058663/grsm-poaceae/
 GRSM,Bromus,pubescens,,,http://www.mendeley.com/c/5032232432/g/2058663/grsm-poaceae/
 GRSM,Bromus,species,,,http://www.mendeley.com/c/5032232432/g/2058663/grsm-poaceae/
-GRSM,Calamagrostis,cainii,,Cain’s reed-bent grass,http://www.mendeley.com/c/5032232432/g/2058663/grsm-poaceae/
+GRSM,Calamagrostis,cainii,,Cain's reed-bent grass,http://www.mendeley.com/c/5032232432/g/2058663/grsm-poaceae/
 GRSM,Calamagrostis,coarctata,,,http://www.mendeley.com/c/5032232432/g/2058663/grsm-poaceae/
 GRSM,Chasmanthium,latifolium,,Indian Sea-Oats,http://www.mendeley.com/c/5032232432/g/2058663/grsm-poaceae/
 GRSM,Chasmanthium,sessiliflorum,sessiliflorum,,http://www.mendeley.com/c/5032232432/g/2058663/grsm-poaceae/
@@ -1777,7 +1777,7 @@ GRSM,Piptochaetium,avenaceum,,Blackseed needlegrass,http://www.mendeley.com/c/50
 GRSM,Poa,alsodes,,Wood bluegrass,http://www.mendeley.com/c/5032232432/g/2058663/grsm-poaceae/
 GRSM,Poa,annua,,Annual bluegrass,http://www.mendeley.com/c/5032232432/g/2058663/grsm-poaceae/
 GRSM,Poa,autumnalis,,Autumn bluegrass,http://www.mendeley.com/c/5032232432/g/2058663/grsm-poaceae/
-GRSM,Poa,chapmaniana,,Chapman’s bluegrass,http://www.mendeley.com/c/5032232432/g/2058663/grsm-poaceae/
+GRSM,Poa,chapmaniana,,Chapman's bluegrass,http://www.mendeley.com/c/5032232432/g/2058663/grsm-poaceae/
 GRSM,Poa,compressa,,Canada bluegrass,http://www.mendeley.com/c/5032232432/g/2058663/grsm-poaceae/
 GRSM,Poa,cuspidata,,Woodland bluegrass,http://www.mendeley.com/c/5032232432/g/2058663/grsm-poaceae/
 GRSM,Poa,paludigena,,,http://www.mendeley.com/c/5032232432/g/2058663/grsm-poaceae/
@@ -1851,7 +1851,7 @@ GRSM,Lilium,canadense,subspecies,,http://www.mendeley.com/c/5032319432/g/2058663
 GRSM,Lilium,michauxii,,Carolina lily,http://www.mendeley.com/c/5032319432/g/2058663/grsm-liliaceae/
 GRSM,Lilium,philadelphicum,,Philadelphia wood lily,http://www.mendeley.com/c/5032319432/g/2058663/grsm-liliaceae/
 GRSM,Lilium,species,,,http://www.mendeley.com/c/5032319432/g/2058663/grsm-liliaceae/
-GRSM,Lilium,superbum,,Turk’s cap lily,http://www.mendeley.com/c/5032319432/g/2058663/grsm-liliaceae/
+GRSM,Lilium,superbum,,Turk's cap lily,http://www.mendeley.com/c/5032319432/g/2058663/grsm-liliaceae/
 GRSM,Maianthemum,canadense,,Canada mayflower,http://www.mendeley.com/c/5032319432/g/2058663/grsm-liliaceae/
 GRSM,Maianthemum,racemosum,racemosum,,http://www.mendeley.com/c/5032319432/g/2058663/grsm-liliaceae/
 GRSM,Maianthemum,racemosum,,False Solomans-Seal,http://www.mendeley.com/c/5032319432/g/2058663/grsm-liliaceae/
@@ -1865,10 +1865,10 @@ GRSM,Narcissus,pseudonarcissus,,Daffodil,http://www.mendeley.com/c/5032319432/g/
 GRSM,Narcissus,species,,,http://www.mendeley.com/c/5032319432/g/2058663/grsm-liliaceae/
 GRSM,Nothoscordum,bivalve,,,http://www.mendeley.com/c/5032319432/g/2058663/grsm-liliaceae/
 GRSM,Ornithogalum,umbellatum,,Star-of-Bethlehem,http://www.mendeley.com/c/5032319432/g/2058663/grsm-liliaceae/
-GRSM,Polygonatum,biflorum,biflorum,Great Solomon’s seal,http://www.mendeley.com/c/5032319432/g/2058663/grsm-liliaceae/
-GRSM,Polygonatum,biflorum,commutatum,Great Solomon’s seal,http://www.mendeley.com/c/5032319432/g/2058663/grsm-liliaceae/
+GRSM,Polygonatum,biflorum,biflorum,Great Solomon's seal,http://www.mendeley.com/c/5032319432/g/2058663/grsm-liliaceae/
+GRSM,Polygonatum,biflorum,commutatum,Great Solomon's seal,http://www.mendeley.com/c/5032319432/g/2058663/grsm-liliaceae/
 GRSM,Polygonatum,biflorum,variety,Solomon`s seal,http://www.mendeley.com/c/5032319432/g/2058663/grsm-liliaceae/
-GRSM,Polygonatum,pubescens,,Hairy Solomon’s seal,http://www.mendeley.com/c/5032319432/g/2058663/grsm-liliaceae/
+GRSM,Polygonatum,pubescens,,Hairy Solomon's seal,http://www.mendeley.com/c/5032319432/g/2058663/grsm-liliaceae/
 GRSM,Polygonatum,species,,Solomons Seal species,http://www.mendeley.com/c/5032319432/g/2058663/grsm-liliaceae/
 GRSM,Prosartes,lanuginosa,,Yellow mandarin,http://www.mendeley.com/c/5032319432/g/2058663/grsm-liliaceae/
 GRSM,Prosartes,maculata,,Spotted mandarin,http://www.mendeley.com/c/5032319432/g/2058663/grsm-liliaceae/
@@ -1878,7 +1878,7 @@ GRSM,Stenanthium,gramineum,,Featherbells,http://www.mendeley.com/c/5032319432/g/
 GRSM,Streptopus,amplexifolius,amplexifolius,Twisted-stalk,http://www.mendeley.com/c/5032319432/g/2058663/grsm-liliaceae/
 GRSM,Streptopus,lanceolatus,lanceolatus,Rose twisted-stalk,http://www.mendeley.com/c/5032319432/g/2058663/grsm-liliaceae/
 GRSM,Streptopus,lanceolatus,roseus,Rose twisted-stalk,http://www.mendeley.com/c/5032319432/g/2058663/grsm-liliaceae/
-GRSM,Trillium,catesbaei,,Catesby’s trillium,http://www.mendeley.com/c/5032319432/g/2058663/grsm-liliaceae/
+GRSM,Trillium,catesbaei,,Catesby's trillium,http://www.mendeley.com/c/5032319432/g/2058663/grsm-liliaceae/
 GRSM,Trillium,cuneatum,,Sessile-flowered maroon trillium,http://www.mendeley.com/c/5032319432/g/2058663/grsm-liliaceae/
 GRSM,Trillium,erectum,,Wake robin,http://www.mendeley.com/c/5032319432/g/2058663/grsm-liliaceae/
 GRSM,Trillium,grandiflorum,,White trillium,http://www.mendeley.com/c/5032319432/g/2058663/grsm-liliaceae/
@@ -1899,7 +1899,7 @@ GRSM,Smilax,biltmoreana,,,http://www.mendeley.com/c/5032319422/g/2058663/grsm-sm
 GRSM,Smilax,bona-nox,,Catbrier,http://www.mendeley.com/c/5032319422/g/2058663/grsm-smilaceae/
 GRSM,Smilax,glauca,,Glaucous catbrier,http://www.mendeley.com/c/5032319422/g/2058663/grsm-smilaceae/
 GRSM,Smilax,herbacea,,Carrion flower,http://www.mendeley.com/c/5032319422/g/2058663/grsm-smilaceae/
-GRSM,Smilax,hugeri,,Huger’s carrion flower,http://www.mendeley.com/c/5032319422/g/2058663/grsm-smilaceae/
+GRSM,Smilax,hugeri,,Huger's carrion flower,http://www.mendeley.com/c/5032319422/g/2058663/grsm-smilaceae/
 GRSM,Smilax,pulverulenta,,,http://www.mendeley.com/c/5032319422/g/2058663/grsm-smilaceae/
 GRSM,Smilax,rotundifolia,,Greenbrier,http://www.mendeley.com/c/5032319422/g/2058663/grsm-smilaceae/
 GRSM,Smilax,species,,,http://www.mendeley.com/c/5032319422/g/2058663/grsm-smilaceae/
@@ -1913,7 +1913,7 @@ GRSM,Coeloglossum,viride,virescens,Bracted green orchid,http://www.mendeley.com/
 GRSM,Corallorhiza,odontorhiza,,Autumn coral-root,http://www.mendeley.com/c/5032319392/g/2058663/grsm-orchidaceae/
 GRSM,Corallorhiza,species,,,http://www.mendeley.com/c/5032319392/g/2058663/grsm-orchidaceae/
 GRSM,Corallorhiza,wisteriana,,Spring coralroot,http://www.mendeley.com/c/5032319392/g/2058663/grsm-orchidaceae/
-GRSM,Cypripedium,acaule,,Pink lady’s slipper,http://www.mendeley.com/c/5032319392/g/2058663/grsm-orchidaceae/
+GRSM,Cypripedium,acaule,,Pink lady's slipper,http://www.mendeley.com/c/5032319392/g/2058663/grsm-orchidaceae/
 GRSM,Cypripedium,parviflorum,parviflorum,,http://www.mendeley.com/c/5032319392/g/2058663/grsm-orchidaceae/
 GRSM,Cypripedium,parviflorum,pubescens,,http://www.mendeley.com/c/5032319392/g/2058663/grsm-orchidaceae/
 GRSM,Cypripedium,parviflorum,variety,,http://www.mendeley.com/c/5032319392/g/2058663/grsm-orchidaceae/
@@ -1924,7 +1924,7 @@ GRSM,Goodyera,pubescens,,Downy rattlesnake-plantain,http://www.mendeley.com/c/50
 GRSM,Goodyera,repens,,Lesser rattlesnake-plantain,http://www.mendeley.com/c/5032319392/g/2058663/grsm-orchidaceae/
 GRSM,Isotria,verticillata,,Whorled pogonia,http://www.mendeley.com/c/5032319392/g/2058663/grsm-orchidaceae/
 GRSM,Liparis,liliifolia,,Lily-leaved twayblade,http://www.mendeley.com/c/5032319392/g/2058663/grsm-orchidaceae/
-GRSM,Listera,smallii,,Small’s twayblade,http://www.mendeley.com/c/5032319392/g/2058663/grsm-orchidaceae/
+GRSM,Listera,smallii,,Small's twayblade,http://www.mendeley.com/c/5032319392/g/2058663/grsm-orchidaceae/
 GRSM,Malaxis,unifolia,,Adder`s mouth,http://www.mendeley.com/c/5032319392/g/2058663/grsm-orchidaceae/
 GRSM,Orchidaceae_genus *,species,,,http://www.mendeley.com/c/5032319392/g/2058663/grsm-orchidaceae/
 GRSM,Platanthera,ciliaris,,Yellow-fringed orchid,http://www.mendeley.com/c/5032319392/g/2058663/grsm-orchidaceae/
@@ -1935,9 +1935,9 @@ GRSM,Platanthera,lacera,,Green-fringed orchid,http://www.mendeley.com/c/50323193
 GRSM,Platanthera,peramoena,,Purple fringeless orchid,http://www.mendeley.com/c/5032319392/g/2058663/grsm-orchidaceae/
 GRSM,Platanthera,psycodes,,Small purple-fringed orchid,http://www.mendeley.com/c/5032319392/g/2058663/grsm-orchidaceae/
 GRSM,Platanthera,species,,,http://www.mendeley.com/c/5032319392/g/2058663/grsm-orchidaceae/
-GRSM,Spiranthes,cernua,,Nodding lady’s tresses,http://www.mendeley.com/c/5032319392/g/2058663/grsm-orchidaceae/
+GRSM,Spiranthes,cernua,,Nodding lady's tresses,http://www.mendeley.com/c/5032319392/g/2058663/grsm-orchidaceae/
 GRSM,Spiranthes,lacera,gracilis,Slender lady`s tresses,http://www.mendeley.com/c/5032319392/g/2058663/grsm-orchidaceae/
-GRSM,Spiranthes,ovalis,,Oval lady’s tresses,http://www.mendeley.com/c/5032319392/g/2058663/grsm-orchidaceae/
+GRSM,Spiranthes,ovalis,,Oval lady's tresses,http://www.mendeley.com/c/5032319392/g/2058663/grsm-orchidaceae/
 GRSM,Spiranthes,species,,,http://www.mendeley.com/c/5032319392/g/2058663/grsm-orchidaceae/
 GRSM,Spiranthes,tuberosa,,Little lady`s tresses,http://www.mendeley.com/c/5032319392/g/2058663/grsm-orchidaceae/
 GRSM,Tipularia,discolor,,Crane-fly orchid,http://www.mendeley.com/c/5032319392/g/2058663/grsm-orchidaceae/
@@ -1963,7 +1963,7 @@ GRSM,Acer,spicatum,,Mountain maple,http://www.mendeley.com/c/5032642672/g/205866
 GRSM,Achillea,millefolium,,Yarrow,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Aconitum,reclinatum,,,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Aconitum,species,,Monkshood species,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
-GRSM,Aconitum,uncinatum,,Monk’s hood,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
+GRSM,Aconitum,uncinatum,,Monk's hood,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Actaea,pachypoda,,White Baneberry,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Actaea,podocarpa,,,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Actaea,racemosa,racemosa,,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
@@ -2024,7 +2024,7 @@ GRSM,Aralia,hispida,,,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnol
 GRSM,Aralia,nudicaulis,,Wild Sarsaparilla,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Aralia,racemosa,,Wild spikenard,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Aralia,species,,,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
-GRSM,Aralia,spinosa,,Devil’s walking stick,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
+GRSM,Aralia,spinosa,,Devil's walking stick,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Arenaria,serpyllifolia,,Thyme-leaved sandwort,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Aristolochia,macrophylla,,,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Aristolochia,serpentaria,,Snakeroot,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
@@ -2168,7 +2168,7 @@ GRSM,Cimicifuga,racemosa,,,http://www.mendeley.com/c/5032642672/g/2058663/grsm-m
 GRSM,Cimicifuga,species,,Bugbane species,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Circaea,alpina,alpina,,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Circaea,canadensis,canadensis,,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
-GRSM,Circaea,lutetiana,canadensis,Larger enchanter’s-nightshade,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
+GRSM,Circaea,lutetiana,canadensis,Larger enchanter's-nightshade,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Circaea,lutetiana,subspecies,,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Circaea,species,,,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Cirsium,altissimum,,Tall thistle,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
@@ -2184,7 +2184,7 @@ GRSM,Claytonia,virginica,virginica,,http://www.mendeley.com/c/5032642672/g/20586
 GRSM,Clematis,glaucophylla,,Waxy-leaved clematis,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Clematis,terniflora,,,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Clematis,viorna,,Leatherflower,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
-GRSM,Clematis,virginiana,,Virgin’s bower,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
+GRSM,Clematis,virginiana,,Virgin's bower,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Clethra,acuminata,,Mountain Pepper-Bush,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Clethra,alnifolia,,Coastal sweetpepperbush,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Clinopodium,vulgare,,,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
@@ -2220,7 +2220,7 @@ GRSM,Cuscuta,rostrata,,Beaked dodder,http://www.mendeley.com/c/5032642672/g/2058
 GRSM,Cuscuta,species,,,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Cynoglossum,virginianum,virginianum,Wild comfrey,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Datura,stramonium,,Jimson Weed,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
-GRSM,Daucus,carota,,Queen Anne’s lace,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
+GRSM,Daucus,carota,,Queen Anne's lace,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Decumaria,barbara,,Climbing hydrangea,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Delphinium,tricorne,,Dwarf larkspur,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Desmodium,canescens,,Tick-trefoil,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
@@ -2240,7 +2240,7 @@ GRSM,Desmodium,species,,,http://www.mendeley.com/c/5032642672/g/2058663/grsm-mag
 GRSM,Desmodium,viridiflorum,,Tick-trefoil,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Dianthus,armeria,,Deptford pink,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Dicentra,canadensis,,Squirrel corn,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
-GRSM,Dicentra,cucullaria,,Dutchman’s britches,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
+GRSM,Dicentra,cucullaria,,Dutchman's britches,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Dicentra,eximia,,Bleeding Heart,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Dicentra,species,,,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Diervilla,sessilifolia,,Sessile-leaved bush-honey-suck,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
@@ -2273,7 +2273,7 @@ GRSM,Epilobium,coloratum,,Willow-herb,http://www.mendeley.com/c/5032642672/g/205
 GRSM,Erechtites,hieraciifolia,hieraciifolia,Pilewort,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Erigeron,annuus,,Daisy-fleabane,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Erigeron,philadelphicus,philadelphicus,Philadelphia Fleabane,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
-GRSM,Erigeron,pulchellus,pulchellus,Robin’s-plantain,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
+GRSM,Erigeron,pulchellus,pulchellus,Robin's-plantain,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Erigeron,species,,,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Erigeron,strigosus,,Daisy-fleabane,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Eryngium,prostratum,,Rattlesnake-Master,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
@@ -2444,12 +2444,12 @@ GRSM,Hydrophyllum,species,,,http://www.mendeley.com/c/5032642672/g/2058663/grsm-
 GRSM,Hydrophyllum,virginianum,atranthum,Virginia waterleaf,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Hydrophyllum,virginianum,,Virginia waterleaf,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Hypericum,densiflorum,,Bushy St. Johns-wort,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
-GRSM,Hypericum,graveolens,,Mountain St. John’s-wort,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
-GRSM,Hypericum,hypericoides,,Low St. andrew’s cross,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
-GRSM,Hypericum,mitchellianum,,Mitchell’s St.John’s-wort,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
-GRSM,Hypericum,mutilum,,Dwarf St. John’s-wort,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
-GRSM,Hypericum,perforatum,,Common St. John’s-wort,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
-GRSM,Hypericum,punctatum,,Dotted St. John’s-wort,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
+GRSM,Hypericum,graveolens,,Mountain St. John's-wort,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
+GRSM,Hypericum,hypericoides,,Low St. andrew's cross,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
+GRSM,Hypericum,mitchellianum,,Mitchell's St.John's-wort,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
+GRSM,Hypericum,mutilum,,Dwarf St. John's-wort,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
+GRSM,Hypericum,perforatum,,Common St. John's-wort,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
+GRSM,Hypericum,punctatum,,Dotted St. John's-wort,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Hypericum,species,,,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Ilex,ambigua,,,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Ilex,collina,,Appalachian holly,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
@@ -2643,7 +2643,7 @@ GRSM,Phacelia,bipinnatifida,,Purple phacelia,http://www.mendeley.com/c/503264267
 GRSM,Phacelia,dubia,dubia,Small-flowered phacelia,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Phacelia,dubia,,Small-flowered phacelia,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Phacelia,fimbriata,,Fringed phacelia,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
-GRSM,Phacelia,purshii,,Pursh’s purple phacelia,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
+GRSM,Phacelia,purshii,,Pursh's purple phacelia,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Phacelia,species,,,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Phaseolus,polystachios,,Wild bean,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Philadelphus,coronarius,,Sweet mock orange,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
@@ -2700,7 +2700,7 @@ GRSM,Polygonum,cuspidatum,,Japanese Knotweed,http://www.mendeley.com/c/503264267
 GRSM,Polygonum,erectum,,Knotweed,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Polygonum,hydropiper,,,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Polygonum,hydropiperoides,,Water smartweed,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
-GRSM,Polygonum,orientale,,Prince’s feather,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
+GRSM,Polygonum,orientale,,Prince's feather,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Polygonum,pensylvanicum,,Pennsylvania Smartweed,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Polygonum,persicaria,,Lady`s thumb,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Polygonum,punctatum,,Punctate smartweed,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
@@ -2722,10 +2722,10 @@ GRSM,Potentilla,simplex,,Common cinquefoil,http://www.mendeley.com/c/5032642672/
 GRSM,Potentilla,species,,,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Prenanthes,alba,,White rattlesnakeroot,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Prenanthes,altissima,,Tall rattlesnakeroot,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
-GRSM,Prenanthes,roanensis,,Roan’s rattlesnakeroot,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
+GRSM,Prenanthes,roanensis,,Roan's rattlesnakeroot,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Prenanthes,serpentaria,,Rattlesnakeroot,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Prenanthes,species,,,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
-GRSM,Prenanthes,trifoliolata,,Lion’s foot,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
+GRSM,Prenanthes,trifoliolata,,Lion's foot,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Prunella,vulgaris,lanceolata,,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Prunella,vulgaris,variety,,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Prunella,vulgaris,vulgaris,Heal-all,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
@@ -2795,8 +2795,8 @@ GRSM,Ribes,cynosbati,,Prickly gooseberry,http://www.mendeley.com/c/5032642672/g/
 GRSM,Ribes,glandulosum,,Skunk currant,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Ribes,rotundifolium,,Round-leaved currant,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Ribes,species,,,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
-GRSM,Robinia,hispida,hispida,Boynton’s locust,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
-GRSM,Robinia,hispida,kelseyi,Kelsey’s locust,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
+GRSM,Robinia,hispida,hispida,Boynton's locust,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
+GRSM,Robinia,hispida,kelseyi,Kelsey's locust,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Robinia,hispida,nana,,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Robinia,hispida,variety,,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Robinia,pseudoacacia,,Black locust,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
@@ -2863,12 +2863,12 @@ GRSM,Sanguinaria,canadensis,,Bloodroot,http://www.mendeley.com/c/5032642672/g/20
 GRSM,Sanicula,canadensis,canadensis,Canada black snakeroot,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Sanicula,marilandica,,Black snakeroot,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Sanicula,odorata,,,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
-GRSM,Sanicula,smallii,,Small’s black snakeroot,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
+GRSM,Sanicula,smallii,,Small's black snakeroot,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Sanicula,species,,,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Sanicula,trifoliata,,Trifoliate black snakeroot,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Sassafras,albidum,,Sassafras,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Saxifraga,careyana,,Carey`s saxifrage,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
-GRSM,Saxifraga,michauxii,,Michaux’s saxifrage,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
+GRSM,Saxifraga,michauxii,,Michaux's saxifrage,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Saxifraga,micranthidifolia,,Brook lettuce,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Saxifraga,species,,Saxifrage species,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Scrophularia,marilandica,,Figwort,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
@@ -2930,7 +2930,7 @@ GRSM,Solidago,nemoralis,nemoralis,Southern gray goldenrod,http://www.mendeley.co
 GRSM,Solidago,odora,,Fragrant goldenrod,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Solidago,patula,patula,Rough-leaved goldenrod,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Solidago,puberula,puberula,Hairy goldenrod,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
-GRSM,Solidago,roanensis,,Roan’s goldenrod,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
+GRSM,Solidago,roanensis,,Roan's goldenrod,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Solidago,rugosa,aspera,Rough-stemmed goldenrod,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Solidago,rugosa,subspecies,,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Solidago,species,,,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
@@ -2941,13 +2941,13 @@ GRSM,Solidago,ulmifolia,,Elm-leaf goldenrod,http://www.mendeley.com/c/5032642672
 GRSM,Sorbus,americana,,American mountain-ash,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Spigelia,marilandica,,Indian pink,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Spiraea,tomentosa,,,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
-GRSM,Stachys,clingmanii,,Clingman’s hedge-nettle,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
+GRSM,Stachys,clingmanii,,Clingman's hedge-nettle,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Stachys,latidens,,,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Stachys,nuttallii,,,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Stachys,species,,,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Staphylea,trifolia,,Bladdernut,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Stellaria,alsine,,Chickweed,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
-GRSM,Stellaria,corei,,Core’s chickweed,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
+GRSM,Stellaria,corei,,Core's chickweed,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Stellaria,longifolia,,Long-leaved stitchwort,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Stellaria,media,,Common chickweed,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Stellaria,pubera,,Star chickweed,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
@@ -3009,7 +3009,7 @@ GRSM,Trifolium,hybridum,,Alsike clover,http://www.mendeley.com/c/5032642672/g/20
 GRSM,Trifolium,pratense,,Red clover,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Trifolium,repens,,White clover,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Trifolium,species,,Clover species,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
-GRSM,Triodanis,perfoliata,perfoliata,Venus’ looking-glass,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
+GRSM,Triodanis,perfoliata,perfoliata,Venus' looking-glass,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Triosteum,aurantiacum,,Horse-gentian,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Ulmus,alata,,Winged elm,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
 GRSM,Ulmus,americana,,American elm,http://www.mendeley.com/c/5032642672/g/2058663/grsm-magnoliopsida/
@@ -3160,14 +3160,14 @@ GRSM,Diplazium,pycnocarpon,,Glade fern,http://www.mendeley.com/c/5032693912/g/20
 GRSM,Dryopteris,campyloptera,,Mountain wood fern,http://www.mendeley.com/c/5032693912/g/2058663/grsm-pteridophyta/
 GRSM,Dryopteris,carthusiana,,,http://www.mendeley.com/c/5032693912/g/2058663/grsm-pteridophyta/
 GRSM,Dryopteris,cristata,,Crested wood fern,http://www.mendeley.com/c/5032693912/g/2058663/grsm-pteridophyta/
-GRSM,Dryopteris,goldiana,,Goldie’s fern,http://www.mendeley.com/c/5032693912/g/2058663/grsm-pteridophyta/
+GRSM,Dryopteris,goldiana,,Goldie's fern,http://www.mendeley.com/c/5032693912/g/2058663/grsm-pteridophyta/
 GRSM,Dryopteris,intermedia,,Intermediate wood fern,http://www.mendeley.com/c/5032693912/g/2058663/grsm-pteridophyta/
 GRSM,Dryopteris,marginalis,,Marginal wood fern,http://www.mendeley.com/c/5032693912/g/2058663/grsm-pteridophyta/
 GRSM,Dryopteris,species,,,http://www.mendeley.com/c/5032693912/g/2058663/grsm-pteridophyta/
 GRSM,Lygodium,palmatum,,American climbing fern,http://www.mendeley.com/c/5032693912/g/2058663/grsm-pteridophyta/
 GRSM,Onoclea,sensibilis,,Sensitive fern,http://www.mendeley.com/c/5032693912/g/2058663/grsm-pteridophyta/
-GRSM,Ophioglossum,pycnostichum,,Southeastern Adder’s-tongue,http://www.mendeley.com/c/5032693912/g/2058663/grsm-pteridophyta/
-GRSM,Ophioglossum,vulgatum,,Southeastern Adder’s-tongue,http://www.mendeley.com/c/5032693912/g/2058663/grsm-pteridophyta/
+GRSM,Ophioglossum,pycnostichum,,Southeastern Adder's-tongue,http://www.mendeley.com/c/5032693912/g/2058663/grsm-pteridophyta/
+GRSM,Ophioglossum,vulgatum,,Southeastern Adder's-tongue,http://www.mendeley.com/c/5032693912/g/2058663/grsm-pteridophyta/
 GRSM,Osmunda,cinnamomea,,Cinnamon fern,http://www.mendeley.com/c/5032693912/g/2058663/grsm-pteridophyta/
 GRSM,Osmunda,claytoniana,,Interrupted fern,http://www.mendeley.com/c/5032693912/g/2058663/grsm-pteridophyta/
 GRSM,Osmunda,regalis,spectabilis,Royal fern,http://www.mendeley.com/c/5032693912/g/2058663/grsm-pteridophyta/
@@ -4759,8 +4759,8 @@ HEAL,GLYCERIA,BOREALIS,,,http://www.mendeley.com/c/5057199022/g/2058663/roland-v
 HEAL,GLYCERIA,GRANDIS,,,http://www.mendeley.com/c/5057199022/g/2058663/roland-vascular-plant-species-of-denali-national-park--preserve/
 HEAL,GLYCERIA,PULCHELLA,,,http://www.mendeley.com/c/5057199022/g/2058663/roland-vascular-plant-species-of-denali-national-park--preserve/
 HEAL,GLYCERIA,STRIATA,,,http://www.mendeley.com/c/5057199022/g/2058663/roland-vascular-plant-species-of-denali-national-park--preserve/
-HEAL,HIEROCHLÖE,ALPINA,,,http://www.mendeley.com/c/5057199022/g/2058663/roland-vascular-plant-species-of-denali-national-park--preserve/
-HEAL,HIEROCHLÖE,ODORATA,,,http://www.mendeley.com/c/5057199022/g/2058663/roland-vascular-plant-species-of-denali-national-park--preserve/
+HEAL,HIEROCHLOE,ALPINA,,,http://www.mendeley.com/c/5057199022/g/2058663/roland-vascular-plant-species-of-denali-national-park--preserve/
+HEAL,HIEROCHLOE,ODORATA,,,http://www.mendeley.com/c/5057199022/g/2058663/roland-vascular-plant-species-of-denali-national-park--preserve/
 HEAL,HORDEUM,JUBATUM,,,http://www.mendeley.com/c/5057199022/g/2058663/roland-vascular-plant-species-of-denali-national-park--preserve/
 HEAL,LEYMUS,INNOVATUS,,,http://www.mendeley.com/c/5057199022/g/2058663/roland-vascular-plant-species-of-denali-national-park--preserve/
 HEAL,PHIPPSIA,ALGIDA,,,http://www.mendeley.com/c/5057199022/g/2058663/roland-vascular-plant-species-of-denali-national-park--preserve/
@@ -7679,7 +7679,7 @@ NIWO,Saxifraga,rhomboidea,,Snowball Saxifrage,http://www.mendeley.com/c/50528375
 NIWO,Arnica,latifolia,,Arnica,http://www.mendeley.com/c/5052837512/g/2058663/vegetation-communities-of-niwot-ridge/
 NIWO,Arnica,mollis,,Arnica,http://www.mendeley.com/c/5052837512/g/2058663/vegetation-communities-of-niwot-ridge/
 NIWO,Sedum,lanceolatum,,Lanceleaved Stonecrop,http://www.mendeley.com/c/5052837512/g/2058663/vegetation-communities-of-niwot-ridge/
-NIWO,Erysimum,sp.,,Wallflower ,http://www.mendeley.com/c/5052837512/g/2058663/vegetation-communities-of-niwot-ridge/
+NIWO,Erysimum,sp.,,Wallflower,http://www.mendeley.com/c/5052837512/g/2058663/vegetation-communities-of-niwot-ridge/
 NIWO,Sedum,roseum,,King's Crown,http://www.mendeley.com/c/5052837512/g/2058663/vegetation-communities-of-niwot-ridge/
 NIWO,Sedum,rhodantha,,Rose Crown,http://www.mendeley.com/c/5052837512/g/2058663/vegetation-communities-of-niwot-ridge/
 NIWO,Trifolium,dasyphyllum,,Alpine Clover,http://www.mendeley.com/c/5052837512/g/2058663/vegetation-communities-of-niwot-ridge/
@@ -8927,11 +8927,11 @@ ORNL,Agrostis,scabra ,,rough bent grass,http://www.mendeley.com/c/5050810252/g/2
 ORNL,Bromus,racemosus,,smooth brome,http://www.mendeley.com/c/5050810252/g/2058663/durr-2009-graminoid-survey-of-the-oak-ridge-reservation/
 ORNL,Carex,albicans,var. australis,stellate sedge,http://www.mendeley.com/c/5050810252/g/2058663/durr-2009-graminoid-survey-of-the-oak-ridge-reservation/
 ORNL,Carex,annectens,,yellow-fruited sedge ,http://www.mendeley.com/c/5050810252/g/2058663/durr-2009-graminoid-survey-of-the-oak-ridge-reservation/
-ORNL,Carex,careyana,,Carey’s sedge,http://www.mendeley.com/c/5050810252/g/2058663/durr-2009-graminoid-survey-of-the-oak-ridge-reservation/
+ORNL,Carex,careyana,,Carey's sedge,http://www.mendeley.com/c/5050810252/g/2058663/durr-2009-graminoid-survey-of-the-oak-ridge-reservation/
 ORNL,Carex,corrugata ,,eastern narrow-leaf sedge,http://www.mendeley.com/c/5050810252/g/2058663/durr-2009-graminoid-survey-of-the-oak-ridge-reservation/
 ORNL,Carex,cumberlandensis,,Cumberland sedge ,http://www.mendeley.com/c/5050810252/g/2058663/durr-2009-graminoid-survey-of-the-oak-ridge-reservation/
 ORNL,Carex,gracilescens,,slender loose-flower sedge,http://www.mendeley.com/c/5050810252/g/2058663/durr-2009-graminoid-survey-of-the-oak-ridge-reservation/
-ORNL,Carex,kralinana,,Kral’s sedge,http://www.mendeley.com/c/5050810252/g/2058663/durr-2009-graminoid-survey-of-the-oak-ridge-reservation/
+ORNL,Carex,kralinana,,Kral's sedge,http://www.mendeley.com/c/5050810252/g/2058663/durr-2009-graminoid-survey-of-the-oak-ridge-reservation/
 ORNL,Carex,laxiculmis,,spreading sedge,http://www.mendeley.com/c/5050810252/g/2058663/durr-2009-graminoid-survey-of-the-oak-ridge-reservation/
 ORNL,Carex,planispicata,,flat-spiked sedge ,http://www.mendeley.com/c/5050810252/g/2058663/durr-2009-graminoid-survey-of-the-oak-ridge-reservation/
 ORNL,Carex,plantaginea,,plantain-leaved sedge,http://www.mendeley.com/c/5050810252/g/2058663/durr-2009-graminoid-survey-of-the-oak-ridge-reservation/
@@ -11157,17 +11157,17 @@ TALL,Tetrodontium ,brownianum,,Little Georgia moss,http://www.mendeley.com/c/501
 TALL,Aesculus,parviflora,,Small-flowered buckeye,http://www.mendeley.com/c/5014516852/g/2058663/evans-2007-environmental-assessment---non-native-invasive-plant-species-control/
 TALL,Aster,georgianus,,Georgia aster,http://www.mendeley.com/c/5014516852/g/2058663/evans-2007-environmental-assessment---non-native-invasive-plant-species-control/
 TALL,Botrichium,jenmenii,,Alabama Grapefern,http://www.mendeley.com/c/5014516852/g/2058663/evans-2007-environmental-assessment---non-native-invasive-plant-species-control/
-TALL,Castilleja,kraliana,,Kral’s Indian paintbrush,http://www.mendeley.com/c/5014516852/g/2058663/evans-2007-environmental-assessment---non-native-invasive-plant-species-control/
+TALL,Castilleja,kraliana,,Kral's Indian paintbrush,http://www.mendeley.com/c/5014516852/g/2058663/evans-2007-environmental-assessment---non-native-invasive-plant-species-control/
 TALL,Colinsonia,verticillata,,Whorled horsebalm,http://www.mendeley.com/c/5014516852/g/2058663/evans-2007-environmental-assessment---non-native-invasive-plant-species-control/
 TALL,Fothergilla,major,,Large witchalder,http://www.mendeley.com/c/5014516852/g/2058663/evans-2007-environmental-assessment---non-native-invasive-plant-species-control/
 TALL,Helianthus,longifolius,,Longleaf sunflower,http://www.mendeley.com/c/5014516852/g/2058663/evans-2007-environmental-assessment---non-native-invasive-plant-species-control/
-TALL,Helianthus,smithii,,Smith’s sunflower,http://www.mendeley.com/c/5014516852/g/2058663/evans-2007-environmental-assessment---non-native-invasive-plant-species-control/
-TALL,Hexastylis,shuttlesworthii,var. harperi,Harper’s wild ginger,http://www.mendeley.com/c/5014516852/g/2058663/evans-2007-environmental-assessment---non-native-invasive-plant-species-control/
+TALL,Helianthus,smithii,,Smith's sunflower,http://www.mendeley.com/c/5014516852/g/2058663/evans-2007-environmental-assessment---non-native-invasive-plant-species-control/
+TALL,Hexastylis,shuttlesworthii,var. harperi,Harper's wild ginger,http://www.mendeley.com/c/5014516852/g/2058663/evans-2007-environmental-assessment---non-native-invasive-plant-species-control/
 TALL,Hymenocallis,caroliniana,,Carolina spider lily,http://www.mendeley.com/c/5014516852/g/2058663/evans-2007-environmental-assessment---non-native-invasive-plant-species-control/
 TALL,Jamesianthus,alabamaensis,,Alabama warbonnet,http://www.mendeley.com/c/5014516852/g/2058663/evans-2007-environmental-assessment---non-native-invasive-plant-species-control/
 TALL,Juglans,cinerea,,Butternut,http://www.mendeley.com/c/5014516852/g/2058663/evans-2007-environmental-assessment---non-native-invasive-plant-species-control/
-TALL,Lysimachia,fraseri,,Fraser’s yellow loosestrife,http://www.mendeley.com/c/5014516852/g/2058663/evans-2007-environmental-assessment---non-native-invasive-plant-species-control/
-TALL,Marshallia,trinervia,,Broadleaf Barbara’s buttons,http://www.mendeley.com/c/5014516852/g/2058663/evans-2007-environmental-assessment---non-native-invasive-plant-species-control/
+TALL,Lysimachia,fraseri,,Fraser's yellow loosestrife,http://www.mendeley.com/c/5014516852/g/2058663/evans-2007-environmental-assessment---non-native-invasive-plant-species-control/
+TALL,Marshallia,trinervia,,Broadleaf Barbara's buttons,http://www.mendeley.com/c/5014516852/g/2058663/evans-2007-environmental-assessment---non-native-invasive-plant-species-control/
 TALL,Neviusia,alabamensis,,Alabama snow-wreath,http://www.mendeley.com/c/5014516852/g/2058663/evans-2007-environmental-assessment---non-native-invasive-plant-species-control/
 TALL,Platanthera,integrilabia,,White fringeless orchid,http://www.mendeley.com/c/5014516852/g/2058663/evans-2007-environmental-assessment---non-native-invasive-plant-species-control/
 TALL,Robinia,viscosa,,Clammy locust,http://www.mendeley.com/c/5014516852/g/2058663/evans-2007-environmental-assessment---non-native-invasive-plant-species-control/
@@ -11175,11 +11175,11 @@ TALL,Rudbeckia,auriculata,,Eared coneflower,http://www.mendeley.com/c/5014516852
 TALL,Rudbeckia,triloba,var. pinnatiloba,Pinnate-lobed black-eyed Susan,http://www.mendeley.com/c/5014516852/g/2058663/evans-2007-environmental-assessment---non-native-invasive-plant-species-control/
 TALL,Sabatia,capitata,,Appalachian rose gentian,http://www.mendeley.com/c/5014516852/g/2058663/evans-2007-environmental-assessment---non-native-invasive-plant-species-control/
 TALL,Scutellaria,alabamensis,,Alabama skullcap,http://www.mendeley.com/c/5014516852/g/2058663/evans-2007-environmental-assessment---non-native-invasive-plant-species-control/
-TALL,Sedum,nevii,,Nevius’stonecrop,http://www.mendeley.com/c/5014516852/g/2058663/evans-2007-environmental-assessment---non-native-invasive-plant-species-control/
+TALL,Sedum,nevii,,Nevius'stonecrop,http://www.mendeley.com/c/5014516852/g/2058663/evans-2007-environmental-assessment---non-native-invasive-plant-species-control/
 TALL,Thalictrum,macrostylum,,Piedmont meadowrue,http://www.mendeley.com/c/5014516852/g/2058663/evans-2007-environmental-assessment---non-native-invasive-plant-species-control/
 TALL,Trillium,lancifolium,,Lanceleaf trillium,http://www.mendeley.com/c/5014516852/g/2058663/evans-2007-environmental-assessment---non-native-invasive-plant-species-control/
 TALL,Trillim,rugelii,,Southern nodding,http://www.mendeley.com/c/5014516852/g/2058663/evans-2007-environmental-assessment---non-native-invasive-plant-species-control/
-TALL,Marshallia,mohrii,,Mohr’s Barbara’s buttons,http://www.mendeley.com/c/5014516852/g/2058663/evans-2007-environmental-assessment---non-native-invasive-plant-species-control/
+TALL,Marshallia,mohrii,,Mohr's Barbara's buttons,http://www.mendeley.com/c/5014516852/g/2058663/evans-2007-environmental-assessment---non-native-invasive-plant-species-control/
 TALL,Clematis,socialis,,Alabama leather flower,http://www.mendeley.com/c/5014516852/g/2058663/evans-2007-environmental-assessment---non-native-invasive-plant-species-control/
 TALL,Ptilimnium,nodosum,,Harperella,http://www.mendeley.com/c/5014516852/g/2058663/evans-2007-environmental-assessment---non-native-invasive-plant-species-control/
 TALL,Sarracenia,oreophila,,Green pitcher plant,http://www.mendeley.com/c/5014516852/g/2058663/evans-2007-environmental-assessment---non-native-invasive-plant-species-control/
@@ -11450,7 +11450,7 @@ WOOD,Poa,pratensis,,Kentucky bluegrass,http://www.mendeley.com/c/5007912492/g/20
 WOOD,Agropyron,smithii,,western wheatgrass,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
 WOOD,Galium,boreale,,northern bedstraw,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
 WOOD,Cerastium,arvense,,chickweed,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
-WOOD,Artemisia ,ludoviciana,,white sage,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
+WOOD,Artemisia,ludoviciana,,white sage,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
 WOOD,Carex,pennsylvanica,,yellow sedge,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
 WOOD,Helianthus,rigidus,,stiff sunflower,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
 WOOD,Psoralea,argophylla,,silver-leaf scurf pea,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
@@ -11470,11 +11470,11 @@ WOOD,Carex,lanuginosa,,narrow-leafed sedge,http://www.mendeley.com/c/5007912492/
 WOOD,Hordeum,jubatum,,foxtail barley,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
 WOOD,Mentha,arvensis,,wild mint,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
 WOOD,Poa,palustris,,fowl bluegrass,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
-WOOD,Stachys ,palustris,,hedge nettle,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
+WOOD,Stachys,palustris,,hedge nettle,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
 WOOD,Carex,atherodes,,slough sedge,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
 WOOD,Scolochloa,festucacea,,whitetop,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
-WOOD,Typha ,latifolia,,common cattail,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
-WOOD,Typha ,glauca,,hybrid cattail,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
+WOOD,Typha,latifolia,,common cattail,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
+WOOD,Typha,glauca,,hybrid cattail,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
 WOOD,Scirpus,acutus,,hardstem bulrush,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
 WOOD,Scirpus,heterochaetus,,slender bulrush,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
 WOOD,Scirpus,validus,,softstem bulrush,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
