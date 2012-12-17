@@ -1270,7 +1270,7 @@ Pterobalaena minor groenlandica,Balaenoptera acutorostrata groenlandica
 Balaenoptera huttoni,Balaenoptera acutorostrata huttoni
 Rorqualus minor,Balaenoptera acutorostrata minor
 Sibbaldius mondinii,Balaenoptera acutorostrata mondinii
-Balænoptera rostrata,Balaenoptera acutorostrata rostrata
+Balaenoptera rostrata,Balaenoptera acutorostrata rostrata
 Balaenoptera acutorostrata bonaerensis,Balaenoptera bonaerensis
 Balaenoptera rostrata,Balaenoptera borealis
 Balaenoptera alba,Balaenoptera borealis alba
@@ -1583,7 +1583,7 @@ Brachyphylla minor,Brachyphylla cavernarum minor
 Brachyphylla cavernarum nana,Brachyphylla nana
 Brachyphylla pumila,Brachyphylla nana pumila
 Brachytarsomys albicauda villosa,Brachytarsomys villosa
-Ateles arachnoïdes,Brachyteles arachnoides
+Ateles arachnoides,Brachyteles arachnoides
 Brachyteles macrotarsus,Brachyteles arachnoides macrotarsus
 Eriodes tuberifer,Brachyteles arachnoides tuberifer
 Brachyteles arachnoides hypoxanthus,Brachyteles hypoxanthus
@@ -11756,7 +11756,7 @@ Vespertilio adversus,Myotis adversus
 Myotis muricola amboinensis,Myotis adversus amboinensis
 Myotis carimatae,Myotis adversus carimatae
 Myotis argentatus,Myotis albescens argentatus
-Vespertilio arsinoë,Myotis albescens arsinoe
+Vespertilio arsinoe,Myotis albescens arsinoe
 Vespertilio isidori,Myotis albescens isidori
 Vespertilio leucogaster,Myotis albescens leucogaster
 Vespertilio mundus,Myotis albescens mundus
@@ -12752,7 +12752,7 @@ Petalia parisii,Nycteris parisii
 Nycteris woodi benuensis,Nycteris parisii benuensis
 Petalia thebaica,Nycteris thebaica
 Petalia thebaica adana,Nycteris thebaica adana
-Plecotus æthiopicus,Nycteris thebaica aethiopicus
+Plecotus aethiopicus,Nycteris thebaica aethiopicus
 Nycteris affinis,Nycteris thebaica affinis
 Nycteris albiventer,Nycteris thebaica albiventer
 Nycteris albiventris,Nycteris thebaica albiventris
@@ -18772,7 +18772,7 @@ Coendou roberti,Sphiggurus spinosus roberti
 Coendou sericeus,Sphiggurus spinosus sericeus
 Coendou vestitus,Sphiggurus vestitus
 Coendou villosus,Sphiggurus villosus
-Spilocuscus krämeri,Spilocuscus kraemeri
+Spilocuscus kraemeri,Spilocuscus kraemeri
 Phalanger maculatus minor,Spilocuscus kraemeri
 Phalanger maculatus,Spilocuscus maculatus
 Cuscus brevicaudatus,Spilocuscus maculatus brevicaudatus
@@ -19056,7 +19056,7 @@ Suncus luzoniensis,Suncus murinus luzoniensis
 Suncus mauritiana,Suncus murinus mauritiana
 Suncus media,Suncus murinus media
 Suncus microtis,Suncus murinus microtis
-Pachyura müelleri,Suncus murinus mulleri
+Pachyura muelleri,Suncus murinus mulleri
 Suncus muschata,Suncus murinus muschata
 Suncus nemorivagus,Suncus murinus nemorivagus
 Pachyura occultidens,Suncus murinus occultidens
@@ -19096,20 +19096,20 @@ Rattus atchinus,Sundamys infraluteus atchinus
 Rattus infraluteus infraluteus,Sundamys infraluteus infraluteus
 Rattus maxi,Sundamys maxi
 Rattus muelleri,Sundamys muelleri
-Rattus mülleri balabagensis,Sundamys muelleri balabagensis
+Rattus muelleri balabagensis,Sundamys muelleri balabagensis
 Rattus balmasus,Sundamys muelleri balmasus
 Epimys borneanus,Sundamys muelleri borneanus
-Epimys mülleri campus,Sundamys muelleri campus
+Epimys muelleri campus,Sundamys muelleri campus
 Mus chombolis,Sundamys muelleri chombolis
 Epimys crassus,Sundamys muelleri crassus
-Rattus mülleri credulus,Sundamys muelleri credulus
+Rattus muelleri credulus,Sundamys muelleri credulus
 Rattus culionensis,Sundamys muelleri culionensis
 Mus domitor,Sundamys muelleri domitor
 Mus firmus,Sundamys muelleri firmus
-Mus mülleri foederis,Sundamys muelleri foederis
+Mus muelleri foederis,Sundamys muelleri foederis
 Mus integer,Sundamys muelleri integer
 Rattus mulleri mulleri,Sundamys muelleri muelleri
-Rattus mülleri otiosus,Sundamys muelleri otiosus
+Rattus muelleri otiosus,Sundamys muelleri otiosus
 Rattus pinatus,Sundamys muelleri pinatus
 Epimys pollens,Sundamys muelleri pollens
 Epimys potens,Sundamys muelleri potens
@@ -19120,7 +19120,7 @@ Rattus validus,Sundamys muelleri validus
 Mus validus,Sundamys muelleri validus
 Rattus victor,Sundamys muelleri victor
 Rattus virtus,Sundamys muelleri virtus
-Rattus mülleri waringensis,Sundamys muelleri waringensis
+Rattus muelleri waringensis,Sundamys muelleri waringensis
 Callosciurus brookei,Sundasciurus brookei
 Callosciurus davensis,Sundasciurus davensis
 Sciurus cagsi,Sundasciurus davensis cagsi
@@ -19188,7 +19188,7 @@ Sus celebensis amboinensis,Sus barbartus amboinensis
 Sus branti,Sus barbatus branti
 Sus gargantua,Sus barbatus gargantua
 Sus longirostris,Sus barbatus longirostris
-Sus oï,Sus barbatus oi
+Sus oi,Sus barbatus oi
 Sus verrucosus sumatranus,Sus barbatus sumatranus
 Sus verrucosus cebifrons,Sus cebifrons
 Neosus cebifrons,Sus cebifrons
