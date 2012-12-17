@@ -14,7 +14,7 @@ def get_csv_file(filename):
     datareader = csv.reader(datafile)
     data = []
     for row in datareader:
-        if row:
+        if row[0]:
             data.append(row)
     return data
 
@@ -27,12 +27,10 @@ def export_to_csv(data, filename):
 
 def import_taxonomy_files(taxonomy_files, datadir):
     """Import the existing taxonomy files and store them in a single table"""
-    #TODO Do we need to resolve the taxonomy in the taxonomy files?
     taxon_dict = dict()
     for taxon in taxonomy_files:
         data = np.genfromtxt(datadir + taxon, delimiter=',', dtype=None, names=True)
         for name, spp_id in data[['scientific_name', 'spp_id']]:
-            #name = tax_resolve(genus, species, subsp)
             taxon_dict[name] = spp_id
     return taxon_dict
 
@@ -54,6 +52,17 @@ def get_genus_sp_subsp(name):
     else:
         return names + ['']
 
+def get_data_from_row(row):
+    genus, sp, subsp, state, fed_status, state_status, notes, source = row 
+    name = tax_resolve(genus, sp, subsp)
+    spp_id = spp_ids.get(name, None)
+    if fed_status:
+        data_row = [fed_status, state_status, notes, '', 'http://www.mendeley.com/c/5405261894/g/2058663/listings-and-occurrences-for-each-state/', '']
+    elif state_status: 
+        data_row = [fed_status, state_status, '', notes, '', source]
+    else:
+        data_row = [fed_status, '', '', notes, '', source]
+    return spp_id, state, data_row
     
 datadir = '../data/'
 taxonomy_files = ['beetles_clean.csv', 'ebird_tax_clean.csv', 'mammals.csv',
@@ -61,23 +70,35 @@ taxonomy_files = ['beetles_clean.csv', 'ebird_tax_clean.csv', 'mammals.csv',
 
 status_table = get_csv_file(datadir + 'status.csv') #using csv due to commas in comment fields
 status_table = remove_spaces(status_table[:])
-header = status_table[0]
+header_notentered = status_table[0]
 del(status_table[0])
 spp_ids = import_taxonomy_files(taxonomy_files, datadir)
-status_table_clean = []
+status_table_dict = {}
+sub_dict_fields = ['fed_status', 'state_status', 'fed_notes', 'state_notes',
+                   'fed_source', 'state_source']
 status_table_notadded = []
 for row in status_table:
-    genus, sp, subsp, state, fed_status, st_status, notes, source = row
-    name = tax_resolve(genus, sp, subsp)
-    spp_id = spp_ids.get(name, None)
+    spp_id, state, data_row = get_data_from_row(row)
     if spp_id:
-        new_row = [spp_id] + get_genus_sp_subsp(name) + row[3:]
-        status_table_clean.append(new_row)
+        if (spp_id, state) in status_table_dict:
+            current_data_row = status_table_dict[(spp_id, state)]
+            for i, value in enumerate(current_data_row):
+                if not value:
+                    current_data_row[i] = data_row[i]
+            data_row = current_data_row
+        status_table_dict[(spp_id, state)] = data_row
     else:
         status_table_notadded.append(row)
+
+status_table_clean = []
+for key in status_table_dict:
+    spp_id, state = key
+    fed_status, state_status, fed_notes, state_notes, fed_source, state_source = status_table_dict[key]
+    status_table_clean.append([spp_id, state, fed_status, state_status,
+                               fed_notes, state_notes, fed_source, state_source])
     
-status_table_notadded.insert(0, header)
+status_table_notadded.insert(0, header_notentered)
 export_to_csv(status_table_notadded, '../data/status_notentered.csv')
-header.insert(0, 'spp_id')
-status_table_clean.insert(0, header)
+status_table_clean.insert(0, ['spp_id', 'state', 'fed_status', 'state_status',
+                              'fed_notes', 'state_notes', 'fed_source', 'state_source'])
 export_to_csv(status_table_clean, '../data/status_clean.csv')
