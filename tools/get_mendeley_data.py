@@ -63,6 +63,29 @@ def get_mendeley_data(url, email=None, password=None):
     
     return data_doc
     
+def get_data_with_parsed_tags(data_doc):
+    """Parse spatial scale and spatial extent data out of the Mendeley tags"""
+    tags = data_doc['tags'].split(',')
+    
+    if ('off site' in tags) or ('off-site' in tags):
+        spat_scale = 'offsite'
+    elif ('super site' in tags) or ('supersite' in tags):
+        spat_scale = 'supersite'
+    elif ('state' in tags):
+        spat_scale = 'state'
+    elif ('region' in tags) or ('regional' in tags):
+        spat_scale = 'regional'
+    elif ('site' in tags):
+        spat_scale = 'site'
+    else:
+        #Spatial scale tags were not always included for site data when they should have been
+        spat_scale = 'site'
+    data_doc['spat_scale'] = spat_scale
+    
+    for tag in tags:
+        if 'spatexent=' in tag:
+            data_doc['spat_exent'] = tag.split('=')[-1]
+    return data_doc
     
 def get_source_data(url, email=None, password=None):
     ''' resource_id  varchar(255)    NOT NULL,
@@ -80,6 +103,7 @@ def get_source_data(url, email=None, password=None):
         url          varchar(255),
         tags         varchar(255)'''
     data_doc = get_mendeley_data(url, email, password)
+    data_doc = get_data_with_parsed_tags(data_doc)
     
     source_data = []
     for key in ('', 'type', '', '', 'isbn', '', 'title', 'published_in', 
