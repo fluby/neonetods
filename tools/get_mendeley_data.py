@@ -83,7 +83,7 @@ def get_data_with_parsed_tags(data_doc):
     data_doc['spat_scale'] = spat_scale
     
     for tag in tags:
-        if 'spatexent=' in tag:
+        if 'spatextent=' in tag:
             data_doc['spat_exent'] = tag.split('=')[-1]
     return data_doc
     
