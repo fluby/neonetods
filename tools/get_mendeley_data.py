@@ -84,7 +84,7 @@ def get_data_with_parsed_tags(data_doc):
     
     for tag in tags:
         if 'spatextent=' in tag:
-            data_doc['spat_exent'] = tag.split('=')[-1]
+            data_doc['spat_extent'] = tag.split('=')[-1]
     return data_doc
     
 def get_source_data(url, email=None, password=None):
