@@ -183,8 +183,6 @@ JERC,Psorophora,mathesoni,,,http://www.mendeley.com/research/adult-mosquito-ecol
 JERC,Toxorhynchites,rutilus,septentrionalis,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/
 JERC,Uranotaenia,lowii,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/
 JERC,Uranotaenia,sapphirina,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/
-=======,,,,,
-site,genus,sp,subsp,common_name,source
 BONA,Phytophaga,carophaga,,Gall Midge,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
 BONA,Agrilus,anxius,,Bronze Birch Borer,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
 BONA,Melanophila,sp,,Spruce Borer,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
@@ -417,7 +415,7 @@ PLUM,Ochlerotatus ,grossbecki,,,http://www.mendeley.com/library/showrecent/docum
 PLUM,Ochlerotatus,hendersoni,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
 PLUM,Ochlerotatus , implicatus,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
 PLUM,Ochlerotatus ,intrudens,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-PLUM,Ochlerotatus,japonicus japonicus,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Ochlerotatus,japonicus,japonicus,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
 PLUM,Ochlerotatus ,provocans,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
 PLUM,Ochlerotatus , punctor,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
 PLUM,Ochlerotatus ,sollicitans,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
@@ -430,7 +428,7 @@ PLUM,Orthopodomyia , signifera,,,http://www.mendeley.com/library/showrecent/docu
 PLUM,Psorophora ,ciliata,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
 PLUM,Psorophora , columbiae,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
 PLUM,Psorophora,ferox,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-PLUM,Toxorhynchities ,rutilus septentrionalis,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Toxorhynchities ,rutilus,septentrionalis,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
 PLUM,Uranotaenia,sapphirina,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
 PLUM,Wyeomyis ,smithii,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
 PLUM,Aedes,cinereus ,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
