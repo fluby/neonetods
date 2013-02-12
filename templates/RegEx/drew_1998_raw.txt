@@ -1,3 +1,25 @@
+number of species occurrencesare mesic ripar
+(284). Xeric sand live oak depressions (21), an
+species. A small number of species are associa
+taxa are introduced (9%of total), and as expe
+one fourth of the introduced taxa occur in mes
+disperses seed of ruderal taxa as well as crea
+Few (<3%) introduced taxa occur in longleaf
+      The number of vascular plant species fo
+other comprehensive floristic studies. Thorne (
+which includes the Red Hills physiographic
+encompasses an area (1,300,000 ha) more tha
+lists 2,359 taxa for the entire Panhandle of
+senting an area of much greater physiograph
+on Ichauway relative to Thorne's (1954) flora
+and Clewell's (1985) flora of the Panhandle of
+use history and past management practices o
+non-native plant species. The representation
+presence of numerous rare plants on Ichauw
+of regional biodiversity which, with continuat
+model for restoration of the longleaf pine ecos
+
+                                               ANNOTATE
                    PTERIDOPHYTES
                      ASPIDIACEAE
 Onoclea sensibilis L.-K-2488;   U; 1; P; (*)
@@ -31,7 +53,7 @@ Thelypteris quadrangularis (Fee) Schelpe var. versicolor
 Woodwardia areolata (L.) Moore-K-3416; 0; 1,8; P; (*)
 
                     SCHIZAEACEAE
-Lygodium japonicum    (Thunb.) Sw.-K-2015;        U; 1,10; P;
+Lygodiumjaponicum    (Thunb.) Sw.-K-2015;        U; 1,10; P;
        (THORNE-7578)
 
 
@@ -87,7 +109,7 @@ Carex gigantea Rudge-K-2357;          0; 1,8; P; (THORNE-
 Carex glaucescens Ell.-K-3064; 0; 1,7,8; P; (THORNE-
         1595)
 Carex intumescens Rudge-K-1990; 0; 1,8; P; (*)
-Carex joorii Bailey-K-3109; 0; 1,8; P; (*)
+Carexjoorii Bailey-K-3109; 0; 1,8; P; (*)
 Carex louisianica Bailey-K-2964; U; 1; P; (*)
 Carex physorhyncha Liebm.-K-2816; U; 1; P; (*)
 Carex reniformis (Bailey) Small-G-11,609; U; 1; P; (*)
@@ -111,7 +133,7 @@ Rhynchospora perplexa Britt. ex Small -K-3116; 0; 2,7; P;
         (THORNE-4889)
 Rhynchospora pleiantha (Kukenth.) Gale-K-3476; U; 7;
         P; (*)
-Rhynchospora plumosa Ell.-K-2255; U; 2; P; (THORNE-
+Rhync,"ospora plumosa Ell.-K-2255; U; 2; P; (THORNE-
         4835)
 Rhynchospora pusilla Chapm.-K-3503; 0; 7; P; (*)
 Rhynchospora rariflora (Michx.) Ell.-K-2611; U; 7,8; P;
@@ -962,6 +984,57 @@ Pilea pumila (L.) Gray-K-2686; 0; 1; A; (*)
                    VALERIANACEAE
 Valerianella radiata (L.) Dufr.-K-2948;   U; 10; A; (*)
 
+                                   ACKNOW
+      Funding was provided by the J. W. Jo
+Woodruff Foundation. We thank Kim Coffey
+assistance with specimen preparation, Jean B
+Helton for assistance with preparationof the c
+and John B. Nelson for constructive reviews
+                                                  LITERAT
+ATKINSON, J., J. BROCK,and R. SMITH. 1996. Op
+        Longleaf Alliance annual meeting. Mobile, A
+BARTRAM, W. 1791. Travels through North and S
+     Publications Reprint, New York, 1955.
+BECK, B.F. and D.D. ARDEN.      1983. Hydrogeology
+     Southwestern College, Americus.
+BRUECKHEIMER, W.R. 1979. The quail plantations
+     165. In: Proceedings of the 16th Tall Timbers
+     Tallahassee, Florida.
+CHRISTENSEN, N.L. 1993. Longleaf pine vegetation
+     a preliminary classification. p. 205-214. In:
+     ference. Tall Timbers Research Station, Tall
+CLEWELL, A.F. 1985. Guide to the vascular plants
+     Tallahassee.
+CLEWELL, A.F. 1986. Natural setting and vegetation
+     Army Corps of Engineers, Mobile, Alabama.
+CLEWELL, A.F. 1989. Natural history of wiregrass
+     223-233.
+DELCOURT, H.R. and P.A. DELCOURT. 1985. Quate
+
+
+ 22
+rian forests (391) and wet-mesic longleaf pine forest
+ nd mesic live oak depressions (32) have the fewest
+  ated exclusively with old home sites. Ninety-three
+  ected, most (85%)occur in disturbed areas. About
+ sic riparian forests where surface flow presumably
+  ates bare soil for germination by scouring action.
+  pine stands or wetlands.
+ or the study area is notably high in comparison to
+  (1954) lists 1,747 species for southwestern Georgia
+ c region in addition to the Dougherty Plain, and
+an 100 times larger than Ichauway. Clewell (1985)
+   Florida (approximately 3,860,000 ha) also repre-
+ hic variability. The low number of introduced taxa
+  a of southwestern Georgia (12% introduced taxa)
+ f Florida (16%introduced taxa), suggests that land
+  of Ichauway have discouraged the introduction of
+ n of relatively undisturbed regional flora and the
+way underscore the importance of the site in terms
+  tion of the frequent prescribed fire can serve as a
+  system.
+
+ EDCHECKLIST
                           GYMNOSPERMS
                           CUPRESSACEAE
        Juniperus virginiana   L.-K-2693;   0; 1; P; (THORNE-
@@ -1356,7 +1429,7 @@ Conoclinium coelestinum (L.) DC.-K-2484; 0; 1,10; P;
 Conyza bonariensis (L.) Cronq.-K-3497; U; 10; A; (*)
 Conyza canadensis (L.) Cronq. var. pusilla (Nutt.)
         Cronq.-K-2450; 0; 10; A; (*)
-Conyza canadensis (L.) Cronq. var. canadensis -K-3029;
+Conyza canadensis (L.) Cronq. var Canadensis-K-3029;
         0; 9,10,11; A; (THORNE-5439)
 Coreopsis lanceolata L.-K-1981; C; 1,2,3,9; P; (*)
 Coreopsis major Walt.-K-3016; 0; 3; P; (*)
@@ -1839,7 +1912,8 @@ Seymeria cassioides (Walt.) Blake-K-3173; C; 3,4,9; A;
       (THORNE-4860a)
 Seymeria pectinata Pursh-K-2533; 0; 3,4; A; (UGA)
 Veronica arvensis L.-K-2824; C; 10; A; (*)
-Veronica peregrina L.-K-2973; U; 10; A; (THORNE-3577)
+Veronica
+       peregrina L.-K-2973; U; 10; A; (THORNE-3577)
 
                      SOLANACEAE
 Physalis angulata L.-K-3310; 0; 3,4,9,10; A; (*)
@@ -1917,3 +1991,33 @@ Ulmus americana L.-K-2921; 0; 1; P; (THORNE-2391)
               1864)
       Vitis rotundifolia Michx.-K-2934; C; 1,10; P; (THORNE-
               1966)
+
+WLEDGMENTS
+ones Ecological Research Center and the Robert
+y, Mary James, Amy Miller, and Jeanine Ott for
+Brock for graphics support, Kevin Hiers and Carol
+checklist, and Drs. John E. Averett, Michael Moore,
+ of the manuscript.
+TURE CITED
+ perational longleaf pine management at Ichauway. The
+Alabama.
+ South Carolina, Georgia, East and West Florida. Dover
+
+y and Geomorphology of the Dougherty Plain. Georgia
+
+ of the Thomasville-Tallahassee-Albany  regions. p. 141-
+ Fire Ecology Conference. Tall Timbers Research Station,
+
+  of the southern Atlantic and eastern Gulf coast regions:
+ Proceedings of the 18th Tall Timbers Fire Ecology Con-
+lahassee, Florida.
+  of the Florida panhandle. University Presses of Florida,
+
+n of the Florida Panhandle. COESAM/PDEI-86/001, U.S.
+
+s (Aristida stricta Michx., Gramineae). Nat. Areas J. 9:
+
+ernary palynology and vegetational history of the south-
+
+
+                                   CASTANEA VOLUME63
