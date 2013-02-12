@@ -1,190 +1,189 @@
-<<<<<<< HEAD
-site,genus,sp,subsp,common_name,source,,,
-BONA,Phytophaga,carophaga,,Gall Midge,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Agrilus,anxius,,Bronze Birch Borer,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Melanophila,sp,,Spruce Borer,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Monochamus,sp,,Long-horned Sawyer,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Chrysomela,sp,,Leaf Beetle,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Cryphalus,ruficollis,,Bark Beetle,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Crypturgus,borealis,,Bark Beetle,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Dendroctonus,punctatus,,Allegheny Spruce Beetle,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Dendroctonus,rufipennis,,Spruce Beetle,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Dendroctonus,simplex,,Eastern Larch Beetle,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Dryocoetes,affaber,,Bark Beetle,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Dryocoetes,autographus,,Bark Beetle,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Ips,amiskwiensis,,Bark Beetle,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Ips,borealis,,Bark Beetle,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Ips,pertubatus,,Bark Beetle,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Ips,semirostris,,Bark Beetle,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Orthotomicus,caelatus,,Bark Beetle,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Phloeosinus,alaskanus,,Bark Beetle,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Phloeotribus,puberulus,,Bark Beetle,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Pityophthorus,sp,,Bark Beetle,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Polygraphus,convexifrons,,Bark Beetle,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Polygraphus,rufipennis,,Bark Beetle,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Scierus,annectens,,Bark Beetle,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Scolytus,piceae,,,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Trypodendron,lineatum,,Striped Ambrosia Beetle,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Hylemyia,sp,,,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Kaltenbachiola,canadensis,,Spruce Bract Midge,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Kaltenbachiola,rachiphaga,,Spruce Cone-axis Midge,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Rhabdophaga,sp,,Spruce Bud Midge,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Rhabdophaga,strobiloides,,"Pine Cone Aphid, Willow Cone Gall",http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Adelges,cooleyi,,CooleySpruce Gall Aphid ,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Cinara,sp,,Twig aphid,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Eriosoma,sp,,Woolyaphid,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Mordwilkoja,sp,,Gallaphid,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Pemphigus,sp,,Gallaphid,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Pristiphora,erichsonii,,Larch Sawfly,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Camponotus,herculeanus,,Carpenter Ant,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Megastigmus,piceae,,Spruce Seed Chalcid,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Urocerus,sp,,Sawfly,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Sorex,arcticus,,Arctic Shrew,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Sorex,cinereus,,Masked Shrew,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Sorex,hoyi,,Pygmy Shrew,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Sorex,obscurus,,Dusky Shrew,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Lepus,americanus,,Snowshoe Hare,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Argyresthia,pygmaeella,,Leafminer,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Coleophora,laricella,,Larch Casebearer,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Coleophora,serratella,,Birch Casebearer,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Anacampsis,fragariella,,Strawbery Crown Miner,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Hydriomena,furcata,,,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Hydriomena,nubilofasciata,,,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Rheumaptera,hastata,,Spear-marked Black Moth,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Micrurapterx,salicifoliella,,,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Phyllocnistis,sp,,Leafminer,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Phyllonorycter,ontario,,,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Orgyia,antigua,,,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Lyonetia,sp,,,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Orthosia,hibisci,,,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Nymphalis,antiopa,,,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Depressariodes,ciniflonella,,,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Acleris,calgnosana,,,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Archips,sp,,Leaf Roller,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Choristoneura,conflictana,,Large Aspen Tortrix,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Compsclechia,sp,,,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Compsolechia,sp,,Budworm,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Epinotia,solandriana,,,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Epinotia,sp,,Leafroller,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Exaeretia,ciniflonella,,Leafroller,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Laspeyresia,youngana,,Spruce Seedworm,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-BONA,Zeiraphera,sp,,Larch Budworm,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/,,,
-OSBS,Aedes,Aegypti,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-OSBS,Aedes ,albopictus,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-OSBS,Aedes,atlanticus,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-OSBS,Aedes,c canadensis,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-OSBS,Aedes,dupreei,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-OSBS,Aedes,fulvus pallens,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-OSBS,Aedes,infirmatus,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-OSBS,Aedes,mithcellae,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-OSBS,Aedes,sollicitans,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-OSBS,Aedes ,sticticus,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-OSBS,Aedes,taeniorhynchus,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-OSBS,Aedes,Triseriatus,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-OSBS,Aedes,vexans,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-OSBS,Anopheles,atropos,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-OSBS,Anopheles,barberi,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-OSBS,Anopheles,crucians,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-OSBS,Anopheles,diluvialis,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-OSBS,Anopheles,perplexens,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-OSBS,Anopheles,punctipennis,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-OSBS,Anopheles,quadrimaculatus,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-OSBS,Anopheles,smaragdinus,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-OSBS,Anopheles,walkeri,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-OSBS,Coquillettidia,perturbans,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-OSBS,Culex,erraticus,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-OSBS,Culex,nigripalpus,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-OSBS,Culex,peccator,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-OSBS,Culex,quinquefasciatus,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-OSBS,Culex,restuans,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-OSBS,Culex,salinarius,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-OSBS,Culex,territans,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-OSBS,Culiseta,inornata,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-OSBS,Culiseta,melanura,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-OSBS,Mansonia,dyari,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-OSBS,Mansonia,titillans,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-OSBS,Orthopidomyia,signifera,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-OSBS,Psorophora,ciliata,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-OSBS,Psorophora,columbiae,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-OSBS,Psorophora,cyanescens,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-OSBS,Psorophora,ferox,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-OSBS,Psorophora,horrida,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-OSBS,Psorophora,howardii,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-OSBS,Toxorhynchites,rutilus,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-OSBS,Uranotaenia,lowii,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-OSBS,Uranotaenia,sapphirina,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-DSNY,Aedes,Aegypti,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-DSNY,Aedes ,albopictus,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-DSNY,Aedes,atlanticus,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-DSNY,Aedes,infirmatus,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-DSNY,Aedes,mithcellae,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-DSNY,Aedes,sollicitans,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-DSNY,Aedes,taeniorhynchus,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-DSNY,Aedes,Triseriatus,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-DSNY,Aedes,vexans,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-DSNY,Anopheles,atropos,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-DSNY,Anopheles,crucians,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-DSNY,Anopheles,quadrimaculatus,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-DSNY,Anopheles,walkeri,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-DSNY,Coquillettidia,perturbans,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-DSNY,Culex,erraticus,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-DSNY,Culex,nigripalpus,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-DSNY,Culex,pilosus,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-DSNY,Culex,quinquefasciatus,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-DSNY,Culex,restuans,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-DSNY,Culex,salinarius,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-DSNY,Culex,territans,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-DSNY,Culiseta,inornata,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-DSNY,Culiseta,melanura,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-DSNY,Mansonia,dyari,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-DSNY,Mansonia,titillans,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-DSNY,Orthopidomyia,signifera,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-DSNY,Psorophora,ciliata,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-DSNY,Psorophora,columbiae,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-DSNY,Psorophora,howardii,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-DSNY,Uranotaenia,lowii,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-DSNY,Uranotaenia,sapphirina,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-DSNY,Wyeomyia,vanduzeei,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/,,,
-JERC,Cicindela,gratiosa,,,http://www.mendeley.com/c/5518816134/g/2058663/hoback-2001-tiger-beetles-of-baker-county-georgia/,,,
-JERC,Cicindela,punctulata,,,http://www.mendeley.com/c/5518816134/g/2058663/hoback-2001-tiger-beetles-of-baker-county-georgia/,,,
-JERC,Aedes,aegypti,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/,,,
-JERC,Aedes,albopictus,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/,,,
-JERC,Aedes,vexans,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/,,,
-JERC,Anopheles,crucians,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/,,,
-JERC,Anopheles,punctipennis,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/,,,
-JERC,Anopheles,quadrimaculatus,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/,,,
-JERC,Coquellitidia,perturbans,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/,,,
-JERC,Culex,coronator,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/,,,
-JERC,Culex,erraticus,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/,,,
-JERC,Culex,nigripalpus,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/,,,
-JERC,Culex,peccator,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/,,,
-JERC,Culex,pilosus,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/,,,
-JERC,Culex,quinquefasciatus,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/,,,
-JERC,Culex,restuans,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/,,,
-JERC,Culex,salinarius,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/,,,
-JERC,Culex,territans,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/,,,
-JERC,Culiseta,inornata,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/,,,
-JERC,Culiseta,melanura,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/,,, 
-JERC,Ochlerotatus,atlanticus,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/,,,
-JERC,Ochlerotatus,canadensis,canadensis,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/,,,
-JERC,Ochlerotatus,fulvus,pallens,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/,,,
-JERC,Ochlerotatus,infirmatus,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/,,,
-JERC,Ochlerotatus,mitchellae,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/,,,
-JERC,Ochlerotatus,sticticus,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/,,,
-JERC,Ochlerotatus,japonicus,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/,,,
-JERC,Ochlerotatus,thibaulti,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/,,,
-JERC,Ochlerotatus,triseriatus,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/,,,
-JERC,Orthopodomyia,signifera,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/,,,
-JERC,Psorophora,ciliata,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/,,,
-JERC,Psorophora,columbiae,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/,,,
-JERC,Psorophora,ferox,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/,,,
-JERC,Psorophora,cyanescens,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/,,,
-JERC,Psorophora,howardii,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/,,,
-JERC,Psorophora,mathesoni,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/,,,
-JERC,Toxorhynchites,rutilus,septentrionalis,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/,,,
-JERC,Uranotaenia,lowii,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/,,,
-JERC,Uranotaenia,sapphirina,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/,,,
-=======
+site,genus,sp,subsp,common_name,source
+BONA,Phytophaga,carophaga,,Gall Midge,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Agrilus,anxius,,Bronze Birch Borer,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Melanophila,sp,,Spruce Borer,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Monochamus,sp,,Long-horned Sawyer,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Chrysomela,sp,,Leaf Beetle,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Cryphalus,ruficollis,,Bark Beetle,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Crypturgus,borealis,,Bark Beetle,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Dendroctonus,punctatus,,Allegheny Spruce Beetle,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Dendroctonus,rufipennis,,Spruce Beetle,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Dendroctonus,simplex,,Eastern Larch Beetle,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Dryocoetes,affaber,,Bark Beetle,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Dryocoetes,autographus,,Bark Beetle,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Ips,amiskwiensis,,Bark Beetle,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Ips,borealis,,Bark Beetle,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Ips,pertubatus,,Bark Beetle,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Ips,semirostris,,Bark Beetle,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Orthotomicus,caelatus,,Bark Beetle,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Phloeosinus,alaskanus,,Bark Beetle,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Phloeotribus,puberulus,,Bark Beetle,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Pityophthorus,sp,,Bark Beetle,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Polygraphus,convexifrons,,Bark Beetle,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Polygraphus,rufipennis,,Bark Beetle,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Scierus,annectens,,Bark Beetle,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Scolytus,piceae,,,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Trypodendron,lineatum,,Striped Ambrosia Beetle,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Hylemyia,sp,,,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Kaltenbachiola,canadensis,,Spruce Bract Midge,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Kaltenbachiola,rachiphaga,,Spruce Cone-axis Midge,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Rhabdophaga,sp,,Spruce Bud Midge,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Rhabdophaga,strobiloides,,"Pine Cone Aphid, Willow Cone Gall",http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Adelges,cooleyi,,CooleySpruce Gall Aphid ,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Cinara,sp,,Twig aphid,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Eriosoma,sp,,Woolyaphid,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Mordwilkoja,sp,,Gallaphid,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Pemphigus,sp,,Gallaphid,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Pristiphora,erichsonii,,Larch Sawfly,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Camponotus,herculeanus,,Carpenter Ant,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Megastigmus,piceae,,Spruce Seed Chalcid,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Urocerus,sp,,Sawfly,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Sorex,arcticus,,Arctic Shrew,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Sorex,cinereus,,Masked Shrew,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Sorex,hoyi,,Pygmy Shrew,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Sorex,obscurus,,Dusky Shrew,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Lepus,americanus,,Snowshoe Hare,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Argyresthia,pygmaeella,,Leafminer,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Coleophora,laricella,,Larch Casebearer,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Coleophora,serratella,,Birch Casebearer,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Anacampsis,fragariella,,Strawbery Crown Miner,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Hydriomena,furcata,,,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Hydriomena,nubilofasciata,,,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Rheumaptera,hastata,,Spear-marked Black Moth,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Micrurapterx,salicifoliella,,,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Phyllocnistis,sp,,Leafminer,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Phyllonorycter,ontario,,,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Orgyia,antigua,,,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Lyonetia,sp,,,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Orthosia,hibisci,,,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Nymphalis,antiopa,,,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Depressariodes,ciniflonella,,,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Acleris,calgnosana,,,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Archips,sp,,Leaf Roller,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Choristoneura,conflictana,,Large Aspen Tortrix,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Compsclechia,sp,,,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Compsolechia,sp,,Budworm,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Epinotia,solandriana,,,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Epinotia,sp,,Leafroller,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Exaeretia,ciniflonella,,Leafroller,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Laspeyresia,youngana,,Spruce Seedworm,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Zeiraphera,sp,,Larch Budworm,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+OSBS,Aedes,Aegypti,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+OSBS,Aedes ,albopictus,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+OSBS,Aedes,atlanticus,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+OSBS,Aedes,c canadensis,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+OSBS,Aedes,dupreei,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+OSBS,Aedes,fulvus pallens,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+OSBS,Aedes,infirmatus,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+OSBS,Aedes,mithcellae,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+OSBS,Aedes,sollicitans,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+OSBS,Aedes ,sticticus,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+OSBS,Aedes,taeniorhynchus,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+OSBS,Aedes,Triseriatus,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+OSBS,Aedes,vexans,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+OSBS,Anopheles,atropos,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+OSBS,Anopheles,barberi,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+OSBS,Anopheles,crucians,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+OSBS,Anopheles,diluvialis,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+OSBS,Anopheles,perplexens,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+OSBS,Anopheles,punctipennis,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+OSBS,Anopheles,quadrimaculatus,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+OSBS,Anopheles,smaragdinus,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+OSBS,Anopheles,walkeri,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+OSBS,Coquillettidia,perturbans,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+OSBS,Culex,erraticus,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+OSBS,Culex,nigripalpus,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+OSBS,Culex,peccator,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+OSBS,Culex,quinquefasciatus,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+OSBS,Culex,restuans,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+OSBS,Culex,salinarius,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+OSBS,Culex,territans,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+OSBS,Culiseta,inornata,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+OSBS,Culiseta,melanura,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+OSBS,Mansonia,dyari,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+OSBS,Mansonia,titillans,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+OSBS,Orthopidomyia,signifera,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+OSBS,Psorophora,ciliata,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+OSBS,Psorophora,columbiae,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+OSBS,Psorophora,cyanescens,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+OSBS,Psorophora,ferox,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+OSBS,Psorophora,horrida,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+OSBS,Psorophora,howardii,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+OSBS,Toxorhynchites,rutilus,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+OSBS,Uranotaenia,lowii,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+OSBS,Uranotaenia,sapphirina,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+DSNY,Aedes,Aegypti,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+DSNY,Aedes ,albopictus,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+DSNY,Aedes,atlanticus,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+DSNY,Aedes,infirmatus,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+DSNY,Aedes,mithcellae,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+DSNY,Aedes,sollicitans,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+DSNY,Aedes,taeniorhynchus,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+DSNY,Aedes,Triseriatus,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+DSNY,Aedes,vexans,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+DSNY,Anopheles,atropos,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+DSNY,Anopheles,crucians,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+DSNY,Anopheles,quadrimaculatus,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+DSNY,Anopheles,walkeri,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+DSNY,Coquillettidia,perturbans,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+DSNY,Culex,erraticus,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+DSNY,Culex,nigripalpus,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+DSNY,Culex,pilosus,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+DSNY,Culex,quinquefasciatus,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+DSNY,Culex,restuans,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+DSNY,Culex,salinarius,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+DSNY,Culex,territans,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+DSNY,Culiseta,inornata,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+DSNY,Culiseta,melanura,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+DSNY,Mansonia,dyari,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+DSNY,Mansonia,titillans,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+DSNY,Orthopidomyia,signifera,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+DSNY,Psorophora,ciliata,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+DSNY,Psorophora,columbiae,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+DSNY,Psorophora,howardii,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+DSNY,Uranotaenia,lowii,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+DSNY,Uranotaenia,sapphirina,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+DSNY,Wyeomyia,vanduzeei,,,http://www.mendeley.com/research/mosquito-information-website-mosquitoes-of-florida-florida-mosquito-database/
+JERC,Cicindela,gratiosa,,,http://www.mendeley.com/c/5518816134/g/2058663/hoback-2001-tiger-beetles-of-baker-county-georgia/
+JERC,Cicindela,punctulata,,,http://www.mendeley.com/c/5518816134/g/2058663/hoback-2001-tiger-beetles-of-baker-county-georgia/
+JERC,Aedes,aegypti,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/
+JERC,Aedes,albopictus,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/
+JERC,Aedes,vexans,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/
+JERC,Anopheles,crucians,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/
+JERC,Anopheles,punctipennis,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/
+JERC,Anopheles,quadrimaculatus,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/
+JERC,Coquellitidia,perturbans,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/
+JERC,Culex,coronator,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/
+JERC,Culex,erraticus,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/
+JERC,Culex,nigripalpus,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/
+JERC,Culex,peccator,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/
+JERC,Culex,pilosus,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/
+JERC,Culex,quinquefasciatus,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/
+JERC,Culex,restuans,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/
+JERC,Culex,salinarius,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/
+JERC,Culex,territans,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/
+JERC,Culiseta,inornata,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/
+JERC,Culiseta,melanura,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/
+JERC,Ochlerotatus,atlanticus,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/
+JERC,Ochlerotatus,canadensis,canadensis,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/
+JERC,Ochlerotatus,fulvus,pallens,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/
+JERC,Ochlerotatus,infirmatus,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/
+JERC,Ochlerotatus,mitchellae,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/
+JERC,Ochlerotatus,sticticus,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/
+JERC,Ochlerotatus,japonicus,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/
+JERC,Ochlerotatus,thibaulti,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/
+JERC,Ochlerotatus,triseriatus,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/
+JERC,Orthopodomyia,signifera,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/
+JERC,Psorophora,ciliata,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/
+JERC,Psorophora,columbiae,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/
+JERC,Psorophora,ferox,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/
+JERC,Psorophora,cyanescens,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/
+JERC,Psorophora,howardii,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/
+JERC,Psorophora,mathesoni,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/
+JERC,Toxorhynchites,rutilus,septentrionalis,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/
+JERC,Uranotaenia,lowii,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/
+JERC,Uranotaenia,sapphirina,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/
+=======,,,,,
 site,genus,sp,subsp,common_name,source
 BONA,Phytophaga,carophaga,,Gall Midge,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
 BONA,Agrilus,anxius,,Bronze Birch Borer,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
@@ -339,53 +338,101 @@ JERC,Culex,territans,,,http://www.mendeley.com/research/adult-mosquito-ecology-i
 JERC,Aedes,vexans,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/
 JERC,Culex,coronator,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/
 JERC,Ochlerotatus,japonicus,,,http://www.mendeley.com/research/adult-mosquito-ecology-in-southwestern-georgia-1/
-HARV; PLUM,Anopheles,crucians,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Anopheles , earlei,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Anopheles,punctipennis,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Anopheles,quadrimaculatus,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Anopheles ,walkeri,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Coquillettidia,perturbans,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Culex,pipiens,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Culex,restuans,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Culex,salinarius,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Culex,territans ,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Culiseta,impatiens,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Culiseta ,inornata,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Culiseta,melanura,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Culiseta ,minnesotae,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Culiseta ,morsitans,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Ochlerotatus,abserratus,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Ochlerotatus,atropalpus,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Ochlerotatus ,aurifer,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Ochlerotatus,canadensis,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Ochlerotatus ,cantator ,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Ochlerotatus ,communis,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Ochlerotatus , decticus,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Ochlerotatus ,diantaeus,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Ochlerotatus ,dorsalis,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Ochlerotatus,excrucians,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Ochlerotatus ,fitchii,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Ochlerotatus ,grossbecki,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Ochlerotatus,hendersoni,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Ochlerotatus , implicatus,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Ochlerotatus ,intrudens,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Ochlerotatus,japonicus japonicus,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Ochlerotatus ,provocans,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Ochlerotatus , punctor,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Ochlerotatus ,sollicitans,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Ochlerotatus ,sticticus,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Ochlerotatus ,stimulans ,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Ochlerotatus ,taeniorhynchus,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Ochlerotatus,triseriatus,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Ochlerotatus,trivittatus,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Orthopodomyia , signifera,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Psorophora ,ciliata,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Psorophora , columbiae,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Psorophora,ferox,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Toxorhynchities ,rutilus septentrionalis,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Uranotaenia,sapphirina,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Wyeomyis ,smithii,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Aedes,cinereus ,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Aedes,vexans,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
-HARV; PLUM,Anopheles,barberi,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
->>>>>>> fd54fb9dc196f5c04e3b1493ce593d85b69cf7a8
+HARV,Anopheles,crucians,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Anopheles , earlei,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Anopheles,punctipennis,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Anopheles,quadrimaculatus,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Anopheles ,walkeri,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Coquillettidia,perturbans,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Culex,pipiens,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Culex,restuans,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Culex,salinarius,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Culex,territans ,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Culiseta,impatiens,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Culiseta ,inornata,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Culiseta,melanura,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Culiseta ,minnesotae,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Culiseta ,morsitans,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Ochlerotatus,abserratus,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Ochlerotatus,atropalpus,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Ochlerotatus ,aurifer,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Ochlerotatus,canadensis,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Ochlerotatus ,cantator ,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Ochlerotatus ,communis,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Ochlerotatus , decticus,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Ochlerotatus ,diantaeus,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Ochlerotatus ,dorsalis,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Ochlerotatus,excrucians,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Ochlerotatus ,fitchii,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Ochlerotatus ,grossbecki,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Ochlerotatus,hendersoni,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Ochlerotatus , implicatus,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Ochlerotatus ,intrudens,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Ochlerotatus,japonicus,japonicus,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Ochlerotatus ,provocans,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Ochlerotatus , punctor,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Ochlerotatus ,sollicitans,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Ochlerotatus ,sticticus,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Ochlerotatus ,stimulans ,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Ochlerotatus ,taeniorhynchus,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Ochlerotatus,triseriatus,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Ochlerotatus,trivittatus,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Orthopodomyia , signifera,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Psorophora ,ciliata,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Psorophora , columbiae,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Psorophora,ferox,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Toxorhynchities ,rutilus,septentrionalis,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Uranotaenia,sapphirina,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Wyeomyis ,smithii,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Aedes,cinereus ,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Aedes,vexans,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+HARV,Anopheles,barberi,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Anopheles,crucians,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Anopheles , earlei,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Anopheles,punctipennis,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Anopheles,quadrimaculatus,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Anopheles ,walkeri,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Coquillettidia,perturbans,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Culex,pipiens,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Culex,restuans,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Culex,salinarius,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Culex,territans ,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Culiseta,impatiens,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Culiseta ,inornata,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Culiseta,melanura,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Culiseta ,minnesotae,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Culiseta ,morsitans,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Ochlerotatus,abserratus,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Ochlerotatus,atropalpus,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Ochlerotatus ,aurifer,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Ochlerotatus,canadensis,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Ochlerotatus ,cantator ,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Ochlerotatus ,communis,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Ochlerotatus , decticus,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Ochlerotatus ,diantaeus,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Ochlerotatus ,dorsalis,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Ochlerotatus,excrucians,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Ochlerotatus ,fitchii,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Ochlerotatus ,grossbecki,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Ochlerotatus,hendersoni,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Ochlerotatus , implicatus,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Ochlerotatus ,intrudens,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Ochlerotatus,japonicus japonicus,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Ochlerotatus ,provocans,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Ochlerotatus , punctor,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Ochlerotatus ,sollicitans,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Ochlerotatus ,sticticus,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Ochlerotatus ,stimulans ,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Ochlerotatus ,taeniorhynchus,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Ochlerotatus,triseriatus,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Ochlerotatus,trivittatus,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Orthopodomyia , signifera,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Psorophora ,ciliata,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Psorophora , columbiae,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Psorophora,ferox,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Toxorhynchities ,rutilus septentrionalis,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Uranotaenia,sapphirina,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Wyeomyis ,smithii,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Aedes,cinereus ,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Aedes,vexans,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
+PLUM,Anopheles,barberi,,,http://www.mendeley.com/library/showrecent/document/5540888524/#document-5540888524
