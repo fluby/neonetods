@@ -1,28 +1,55 @@
 site,genus,sp,subsp,common_name,source
-BONA; POKE,Alces,alces,,Moose,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
-BONA; POKE,Rangifer,tarandus,,Caribou,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
-BONA; POKE,Canis,latrans,,Coyote,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
-BONA; POKE,Canis,lupus,,Gray Wolf,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
-BONA; POKE,Vulpes,vulpes,,Red Fox,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
-BONA; POKE,Gulo,gulo,,Wolverine,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
-BONA; POKE,Martes,americana,,Marten,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
-BONA; POKE,Mustela,erminea,,Ermine,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
-BONA; POKE,Mustela,nivalis,,Least Weasel,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
-BONA; POKE,Mustela,vision,,Mink,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
-BONA; POKE,Ursus,americanus,,Black Bear,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
-BONA; POKE,Myotis,lucifugus,,Little Brown Bat,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
-BONA; POKE,Castor,canadensis,,Beaver,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
-BONA; POKE,Zapus,hudsonius,,Meadow Jumping Mouse,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
-BONA; POKE,Erethizon,dorsatum,,Porcupine,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
-BONA; POKE,Clethrionomys,rutilus,,Northern Red-backed Vole,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
-BONA; POKE,Lemmus,sibiricus,,Brown Lemming,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
-BONA; POKE,Microtus,longicaudus,,Long-tailed Vole,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
-BONA; POKE,Microtus,miurus,,Singing Vole,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
-BONA; POKE,Microtus,oeconomus,,Tundra Vole,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
-BONA; POKE,Microtus,pennsylvanicus,,Meadow Vole,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
-BONA; POKE,Microtus,xanthognathus,,Yellow-cheeked Vole,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
-BONA; POKE,Ondatra,zibethicus,,Muskrat,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
-BONA; POKE,Synaptomys,borealis,,Northern Bog Lemming,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
-BONA; POKE,Glaucomys,sabrinus,,Northern Flying Squirrel,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
-BONA; POKE,Marmota,monax,,Woodchuck,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
-BONA; POKE,Tamiasciurus,hudsonicus,,Red Squirrel,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Alces,alces,,Moose,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Rangifer,tarandus,,Caribou,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Canis,latrans,,Coyote,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Canis,lupus,,Gray Wolf,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Vulpes,vulpes,,Red Fox,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Gulo,gulo,,Wolverine,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Martes,americana,,Marten,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Mustela,erminea,,Ermine,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Mustela,nivalis,,Least Weasel,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Mustela,vision,,Mink,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Ursus,americanus,,Black Bear,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Myotis,lucifugus,,Little Brown Bat,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Castor,canadensis,,Beaver,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Zapus,hudsonius,,Meadow Jumping Mouse,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Erethizon,dorsatum,,Porcupine,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Clethrionomys,rutilus,,Northern Red-backed Vole,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Lemmus,sibiricus,,Brown Lemming,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Microtus,longicaudus,,Long-tailed Vole,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Microtus,miurus,,Singing Vole,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Microtus,oeconomus,,Tundra Vole,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Microtus,pennsylvanicus,,Meadow Vole,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Microtus,xanthognathus,,Yellow-cheeked Vole,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Ondatra,zibethicus,,Muskrat,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Synaptomys,borealis,,Northern Bog Lemming,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Glaucomys,sabrinus,,Northern Flying Squirrel,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Marmota,monax,,Woodchuck,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+BONA,Tamiasciurus,hudsonicus,,Red Squirrel,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+POKE,Alces,alces,,Moose,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+POKE,Rangifer,tarandus,,Caribou,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+POKE,Canis,latrans,,Coyote,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+POKE,Canis,lupus,,Gray Wolf,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+POKE,Vulpes,vulpes,,Red Fox,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+POKE,Gulo,gulo,,Wolverine,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+POKE,Martes,americana,,Marten,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+POKE,Mustela,erminea,,Ermine,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+POKE,Mustela,nivalis,,Least Weasel,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+POKE,Mustela,vision,,Mink,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+POKE,Ursus,americanus,,Black Bear,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+POKE,Myotis,lucifugus,,Little Brown Bat,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+POKE,Castor,canadensis,,Beaver,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+POKE,Zapus,hudsonius,,Meadow Jumping Mouse,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+POKE,Erethizon,dorsatum,,Porcupine,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+POKE,Clethrionomys,rutilus,,Northern Red-backed Vole,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+POKE,Lemmus,sibiricus,,Brown Lemming,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+POKE,Microtus,longicaudus,,Long-tailed Vole,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+POKE,Microtus,miurus,,Singing Vole,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+POKE,Microtus,oeconomus,,Tundra Vole,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+POKE,Microtus,pennsylvanicus,,Meadow Vole,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+POKE,Microtus,xanthognathus,,Yellow-cheeked Vole,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+POKE,Ondatra,zibethicus,,Muskrat,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+POKE,Synaptomys,borealis,,Northern Bog Lemming,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+POKE,Glaucomys,sabrinus,,Northern Flying Squirrel,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+POKE,Marmota,monax,,Woodchuck,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
+POKE,Tamiasciurus,hudsonicus,,Red Squirrel,http://www.mendeley.com/c/5448902984/g/2058663/bonanza-creek-lter-species-lists/
