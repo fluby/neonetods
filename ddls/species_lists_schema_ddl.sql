@@ -143,8 +143,8 @@ COMMIT;
 DROP TABLE IF EXISTS species_lists.status_raw CASCADE;
 CREATE TABLE species_lists.status_raw
 (
-   genus  							varchar(255)    NOT NULL,
-   sp		                varchar(255)    NOT NULL,
+   genus  							varchar(255),
+   sp		                varchar(255),
    subsp		            varchar(255),
    state			          varchar(255), 
    federal_status       varchar(1000),
