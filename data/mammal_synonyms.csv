@@ -2161,7 +2161,6 @@ Canis lupaster grayi,Canis adustus grayi
 Canis holubi,Canis adustus holubi
 Thos adustus kaffensis,Canis adustus kaffensis
 Canis lateralis,Canis adustus lateralis
-Canis lateralis,Canis adustus lateralis
 Thos adustus notatus,Canis adustus notatus
 Thos studeri,Canis adustus studeri
 Canis wunderlichi,Canis adustus wunderlichi
@@ -5644,7 +5643,6 @@ Equus nubianus somalicus,Equus africanus somalicus.
 Equus asinus somalicus,Equus africanus somaliensis
 Equus somaliensis,Equus africanus somaliensis
 Equus asinus taeniopus,Equus africanus taeniopus
-Equus asinus taeniopus,Equus africanus taeniopus
 Equus africanus,Equus asinus
 Asinus africanus arabicus,Equus asinus arabicus
 Equus domesticus,Equus asinus domesticus
@@ -8967,7 +8965,6 @@ Loris tardigradus malabaricus,Loris lydekkerianus malabaricus
 Loris tardigradus nordicus,Loris lydekkerianus nordicus
 Loris tardigradus nycticeboides,Loris lydekkerianus nycticeboides
 Stenops tardigradus,Loris tardigradus
-Stenops tardigradus,Loris tardigradus
 Loris ceylonicus,Loris tardigradus ceylonicus
 Loris gracilis,Loris tardigradus gracilis
 Stenops gracilis,Loris tardigradus gracilis
@@ -10696,7 +10693,6 @@ Arvicola riparius riparius,Microtus pennsylvanicus riparius
 Arivola rufescens,Microtus pennsylvanicus rufescens
 Arvicola rufidorsum,Microtus pennsylvanicus rufidorsum
 Microtus stonei,Microtus pennsylvanicus stonei
-Microtus terraenovae,Microtus pennsylvanicus terraenovae
 Microtus terraenovae,Microtus pennsylvanicus terraenovae
 Pitymys pinetorum,Microtus pinetorum
 Arvicola pinetorum,Microtus pinetorum
@@ -12553,7 +12549,6 @@ Niviventer confucianus dequinensis,Niviventer confucianus deqinensis
 Rattus elegans,Niviventer confucianus elegans
 Rattus confucianus littoreus,Niviventer confucianus littoreus
 Rattus confucianus lotipes,Niviventer confucianus lotipes
-Mus confucianus luticolor,Niviventer confucianus luticolor
 Mus confucianus luticolor,Niviventer confucianus luticolor
 Rattus mentosus,Niviventer confucianus mentosus
 Rattus niviventer sacer,Niviventer confucianus sacer
@@ -18393,7 +18388,6 @@ Chodsigoa parva,Soriculus parva
 Chodsigoa salenskii,Soriculus salenskii
 Chodsigoa salenskii salenskii,Soriculus salenskii salenskii
 Soriculus salenskii smithii,Soriculus smithii
-Soriculus salenskii smithii,Soriculus smithii
 Soriculus fumidus sodalis,Soriculus sodalis
 Sotalia brasiliensis,Sotalia fluviatilis brasiliensis
 Sotalia guianensis,Sotalia fluviatilis guianensis
@@ -18896,7 +18890,6 @@ Stenella microps,Stenella longirostris microps
 Clymene microps,Stenella longirostris microps
 Delphinus roseiventris,Stenella longirostris roseiventris
 Prodelphinus roseiventris,Stenella longirostris roseiventris
-Delphinus bredanensis,Steno bredanensis
 Delphinus bredanensis,Steno bredanensis
 Delphinus compressus,Steno bredanensis compressus
 Delphinus frontatus,Steno bredanensis frontatus
@@ -19933,7 +19926,6 @@ Callosciurus swinhoei,Tamiops swinhoei
 Tamiops maritimus clarkei,Tamiops swinhoei clarkei
 Callosciurus clarkei,Tamiops swinhoei clarkei
 Tamiops maritimus forresti,Tamiops swinhoei forresti
-Tamiops maritimus forresti,Tamiops swinhoei forresti
 Tamiops monticolus olivaceus,Tamiops swinhoei olivaceus
 Callosciurus macclellandi olivaceus,Tamiops swinhoei olivaceus
 Tamiops macclellandi russeolus,Tamiops swinhoei russeolus
@@ -20969,7 +20961,6 @@ Euarctos americanus californiensis,Ursus americanus californiensis
 Euarctos americanus charlottae,Ursus americanus carlottae
 Ursus carlottae,Ursus americanus carlottae
 Euarctos americanus cinnamomum,Ursus americanus cinnamomum
-Euarctos americanus cinnamomum,Ursus americanus cinnamomum
 Euarctos americanus emmonsii,Ursus americanus emmonsii
 Euarctos emmonsii,Ursus americanus emmonsii
 Euarctos americanus eremicus,Ursus americanus eremicus
@@ -21512,3 +21503,9 @@ Conilurus pedunculatus,Zyzomys pedunculatus
 Conilurus pedunculatus brachyotis,Zyzomys pedunculatus brachyotis
 Conilurus pedunculatus pedunculatus,Zyzomys pedunculatus pedunculatus
 Laomys woodwardi,Zyzomys woodwardi
+Erethizon dorsatum,Erethizon dorsata
+Clethrionomys gapperi,Myodes gapperi
+Cervus canadensis (elaphus),Cervus elaphus
+Citellus harrisi,Ammospermophilus harrisii
+Hydrochaeris hydrochaeris,Hydrochoeris hydrochaeris 
+Mustala vison,Mustela vison

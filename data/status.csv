@@ -1,4 +1,4 @@
-genus,sp,subsp,state,federal status,state status,notes/additional state status,source
+genus,sp,subsp,state,federal_status,state_status,notes,state_source
 Epioblasma,othcaloogensis,,Alabama,Endangered,,,
 Elliptoideus,sloatianus,,Alabama,Threatened,,,
 Myotis,grisescens,,Alabama,Endangered,,,
@@ -7,7 +7,7 @@ Villosa,trabalis,,Alabama,Endangered,,Entire Range; Except where listed as Exper
 Nicrophorus,americanus,,Alabama,Endangered,,,
 Epioblasma,torulosa,torulosa,Alabama,Endangered,,Entire Range; Except where listed as Experimental Populations ,
 Epioblasma,turgidula,,Alabama,Endangered,,Entire Range; Except where listed as Experimental Populations ,
-Epioblasma,florentina,florentina,Alabama,Endangered,, Entire Range; Except where listed as Experimental Populations ,
+Epioblasma,florentina,florentina,Alabama,Endangered,,Entire Range; Except where listed as Experimental Populations ,
 Campeloma,decampi,,Alabama,Endangered,,,
 Speoplatyrhinus,poulsoni,,Alabama,Endangered,,,
 Erimonax monachus,Entire ,,Alabama,Threatened,,,
@@ -4163,7 +4163,7 @@ Elliptio,lanceolata,,Maryland,,,Uncertain status,http://www.mendeley.com/c/51445
 Elliptio,producta,,Maryland,,In need of conservation,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Fontigens,bottimeri,,Maryland,,,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Fontigens,orolibas,,Maryland,,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Glyphyalinia,raderi,,Maryland,,Endangered/Extirpated,"Historically known, unverified for 20 years",http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Glyphyalinia,raderi,,Maryland,,Endangered/Extirpated,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Hendersonia,occulta,,Maryland,,In need of conservation,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Lampsilis,cariosa,,Maryland,,,Uncertain status,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Lampsilis,radiata,,Maryland,,,Uncertain status,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
@@ -4176,7 +4176,7 @@ Triodopsis,picea,,Maryland,,,Critically imperilled,http://www.mendeley.com/c/514
 Utterbackia,imbecillis,,Maryland,,,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Vertigo,ventricosa,,Maryland,,,Uncertain status,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Webbhelix,multilineata,,Maryland,,,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Ankylocythere,tridentata,,Maryland,,,"Historically known, unverified for 20 years",http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Ankylocythere,tridentata,,Maryland,,,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Attheyella,spinipes,,Maryland,,,Uncertain status,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Caecidotea,franzi,,Maryland,,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Caecidotea,mausi,,Maryland,,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
@@ -4210,7 +4210,7 @@ Sphodros,rufipes,,Maryland,,,Critically imperilled,http://www.mendeley.com/c/514
 Arrhopalites,sp 1,,Maryland,,,Uncertain status,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Anthopotamus,verticis,,Maryland,,,Uncertain status,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Aeshna,canadensis,,Maryland,,,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Aeshna,constricta,,Maryland,,,"Historically known, unverified for 20 years",http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Aeshna,constricta,,Maryland,,,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Aeshna,tuberculifera,,Maryland,,,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Aeshna,verticalis,,Maryland,,,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Amphiagrion,saucium,,Maryland,,,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
@@ -4225,7 +4225,7 @@ Calopteryx,angustipennis,,Maryland,,,Critically imperilled,http://www.mendeley.c
 Calopteryx,dimidiata,,Maryland,,,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Celithemis,fasciata,,Maryland,,,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Celithemis,martha,,Maryland,,,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Celithemis,ornata,,Maryland,,,"Historically known, unverified for 20 years",http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Celithemis,ornata,,Maryland,,,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Celithemis,verna,,Maryland,,,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Chromagrion,conditum,,Maryland,,,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Cordulegaster,bilineata,,Maryland,,,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
@@ -4234,7 +4234,7 @@ Cordulegaster,erronea,,Maryland,,,Rare to uncommon,http://www.mendeley.com/c/514
 Cordulegaster,obliqua,,Maryland,,,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Cordulegaster,obliqua,,Maryland,,,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Cordulia,shurtleffii,,Maryland,,,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Dorocordulia,lepida,,Maryland,,,"Historically known, unverified for 20 years",http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Dorocordulia,lepida,,Maryland,,,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Enallagma,annexum,,Maryland,,,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Enallagma,antennatum,,Maryland,,,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Enallagma,carunculatum,,Maryland,,,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
@@ -4243,14 +4243,14 @@ Enallagma,divagans,,Maryland,,,Rare to uncommon,http://www.mendeley.com/c/514455
 Enallagma,doubledayi,,Maryland,,,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Enallagma,dubium,,Maryland,,,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Enallagma,durum,,Maryland,,,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Enallagma,ebrium,,Maryland,,,"Historically known, unverified for 20 years",http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Enallagma,ebrium,,Maryland,,,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Enallagma,pallidum,,Maryland,,,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Enallagma,traviatum,,Maryland,,,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Enallagma,vesperum,,Maryland,,,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Enallagma,weewa,,Maryland,,,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Epitheca,canis,,Maryland,,,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Epitheca,costalis,,Maryland,,,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Epitheca,semiaquea,,Maryland,,,"Historically known, unverified for 20 years",http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Epitheca,semiaquea,,Maryland,,,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Epitheca,spinosa,,Maryland,,,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Erpetogomphus,designatus,,Maryland,,,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Erythrodiplax,minuscula,,Maryland,,,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
@@ -4261,14 +4261,14 @@ Gomphus,adelphus,,Maryland,,,Critically imperilled,http://www.mendeley.com/c/514
 Gomphus,descriptus,,Maryland,,,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Gomphus,fraternus,,Maryland,,,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Gomphus,lineatifrons,,Maryland,,,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Gomphus,parvidens,,Maryland,,Endangered/Extirpated,"Historically known, unverified for 20 years",http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Gomphus,parvidens,,Maryland,,Endangered/Extirpated,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Gomphus,quadricolor,,Maryland,,In need of conservation,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Gomphus,rogersi,,Maryland,,In need of conservation,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Gomphus,ventricosus,,Maryland,,Endangered/Extirpated,"Historically known, unverified for 20 years",http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Gomphus,ventricosus,,Maryland,,Endangered/Extirpated,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Gomphus,viridifrons,,Maryland,,,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Helocordulia,selysii,,Maryland,,,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Helocordulia,uhleri,,Maryland,,,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Hetaerina,titia,,Maryland,,,"Historically known, unverified for 20 years",http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Hetaerina,titia,,Maryland,,,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Ischnura,kellicotti,,Maryland,,,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Ischnura,prognata,,Maryland,,,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Ladona,exusta,,Maryland,,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
@@ -4276,10 +4276,10 @@ Ladona,julia,,Maryland,,,Rare to uncommon,http://www.mendeley.com/c/5144550554/g
 Lanthus,parvulus,,Maryland,,,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Lanthus,vernalis,,Maryland,,,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Lestes,congener,,Maryland,,,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Lestes,dryas,,Maryland,,,"Historically known, unverified for 20 years",http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Lestes,dryas,,Maryland,,,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Lestes,eurinus,,Maryland,,,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Lestes,forcipatus,,Maryland,,,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Lestes,unguiculatus,,Maryland,,,"Historically known, unverified for 20 years",http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Lestes,unguiculatus,,Maryland,,,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Leucorrhinia,frigida,,Maryland,,,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Leucorrhinia,glacialis,,Maryland,,,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Leucorrhinia,hudsonica,,Maryland,,,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
@@ -4308,7 +4308,7 @@ Somatochlora,filosa,,Maryland,,,Imperilled,http://www.mendeley.com/c/5144550554/
 Somatochlora,linearis,,Maryland,,,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Somatochlora,provocans,,Maryland,,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Somatochlora,walshii,,Maryland,,,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Stylurus,amnicola,,Maryland,,Endangered/Extirpated,"Historically known, unverified for 20 years",http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Stylurus,amnicola,,Maryland,,Endangered/Extirpated,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Stylurus,laurae,,Maryland,,,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Stylurus,plagiatus,,Maryland,,,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Stylurus,scudderi,,Maryland,,,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
@@ -4347,14 +4347,14 @@ Sperchopsis,tessellatus,,Maryland,,,Imperilled,http://www.mendeley.com/c/5144550
 Hydropsyche,brunneipennis,,Maryland,,,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Amblyscirtes,hegon,,Maryland,,In need of conservation,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Atlides,halesus,,Maryland,,Threatened,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Autochton,cellus,,Maryland,,Endangered/Extirpated,"Historically known, unverified for 20 years",http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Autochton,cellus,,Maryland,,Endangered/Extirpated,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Boloria,selene,,Maryland,,,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Calephelis,borealis,,Maryland,,Threatened,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Callophrys,hesseli,,Maryland,,Endangered/Extirpated,"Historically known, unverified for 20 years",http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Callophrys,hesseli,,Maryland,,Endangered/Extirpated,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Callophrys,irus,,Maryland,,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Callophrys,polios,,Maryland,,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Celastrina,neglectamajor,,Maryland,,,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Celastrina,nigra,,Maryland,,Endangered/Extirpated,"Historically known, unverified for 20 years",http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Celastrina,nigra,,Maryland,,Endangered/Extirpated,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Chlosyne,harrisii,,Maryland,,Threatened,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Colias,interior,,Maryland,,,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Erora,laeta,,Maryland,,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
@@ -4370,7 +4370,7 @@ Lycaena, epixanthe,,Maryland,,Endangered,Critically imperilled,http://www.mendel
 Nymphalis, vau-album,,Maryland,,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Papilio, cresphontes,,Maryland,,In need of conservation,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Papilio, palamedes,,Maryland,,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Phyciodes, batesii,,Maryland,,Endangered/Extirpated,"Historically known, unverified for 20 years",http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Phyciodes, batesii,,Maryland,,Endangered/Extirpated,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Pieris, virginiensis,,Maryland,,,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Poanes, massasoit,,Maryland,,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Polites, mystic,,Maryland,,,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
@@ -4381,30 +4381,30 @@ Satyrium, edwardsii,,Maryland,,Endangered,Critically imperilled,http://www.mende
 Satyrium, favonius,,Maryland,,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Satyrium, kingi,,Maryland,,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Speyeria, atlantis,,Maryland,,Threatened,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Speyeria, idalia,,Maryland,,Endangered/Extirpated,"Historically known, unverified for 20 years",http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Speyeria, idalia,,Maryland,,Endangered/Extirpated,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Agnorisma, bollii,,Maryland,,,Uncertain status,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Apamea, apamiformis,,Maryland,,,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Apamea, mixta,,Maryland,,,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Apamea, plutonia,,Maryland,,,Uncertain status,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Capis, curvata,,Maryland,,,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Catocala, marmorata,,Maryland,,,"Historically known, unverified for 20 years",http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Catocala, pretiosa, pretiosa,Maryland,,,"Historically known, unverified for 20 years",http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Ectoedemia, castaneae,,Maryland,,,"Historically known, unverified for 20 years",http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Ectoedemia, phleophaga,,Maryland,,,"Historically known, unverified for 20 years",http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Catocala, marmorata,,Maryland,,,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Catocala, pretiosa, pretiosa,Maryland,,,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Ectoedemia, castaneae,,Maryland,,,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Ectoedemia, phleophaga,,Maryland,,,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Elaphria, georgei,,Maryland,,,Uncertain status,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Hadena, ectypa,,Maryland,,,Uncertain status,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Isoparce, cupressi,,Maryland,,,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Lytrosis, sinuosa,,Maryland,,,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Meropleon, titan,,Maryland,,,Imperilled to Apparently secure,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Papaipema, duovata,,Maryland,,,Uncertain status,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Papaipema, polymniae,,Maryland,,,"Historically known, unverified for 20 years",http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Papaipema, polymniae,,Maryland,,,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Sphinx, franckii,,Maryland,,,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Wyeomyia, smithii,,Maryland,,,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Acantharchus, pomotis,,Maryland,,In need of conservation,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Acipenser, brevirostrum,,Maryland,,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Acipenser, oxyrinchus,,Maryland,,,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Ameiurus, catus,,Maryland,,,Uncertain status,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Catostomus, catostomus,,Maryland,,Endangered/Extirpated,"Historically known, unverified for 20 years",http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Catostomus, catostomus,,Maryland,,Endangered/Extirpated,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Centrarchus, macropterus,,Maryland,,Threatened,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Cottus, bairdii,,Maryland,,,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Cottus, sp 7,,Maryland,,,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
@@ -4413,13 +4413,13 @@ Enneacanthus, gloriosus,,Maryland,,,Rare to uncommon,http://www.mendeley.com/c/5
 Enneacanthus, obesus,,Maryland,,,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Etheostoma, fusiforme,,Maryland,,In need of conservation,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Etheostoma, nigrum,,Maryland,,,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Etheostoma, sellare,,Maryland,,Endangered,"Historically known, unverified for 20 years",http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Etheostoma, sellare,,Maryland,,Endangered,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Etheostoma, vitreum,,Maryland,,Threatened,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Lampetra, appendix,,Maryland,,Threatened,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Luxilus, chrysocephalus,,Maryland,,In need of conservation,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Margariscus, margarita,,Maryland,,Threatened,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Notropis, amoenus,,Maryland,,Threatened,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Notropis, bifrenatus,,Maryland,,Endangered/Extirpated,"Historically known, unverified for 20 years",http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Notropis, bifrenatus,,Maryland,,Endangered/Extirpated,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Notropis, chalybaeus,,Maryland,,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Noturus, flavus,,Maryland,,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Pararhinichthys, bowersi,,Maryland,,Endangered/Extirpated,Believed to be extirpated,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
@@ -4444,26 +4444,26 @@ Cemophora, coccinea,,Maryland,,,Rare to uncommon,http://www.mendeley.com/c/51445
 Chelonia, mydas,,Maryland,,Threatened,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Crotalus, horridus,,Maryland,,,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Dermochelys, coriacea,,Maryland,,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Eretmochelys, imbricata,,Maryland,,Endangered,"Reported, migrant",http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Eretmochelys, imbricata,,Maryland,,Endangered,Reported; migrant,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Eumeces, anthracinus,,Maryland,,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Farancia, erytrogramma,,Maryland,,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Glyptemys, muhlenbergii,,Maryland,,Threatened,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Graptemys, geographica,,Maryland,,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Lepidochelys, kempii,,Maryland,,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Nerodia, erythrogaster,erythrogaster,Maryland,,,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Pituophis, melanoleucus,,Maryland,,,"Historically known, unverified for 20 years",http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Pituophis, melanoleucus,,Maryland,,,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Virginia, valeriae, pulchra,Maryland,,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Accipiter, gentilis,,Maryland,,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Accipiter, striatus,,Maryland,,,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Actitis, macularius,,Maryland,,,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Aegolius, acadicus,,Maryland,,,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Aimophila, aestivalis,,Maryland,,Endangered/Extirpated,"Historically known, unverified for 20 years",http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Aimophila, aestivalis,,Maryland,,Endangered/Extirpated,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Ammodramus, caudacutus,,Maryland,,,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Ammodramus, henslowii,,Maryland,,Threatened,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Anas, discors,,Maryland,,,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Anas, strepera,,Maryland,,,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Asio, flammeus,,Maryland,,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Asio, otus,,Maryland,,,"Historically known, unverified for 20 years",http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Asio, otus,,Maryland,,,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Bartramia, longicauda,,Maryland,,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Botaurus, lentiginosus,,Maryland,,In need of conservation,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Campephillus, principalis,,Maryland,,Endangered/Extirpated,Believed to be extirpated,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
@@ -4477,7 +4477,7 @@ Chondestes, grammacus,,Maryland,,Endangered/Extirpated,Believed to be extirpated
 Chordeiles, minor,,Maryland,,,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Circus, cyaneus,,Maryland,,,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Cistothorus, platensis,,Maryland,,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Contopus, cooperi,,Maryland,,Endangered,"Historically known, unverified for 20 years",http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Contopus, cooperi,,Maryland,,Endangered,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Corvus, corax,,Maryland,,,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Dendroica, caerulescens,,Maryland,,,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Dendroica, cerulea,,Maryland,,,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
@@ -4505,7 +4505,7 @@ Nyctanassa, violacea,,Maryland,,,Imperilled,http://www.mendeley.com/c/5144550554
 Oporornis, philadelphia,,Maryland,,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Passerculus, sandwichensis,,Maryland,,,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Pelecanus, occidentalis,,Maryland,,,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Picoides, borealis,,Maryland,,Endangered/Extirpated,"Historically known, unverified for 20 years, migrant",http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Picoides, borealis,,Maryland,,Endangered/Extirpated,Historically known; unverified for 20 years; migrant,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Podilymbus, podiceps,,Maryland,,,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Pooecetes, gramineus,,Maryland,,,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Porzana, carolina,,Maryland,,,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
@@ -4515,9 +4515,9 @@ Riparia, riparia,,Maryland,,,Rare to uncommon,http://www.mendeley.com/c/51445505
 Rynchops, niger,,Maryland,,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Seiurus, noveboracensis,,Maryland,,,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Sitta, canadensis,,Maryland,,,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Sphyrapicus, varius,,Maryland,,,"Historically known, unverified for 20 years",http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Sphyrapicus, varius,,Maryland,,,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Spiza, americana,,Maryland,,,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Sterna, dougallii,,Maryland,,Endangered/Extirpated,"Historically known, unverified for 20 years",http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Sterna, dougallii,,Maryland,,Endangered/Extirpated,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Sternula, antillarum,,Maryland,,Threatened,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Thalasseus, maximus,,Maryland,,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Thalasseus, sandvicensis,,Maryland,,,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
@@ -4537,8 +4537,8 @@ Cervus, canadensis,,Maryland,,Endangered/Extirpated,Believed to be extirpated,ht
 Condylura, cristata, parva,Maryland,,,Uncertain status,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Erethizon, dorsatum,,Maryland,,In need of conservation,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Eubalaeana, glacialis,,Maryland,,Endangered,,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Felis, concolor,,Maryland,,Endangered/Extirpated,"Historically known, unverified for 20 years",http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Lepus, americanus,,Maryland,,Endangered/Extirpated,"Historically known, unverified for 20 years",http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Felis, concolor,,Maryland,,Endangered/Extirpated,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Lepus, americanus,,Maryland,,Endangered/Extirpated,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Lynx, rufus,,Maryland,,In need of conservation,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Martes, americana,,Maryland,,Endangered/Extirpated,Believed to be extirpated,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Megaptera, novaeangliae,,Maryland,,Endangered,,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
@@ -4548,7 +4548,7 @@ Myotis, leibii,,Maryland,,Endangered,Critically imperilled,http://www.mendeley.c
 Myotis, sodalis,,Maryland,,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Neotoma, magister,,Maryland,,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Physeter ,macrocephalus,,Maryland,,Endangered,,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Reithrodontomys, humulis,,Maryland,,Endangered/Extirpated,"Historically known, unverified for 20 years",http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Reithrodontomys, humulis,,Maryland,,Endangered/Extirpated,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Sciurus, niger, cinereus,Maryland,,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Sorex, dispar,,Maryland,,In need of conservation,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Sorex, fumeus,,Maryland,,In need of conservation,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
@@ -5671,77 +5671,77 @@ Macrhybopsis,gelida,,North Dakota,,Greatest need for conservation,,http://www.me
 Macrhybopsis,meeki,,North Dakota,,Greatest need for conservation,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
 Margariscus,margarita,,North Dakota,,Greatest need for conservation,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
 Cycleptus,elongatus,,North Dakota,,Greatest need for conservation,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Anas,acuta,,North Dakota,,"Need for conservation, little support",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Aythya,valisineria,,North Dakota,,"Need for conservation, little support",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Aythya,americana,,North Dakota,,"Need for conservation, little support",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Circus,cyaneus,,North Dakota,,"Need for conservation, little support",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Aquila,chrysaetos,,North Dakota,,"Need for conservation, little support",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Haliaeetus,leucocephalus,,North Dakota,,"Need for conservation, little support",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Falco,mexicanus,,North Dakota,,"Need for conservation, little support",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Tympanuchus,phasianellus,,North Dakota,,"Need for conservation, little support",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Tympanuchus,cupido,,North Dakota,,"Need for conservation, little support",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Centrocercus,urophasianus,,North Dakota,,"Need for conservation, little support",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Charadrius,melodus,,North Dakota,,"Need for conservation, little support",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Recurvirostra,americana,,North Dakota,,"Need for conservation, little support",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Sterna,antillarum,,North Dakota,,"Need for conservation, little support",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Asio,flammeus,,North Dakota,,"Need for conservation, little support",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Athene,cunicularia,,North Dakota,,"Need for conservation, little support",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Melanerpes,erythrocephalus,,North Dakota,,"Need for conservation, little support",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Lanius,ludovicianus,,North Dakota,,"Need for conservation, little support",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Cistothorus,platensis,,North Dakota,,"Need for conservation, little support",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Spiza,americana,,North Dakota,,"Need for conservation, little support",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Ammodramus,leconteii,,North Dakota,,"Need for conservation, little support",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Dolichonyx,oryzivorus,,North Dakota,,"Need for conservation, little support",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Chelydra,serpentina,,North Dakota,,"Need for conservation, little support",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Phrynosoma,douglassi,,North Dakota,,"Need for conservation, little support",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Storeria,occipitomaculata,,North Dakota,,"Need for conservation, little support",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Sorex,hoyi,,North Dakota,,"Need for conservation, little support",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Spermophilus,richardsonii,,North Dakota,,"Need for conservation, little support",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Vulpes,velox,,North Dakota,,"Need for conservation, little support",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Lutra,canadensis,,North Dakota,,"Need for conservation, little support",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Mustela,nigripes,,North Dakota,,"Need for conservation, little support",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Polyodon,spathula,,North Dakota,,"Need for conservation, little support",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Scaphirhynchus,albus,,North Dakota,,"Need for conservation, little support",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Macrhybopsis,storeriana,,North Dakota,,"Need for conservation, little support",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Phoxinus,eos,,North Dakota,,"Need for conservation, little support",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Platygobio,gracilis,,North Dakota,,"Need for conservation, little support",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Percopsis,omiscomaycus,,North Dakota,,"Need for conservation, little support",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Amblema,plicata,,North Dakota,,"Need for conservation, little support",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Fusconaia,flava,,North Dakota,,"Need for conservation, little support",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Quadrula,quadrula,,North Dakota,,"Need for conservation, little support",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Ligumia,recta,,North Dakota,,"Need for conservation, little support",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Lasmigona,compressa,,North Dakota,,"Need for conservation, little support",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Potamilus,alatus,,North Dakota,,"Need for conservation, little support",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Grus,americana,,North Dakota,,"Some need for conservation, ND is near the edge of species range",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Falco,peregrinus,,North Dakota,,"Some need for conservation, ND is near the edge of species range",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Spizella,breweri,,North Dakota,,"Some need for conservation, ND is near the edge of species range",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Calcarius,mccownii,,North Dakota,,"Some need for conservation, ND is near the edge of species range",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Apalone,mutica,,North Dakota,,"Some need for conservation, ND is near the edge of species range",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Graptemys,pseudogeographica,,North Dakota,,"Some need for conservation, ND is near the edge of species range",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Eumeces,septentrionalis,,North Dakota,,"Some need for conservation, ND is near the edge of species range",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Sceloporus,graciosus,,North Dakota,,"Some need for conservation, ND is near the edge of species range",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Sorex,arcticus,,North Dakota,,"Some need for conservation, ND is near the edge of species range",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Myotis,ciliolabrum,,North Dakota,,"Some need for conservation, ND is near the edge of species range",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Myotis,evotis,,North Dakota,,"Some need for conservation, ND is near the edge of species range",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Myotis,volans,,North Dakota,,"Some need for conservation, ND is near the edge of species range",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Perognathus,flavescens,,North Dakota,,"Some need for conservation, ND is near the edge of species range",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Chaetodipus,hispidus,,North Dakota,,"Some need for conservation, ND is near the edge of species range",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Lemmiscus,curtatus,,North Dakota,,"Some need for conservation, ND is near the edge of species range",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Spilogale,putoris,,North Dakota,,"Some need for conservation, ND is near the edge of species range",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Canis,lupis,,North Dakota,,"Some need for conservation, ND is near the edge of species range",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Ichthyomyzon,castaneus,,North Dakota,,"Some need for conservation, ND is near the edge of species range",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Ichthyomyzon,unicuspis,,North Dakota,,"Some need for conservation, ND is near the edge of species range",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Campostoma,anomalum,,North Dakota,,"Some need for conservation, ND is near the edge of species range",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Nocomis,biguttatus,,North Dakota,,"Some need for conservation, ND is near the edge of species range",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Notropis,anogenus,,North Dakota,,"Some need for conservation, ND is near the edge of species range",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Notropis,heterolepis,,North Dakota,,"Some need for conservation, ND is near the edge of species range",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Notropis,rubellus,,North Dakota,,"Some need for conservation, ND is near the edge of species range",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Phoxinus,neogaeus,,North Dakota,,"Some need for conservation, ND is near the edge of species range",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Ameiurus,natalis,,North Dakota,,"Some need for conservation, ND is near the edge of species range",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Pylodictis,olivaris,,North Dakota,,"Some need for conservation, ND is near the edge of species range",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Percina,caprodes,,North Dakota,,"Some need for conservation, ND is near the edge of species range",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Percina,shumardi,,North Dakota,,"Some need for conservation, ND is near the edge of species range",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Potamilus,ohiensis,,North Dakota,,"Some need for conservation, ND is near the edge of species range",,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Anas,acuta,,North Dakota,,Need for conservation; little support,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Aythya,valisineria,,North Dakota,,Need for conservation; little support,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Aythya,americana,,North Dakota,,Need for conservation; little support,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Circus,cyaneus,,North Dakota,,Need for conservation; little support,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Aquila,chrysaetos,,North Dakota,,Need for conservation; little support,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Haliaeetus,leucocephalus,,North Dakota,,Need for conservation; little support,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Falco,mexicanus,,North Dakota,,Need for conservation; little support,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Tympanuchus,phasianellus,,North Dakota,,Need for conservation; little support,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Tympanuchus,cupido,,North Dakota,,Need for conservation; little support,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Centrocercus,urophasianus,,North Dakota,,Need for conservation; little support,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Charadrius,melodus,,North Dakota,,Need for conservation; little support,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Recurvirostra,americana,,North Dakota,,Need for conservation; little support,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Sterna,antillarum,,North Dakota,,Need for conservation; little support,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Asio,flammeus,,North Dakota,,Need for conservation; little support,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Athene,cunicularia,,North Dakota,,Need for conservation; little support,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Melanerpes,erythrocephalus,,North Dakota,,Need for conservation; little support,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Lanius,ludovicianus,,North Dakota,,Need for conservation; little support,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Cistothorus,platensis,,North Dakota,,Need for conservation; little support,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Spiza,americana,,North Dakota,,Need for conservation; little support,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Ammodramus,leconteii,,North Dakota,,Need for conservation; little support,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Dolichonyx,oryzivorus,,North Dakota,,Need for conservation; little support,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Chelydra,serpentina,,North Dakota,,Need for conservation; little support,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Phrynosoma,douglassi,,North Dakota,,Need for conservation; little support,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Storeria,occipitomaculata,,North Dakota,,Need for conservation; little support,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Sorex,hoyi,,North Dakota,,Need for conservation; little support,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Spermophilus,richardsonii,,North Dakota,,Need for conservation; little support,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Vulpes,velox,,North Dakota,,Need for conservation; little support,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Lutra,canadensis,,North Dakota,,Need for conservation; little support,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Mustela,nigripes,,North Dakota,,Need for conservation; little support,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Polyodon,spathula,,North Dakota,,Need for conservation; little support,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Scaphirhynchus,albus,,North Dakota,,Need for conservation; little support,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Macrhybopsis,storeriana,,North Dakota,,Need for conservation; little support,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Phoxinus,eos,,North Dakota,,Need for conservation; little support,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Platygobio,gracilis,,North Dakota,,Need for conservation; little support,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Percopsis,omiscomaycus,,North Dakota,,Need for conservation; little support,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Amblema,plicata,,North Dakota,,Need for conservation; little support,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Fusconaia,flava,,North Dakota,,Need for conservation; little support,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Quadrula,quadrula,,North Dakota,,Need for conservation; little support,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Ligumia,recta,,North Dakota,,Need for conservation; little support,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Lasmigona,compressa,,North Dakota,,Need for conservation; little support,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Potamilus,alatus,,North Dakota,,Need for conservation; little support,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Grus,americana,,North Dakota,,Some need for conservation; ND is near the edge of species range,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Falco,peregrinus,,North Dakota,,Some need for conservation; ND is near the edge of species range,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Spizella,breweri,,North Dakota,,Some need for conservation; ND is near the edge of species range,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Calcarius,mccownii,,North Dakota,,Some need for conservation; ND is near the edge of species range,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Apalone,mutica,,North Dakota,,Some need for conservation; ND is near the edge of species range,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Graptemys,pseudogeographica,,North Dakota,,Some need for conservation; ND is near the edge of species range,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Eumeces,septentrionalis,,North Dakota,,Some need for conservation; ND is near the edge of species range,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Sceloporus,graciosus,,North Dakota,,Some need for conservation; ND is near the edge of species range,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Sorex,arcticus,,North Dakota,,Some need for conservation; ND is near the edge of species range,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Myotis,ciliolabrum,,North Dakota,,Some need for conservation; ND is near the edge of species range,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Myotis,evotis,,North Dakota,,Some need for conservation; ND is near the edge of species range,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Myotis,volans,,North Dakota,,Some need for conservation; ND is near the edge of species range,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Perognathus,flavescens,,North Dakota,,Some need for conservation; ND is near the edge of species range,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Chaetodipus,hispidus,,North Dakota,,Some need for conservation; ND is near the edge of species range,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Lemmiscus,curtatus,,North Dakota,,Some need for conservation; ND is near the edge of species range,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Spilogale,putoris,,North Dakota,,Some need for conservation; ND is near the edge of species range,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Canis,lupis,,North Dakota,,Some need for conservation; ND is near the edge of species range,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Ichthyomyzon,castaneus,,North Dakota,,Some need for conservation; ND is near the edge of species range,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Ichthyomyzon,unicuspis,,North Dakota,,Some need for conservation; ND is near the edge of species range,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Campostoma,anomalum,,North Dakota,,Some need for conservation; ND is near the edge of species range,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Nocomis,biguttatus,,North Dakota,,Some need for conservation; ND is near the edge of species range,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Notropis,anogenus,,North Dakota,,Some need for conservation; ND is near the edge of species range,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Notropis,heterolepis,,North Dakota,,Some need for conservation; ND is near the edge of species range,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Notropis,rubellus,,North Dakota,,Some need for conservation; ND is near the edge of species range,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Phoxinus,neogaeus,,North Dakota,,Some need for conservation; ND is near the edge of species range,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Ameiurus,natalis,,North Dakota,,Some need for conservation; ND is near the edge of species range,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Pylodictis,olivaris,,North Dakota,,Some need for conservation; ND is near the edge of species range,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Percina,caprodes,,North Dakota,,Some need for conservation; ND is near the edge of species range,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Percina,shumardi,,North Dakota,,Some need for conservation; ND is near the edge of species range,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Potamilus,ohiensis,,North Dakota,,Some need for conservation; ND is near the edge of species range,,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
 Myotis, sodalis,,Ohio,Endangered,,,
 Villosa, fabalis,,Ohio,Endangered,,,
 Nicrophorus, americanus,,Ohio,Endangered,,,
@@ -6331,7 +6331,7 @@ Rhadine,persephone,,Texas,,Endangered,,http://www.mendeley.com/c/5144559874/g/20
 Stygoparnus,comalensis,,Texas,,Endangered,,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
 Texamaurops,reddelli,,Texas,,Endangered,,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
 Assiminea,pecos,,Texas,,Endangered,,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
-Fusconaia,"askewi,",,Texas,,Threatened,,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
+Fusconaia,askewi;,,Texas,,Threatened,,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
 Fusconaia,lananensis,,Texas,,Threatened,,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
 Lampsilis,bracteata,,Texas,,Threatened,,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
 Lampsilis,satura,,Texas,,Threatened,,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/

@@ -139,3 +139,21 @@ ALTER TABLE species_lists.status
    ADD CONSTRAINT status_pkey PRIMARY KEY (spp_id, state);
 
 COMMIT;
+
+DROP TABLE IF EXISTS species_lists.status_raw CASCADE;
+CREATE TABLE species_lists.status_raw
+(
+   genus  							varchar(255),
+   sp		                varchar(255),
+   subsp		            varchar(255),
+   state			          varchar(255), 
+   federal_status       varchar(1000),
+   state_status         varchar(1000),
+   notes				        varchar(1000),
+   state_source		      varchar(1000)
+);
+
+ALTER TABLE species_lists.status_raw
+   ADD CONSTRAINT status_raw_pkey PRIMARY KEY (genus,sp,subsp,state);
+
+COMMIT;
