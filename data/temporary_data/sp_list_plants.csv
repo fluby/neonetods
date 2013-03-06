@@ -1,1 +1,1034 @@
-site,genus,sp,subsp,common_name,source
+order,site,genus,sp,subsp,common_name,source
+23,DSNY,Andropogon,brachystachyus/virginicus,virgin.,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+25,DSNY,Andropogon,glomeratus glaucus/virginicus glaucus,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+41,DSNY,Andropogon,,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+72,DSNY,Axonopus,compressus/fissifolius,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+74,DSNY,Axonopus,fissifolius/furcatus,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+77,DSNY,Axonopus/Paspalum,,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+118,DSNY,Carex,glaucescens/verrucosa,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+128,DSNY,Carphephorus,corymbosus/paniculatus,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+153,DSNY,Chamaesyce,,,sandmat?,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+169,DSNY,Cirsium,horridulum/nuttallii,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+197,DSNY,Coreopsis,floridana/gladiata,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+215,DSNY,Cyperaceae,,,sedge family,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+279,DSNY,Dyschoriste,oblongifolia/Ruellia caroliniensis,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+290,DSNY,Eleocharis,equisetoides/interstincta,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+297,DSNY,Eleocharis,,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+298,DSNY,Eleocharis,,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+339,DSNY,Fabaceae,,,pea family,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+357,DSNY,Galactia,,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+362,DSNY,Gamochaeta/Pseudognaphalium,sp.,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+367,DSNY,Gaylussacia/Vaccinium,,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+389,DSNY,Helianthus,angustifolius/floridanus,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+400,DSNY,Houstonia/Oldenlandia,sp.,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+406,DSNY,Hydrocotyle,,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+415,DSNY,Hypericum,myrtifolium/tetrapetalum,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+441,DSNY,Juncus,megacephalus/polycephalus,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+456,DSNY,Kyllinga,,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+464,DSNY,Lamiaceae,,,mint family,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+484,DSNY,Liatris,spicata/tenuifolia quadriflora,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+488,DSNY,Lichen,,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+517,DSNY,Ludwigia,maritima/virgata,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+521,DSNY,Ludwigia,palustris/repens,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+584,DSNY,Oclemena/Sericocarpus/Symphyotrichum,sp.,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+585,DSNY,Oclemena/Sericocarpus/Symphyotrichum,sp.,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+630,DSNY,Paspalum,laeve/setaceum,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+639,DSNY,Paspalum,,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+689,DSNY,Polygala,cymosa/ramosa,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+693,DSNY,Polygala,lutea/nana,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+736,DSNY,Quercus,minima/elliottii,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+743,DSNY,Rhexia,mariana/nashii,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+746,DSNY,Rhexia,nuttallii/petiolata,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+752,DSNY,Rhynchospora,,,beaksedge?,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+755,DSNY,Rhynchospora,cephalantha/microcephala,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+760,DSNY,Rhynchospora,colorata/latifolia,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+763,DSNY,Rhynchospora,decurrens/microcarpa,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+767,DSNY,Rhynchospora,fascicularis/fernaldii,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+770,DSNY,Rhynchospora,filifolia/pleiantha,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+777,DSNY,Rhynchospora,microcarpa/microcephala,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+788,DSNY,Rhynchospora,,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+794,DSNY,Rosaceae,,,rose family,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+796,DSNY,Rubiaceae,,,madder family,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+821,DSNY,Sagittaria,graminea/isoetiformis,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+854,DSNY,Scleria,reticularis/triglomerata,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+980,DSNY,Viola,palmata/sororia,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+42,DSNY,Andropogon/Schizachrium,,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+193,DSNY,Convolvulaceae,,,morning-glory family,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+682,DSNY,Poaceae,,,grass family,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+704,DSNY,Polygonum,hydropiperoides/punctatum,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+123,DSNY,Carex,sp.,,sedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+1,DSNY,Acalypha,gracilens,,slender threeseed mercury,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+2,DSNY,Acanthospermum,hispidum,,hispid starburr,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+3,DSNY,Acer,rubrum,,red maple,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+4,DSNY,Acrostichum,danaeifolium,,giant leather fern,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+5,DSNY,Aeschynomene,americana,,shyleaf,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+6,DSNY,Agalinis,fasciculata,,beach false foxglove,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+7,DSNY,Agalinis,linifolia,,flaxleaf false foxglove,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+8,DSNY,Agalinis,obtusifolia,,tenlobe false foxglove,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+9,DSNY,Agalinis,purpurea,,purple false foxglove,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+10,DSNY,Agalinis,sp.,,false foxglove,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+11,DSNY,Albizia,julibrissin,,silktree,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+12,DSNY,Aletris,lutea,,yellow colicroot,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+13,DSNY,Alternanthera,philoxeroides,,alligatorweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+14,DSNY,Alternanthera,sessilis,,sessile joyweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+15,DSNY,Amaranthus,spinosus,,spiny amaranth,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+16,DSNY,Amaranthus,viridis,,slender amaranth,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+17,DSNY,Ambrosia,artemisiifolia,,common ragweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+18,DSNY,Amorpha,herbacea,herbacea,clusterspike false indigobush,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+19,DSNY,Ampelopsis,arborea,,peppervine,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+20,DSNY,Amphicarpum,muhlenbergianum,,blue maidencane,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+21,DSNY,Andropogon,sp.,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+22,DSNY,Andropogon,arctatus,,pinewoods bluestem,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+24,DSNY,Andropogon,brachystachyus,,shortspike bluestem,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+26,DSNY,Andropogon,glomeratus,,bushy bluestem,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+27,DSNY,Andropogon,glomeratus,glaucopsis,purple bluestem,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+28,DSNY,Andropogon,glomeratus,glomeratus,clustered bushy bluestem,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+29,DSNY,Andropogon,glomeratus,hirsutior,hairy bushy bluestem,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+30,DSNY,Andropogon,glomeratus,pumilus,weedy bushy bluestem,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+31,DSNY,Andropogon,gyrans,gyrans,Elliott's corkscrew bluestem,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+32,DSNY,Andropogon,gyrans,stenophyllus,Elliott's narrow-leaf bluestem,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+33,DSNY,Andropogon,longiberbis,,hairy bluestem,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+34,DSNY,Andropogon,sp.,,bluestem,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+35,DSNY,Andropogon,ternarius,,splitbeard bluestem,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+36,DSNY,Andropogon,tracyi,,Tracy's bluestem,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+37,DSNY,Andropogon,virginicus,,broomsedge bluestem,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+38,DSNY,Andropogon,virginicus,decipiens,deceptive broomsedge bluestem,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+39,DSNY,Andropogon,virginicus,glaucus,chalky bluestem,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+40,DSNY,Andropogon,virginicus,virginicus,old field broomsedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+43,DSNY,Apiaceae,,,carrot family,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+44,DSNY,Apios,americana,,groundnut,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+45,DSNY,Apocynaceae,,,dogbane family,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+46,DSNY,Aristida,gyrans,,corkscrew threeawn,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+47,DSNY,Aristida,palustris,,longleaf threeawn,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+48,DSNY,Aristida,purpurascens,,arrowfeather threeawn,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+49,DSNY,Aristida,purpurascens,tenuispica,Hillsboro threeawn,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+50,DSNY,Aristida,rhizomophora,,Florida threeawn,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+51,DSNY,Aristida,sp.,,threeawn,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+52,DSNY,Aristida,spiciformis,,bottlebrush threeawn,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+53,DSNY,Aristida,stricta,,wiregrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+54,DSNY,Asclepias,cinerea,,Carolina milkweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+55,DSNY,Asclepias,curassavica,,scarlet milkweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+56,DSNY,Asclepias,feayi,,Florida milkweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+57,DSNY,Asclepias,incarnata,,swamp milkweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+58,DSNY,Asclepias,longifolia,,longleaf milkweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+59,DSNY,Asclepias,pedicellata,,savannah milkweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+60,DSNY,Asclepias,perennis,,floodplain milkweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+61,DSNY,Asclepias,sp.,,milkweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+62,DSNY,Asimina,incana,,woolly pawpaw,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+63,DSNY,Asimina,obovata,,bigflower pawpaw,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+64,DSNY,Asimina,parviflora,,smallflower pawpaw,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+65,DSNY,Asimina,pygmaea,,dwarf pawpaw,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+66,DSNY,Asimina,reticulata,,netted pawpaw,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+67,DSNY,Asimina,sp.,,pawpaw,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+68,DSNY,Asparagus,aethiopicus,,Sprenger's asparagus-fern,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+69,DSNY,Asplenium,sp.,,spleenwort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+70,DSNY,Asteraceae,,,aster family,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+71,DSNY,Axonopus,compressus,,tropical carpetgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+73,DSNY,Axonopus,fissifolius,,common carpetgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+75,DSNY,Axonopus,furcatus,,big carpetgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+76,DSNY,Axonopus,sp.,,carpetgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+78,DSNY,Azolla,caroliniana,,mosquito fern,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+79,DSNY,Baccharis,glomeruliflora,,silverling,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+80,DSNY,Baccharis,halimifolia,,groundsel tree,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+81,DSNY,Bacopa,caroliniana,,lemon bacopa,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+82,DSNY,Bacopa,monnieri,,herb-of-grace,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+83,DSNY,Balduina,angustifolia,,coastalplain honeycombhead,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+84,DSNY,Bartonia,verna,,white screwstem,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+85,DSNY,Bejaria,racemosa,,tarflower,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+86,DSNY,Berlandiera,subacaulis,,Florida greeneyes,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+87,DSNY,Bahia,,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+88,DSNY,Bidens,alba,,beggarticks,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+89,DSNY,Bidens,laevis,,burrmarigold,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+90,DSNY,Bidens,mitis,,smallfruit beggarticks,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+91,DSNY,Bidens,pilosa,,Spanish needles,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+92,DSNY,Bidens,obligate,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+93,DSNY,Bigelowia,nudata,,pineland rayless goldenrod,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+94,DSNY,Bigelowia,nudata,australis,pineland rayless goldenrod,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+95,DSNY,Bigelowia,nudata,nudata,pineland rayless goldenrod,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+96,DSNY,Blechnum,serrulatum,,toothed mid-sorus fern,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+97,DSNY,Boehmeria,cylindrica,,false nettle,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+98,DSNY,Buchnera,americana,,American bluehearts,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+99,DSNY,Bulbostylis,barbata,,watergrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+100,DSNY,Bulbostylis,ciliatifolia,,capillary hairsedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+101,DSNY,Bulbostylis,sp.,,hairsedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+102,DSNY,Bulbostylis,stenophylla,,sandyfield hairsedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+103,DSNY,Bulbostylis,warei,,Ware's hairsedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+104,DSNY,Burmannia,biflora,,bluethread,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+105,DSNY,Cabomba,caroliniana,,Carolina fanwort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+106,DSNY,Callicarpa,americana,,American beautyberry,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+107,DSNY,Callisia,ornata,,Florida scrub roseling,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+108,DSNY,Calopogon,barbatus,,bearded grasspink,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+109,DSNY,Calopogon,multiflorus,,manyflowered grasspink,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+110,DSNY,Calopogon,tuberosus,,tuberous grasspink,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+111,DSNY,Calystegia,sepium,,hedge false bindweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+112,DSNY,Canna,flaccida,,bandana-of-the-Everglades,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+114,DSNY,Carex,alata,,broadwing sedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+115,DSNY,Carex,cherokeensis,,Cherokee sedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+116,DSNY,Carex,elliottii,,Elliott's sedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+117,DSNY,Carex,glaucescens,,clustered sedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+119,DSNY,Carex,longii,,Long's sedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+120,DSNY,Carex,lupiliformis,,false hop sedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+121,DSNY,Carex,lupulina,,hop sedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+122,DSNY,Carex,oxylepis,,sharpscale sedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+124,DSNY,Carex,turgescens,,pinebarren sedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+125,DSNY,Carex,verrucosa,,warty sedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+126,DSNY,Carphephorus,carnosus,,pineland chaffhead,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+127,DSNY,Carphephorus,corymbosus,,coastalplain chaffhead,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+129,DSNY,Carphephorus,odoratissimus,,vanillaleaf,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+130,DSNY,Carphephorus,odoratissimus,subtropicanus,pineland purple,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+131,DSNY,Carphephorus,paniculatus,,hairy chaffhead,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+132,DSNY,Carphephorus,sp.,,chaffhead,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+133,DSNY,Carpinus,caroliniana,,American hornbeam,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+134,DSNY,Carya,glabra,,pignut hickory,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+135,DSNY,Catharanthus,roseus,,Madagascar periwinkle,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+136,DSNY,Celtis,laevigata,,sugarberry,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+137,DSNY,Cenchrus,echinatus,,southern sandbur,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+138,DSNY,Centella,asiatica,,spadeleaf,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+139,DSNY,Centrosema,sp.,,butterfly pea,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+140,DSNY,Centrosema,virginianum,,spurred butterfly pea,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+141,DSNY,Cephalanthus,occidentalis,,common buttonbush,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+142,DSNY,Ceratiola,ericoides,,Florida rosemary,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+143,DSNY,Ceratophyllum,demersum,,coontail,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+144,DSNY,Ceratophyllum,sp.,,hornwort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+145,DSNY,Ceratopteris,pteridoides,,water horn fern,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+146,DSNY,Ceratopteris,sp.,,water fern,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+147,DSNY,Chamaecrista,fasciculata,,partridge pea,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+148,DSNY,Chamaecrista,nictitans,,sensitive pea,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+149,DSNY,Chamaecrista,nictitans,aspera,sensitive pea,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+150,DSNY,Chamaecrista,nictitans,nictitans,sensitive pea,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+151,DSNY,Chamaecrista,nictitans/fasciculata,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+152,DSNY,Chamaecrista,sp.,,sensitive pea,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+154,DSNY,Chamaesyce,cordifolia,,heartleaf sandmat,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+155,DSNY,Chamaesyce,hirta,,pillpod sandmat,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+156,DSNY,Chamaesyce,hyssopifolia,,hyssopleaf sandmat,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+157,DSNY,Chamaesyce,maculata,,spotted sandmat,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+158,DSNY,Chamaesyce,sp.,,sandmat,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+159,DSNY,Chapmannia,floridana,,Florida alicia,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+160,DSNY,Chaptalia,tomentosa,,woolly sunbonnets,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+161,DSNY,Chasmanthium,latifolium,,Indian woodoats,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+162,DSNY,Chenopodium,ambrosioides,,Mexican tea,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+163,DSNY,Chrysopogon,pauciflorus,,Florida false beardgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+164,DSNY,Chrysopsis,scabrella,,coastalplain goldenaster,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+165,DSNY,Chrysopsis,sp.,,goldenaster,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+166,DSNY,Chrysopsis,subulata,,scrubland goldenaster,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+167,DSNY,Cinnamomum,camphora,,camphortree,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+168,DSNY,Cirsium,horridulum,,purple thistle,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+170,DSNY,Cirsium,nuttallii,,Nuttall's thistle,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+171,DSNY,Cirsium,sp.,,thistle,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+172,DSNY,Citrus,xaurantium,,sour orange,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+173,DSNY,Cladina,evansii,,powder-puff lichen,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+174,DSNY,Cladina,subtenuis,,Dixie reindeer lichen,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+175,DSNY,Cladium,jamaicense,,Jamaica swamp sawgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+176,DSNY,Cladium,sp.,,swamp sawgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+177,DSNY,Cladonia,leporina,,jester lichen,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+178,DSNY,Cladonia,sp.,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+179,DSNY,Clematis,crispa,,swamp leather-flower,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+180,DSNY,Clematis,sp.,,leather-flower,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+181,DSNY,Cnidoscolus,stimulosus,,tread softly,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+182,DSNY,Coelorachis,cylindrica,,Carolina jointtailgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+183,DSNY,Coelorachis,rugosa,,wrinkled jointtailgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+184,DSNY,Coelorachis,tuberculosa,,Florida jointtailgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+185,DSNY,Colocasia,esculenta,,wild taro,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+186,DSNY,Commelina,communis,,Asiatic dayflower,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+187,DSNY,Commelina,diffusa,,dayflower,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+188,DSNY,Commelina,diffusa,diffusa,common dayflower,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+189,DSNY,Commelina,erecta,,whitemouth dayflower,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+190,DSNY,Commelina,gambiae,,Gambian dayflower,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+191,DSNY,Commelina,sp.,,dayflower,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+192,DSNY,Conoclinium,coelestinum,,blue mistflower,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+194,DSNY,Conyza,canadensis,,Canadian horseweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+195,DSNY,Conyza,sp.,,horseweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+196,DSNY,Coreopsis,floridana,,Florida tickseed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+198,DSNY,Coreopsis,gladiata,,coastalplain tickseed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+199,DSNY,Coreopsis,leavenworthii,,Leavenworth's tickseed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+200,DSNY,Coreopsis,sp.,,tickseed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+201,DSNY,Cornus,foemina,,swamp dogwood,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+202,DSNY,Corydalis,micrantha,,smallflower fumewort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+203,DSNY,Crotalaria,lanceolata,,lanceleaf rattlebox,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+204,DSNY,Crotalaria,pallida,,smooth rattlebox,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+205,DSNY,Crotalaria,purshii,,Pursh's rattlebox,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+206,DSNY,Crotalaria,rotundifolia,,rabbitbells,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+207,DSNY,Crotalaria,spectabilis,,showy rattlebox,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+208,DSNY,Croton,michauxii,,rushfoil,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+209,DSNY,Ctenium,aromaticum,,toothachegrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+210,DSNY,Cuphea,carthagenensis,,Colombian waxweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+211,DSNY,Cuscuta,pentagona,,fiveangled dodder,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+212,DSNY,Cyclospermum,leptophyllum,,marsh parsley,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+213,DSNY,Cynanchum,sp.,,swallowwort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+214,DSNY,Cynodon,dactylon,,Bermudagrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+216,DSNY,Cyperus,articulatus,,jointed flatsedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+217,DSNY,Cyperus,compressus,,poorland flatsedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+218,DSNY,Cyperus,croceus,,Baldwin's flatsedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+219,DSNY,Cyperus,cuspidatus,,coastalplain flatsedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+220,DSNY,Cyperus,difformis,,variable flatsedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+221,DSNY,Cyperus,distinctus,,conspicuous swamp flatsedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+222,DSNY,Cyperus,erythrorhizos,,redroot flatsedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+223,DSNY,Cyperus,esculentus,,yellow nutgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+224,DSNY,Cyperus,haspan,,haspan flatsedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+225,DSNY,Cyperus,lecontei,,Leconte's flatsedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+226,DSNY,Cyperus,ligularis,,strap swamp flatsedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+227,DSNY,Cyperus,odoratus,,fragrant flatsedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+228,DSNY,Cyperus,polystachyos,,manyspike flatsedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+229,DSNY,Cyperus,pumilus,,low flatsedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+230,DSNY,Cyperus,retrorsus,,pinebarren flatsedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+231,DSNY,Cyperus,rotundus,,round nutgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+232,DSNY,Cyperus,sp.,,flatsedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+233,DSNY,Cyperus,strigosus,,strawcolored flatsedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+234,DSNY,Cyperus,surinamensis,,tropical flatsedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+235,DSNY,Dactyloctenium,aegyptium,,Durban crowfootgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+236,DSNY,Dalea,carnea,carnea,whitetassels,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+237,DSNY,Decodon,verticillatus,,willow-herb,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+238,DSNY,Descurainia,pinnata,,western tansymustard,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+239,DSNY,Desmodium,incanum,,zarzabacoa comun,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+240,DSNY,Desmodium,sp.,,ticktreefoil,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+241,DSNY,Desmodium,triflorum,,threeflower ticktrefoil,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+242,DSNY,Dichanthelium,aciculare,,needleleaf witchgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+243,DSNY,Dichanthelium,acuminatum,,tapered witchgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+244,DSNY,Dichanthelium,commutatum,,variable witchgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+245,DSNY,Dichanthelium,dichotomum,,split cypress witchgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+246,DSNY,Dichanthelium,ensifolium,,cypress witchgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+247,DSNY,Dichanthelium,ensifolium,breve,dwarf cypress witchgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+248,DSNY,Dichanthelium,ensifolium,ensifolium,sword-leaf cypress witchgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+249,DSNY,Dichanthelium,ensifolium,unciphyllum,hooked sword-leaf cypress witchgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+250,DSNY,Dichanthelium,erectifolium,,erectleaf witchgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+251,DSNY,Dichanthelium,leucothrix,,rough witchgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+252,DSNY,Dichanthelium,portoricense,,hemlock witchgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+253,DSNY,Dichanthelium,scabriusculum,,woolly witchgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+254,DSNY,Dichanthelium,sp.,,witchgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+255,DSNY,Dichanthelium,strigosum,,roughhair witchgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+256,DSNY,Dichanthelium,strigosum,glabrescens,smooth thin witchgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+257,DSNY,Dichanthelium,strigosum,leucoblepharis,white thin witchgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+258,DSNY,Dichondra,caroliniensis,,Carolina ponysfoot,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+259,DSNY,Digitaria,ciliaris,,southern crabgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+260,DSNY,Digitaria,filiformis,,slender crabgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+261,DSNY,Digitaria,insularis,,sourgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+262,DSNY,Digitaria,longiflora,,Indian crabgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+263,DSNY,Digitaria,pentzii,,pangolagrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+264,DSNY,Digitaria,serotina,,blanket crabgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+265,DSNY,Digitaria,sp.,,crabgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+266,DSNY,Digitaria,violascens,,violet crabgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+267,DSNY,Diodia,sp.,,buttonweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+268,DSNY,Diodia,teres,,poor joe,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+269,DSNY,Diodia,virginiana,,Virginia buttonweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+270,DSNY,Dioscorea,bulbifera,,air-potato,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+271,DSNY,Diospyros,virginiana,,common persimmon,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+272,DSNY,Drosera,brevifolia,,dwarf sundew,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+273,DSNY,Drosera,capillaris,,pink sundew,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+274,DSNY,Drosera,sp.,,sundew,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+275,DSNY,Drymaria,cordata,,drymary,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+276,DSNY,Dryopteris,ludoviciana,,southern wood fern,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+277,DSNY,Dulichium,arundinaceum,,threeway sedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+278,DSNY,Dyschoriste,oblongifolia,,oblongleaf twinflower,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+280,DSNY,Echinochloa,crus-galli,,barnyardgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+281,DSNY,Echinochloa,sp.,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+282,DSNY,Echinochloa,walteri,,coast cockspur,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+283,DSNY,Eclipta,prostrata,,false daisy,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+284,DSNY,Eichhornia,crassipes,,common water-hyacinth,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+285,DSNY,Eleocharis,acicularis,,needle spikerush,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+286,DSNY,Eleocharis,baldwinii,,Baldwin's spikerush,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+287,DSNY,Eleocharis,cellulosa,,gulf coast spikerush,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+288,DSNY,Eleocharis,elongata,,slim spikerush,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+289,DSNY,Eleocharis,equisetoides,,jointed spikerush,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+291,DSNY,Eleocharis,flavescens,,yellow spikerush,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+292,DSNY,Eleocharis,interstincta,,knotted spikerush,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+293,DSNY,Eleocharis,microcarpa,,smallfruit spikerush,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+294,DSNY,Eleocharis,nigrescens,,black spikerush,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+295,DSNY,Eleocharis,sp.,,spikerush,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+296,DSNY,Eleocharis,vivipara,,viviparous spikerush,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+299,DSNY,Elephantopus,elatus,,tall elephantsfoot,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+300,DSNY,Elephantopus,sp.,,elephantsfoot,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+301,DSNY,Eleusine,indica,,Indian goosegrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+302,DSNY,Emilia,fosbergii,,Florida tasselflower,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+303,DSNY,Emilia,sonchifolia,,lilac tasselflower,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+304,DSNY,Encyclis,tampensis,,Florida butterfly orchid,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+305,DSNY,Enterolobium,contortisiliquum,,earpod tree,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+306,DSNY,Epidendrum,conopseum,,green-fly orchid,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+307,DSNY,Eragrostis,atrovirens,,thalia lovegrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+308,DSNY,Eragrostis,ciliaris,,gophertail lovegrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+309,DSNY,Eragrostis,elliottii,,Elliott's lovegrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+310,DSNY,Eragrostis,pectinacea,,tufted lovegrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+311,DSNY,Eragrostis,sp.,,lovegrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+312,DSNY,Eragrostis,spectabilis,,purple lovegrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+313,DSNY,Eragrostis,virginica,,coastal lovegrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+314,DSNY,Erechtites,hieraciifolius,,American burnweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+315,DSNY,Eremochloa,ophiuroides,,centipedegrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+316,DSNY,Erigeron,quercifolius,,oakleaf fleabane,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+317,DSNY,Erigeron,sp.,,fleabane,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+318,DSNY,Erigeron,strigosus,,prairie fleabane,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+319,DSNY,Erigeron,vernus,,early whitetop fleabane,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+320,DSNY,Eriocaulon,compressum,,compressed pipewort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+321,DSNY,Eriocaulon,decangulare,,tenangle pipewort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+322,DSNY,Eriocaulon,sp.,,pipewort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+323,DSNY,Eryngium,aquaticum,,rattlesnakemaster,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+324,DSNY,Eryngium,aromaticum,,fragrant eryngo,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+325,DSNY,Eryngium,baldwinii,,Baldwin's eryngo,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+326,DSNY,Eryngium,yuccifolium,,button rattlesnakemaster,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+327,DSNY,Erythrina,herbacea,,coralbean,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+328,DSNY,Eulophia,alta,,wild coco,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+329,DSNY,Eupatorium,capillifolium,,dogfennel,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+330,DSNY,Eupatorium,compositifolium,,yankeeweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+331,DSNY,Eupatorium,leptophyllum,,falsefennel,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+332,DSNY,Eupatorium,mohrii,,Mohr's thoroughwort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+333,DSNY,Eupatorium,pilosum,,rough boneset,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+334,DSNY,Eupatorium,rotundifolium,,roundleaf thoroughwort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+335,DSNY,Eupatorium,sp.,,thoroughwort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+336,DSNY,Euphorbia,polyphylla,,lesser Florida spurge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+337,DSNY,Eustachys,petraea,,pinewoods fingergrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+338,DSNY,Euthamia,caroliniana,,slender flattop goldenrod,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+340,DSNY,Ficus,aurea,,strangler fig,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+341,DSNY,Fimbristylis,autumnalis,,slender fimbry,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+342,DSNY,Fimbristylis,caroliniana,,Carolina fimbry,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+343,DSNY,Fimbristylis,dichotoma,,forked fimbry,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+344,DSNY,Fimbristylis,miliacea,,grasslike fimbry,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+345,DSNY,Fimbristylis,puberula,,hairy fimbry,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+346,DSNY,Fimbristylis,schoenoides,,ditch fimbry,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+347,DSNY,Fimbristylis,sp.,,fimbry,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+348,DSNY,Fraxinus,americana,,white ash,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+349,DSNY,Fraxinus,caroliniana,,Carolina ash,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+350,DSNY,Fuirena,breviseta,,saltmarsh umbrellasedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+351,DSNY,Fuirena,scirpoidea,,southern umbrellasedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+352,DSNY,Fuirena,sp.,,umbrellasedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+353,DSNY,Galactia,elliottii,,Elliott's milkpea,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+354,DSNY,Galactia,regularis,,eastern milkpea,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+355,DSNY,Galactia,sp.,,milkpea,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+356,DSNY,Galactia,volubilis,,downy milkpea,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+358,DSNY,Galium,sp.,,bedstraw,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+359,DSNY,Galium,tinctorium,,stiff marsh bedstraw,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+360,DSNY,Gamochaeta,falcatum,,narrowleaf purple everlasting,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+361,DSNY,Gamochaeta,pensylvanicum,,Pennsylvania everlasting,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+363,DSNY,Gaura,angustifolia,,southern beeblossom,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+364,DSNY,Gaylussacia,dumosa,,dwarf huckleberry,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+365,DSNY,Gaylussacia,frondosa,,blue huckleberry,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+366,DSNY,Gaylussacia,sp.,,huckleberry,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+368,DSNY,Gelsemium,sempervirens,,yellow jessamine,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+369,DSNY,Geranium,carolinianum,,Carolina cranesbill,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+370,DSNY,Gordonia,lasianthus,,loblolly bay,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+371,DSNY,Gratiola,brevifolia,,sticky hedgehyssop,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+372,DSNY,Gratiola,hispida,,rough hedgehyssop,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+373,DSNY,Gratiola,pilosa,,shaggy hedgehyssop,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+374,DSNY,Gratiola,ramosa,,branched hedgehyssop,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+375,DSNY,Gratiola,sp.,,hedgehyssop,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+376,DSNY,Gymnopogon,chapmanianus,,Chapman's skeletongrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+377,DSNY,Gymnopogon,sp.,,skeleltongrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+378,DSNY,Habenaria,floribunda,,toothpetal false reinorchid,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+379,DSNY,Habenaria,nivea,,snowy orchid,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+380,DSNY,Habenaria,repens,,waterspider false reinorchid,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+381,DSNY,Harrisella,porrecta,,needleroot airplant orchid,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+382,DSNY,Helenium,pinnatifidum,,southeastern sneezeweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+383,DSNY,Helenium,sp.,,sneezeweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+384,DSNY,Helianthemum,carolinianum,,Carolina frostweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+385,DSNY,Helianthemum,corymbosum,,pinebarren frostweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+386,DSNY,Helianthemum,nashii,,Florida scrub frostweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+387,DSNY,Helianthemum,sp.,,frostweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+388,DSNY,Helianthus,angustifolius,,narrowleaf sunflower,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+390,DSNY,Helianthus,floridanus,,Florida sunflower,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+391,DSNY,Helianthus,radula,,stiff sunflower,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+392,DSNY,Heliotropium,polyphyllum,,pineland heliotrope,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+393,DSNY,Hemarthria,altissima,,limpograss,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+394,DSNY,Heterotheca,subaxillaris,,false goldenaster,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+395,DSNY,Hibiscus,coccineus,,scarlet rosemallow,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+396,DSNY,Hibiscus,grandiflorus,,swamp rosemallow,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+397,DSNY,Hieracium,gronovii,,queendevil,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+398,DSNY,Hieracium,megacephalon,,coastalplain hawkweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+399,DSNY,Houstonia,procumbens,,innocence,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+401,DSNY,Hydrilla,verticillata,,waterthyme,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+402,DSNY,Hydrocotyle,ranunculoides,,floating marshpennywort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+403,DSNY,Hydrocotyle,sp.,,marshpennywort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+404,DSNY,Hydrocotyle,umbellata,,manyflower marshpennywort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+405,DSNY,Hydrocotyle,verticillata,verticillata,whorled marshpennywort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+407,DSNY,Hydrolea,corymbosa,,skyflower,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+408,DSNY,Hypericum,cistifolium,,roundpod St. John's-wort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+409,DSNY,Hypericum,crux-andreae,,St. Peter's-wort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+410,DSNY,Hypericum,fasciculatum,,sandweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+411,DSNY,Hypericum,gentianoides,,pineweeds,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+412,DSNY,Hypericum,hypericoides,,St. Andrew's-cross,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+413,DSNY,Hypericum,mutilum,,dwarf St. John's-wort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+414,DSNY,Hypericum,myrtifolium,,myrtleleaf St. John's-wort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+416,DSNY,Hypericum,reductum,,Atlantic St. John's-wort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+417,DSNY,Hypericum,sp.,,St. John's-wort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+418,DSNY,Hypericum,tetrapetalum,,fourpetal St. John's-wort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+419,DSNY,Hypoxis,curtissii,,common yellow stargrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+420,DSNY,Hypoxis,juncea,,fringed yellow stargrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+421,DSNY,Hyptis,alata,,musky mint,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+422,DSNY,Hyptis,mutabilis,,tropical bushmint,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+423,DSNY,Ilex,ambigua,,Carolina holly,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+424,DSNY,Ilex,cassine,,dahoon,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+425,DSNY,Ilex,glabra,,gallberry,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+426,DSNY,Ilex,opaca,opaca,American holly,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+427,DSNY,Imperata,cylindrica,,cogongrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+428,DSNY,Indigofera,hirsuta,,hairy indigo,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+429,DSNY,Ipomoea,alba,,moonflowers,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+430,DSNY,Ipomoea,cordatotriloba,,tievine,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+431,DSNY,Iresine,diffusa,,Juba's bush,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+432,DSNY,Iris,hexagona,,dixie iris,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+433,DSNY,Iris,sp.,,flag,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+434,DSNY,Itea,virginica,,Virginia willow,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+435,DSNY,Iva,microcephala,,piedmont marshelder,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+436,DSNY,Juncus,dichotomus,,forked rush,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+437,DSNY,Juncus,effusus,,soft rush,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+438,DSNY,Juncus,elliottii,,bog rush,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+439,DSNY,Juncus,marginatus,,shore rush,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+440,DSNY,Juncus,megacephalus,,bighead rush,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+442,DSNY,Juncus,polycephalos,,manyhead rush,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+443,DSNY,Juncus,repens,,lesser creeping rush,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+444,DSNY,Juncus,roemerianus,,needle rush,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+445,DSNY,Juncus,scirpoides,,needlepod rush,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+446,DSNY,Juncus,sp.,,rush,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+447,DSNY,Justicia,angusta,,pineland waterwillow,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+448,DSNY,Justicia,ovata,,looseflower waterwillow,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+449,DSNY,Justicia,sp.,,waterwillow,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+450,DSNY,Kosteletzkya,virginica,,Virginia saltmarsh mallow,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+451,DSNY,Krigia,virginica,,Virginia dwarfdandelion,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+452,DSNY,Kummerowia,striata,,Japanese clover,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+453,DSNY,Kyllinga,brevifolia,,shortleaf spikesedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+454,DSNY,Kyllinga,odorata,,fragrant spikesedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+455,DSNY,Kyllinga,pumila,,low spikesedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+457,DSNY,Lachnanthes,caroliana,,Carolina redroot,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+458,DSNY,Lachnocaulon,anceps,,whitehead bogbutton,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+459,DSNY,Lachnocaulon,beyrichianum,,southern bogbutton,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+460,DSNY,Lachnocaulon,minus,,Small's bogbutton,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+461,DSNY,Lachnocaulon,sp.,,bogbutton,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+462,DSNY,Lactuca,canadensis,,Canada lettuce,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+463,DSNY,Lactuca,graminifolia,,grassleaf lettuce,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+465,DSNY,Landoltia,punctata,,dotted duckweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+466,DSNY,Lantana,camara,,lantana,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+467,DSNY,Lechea,cernua,,nodding pinweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+468,DSNY,Lechea,divaricata,,drysand pinweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+469,DSNY,Lechea,sp.,,pinweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+470,DSNY,Lechea,torreyi,,piedmont pinweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+471,DSNY,Leersia,hexandra,,southern cutgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+472,DSNY,Leersia,sp.,,cutgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+473,DSNY,Lemna,obscura,,little duckweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+474,DSNY,Lemna,sp.,,duckweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+475,DSNY,Lemna,valdiviana,,Valdivia duckweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+476,DSNY,Leonotis,nepetifolia,,lion's-ear,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+477,DSNY,Lepidium,virginicum,,Virginia pepperweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+478,DSNY,Leptochloa,sp.,,sprangletop,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+479,DSNY,Leucaena,leucocephala,,white leadtree,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+480,DSNY,Liatris,chapmanii,,Chapman's gayfeather,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+481,DSNY,Liatris,gracilis,,slender gayfeather,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+482,DSNY,Liatris,sp.,,gayfeather,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+483,DSNY,Liatris,spicata,,dense gayfeather,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+485,DSNY,Liatris,tenuifolia,,shortleaf gayfeather,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+486,DSNY,Liatris,tenuifolia,quadriflora,shortleaf gayfeather,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+487,DSNY,Licania,michauxii,,gopher apple,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+489,DSNY,Lilium,catesbaei,,Catesby's lily,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+490,DSNY,Limnobium,spongia,,frog's-bit,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+491,DSNY,Limnophila,sp.,,marshweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+492,DSNY,Linaria,canadensis,,Canada toadflax,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+493,DSNY,Lindernia,crustacea,,Malaysian false pimpernel,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+494,DSNY,Lindernia,dubia,,moistbank pimpernel,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+495,DSNY,Lindernia,dubia,anagallidea,yellowseed false pimpernel,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+496,DSNY,Lindernia,grandiflora,,savannah false pimpernel,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+497,DSNY,Linum,floridanum,,Florida yellow flax,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+498,DSNY,Linum,medium,,stiff yellow flax,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+499,DSNY,Liquidambar,styraciflua,,sweetgum,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+500,DSNY,Lithospermum,incisum,,narrowleaf gromwell,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+501,DSNY,Lobelia,feayana,,bay lobelia,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+502,DSNY,Lobelia,glandulosa,,glade lobelia,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+503,DSNY,Lobelia,paludosa,,white lobelia,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+504,DSNY,Lobelia,sp.,,lobelia,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+505,DSNY,Lolium,perenne,,Italian ryegrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+506,DSNY,Ludwigia,alata,,winged primrosewillow,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+507,DSNY,Ludwigia,alternifolia,,seedbox,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+508,DSNY,Ludwigia,arcuata,,piedmont primrosewillow,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+509,DSNY,Ludwigia,decurrens,,wingleaf primrosewillow,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+510,DSNY,Ludwigia,erecta,,yerba de jicotea,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+511,DSNY,Ludwigia,hirtella,,spindleroot,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+512,DSNY,Ludwigia,lanceolata,,lanceleaf primrosewillow,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+513,DSNY,Ludwigia,leptocarpa,,anglestem primrosewillow,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+514,DSNY,Ludwigia,linearis,,narrowleaf primrosewillow,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+515,DSNY,Ludwigia,linifolia,,southeastern primrosewillow,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+516,DSNY,Ludwigia,maritima,,seaside primrosewillow,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+518,DSNY,Ludwigia,microcarpa,,smallfruit primrosewillow,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+519,DSNY,Ludwigia,octovalvis,,Mexican primrosewillow,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+520,DSNY,Ludwigia,palustris,,marsh seedbox,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+522,DSNY,Ludwigia,peruviana,,Peruvian primrosewillow,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+523,DSNY,Ludwigia,pilosa,,hairy primrosewillow,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+524,DSNY,Ludwigia,repens,,creeping primrosewillow,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+525,DSNY,Ludwigia,sp.,,primrosewillow,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+526,DSNY,Ludwigia,sphaerocarpa,,globefruit primrosewillow,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+527,DSNY,Ludwigia,suffruticosa,,shrubby primrosewillow,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+528,DSNY,Ludwigia,virgata,,savannah primrosewillow,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+529,DSNY,Ludwigia,obligate,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+530,DSNY,Lupinus,diffusus,,skyblue lupine,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+531,DSNY,Luziola,fluitans,,southern watergrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+532,DSNY,Luziola,sp.,,watergrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+533,DSNY,Lycopodiella,appressa,,southern club-moss,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+534,DSNY,Lycopodiella,cernua,,nodding club-moss,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+535,DSNY,Lycopodiella,sp.,,club-moss,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+536,DSNY,Lycopus,rubellus,,taperleaf waterhorehound,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+537,DSNY,Lygodesmia,aphylla,,rose-rush,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+538,DSNY,Lygodium,japonicum,,Japanese climbing fern,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+539,DSNY,Lygodium,microphyllum,,Old World climbing fern,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+540,DSNY,Lyonia,ferruginea,,rusty staggerbush,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+541,DSNY,Lyonia,fruticosa,,coastalplain staggerbush,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+542,DSNY,Lyonia,ligustrina,,maleberry,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+543,DSNY,Lyonia,lucida,,fetterbush,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+544,DSNY,Macroptilium,lathyroides,,wild bushbean,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+545,DSNY,Magnolia,virginiana,,sweetbay,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+546,DSNY,Marshallia,sp.,,Barbara's buttons,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+547,DSNY,Marshallia,tenuifolia,,grassleaf Barbara's buttons,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+548,DSNY,Matelea,floridana,,Florida milkvine,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+549,DSNY,Matelea,gonocarpos,,angularfruit milkvine,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+550,DSNY,Melaleuca,quinquenervia,,punktree,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+551,DSNY,Melilotus,albus,,white sweetclover,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+552,DSNY,Melochia,corchorifolia,,chocolateweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+553,DSNY,Melothria,pendula,,creeping cucumber,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+554,DSNY,Micranthemum,sp.,,mudflower,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+555,DSNY,Micranthemum,umbrosum,,shade mudflower,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+556,DSNY,Micromeria,brownei,,Browne's savory,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+557,DSNY,Mikania,scandens,,climbing hempvine,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+558,DSNY,Mitchella,repens,,partridgeberry,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+559,DSNY,Mitreola,petiolata,,lax hornpod,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+560,DSNY,Mitreola,sessilifolia,,swamp hornpod,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+561,DSNY,Mullogo,verticillata,,Indian chickweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+562,DSNY,Momordica,charantia,,balsampear,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+563,DSNY,Monotropa,uniflora,,Indianpipe,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+564,DSNY,Morus,rubra,,red mulberry,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+566,DSNY,Muhlenbergia,capillaris,filipes,gulf hairawn muhly,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+567,DSNY,Murdannia,nudiflora,,nakedstem dewflower,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+568,DSNY,Murdannia,spirata,,Asiatic dewflower,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+569,DSNY,Myrica,cerifera,,wax myrtle,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+570,DSNY,Myrica,cerifera,pumila,dwarf wax myrtle,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+571,DSNY,Myriophyllum,aquaticum,,parrot feather watermilfoil,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+572,DSNY,Myriophyllum,heterophyllum,,twoleaf watermilfoil,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+573,DSNY,Nemastylis,floridana,,fallflowering ixia,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+574,DSNY,Nephrolepis,cordifolia,,tuberous sword fern,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+575,DSNY,Nephrolepis,exaltata,,sword fern,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+576,DSNY,Nephrolepis,sp.,,sword fern,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+577,DSNY,Nuphar,advena,,spatterdock,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+578,DSNY,Nymphaea,odorata,,American white waterlily,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+579,DSNY,Nymphaea,sp.,,waterlily,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+580,DSNY,Nymphoides,aquatica,,big floatingheart,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+581,DSNY,Nymphoides,cordata,,little floatingheart,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+582,DSNY,Nyssa,sylvatica,biflora,swamp tupelo,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+583,DSNY,Oclemena,reticulata,,pinebarren whitetop,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+586,DSNY,Oenothera,laciniata,,cutleaf eveningprimrose,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+587,DSNY,Oldenlandia,corymbosa,,flattop mille graines,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+588,DSNY,Oldenlandia,uniflora,,clustered mille graines,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+589,DSNY,Ophioglossum,nudicaule,,slender adder's-tongue,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+590,DSNY,Oplismenus,hirtellus,,woodsgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+591,DSNY,Opuntia,cochenillifera,,cochineal cactus,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+592,DSNY,Opuntia,humifusa,,pricklypear,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+593,DSNY,Orontium,aquaticum,,goldenclub,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+594,DSNY,Osmanthus,megacarpus,,scrub wild olive,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+595,DSNY,Osmunda,cinnamomea,,cinnamon fern,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+596,DSNY,Osmunda,regalis,,royal fern,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+597,DSNY,Oxalis,corniculata,,common yellow woodsorrel,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+598,DSNY,Oxalis,sp.,,woodsorrel,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+599,DSNY,Oxypolis,filiformis,,water cowbane,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+600,DSNY,Palafoxia,integrifolia,,coastalplain palafox,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+601,DSNY,Palafoxia,sp.,,Palafox,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+602,DSNY,Panicum,abscissum,,cutthroatgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+603,DSNY,Panicum,anceps,,beaked panicum,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+604,DSNY,Panicum,chamaelonche,,little spikelet witchgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+606,DSNY,Panicum,dichotomiflorum,,fall panicgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+608,DSNY,Panicum,hemitomon,,maidencane,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+609,DSNY,Panicum,longifolium,,tall thin panicum,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+610,DSNY,Panicum,maximum,,Guineagrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+611,DSNY,Panicum,miliaceum,,broomcorn millet,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+612,DSNY,Panicum,repens,,torpedograss,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+613,DSNY,Panicum,rigidulum,,redtop panicum,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+614,DSNY,Panicum,sp.,,panicgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+615,DSNY,Panicum,tenerum,,bluejoint panicum,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+616,DSNY,Panicum,verrucosum,,warty panicgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+617,DSNY,Panicum,virgatum,,switchgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+618,DSNY,Parietaria,floridana,,Florida pellitory,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+619,DSNY,Parietaria,sp.,,pellitory,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+620,DSNY,Paronychia,herniarioides,,coastalplain nailwort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+621,DSNY,Parthenocissus,quinquefolia,,Virginia creeper,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+622,DSNY,Paspalidium,geminatum,,Kissimmeegrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+623,DSNY,Paspalum,acuminatum,,brook crowngrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+624,DSNY,Paspalum,boscianum,,bull crowngrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+625,DSNY,Paspalum,conjugatum,,sour paspalum,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+626,DSNY,Paspalum,dissectum,,mudbank crowngrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+627,DSNY,Paspalum,distichum,,knotgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+628,DSNY,Paspalum,floridanum,,Florida paspalum,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+629,DSNY,Paspalum,laeve,,field paspalum,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+631,DSNY,Paspalum,notatum,,bahiagrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+632,DSNY,Paspalum,notatum,notatum,bahiagrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+633,DSNY,Paspalum,notatum,saurae,bahiagrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+634,DSNY,Paspalum,praecox,,early paspalum,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+635,DSNY,Paspalum,repens,,water paspalum,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+636,DSNY,Paspalum,setaceum,,thin paspalum,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+637,DSNY,Paspalum,sp.,,crowngrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+638,DSNY,Paspalum,urvillei,,vaseygrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+640,DSNY,Passiflora,incarnata,,purple passionflower,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+641,DSNY,Pecluma,dispersa,,widespread polypody,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+642,DSNY,Peltandra,sagittifolia,,white arrow arum,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+643,DSNY,Peltandra,sp.,,arrow arum,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+644,DSNY,Pentodon,pentandrus,,Hale's pentodon,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+645,DSNY,Persea,borbonia,borbonia,red bay,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+646,DSNY,Persea,palustris,,swamp bay,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+647,DSNY,Phanopyrum,gymnocarpon,,savannah panicum,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+648,DSNY,Phlebodium,aureum,,golden polypody,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+649,DSNY,Phoebanthus,grandiflorus,,Florida false sunflower,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+650,DSNY,Phoebanthus,sp.,,false sunflower,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+651,DSNY,Phoradendron,leucarpum,,oak mistletoe,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+652,DSNY,Photinia,pyrifolia,,red chokeberry,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+653,DSNY,Phragmites,australis,,common reed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+654,DSNY,Phyla,nodiflora,,turkey tangle fogfruit,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+655,DSNY,Phyllanthus,tenellus,,Mascarene Island leafflower,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+656,DSNY,Phyllanthus,urinaria,,chamber bitter,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+657,DSNY,Physalis,angulata,,cutleaf groundcherry,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+658,DSNY,Physalis,arenicola,,cypresshead groundcherry,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+659,DSNY,Physalis,cordata,,heartleaf groundcherry,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+660,DSNY,Physalis,pubescens,,husk tomato,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+661,DSNY,Phytolacca,americana,,American pokeweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+662,DSNY,Piloblephis,rigida,,wild pennyroyal,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+663,DSNY,Pinguicula,caerulea,,blueflower butterwort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+664,DSNY,Pinguicula,lutea,,yellow butterwort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+665,DSNY,Pinguicula,pumila,,small butterwort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+666,DSNY,Pinguicula,sp.,,butterwort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+667,DSNY,Pinus,clausa,,sand pine,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+668,DSNY,Pinus,elliottii,,slash pine,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+669,DSNY,Pinus,palustris,,longleaf pine,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+670,DSNY,Pinus,serotina,,pond pine,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+671,DSNY,Piriqueta,cistoides,,pitted stripeseed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+672,DSNY,Pistia,stratiotes,,water lettuce,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+673,DSNY,Pityopsis,graminifolia,,narrowleaf silkgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+674,DSNY,Plantago,virginica,,Virginia plantain,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+675,DSNY,Platanthera,ciliaris,,yellow fringed orchid,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+676,DSNY,Pleopeltis,polypodioides,,resurrection fern,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+677,DSNY,Pluchea,foetida,,stinking camphorweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+678,DSNY,Pluchea,odorata,,sweetscent,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+679,DSNY,Pluchea,rosea,,rosy camphorweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+680,DSNY,Pluchea,rosea,,rosy camphorweed ?,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+681,DSNY,Pluchea,sp.,,camphorweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+683,DSNY,Pogonia,ophioglossoides,,rose pogonia,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+684,DSNY,Poinsettia,cyathophora,,paintedleaf,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+685,DSNY,Poinsettia,heterophylla,,fiddler's spurge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+686,DSNY,Polygala,balduinii,,Baldwin's milkwort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+687,DSNY,Polygala,cruciata,,drumheads,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+688,DSNY,Polygala,cymosa,,tall pinebarren milkwort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+690,DSNY,Polygala,grandiflora,,showy milkwort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+691,DSNY,Polygala,incarnata,,procession flower,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+692,DSNY,Polygala,lutea,,orange milkwort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+694,DSNY,Polygala,nana,,candyroot,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+695,DSNY,Polygala,polygama,,racemed milkwort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+696,DSNY,Polygala,ramosa,,low pinebarren milkwort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+697,DSNY,Polygala,rugelii,,yellow milkwort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+698,DSNY,Polygala,setacea,,coastalplain milkwort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+699,DSNY,Polygala,sp.,,milkwort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+700,DSNY,Polygonella,polygama,,October flower,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+701,DSNY,Polygonum,densiflorum,,denseflower knotweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+702,DSNY,Polygonum,hirsutum,,hairy smartweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+703,DSNY,Polygonum,hydropiperoides,,mild waterpepper,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+705,DSNY,Polygonum,punctatum,,dotted smartweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+706,DSNY,Polygonum,setaceum,,bog smartweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+707,DSNY,Polygonum,sp.,,knotweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+708,DSNY,Polypremum,procumbens,,rustweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+709,DSNY,Pontederia,cordata,,pickerelweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+710,DSNY,Portulaca,amilis,,Parguayan purslane,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+711,DSNY,Portulaca,pilosa,,pink purslane,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+712,DSNY,Pouzolzia,zeylanica,,Pouzolz's bush,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+713,DSNY,Proserpinaca,palustris,,marsh mermaidweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+714,DSNY,Proserpinaca,pectinata,,combleaf mermaidweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+715,DSNY,Proserpinaca,sp.,,mermaidweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+716,DSNY,Prunus,serotina,,black cherry,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+717,DSNY,Prunus,sp.,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+718,DSNY,Pseudognaphalium,obtusifolium,,rabbit tobacco,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+719,DSNY,Psidium,guajava,,guava,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+720,DSNY,Psilotum,nudum,,whisk-fern,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+721,DSNY,Psychotria,nervosa,,wild coffee,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+722,DSNY,Psychotria,sp.,,wild coffee,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+723,DSNY,Pteridium,aquilinum,,bracken fern,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+724,DSNY,Pterocaulon,pycnostachyum,,blackroot,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+725,DSNY,Pteroglossaspis,ecristata,,giant orchid,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+726,DSNY,Ptilimnium,capillaceum,,mock bishopsweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+727,DSNY,Pyrrhopappus,carolinianus,,Carolina desertchicory,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+728,DSNY,Quercus,chapmanii,,Chapman's oak,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+729,DSNY,Quercus,elliottii,,running oak,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+730,DSNY,Quercus,geminata,,sand live oak,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+731,DSNY,Quercus,incana,,bluejack oak,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+732,DSNY,Quercus,inopina,,scrub oak,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+733,DSNY,Quercus,laevis,,turkey oak,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+734,DSNY,Quercus,laurifolia,,laurel oak,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+735,DSNY,Quercus,minima,,dwarf live oak,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+737,DSNY,Quercus,myrtifolia,,myrtle oak,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+738,DSNY,Quercus,nigra,,water oak,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+739,DSNY,Quercus,sp.,,oak,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+740,DSNY,Quercus,virginiana,,live oak,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+741,DSNY,Rhexia,cubensis,,West Indian meadowbeauty,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+742,DSNY,Rhexia,mariana,,pale meadowbeauty,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+744,DSNY,Rhexia,nashii,,maid marian,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+745,DSNY,Rhexia,nuttallii,,Nuttall's meadowbeauty,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+747,DSNY,Rhexia,petiolata,,fringed meadowbeauty,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+748,DSNY,Rhexia,sp.,,meadowbeauty,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+749,DSNY,Rhododendron,viscosum,,swamp azalea,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+750,DSNY,Rhus,copallinum,,winged sumac,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+751,DSNY,Rhynchelytrum,repens,,rose natalgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+753,DSNY,Rhynchospora,baldwinii,,Baldwin's beaksedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+754,DSNY,Rhynchospora,breviseta,,shortbristle beaksedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+756,DSNY,Rhynchospora,cephalantha,,bunched beaksedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+757,DSNY,Rhynchospora,chapmanii,,Chapman's beaksedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+758,DSNY,Rhynchospora,ciliaris,,fringed beaksedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+759,DSNY,Rhynchospora,colorata,,starrush whitetop,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+761,DSNY,Rhynchospora,corniculata,,shortbristle horned beaksedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+762,DSNY,Rhynchospora,decurrens,,swampforest beaksedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+764,DSNY,Rhynchospora,divergens,,spreading beaksedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+765,DSNY,Rhynchospora,elliottii,,Elliott's beaksedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+766,DSNY,Rhynchospora,fascicularis,,fascicled beaksedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+768,DSNY,Rhynchospora,fernaldii,,Fernald's beaksedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+769,DSNY,Rhynchospora,filifolia,,threadleaf beaksedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+771,DSNY,Rhynchospora,globularis,,globe beaksedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+772,DSNY,Rhynchospora,intermedia,,pinebarren beaksedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+773,DSNY,Rhynchospora,inundata,,narrowfruit horned beaksedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+774,DSNY,Rhynchospora,latifolia,,giant whitetop,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+775,DSNY,Rhynchospora,megalocarpa,,sandyfield beaksedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+776,DSNY,Rhynchospora,microcarpa,,southern beaksedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+778,DSNY,Rhynchospora,microcephala,,small-headed beaksedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+779,DSNY,Rhynchospora,miliacea,,millet beaksedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+780,DSNY,Rhynchospora,mixta,,mingled beaksedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+781,DSNY,Rhynchospora,nitens,,shortbeak beaksedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+782,DSNY,Rhynchospora,plumosa,,plumed beaksedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+783,DSNY,Rhynchospora,pusilla,,fairy beaksedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+784,DSNY,Rhynchospora,rariflora,,fewflower beaksedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+785,DSNY,Rhynchospora,sp.,,beaksedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+786,DSNY,Rhynchospora,tracyi,,Tracy's beaksedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+787,DSNY,Rhynchospora,wrightiana,,Wright's beaksedge,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+789,DSNY,Riccia,fluitans,,riccia,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+790,DSNY,Riccia,sp.,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+791,DSNY,Richardia,brasiliensis,,tropical Mexican clover,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+792,DSNY,Richardia,scabra,,rough Mexican clover,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+793,DSNY,Rivina,humilis,,rougeplant,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+795,DSNY,Rotala,ramosior,,lowland rotala,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+797,DSNY,Rubus,argutus,,sawtooth blackberry,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+798,DSNY,Rubus,cuneifolius,,sand blackberry,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+799,DSNY,Rubus,sp.,,blackberry,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+800,DSNY,Rubus,trivialis,,southern dewberry,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+801,DSNY,Ruellia,caroliniensis,,Carolina wild petunia,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+802,DSNY,Rumex,hastatulus,,heartwing dock,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+803,DSNY,Rumex,sp.,,dock,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+804,DSNY,Rumohra,adiantiformis,,leatherleaf fern,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+805,DSNY,Sabal,palmetto,,cabbage palm,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+806,DSNY,Sabatia,bartramii,,Bartram's rosegentian,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+807,DSNY,Sabatia,brevifolia,,shortleaf rosegentian,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+808,DSNY,Sabatia,calycina,,coastal rosegentian,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+809,DSNY,Sabatia,difformis,,lanceleaf rosegentian,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+810,DSNY,Sabatia,grandiflora,,largeflower rosegentian,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+811,DSNY,Sabatia,sp.,,rosegentian,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+812,DSNY,Saccharum,giganteum,,sugarcane plumegrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+813,DSNY,Saccharum,sp.,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+814,DSNY,Sacciolepis,indica,,Indian cupscale,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+815,DSNY,Sacciolepis,striata,,American cupscale,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+816,DSNY,Sacoila,lanceolata,,leafless beaked ladiestresses,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+817,DSNY,Sagittaria,filiformis,,threadleaf arrowhead,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+818,DSNY,Sagittaria,graminea,,grassy arrowhead,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+819,DSNY,Sagittaria,graminea,chapmanii,Chapman's arrowhead,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+820,DSNY,Sagittaria,graminea,graminea,grassy arrowhead,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+822,DSNY,Sagittaria,isoetiformis,,quillwort arrowhead,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+823,DSNY,Sagittaria,lancifolia,,bulltongue arrowhead,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+824,DSNY,Sagittaria,sp.,,arrowhead,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+825,DSNY,Sagittaria,subulata,,awl-leaf arrowhead,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+826,DSNY,Salix,caroliniana,,Carolina willow,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+827,DSNY,Salvia,lyrata,,lyreleaf sage,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+828,DSNY,Salvinia,minima,,water spangles,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+829,DSNY,Sambucus,nigra,,American elder,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+830,DSNY,Sapium,sebiferum,,Chinese tallowtree,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+831,DSNY,Sarcostemma,clausum,,white twinevine,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+832,DSNY,Sarracenia,minor,,hooded pitcherplant,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+833,DSNY,Saururus,cernuus,,lizard's tail,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+834,DSNY,Schinus,terebinthifolius,,Brazilian pepper,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+835,DSNY,Schizachyrium,sanguineum,,crimson bluestem,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+836,DSNY,Schizachyrium,scoparium,,creeping little bluestem,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+837,DSNY,Schizachyrium,scoparium,scoparium,creeping little bluestem,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+838,DSNY,Schizachyrium,sp.,,bluestem,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+839,DSNY,Schoenocaulon,dubium,,Florida feathershank,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+840,DSNY,Scirpus,californicus,,giant bulrush,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+841,DSNY,Scirpus,cubensis,,Cuban bulrush,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+842,DSNY,Scirpus,cyperinus,,woolgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+843,DSNY,Scirpus,sp.,,bulrush,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+844,DSNY,Scirpus,tabernaemontani,,softstem bulrush,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+845,DSNY,Scleria,baldwinii,,Baldwin's nutrush,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+846,DSNY,Scleria,ciliata,,fringed nutrush,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+847,DSNY,Scleria,ciliata,ciliata,fringed nutrush,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+848,DSNY,Scleria,ciliata,curtissii,Curtiss' nutrush,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+849,DSNY,Scleria,ciliata,pauciflora,fewflower nutrush,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+850,DSNY,Scleria,distans,,riverswamp nutrush,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+851,DSNY,Scleria,georgiana,,slenderfruit nutrush,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+852,DSNY,Scleria,lacustris,,Wright's nutrush,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+853,DSNY,Scleria,reticularis,,netted nutrush,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+855,DSNY,Scleria,sp.,,nutrush,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+856,DSNY,Scleria,triglomerata,,tall nutgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+857,DSNY,Scoparia,dulcis,,sweetbroom,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+858,DSNY,Scutellaria,integrifolia,,helmet skullcap,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+859,DSNY,Senna,obtusifolia,,coffeeweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+860,DSNY,Senna,occidentalis,,septicweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+861,DSNY,Serenoa,repens,,saw palmetto,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+862,DSNY,Sericocarpus,tortifolius,,whitetop aster,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+863,DSNY,Sesbania,herbacea,,danglepod,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+864,DSNY,Sesbania,sp.,,riverhemp,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+865,DSNY,Sesbania,vesicaria,,bladderpod,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+866,DSNY,Setaria,magna,,giant bristlegrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+867,DSNY,Setaria,parviflora,,yellow bristlegrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+868,DSNY,Severina,buxifolia,,Chinese boxorange,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+869,DSNY,Seymeria,cassioides,,yaupon blacksenna,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+870,DSNY,Seymeria,pectinata,,piedmont blacksenna,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+871,DSNY,Sida,acuta,,common wireweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+872,DSNY,Sida,rhombifolia,,Cuban jute,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+873,DSNY,Sideroxylon,tenax,,tough bully,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+874,DSNY,Silene,antirrhina,,sleepy catchfly,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+875,DSNY,Sisyrinchium,angustifolium,,narrowleaf blue-eyed grass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+876,DSNY,Sisyrinchium,xerophyllum,,jeweled blue-eyed grass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+877,DSNY,Smallanthus,uvedalia,,hairy leafcup,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+878,DSNY,Smilax,auriculata,,earleaf greenbrier,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+879,DSNY,Smilax,bona-nox,,saw greenbrier,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+880,DSNY,Smilax,glauca,,cat greenbrier,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+881,DSNY,Smilax,laurifolia,,laurel greenbrier,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+882,DSNY,Smilax,sp.,,greenbrier,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+883,DSNY,Smilax,tamnoides,,bristly greenbrier,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+884,DSNY,Smilax,walteri,,coral greenbrier,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+885,DSNY,Solanum,americanum,,American black nightshade,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+886,DSNY,Solanum,capsicoides,,soda apple,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+887,DSNY,Solanum,jamaicense,,Jamaican nightshade,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+888,DSNY,Solanum,tampicense,,aquatic soda apple,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+889,DSNY,Solanum,torvum,,turkeyberry,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+890,DSNY,Solanum,viarum,,tropical soda apple,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+891,DSNY,Solidago,fistulosa,,pinebarren goldenrod,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+892,DSNY,Solidago,odora,chapmanii,Chapman's goldenrod,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+893,DSNY,Solidago,sp.,,goldenrod,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+894,DSNY,Solidago,stricta,,wand goldenrod,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+895,DSNY,Sonchus,asper,,spiny sowthistle,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+896,DSNY,Sorghastrum,secundum,,lopsided Indiangrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+897,DSNY,Sorghum,halepense,,Johnsongrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+898,DSNY,Spartina,bakeri,,sand cordgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+899,DSNY,Spartina,sp.,,cordgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+900,DSNY,Spermacoce,sp.,,false buttonweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+901,DSNY,Spermacoce,verticillata,,shrubby false buttonweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+902,DSNY,Sphagnum,sp.,,sphagnum moss,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+903,DSNY,Spiranthes,odorata,,fragrant ladiestresses,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+904,DSNY,Spiranthes,praecox,,greenvein ladiestresses,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+905,DSNY,Spiranthes,vernalis,,spring ladiestresses,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+906,DSNY,Spirodela,sp.,,duckweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+907,DSNY,Sporobolus,indicus,,smutgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+908,DSNY,Sporobolus,indicus,indicus,smutgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+909,DSNY,Stachytarpheta,jamaicensis,,blue porterweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+910,DSNY,Stenanthium,densum,,crowpoison,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+911,DSNY,Stillingia,sylvatica,,queensdelight,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+912,DSNY,Stipulicida,setacea,,pineland scalypink,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+913,DSNY,Styrax,americana,,American snowbell,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+914,DSNY,Symphyotrichum,adnatum,,scaleleaf aster,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+915,DSNY,Symphyotrichum,carolinianum,,climbing aster,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+916,DSNY,Symphyotrichum,dumosum,,rice button aster,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+917,DSNY,Symphyotrichum,elliottii,,Elliott's aster,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+918,DSNY,Symphyotrichum,subulatum,,annual saltmarsh aster,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+919,DSNY,Syngonanthus,flavidulus,,yellow hatpins,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+920,DSNY,Taxodium,ascendens,,pond-cypress,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+921,DSNY,Taxodium,distichum,,bald-cypress,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+922,DSNY,Taxodium,sp.,,cypress,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+923,DSNY,Tephrosia,chrysophylla,,scurf hoarypea,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+924,DSNY,Tephrosia,hispidula,,sprawling hoarypea,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+925,DSNY,Tephrosia,rugelii,,Rugel's hoarypea,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+926,DSNY,Tephrosia,sp.,,hoarypea,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+927,DSNY,Tephrosia,spicata,,spiked hoarypea,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+928,DSNY,Tephrosia,virginiana,,goat's rue,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+929,DSNY,Tephrosia,xfloridana,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+930,DSNY,Teucrium,canadense,,wood sage,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+931,DSNY,Thalia,geniculata,,alligatorflag,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+932,DSNY,Thelypteris,dentata,,downy maiden fern,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+933,DSNY,Thelypteris,hispidula,,hairy maiden fern,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+934,DSNY,Thelypteris,interrupta,,hottentot fern,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+935,DSNY,Thelypteris,sp.,,maiden fern,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+936,DSNY,Tillandsia,balbisiana,,northern needleleaf,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+937,DSNY,Tillandsia,bartramii,,Bartram's airplant,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+938,DSNY,Tillandsia,fasciculata,,cardinal airplant,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+939,DSNY,Tillandsia,recurvata,,ballmoss,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+940,DSNY,Tillandsia,setacea,,southern needleleaf,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+941,DSNY,Tillandsia,simulata,,Florida airplant,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+942,DSNY,Tillandsia,sp.,,airplant,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+943,DSNY,Tillandsia,usneoides,,Spanish moss,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+944,DSNY,Tillandsia,utriculata,,giant airplant,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+945,DSNY,Toxicodendron,radicans,,eastern poison ivy,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+946,DSNY,Tradescantia,spathacea,,Moses-in-the-cradle,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+947,DSNY,Triadenum,virginicum,,Virginia marsh St. John's-wort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+948,DSNY,Trichostema,dichotomum,,forked bluecurls,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+949,DSNY,Trifolium,repens,,white clover,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+950,DSNY,Triodanus,perfoliata,,clasping Venus' lookingglass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+951,DSNY,Tripsacum,dactyloides,,eastern gamagrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+952,DSNY,Tripsacum,sp.,,gamagrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+953,DSNY,Triticum,aestivum,,common wheat,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+954,DSNY,Typha,latifolia,,broadleaf cattail,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+955,DSNY,Typha,sp.,,cattail,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+956,DSNY,Ulmus,americana,,American elm,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+957,DSNY,Urena,lobata,,Caesarweed,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+958,DSNY,Urochloa,distachya,,tropical signalgrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+959,DSNY,Urochloa,mutica,,paragrass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+960,DSNY,Urtica,chamaedryoides,,heartleaf nettle,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+961,DSNY,Utricularia,cornuta,,horned bladderwort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+962,DSNY,Utricularia,gibba,,humped bladderwort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+963,DSNY,Utricularia,inflata,,floating bladderwort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+964,DSNY,Utricularia,purpurea,,eastern purple bladderwort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+965,DSNY,Utricularia,radiata,,little floating bladderwort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+966,DSNY,Utricularia,sp.,,bladderwort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+967,DSNY,Utricularia,striata,,striped bladderwort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+968,DSNY,Utricularia,subulata,,zigzag bladderwort,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+969,DSNY,Vaccinium,corymbosum,,highbush blueberry,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+970,DSNY,Vaccinium,darrowii,,Darrow's blueberry,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+971,DSNY,Vaccinium,myrsinites,,shiny blueberry,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+972,DSNY,Vaccinium,sp.,,blueberry,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+973,DSNY,Vaccinium,stamineum,,deerberry,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+974,DSNY,Verbena,brasiliensis,,Brazilian vervain,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+975,DSNY,Verbena,sp.,,vervain,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+976,DSNY,Vicia,sp.,,vetch,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+977,DSNY,Vigna,luteola,,hairypod cowpea,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+978,DSNY,Viola,lanceolata,,bog white violet,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+979,DSNY,Viola,palmata,,early blue violet,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+981,DSNY,Viola,primulifolia,,primroseleaf violet,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+982,DSNY,Viola,sororia,,common blue violet,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+983,DSNY,Viola,sp.,,violet,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+984,DSNY,Vitis,aestivalis,,summer grape,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+985,DSNY,Vitis,rotundifolia,,muscadine,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+986,DSNY,Vitis,shuttleworthii,,calloose grape,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+987,DSNY,Vitis,sp.,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+988,DSNY,Vittaria,lineata,,shoestring fern,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+989,DSNY,Wahlenbergia,marginata,,southern rockbell,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+990,DSNY,Wolffia,brasiliensis,,Brazilian watermeal,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+991,DSNY,Wolffia,sp.,,watermeal,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+992,DSNY,Wolffiella,sp.,,mudmidget,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+993,DSNY,Woodwardia,areolata,,netted chain fern,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+994,DSNY,Woodwardia,virginica,,Virginia chain fern,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+995,DSNY,Xyris,ambigua,,coastalplain yelloweyed grass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+996,DSNY,Xyris,baldwiniana,,Baldwin's yelloweyed grass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+997,DSNY,Xyris,brevifolia,,shortleaf yelloweyed grass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+998,DSNY,Xyris,caroliniana,,Carolina yelloweyed grass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+999,DSNY,Xyris,difformis,,bog yelloweyed grass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+1000,DSNY,Xyris,elliottii,,Elliott's yelloweyed grass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+1001,DSNY,Xyris,fimbriata,,fringed yelloweyed grass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+1002,DSNY,Xyris,jupicai,,Richard's yelloweyed grass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+1003,DSNY,Xyris,laxifolia,,irisleaf yelloweyed grass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+1004,DSNY,Xyris,platylepis,,tall yelloweyed grass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+1005,DSNY,Xyris,smalliana,,Small's yelloweyed grass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+1006,DSNY,Xyris,sp.,,yelloweyed grass,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+1007,DSNY,Xyris,obligate,,,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+1008,DSNY,Yucca,filamentosa,,Adam's needle,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+1009,DSNY,Zea,mays,,corn,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+1010,DSNY,Zephyranthes,atamasca,,atamasco lily,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+1011,DSNY,Zeuxine,strateumatica,,soldier's orchid,http://www.mendeley.com/c/5605595524/g/2058663/2012-dwp-plant-species-list/
+1012,DSNY,Rhynchospora,fascicularis/microcephala,,,http://www.mendeley.com/c/5605595494/g/2058663/2012-dwp-listed-plants/
+1013,DSNY,Calopogon,multiflorus,,Manyflowered grasspink,http://www.mendeley.com/c/5605595494/g/2058663/2012-dwp-listed-plants/
+1014,DSNY,Lechea,divaricata,,Drysand pinweed,http://www.mendeley.com/c/5605595494/g/2058663/2012-dwp-listed-plants/
+1015,DSNY,Matelea,floridana,,Florida milkvine,http://www.mendeley.com/c/5605595494/g/2058663/2012-dwp-listed-plants/
+1016,DSNY,Nemastylis,floridana,,Celestial lily,http://www.mendeley.com/c/5605595494/g/2058663/2012-dwp-listed-plants/
+1017,DSNY,Panicum,abscissum,,Cutthroatgrass,http://www.mendeley.com/c/5605595494/g/2058663/2012-dwp-listed-plants/
+1018,DSNY,Tillandsia,fasciculata,,Cardinal airplant,http://www.mendeley.com/c/5605595494/g/2058663/2012-dwp-listed-plants/
+1019,DSNY,Andropogon,arctatus,,Pinewoods bluestem,http://www.mendeley.com/c/5605595494/g/2058663/2012-dwp-listed-plants/
+1020,DSNY,Harrisella,porrecta,,Needleroot airplant orchid,http://www.mendeley.com/c/5605595494/g/2058663/2012-dwp-listed-plants/
+1021,DSNY,Lechea,cernua,,Nodding pinweed,http://www.mendeley.com/c/5605595494/g/2058663/2012-dwp-listed-plants/
+1022,DSNY,Lilium,catesbaei,,Catesby's lily,http://www.mendeley.com/c/5605595494/g/2058663/2012-dwp-listed-plants/
+1023,DSNY,Matelea,gonocarpos,,Angularfruit milkvine,http://www.mendeley.com/c/5605595494/g/2058663/2012-dwp-listed-plants/
+1024,DSNY,Pinguicula,caerulea,,Blueflower butterwort,http://www.mendeley.com/c/5605595494/g/2058663/2012-dwp-listed-plants/
+1025,DSNY,Pinguicula,lutea,,Yellow butterwort,http://www.mendeley.com/c/5605595494/g/2058663/2012-dwp-listed-plants/
+1026,DSNY,Platanthera,ciliaris,,Yellow fringed orchid,http://www.mendeley.com/c/5605595494/g/2058663/2012-dwp-listed-plants/
+1027,DSNY,Pohonia,phioglossoides,,Rose pogonia,http://www.mendeley.com/c/5605595494/g/2058663/2012-dwp-listed-plants/
+1028,DSNY,Sacoila,lanceolata,lanceolata,leafless beaked ladiestresses,http://www.mendeley.com/c/5605595494/g/2058663/2012-dwp-listed-plants/
+1029,DSNY,Sarracenia,minor,,hooded pitcherplant,http://www.mendeley.com/c/5605595494/g/2058663/2012-dwp-listed-plants/
+1030,DSNY,Tillandsia,balbisiana,,northern needleleaf,http://www.mendeley.com/c/5605595494/g/2058663/2012-dwp-listed-plants/
+1031,DSNY,Zephyranthes,atamasca,,atamasco lily,http://www.mendeley.com/c/5605595494/g/2058663/2012-dwp-listed-plants/
+1032,DSNY,Encyclia,tampensis,,Florida butterfly orchid,http://www.mendeley.com/c/5605595494/g/2058663/2012-dwp-listed-plants/
+1033,DSNY,Epidendrum,conopseum,,Green-fly orchid,http://www.mendeley.com/c/5605595494/g/2058663/2012-dwp-listed-plants/
+1034,DSNY,Osmunda,cinnamomea,,cinnamon fern,http://www.mendeley.com/c/5605595494/g/2058663/2012-dwp-listed-plants/
+1035,DSNY,Osmunda,regalis,,Royal fern,http://www.mendeley.com/c/5605595494/g/2058663/2012-dwp-listed-plants/
+1036,DSNY,Gymnopogon,chapmanianus,,Chapman's skeletongrass,http://www.mendeley.com/c/5605595494/g/2058663/2012-dwp-listed-plants/
+1037,DSNY,Pteroglossaspis,ecristata,,Giant orchid,http://www.mendeley.com/c/5605595494/g/2058663/2012-dwp-listed-plants/
