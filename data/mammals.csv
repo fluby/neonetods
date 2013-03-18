@@ -1,263 +1,263 @@
-family,taxon_id,spp_id,source_id,scientific_name,genus,subgenus,species,subspecies,authority_name,authority_year,itis_number,common_name,species_level_id
-Cervidae,mammal,alc_alc,Wilson_2005,Alces alces,Alces,,alces,,Linnaeus,1758,,Eurasian Elk,1
-Sciuridae,mammal,amm_har,Wilson_2005,Ammospermophilus harrisii,Ammospermophilus,,harrisii,,Audubon and Bachman,1854,,Harris's Antelope Squirrel,1
-Sciuridae,mammal,amm_int,Wilson_2005,Ammospermophilus interpres,Ammospermophilus,,interpres,,Merriam,1890,,Texas Antelope Squirrel,1
-Sciuridae,mammal,amm_leu,Wilson_2005,Ammospermophilus leucurus,Ammospermophilus,,leucurus,,Merriam,1889,,White-tailed Antelope Squirrel,1
-Antilocapridae,mammal,ant_ame,Wilson_2005,Antilocapra americana,Antilocapra,,americana,,Ord,1815,,Pronghorn,1
-Vespertilionidae,mammal,ant_pal,Wilson_2005,Antrozous pallidus,Antrozous,,pallidus,,Le Conte,1856,,Pallid Bat,1
-Aplodontiidae,mammal,apl_ruf,Wilson_2005,Aplodontia rufa,Aplodontia,,rufa,,Rafinesque,1817,,Sewellel,1
-Cricetidae,mammal,bai_tay,Wilson_2005,Baiomys taylori,Baiomys,,taylori,,Thomas,1887,,Northern Pygmy Mouse,1
-Procyonidae,mammal,bas_ast,Wilson_2005,Bassariscus astutus,Bassariscus,,astutus,,Lichtenstein,1827,,Ringtail,1
-Soricidae,mammal,bla_bre,Wilson_2005,Blarina brevicauda,Blarina,,brevicauda,,Say,1823,,Northern Short-tailed Shrew,1
-Soricidae,mammal,bla_car,Wilson_2005,Blarina carolinensis,Blarina,,carolinensis,,Bachman,1837,,Southern Short-tailed Shrew,1
-Soricidae,mammal,bla_hyl,Wilson_2005,Blarina hylophaga,Blarina,,hylophaga,,Elliot,1899,,Elliot's Short-tailed Shrew,1
-Leporidae,mammal,bra_ida,Wilson_2005,Brachylagus idahoensis,Brachylagus,,idahoensis,,Merriam,1891,,Pygmy Rabbit,1
-Canidae,mammal,can_lat,Wilson_2005,Canis latrans,Canis,,latrans,,Say,1823,,Coyote,1
-Canidae,mammal,can_lup,Wilson_2005,Canis lupus,Canis,,lupus,,Linnaeus,1758,,Wolf,1
-Castoridae,mammal,cas_can,Wilson_2005,Castor canadensis,Castor,,canadensis,,Kuhl,1820,,American Beaver,1
-Cervidae,mammal,cer_ela,Wilson_2005,Cervus elaphus,Cervus,,elaphus,,Linnaeus,1758,,Red Deer (see comments),1
-Heteromyidae,mammal,cha_bai,Wilson_2005,Chaetodipus baileyi,Chaetodipus,,baileyi,,Merriam,1894,,Bailey's Pocket Mouse,1
-Heteromyidae,mammal,cha_cal,Wilson_2005,Chaetodipus californicus,Chaetodipus,,californicus,,Merriam,1889,,California Pocket Mouse,1
-Heteromyidae,mammal,cha_ere,Wilson_2005,Chaetodipus eremicus,Chaetodipus,,eremicus,,Mearns,1898,,Chihuahuan Pocket Mouse,1
-Heteromyidae,mammal,cha_for,Wilson_2005,Chaetodipus formosus,Chaetodipus,,formosus,,Merriam,1889,,Long-tailed Pocket Mouse,1
-Heteromyidae,mammal,cha_his,Wilson_2005,Chaetodipus hispidus,Chaetodipus,,hispidus,,Baird,1858,,Hispid Pocket Mouse,1
-Heteromyidae,mammal,cha_int,Wilson_2005,Chaetodipus intermedius,Chaetodipus,,intermedius,,Merriam,1889,,Rock Pocket Mouse,1
-Heteromyidae,mammal,cha_pen,Wilson_2005,Chaetodipus penicillatus,Chaetodipus,,penicillatus,,Woodhouse,1852,,Desert Pocket Mouse,1
-Phyllostomidae,mammal,cho_mex,Wilson_2005,Choeronycteris mexicana,Choeronycteris,,mexicana,,Tschudi,1844,,Mexican Long-tongued Bat,1
-Talpidae,mammal,con_cri,Wilson_2005,Condylura cristata,Condylura,,cristata,,Linnaeus,1758,,Star-nosed Mole,1
-Vespertilionidae,mammal,cor_raf,Wilson_2005,Corynorhinus rafinesquii,Corynorhinus,,rafinesquii,,Lesson,1827,,Rafinesque's Big-eared Bat,1
-Vespertilionidae,mammal,cor_tow,Wilson_2005,Corynorhinus townsendii,Corynorhinus,,townsendii,,Cooper,1837,,Townsend's Big-eared Bat,1
-Soricidae,mammal,cry_par,Wilson_2005,Cryptotis parva,Cryptotis,,parva,,Say,1823,,North American Least Shrew,1
-Sciuridae,mammal,cyn_gun,Wilson_2005,Cynomys gunnisoni,Cynomys,,gunnisoni,,Baird,1855,,Gunnison's Prairie Dog,1
-Sciuridae,mammal,cyn_lud,Wilson_2005,Cynomys ludovicianus,Cynomys,,ludovicianus,,Ord,1815,,Black-tailed Prairie Dog,1
-Dasypodidae,mammal,das_nov,Wilson_2005,Dasypus novemcinctus,Dasypus,,novemcinctus,,Linnaeus,1758,,Nine-banded Armadillo,1
-Cricetidae,mammal,dic_gro,Wilson_2005,Dicrostonyx groenlandicus,Dicrostonyx,,groenlandicus,,Traill,1823,,Nearctic Collared Lemming,1
-Didelphidae,mammal,did_vir,Wilson_2005,Didelphis virginiana,Didelphis,,virginiana,,Kerr,1792,,Virginia Opossum,1
-Heteromyidae,mammal,dip_des,Wilson_2005,Dipodomys deserti,Dipodomys,,deserti,,Stephens,1887,,Desert Kangaroo Rat,1
-Heteromyidae,mammal,dip_hee,Wilson_2005,Dipodomys heermanni,Dipodomys,,heermanni,,Le Conte,1853,,Heermann's Kangaroo Rat,1
-Heteromyidae,mammal,dip_mer,Wilson_2005,Dipodomys merriami,Dipodomys,,merriami,,Mearns,1897,,NULL,1
-Heteromyidae,mammal,dip_mic,Wilson_2005,Dipodomys microps,Dipodomys,,microps,,Merriam,1904,,Chisel-toothed Kangaroo Rat,1
-Heteromyidae,mammal,dip_ord,Wilson_2005,Dipodomys ordii,Dipodomys,,ordii,,Woodhouse,1853,,Ord's Kangaroo Rat,1
-Heteromyidae,mammal,dip_spe,Wilson_2005,Dipodomys spectabilis,Dipodomys,,spectabilis,,Merriam,1890,,Banner-tailed Kangaroo Rat,1
-Vespertilionidae,mammal,ept_fus,Wilson_2005,Eptesicus fuscus,Eptesicus,,fuscus,,Beauvois,1796,,Big Brown Bat,1
-Erethizontidae,mammal,ere_dor,Wilson_2005,Erethizon dorsata,Erethizon,,dorsata,,Linnaeus,1758,,North American Porcupine,1
-Vespertilionidae,mammal,eud_mac,Wilson_2005,Euderma maculatum,Euderma,,maculatum,,J. A. Allen,1891,,Spotted Bat,1
-Molossidae,mammal,eum_per,Wilson_2005,Eumops perotis,Eumops,,perotis,,Schinz,1821,,Greater Bonneted Bat,1
-Molossidae,mammal,eum_und,Wilson_2005,Eumops underwoodi,Eumops,,underwoodi,,Goodwin,1940,,Underwood's Bonneted Bat,1
-Geomyidae,mammal,geo_are,Wilson_2005,Geomys arenarius,Geomys,,arenarius,,Merriam,1895,,Desert Pocket Gopher.,1
-Geomyidae,mammal,geo_bre,Wilson_2005,Geomys breviceps,Geomys,,breviceps,,Baird,1855,,Baird's Pocket Gopher.,1
-Geomyidae,mammal,geo_bur,Wilson_2005,Geomys bursarius,Geomys,,bursarius,,(Shaw),1800,,Plains Pocket Gopher.,1
-Geomyidae,mammal,geo_pin,Wilson_2005,Geomys pinetis,Geomys,,pinetis,,Rafinesque,1817,,Southeastern Pocket Gopher.,1
-Sciuridae,mammal,gla_sab,Wilson_2005,Glaucomys sabrinus,Glaucomys,,sabrinus,,Shaw,1801,,Northern Flying Squirrel,1
-Sciuridae,mammal,gla_vol,Wilson_2005,Glaucomys volans,Glaucomys,,volans,,Linnaeus,1758,,Southern Flying Squirrel,1
-Mustelidae,mammal,gul_gul,Wilson_2005,Gulo gulo,Gulo,,gulo,,Linnaeus,1758,,Wolverine,1
-Vespertilionidae,mammal,idi_phy,Wilson_2005,Idionycteris phyllotis,Idionycteris,,phyllotis,,G. M. Allen,1916,,Allen's Big-eared Bat,1
-Vespertilionidae,mammal,las_noc,Wilson_2005,Lasionycteris noctivagans,Lasionycteris,,noctivagans,,Le Conte,1831,,Silver-haired Bat,1
-Vespertilionidae,mammal,myo_sod,Wilson_2005,Myotis sodalis,Myotis,,sodalis,,Miller and Allen,1928,,Indiana Myotis,1
-Vespertilionidae,mammal,las_blo,Wilson_2005,Lasiurus blossevillii,Lasiurus,,blossevillii,,Lesson and Garnot,1826,,Red Bat (known as the Western Red Bat in North America),1
-Vespertilionidae,mammal,las_bor,Wilson_2005,Lasiurus borealis,Lasiurus,,borealis,,Müller,1776,,Eastern Red Bat,1
-Vespertilionidae,mammal,las_cin,Wilson_2005,Lasiurus cinereus,Lasiurus,,cinereus,,Palisot de Beauvois,1796,,Hoary Bat,1
-Vespertilionidae,mammal,las_ega,Wilson_2005,Lasiurus ega,Lasiurus,,ega,,Gervais,1856,,Southern Yellow Bat,1
-Vespertilionidae,mammal,las_int,Wilson_2005,Lasiurus intermedius,Lasiurus,,intermedius,,H. Allen,1862,,Northern Yellow Bat,1
-Vespertilionidae,mammal,las_sem,Wilson_2005,Lasiurus seminolus,Lasiurus,,seminolus,,Rhoads,1895,,Seminole Bat,1
-Cricetidae,mammal,lem_cur,Wilson_2005,Lemmiscus curtatus,Lemmiscus,,curtatus,,Cope,1868,,Sagebrush Vole,1
-Cricetidae,mammal,lem_tri,Wilson_2005,Lemmus trimucronatus,Lemmus,,trimucronatus,,Richardson,1825,,Nearctic Brown Lemming,1
-Phyllostomidae,mammal,lep_yer,Wilson_2005,Leptonycteris yerbabuenae,Leptonycteris,,yerbabuenae,,Martínez and Villa-R,1940,,Lesser Long-nosed Bat,1
-Leporidae,mammal,lep_all,Wilson_2005,Lepus alleni,Lepus,,alleni,,Mearns,1890,,Antelope Jackrabbit,1
-Leporidae,mammal,lep_ame,Wilson_2005,Lepus americanus,Lepus,,americanus,,Erxleben,1777,,Snowshoe Hare,1
-Leporidae,mammal,lep_cal,Wilson_2005,Lepus californicus,Lepus,,californicus,,Gray,1837,,Black-tailed Jackrabbit,1
-Leporidae,mammal,lep_tow,Wilson_2005,Lepus townsendii,Lepus,,townsendii,,Bachman,1839,,White-tailed Jackrabbit,1
-Mustelidae,mammal,lon_can,Wilson_2005,Lontra canadensis,Lontra,,canadensis,,Schreber,1777,,North American River Otter,1
-Felidae,mammal,lyn_can,Wilson_2005,Lynx canadensis,Lynx,,canadensis,,Kerr,1792,,Canadian Lynx,1
-Felidae,mammal,lyn_ruf,Wilson_2005,Lynx rufus,Lynx,,rufus,,Schreber,1777,,Bobcat,1
-Phyllostomidae,mammal,mac_cal,Wilson_2005,Macrotus californicus,Macrotus,,californicus,,Baird,1858,,Californian Leaf-nosed Bat,1
-Sciuridae,mammal,mar_bro,Wilson_2005,Marmota broweri,Marmota,,broweri,,Hall and Gilmore,1934,,Alaska Marmot,1
-Sciuridae,mammal,mar_cal,Wilson_2005,Marmota caligata,Marmota,,caligata,,Eschscholtz,1829,,Hoary Marmot,1
-Sciuridae,mammal,mar_fla,Wilson_2005,Marmota flaviventris,Marmota,,flaviventris,,Audubon and Bachman,1841,,Yellow-bellied Marmot,1
-Sciuridae,mammal,mar_mon,Wilson_2005,Marmota monax,Marmota,,monax,,Linnaeus,1758,,Woodchuck,1
-Mustelidae,mammal,mar_ame,Wilson_2005,Martes americana,Martes,,americana,,Turton,1806,,American Marten,1
-Mustelidae,mammal,mar_pen,Wilson_2005,Martes pennanti,Martes,,pennanti,,Erxleben,1777,,Fisher,1
-Mephitidae,mammal,mep_mac,Wilson_2005,Mephitis macroura,Mephitis,,macroura,,Lichtenstein,1832,,Hooded Skunk,1
-Mephitidae,mammal,mep_mep,Wilson_2005,Mephitis mephitis,Mephitis,,mephitis,,Schreber,1776,,Striped Skunk,1
-Heteromyidae,mammal,mic_meg,Wilson_2005,Microdipodops megacephalus,Microdipodops,,megacephalus,,Merriam,1891,,Dark Kangaroo Mouse,1
-Cricetidae,mammal,mic_cal,Wilson_2005,Microtus californicus,Microtus,,californicus,,Peale,1848,,California Vole,1
-Cricetidae,mammal,mic_can,Wilson_2005,Microtus canicaudus,Microtus,,canicaudus,,Miller,1897,,Gray-tailed Vole,1
-Cricetidae,mammal,mic_chr,Wilson_2005,Microtus chrotorrhinus,Microtus,,chrotorrhinus,,Miller,1894,,Rock Vole,1
-Cricetidae,mammal,mic_lon,Wilson_2005,Microtus longicaudus,Microtus,,longicaudus,,Merriam,1888,,Long-tailed Vole,1
-Cricetidae,mammal,mic_miu,Wilson_2005,Microtus miurus,Microtus,,miurus,,Osgood,1901,,Singing Vole,1
-Cricetidae,mammal,mic_mon,Wilson_2005,Microtus montanus,Microtus,,montanus,,Peale,1848,,Montane Vole,1
-Cricetidae,mammal,mic_och,Wilson_2005,Microtus ochrogaster,Microtus,,ochrogaster,,Wagner,1842,,Prairie Vole,1
-Cricetidae,mammal,mic_oec,Wilson_2005,Microtus oeconomus,Microtus,,oeconomus,,Pallas,1776,,Root Vole,1
-Cricetidae,mammal,mic_ore,Wilson_2005,Microtus oregoni,Microtus,,oregoni,,Bachman,1839,,Creeping Vole,1
-Cricetidae,mammal,mic_pen,Wilson_2005,Microtus pennsylvanicus,Microtus,,pennsylvanicus,,Ord,1815,,Meadow Vole,1
-Cricetidae,mammal,mic_pin,Wilson_2005,Microtus pinetorum,Microtus,,pinetorum,,Le Conte,1830,,Woodland Vole,1
-Cricetidae,mammal,mic_ric,Wilson_2005,Microtus richardsoni,Microtus,,richardsoni,,DeKay,1842,,North American Water Vole,1
-Cricetidae,mammal,mic_tow,Wilson_2005,Microtus townsendii,Microtus,,townsendii,,Bachman,1839,,Townsend's Vole,1
-Cricetidae,mammal,mic_xan,Wilson_2005,Microtus xanthognathus,Microtus,,xanthognathus,,Leach,1815,,Taiga Vole,1
-Molossidae,mammal,mol_mol,Wilson_2005,Molossus molossus,Molossus,,molossus,,Pallas,1766,,Pallas's Mastiff Bat,1
-Mormoopidae,mammal,mor_meg,Wilson_2005,Mormoops megalophylla,Mormoops,,megalophylla,,Peters,1864,,Peters's Ghost-faced Bat,1
-Mustelidae,mammal,mus_erm,Wilson_2005,Mustela erminea,Mustela,,erminea,,Linnaeus,1758,,Ermine,1
-Mustelidae,mammal,mus_fre,Wilson_2005,Mustela frenata,Mustela,,frenata,,Lichtenstein,1831,,Long-tailed Weasel,1
-Mustelidae,mammal,mus_niv,Wilson_2005,Mustela nivalis,Mustela,,nivalis,,Linnaeus,1766,,Least Weasel,1
-Cricetidae,mammal,myo_gap,Wilson_2005,Myodes gapperi,Myodes,,gapperi,,Vigors,1830,,Southern Red-backed Vole,1
-Cricetidae,mammal,myo_rut,Wilson_2005,Myodes rutilus,Myodes,,rutilus,,Pallas,1779,,Northern Red-backed Vole,1
-Vespertilionidae,mammal,myo_aur,Wilson_2005,Myotis auriculus,Myotis,,auriculus,,Baker and Stains,1955,,Southwestern Myotis,1
-Vespertilionidae,mammal,myo_aus,Wilson_2005,Myotis austroriparius,Myotis,,austroriparius,,Rhoads,1897,,Southeastern Myotis,1
-Vespertilionidae,mammal,myo_cal,Wilson_2005,Myotis californicus,Myotis,,californicus,,Audubon and Bachman,1842,,Californian Myotis,1
-Vespertilionidae,mammal,myo_cil,Wilson_2005,Myotis ciliolabrum,Myotis,,ciliolabrum,,Merriam,1886,,Western Small-footed Myotis,1
-Vespertilionidae,mammal,myo_evo,Wilson_2005,Myotis evotis,Myotis,,evotis,,H. Allen,1864,,Long-eared Myotis,1
-Vespertilionidae,mammal,myo_gri,Wilson_2005,Myotis grisescens,Myotis,,grisescens,,A. H. Howell,1909,,Gray Myotis,1
-Vespertilionidae,mammal,myo_lei,Wilson_2005,Myotis leibii,Myotis,,leibii,,Audubon and Bachman,1842,,Eastern Small-footed Myotis,1
-Vespertilionidae,mammal,myo_luc,Wilson_2005,Myotis lucifugus,Myotis,,lucifugus,,Le Conte,1831,,Little Brown Myotis,1
-Vespertilionidae,mammal,myo_sep,Wilson_2005,Myotis septentrionalis,Myotis,,septentrionalis,,Trouessart,1897,,Northern Myotis,1
-Vespertilionidae,mammal,myo_thy,Wilson_2005,Myotis thysanodes,Myotis,,thysanodes,,Miller,1897,,Fringed Myotis,1
-Vespertilionidae,mammal,myo_vel,Wilson_2005,Myotis velifer,Myotis,,velifer,,J. A. Allen,1890,,Cave Myotis,1
-Vespertilionidae,mammal,myo_vol,Wilson_2005,Myotis volans,Myotis,,volans,,H. Allen,1866,,Long-legged Myotis,1
-Vespertilionidae,mammal,myo_yum,Wilson_2005,Myotis yumanensis,Myotis,,yumanensis,,H. Allen,1864,,Yuma Myotis,1
-Dipodidae,mammal,nap_ins,Wilson_2005,Napaeozapus insignis,Napaeozapus,,insignis,,Miller,1891,,Woodland Jumping Mouse,1
-Procyonidae,mammal,nas_nar,Wilson_2005,Nasua narica,Nasua,,narica,,Linnaeus,1766,,White-nosed Coati,1
-Cricetidae,mammal,neo_all,Wilson_2005,Neofiber alleni,Neofiber,,alleni,,TRUE,1884,,Round-tailed Muskrat,1
-Cricetidae,mammal,neo_alb,Wilson_2005,Neotoma albigula,Neotoma,,albigula,,Hartley,1894,,White-throated Woodrat,1
-Cricetidae,mammal,neo_cin,Wilson_2005,Neotoma cinerea,Neotoma,,cinerea,,Ord,1815,,Bushy-tailed Woodrat,1
-Cricetidae,mammal,neo_flo,Wilson_2005,Neotoma floridana,Neotoma,,floridana,,Ord,1818,,Eastern Woodrat,1
-Cricetidae,mammal,neo_fus,Wilson_2005,Neotoma fuscipes,Neotoma,,fuscipes,,Baird,1857,,Dusky-footed Woodrat,1
-Cricetidae,mammal,neo_lep,Wilson_2005,Neotoma lepida,Neotoma,,lepida,,Thomas,1893,,Desert Woodrat,1
-Cricetidae,mammal,neo_mag,Wilson_2005,Neotoma magister,Neotoma,,magister,,Baird,1857,,Allegheny Woodrat,1
-Cricetidae,mammal,neo_mex,Wilson_2005,Neotoma mexicana,Neotoma,,mexicana,,Baird,1855,,Mexican Woodrat,1
-Cricetidae,mammal,neo_mic,Wilson_2005,Neotoma micropus,Neotoma,,micropus,,Baird,1855,,Southern Plains Woodrat,1
-Mustelidae,mammal,neo_vis,Wilson_2005,Neovison vison,Neovison,,vison,,Schreber,1777,,American Mink,1
-Talpidae,mammal,neu_gib,Wilson_2005,Neurotrichus gibbsii,Neurotrichus,,gibbsii,,Baird,1858,,Shrew-mole,1
-Soricidae,mammal,not_cra,Wilson_2005,Notiosorex crawfordi,Notiosorex,,crawfordi,,Coues,1877,,Crawford's Gray Shrew,1
-Vespertilionidae,mammal,nyc_hum,Wilson_2005,Nycticeius humeralis,Nycticeius,,humeralis,,Rafinesque,1818,,Evening Bat,1
-Molossidae,mammal,nyc_fem,Wilson_2005,Nyctinomops femorosaccus,Nyctinomops,,femorosaccus,,Merriam,1889,,Pocketed Free-tailed Bat,1
-Molossidae,mammal,nyc_mac,Wilson_2005,Nyctinomops macrotis,Nyctinomops,,macrotis,,Gray,1840,,Big Free-tailed Bat,1
-Ochotonidae,mammal,och_col,Wilson_2005,Ochotona collaris,Ochotona,,collaris,,Nelson,1893,,Collared Pika,1
-Ochotonidae,mammal,och_pri,Wilson_2005,Ochotona princeps,Ochotona,,princeps,,Richardson,1828,,American Pika,1
-Cricetidae,mammal,och_nut,Wilson_2005,Ochrotomys nuttalli,Ochrotomys,,nuttalli,,Harlan,1832,,Golden Mouse,1
-Cervidae,mammal,odo_hem,Wilson_2005,Odocoileus hemionus,Odocoileus,,hemionus,,Rafinesque,1817,,Mule Deer,1
-Cervidae,mammal,odo_vir,Wilson_2005,Odocoileus virginianus,Odocoileus,,virginianus,,Zimmermann,1780,,White-tailed Deer,1
-Cricetidae,mammal,ond_zib,Wilson_2005,Ondatra zibethicus,Ondatra,,zibethicus,,Linnaeus,1766,,Common Muskrat,1
-Cricetidae,mammal,ony_are,Wilson_2005,Onychomys arenicola,Onychomys,,arenicola,,Mearns,1896,,Chihuahuan Grasshopper Mouse,1
-Cricetidae,mammal,ony_leu,Wilson_2005,Onychomys leucogaster,Onychomys,,leucogaster,,Wied-Neuwied,1841,,Northern Grasshopper Mouse,1
-Cricetidae,mammal,ony_tor,Wilson_2005,Onychomys torridus,Onychomys,,torridus,,Coues,1874,,Southern Grasshopper Mouse,1
-Cricetidae,mammal,ory_pal,Wilson_2005,Oryzomys palustris,Oryzomys,,palustris,,Harlan,1837,,Marsh Oryzomys,1
-Bovidae,mammal,ovi_can,Wilson_2005,Ovis canadensis,Ovis,,canadensis,,Shaw,1804,,Bighorn Sheep,1
-Bovidae,mammal,ovi_dal,Wilson_2005,Ovis dalli,Ovis,,dalli,,Nelson,1884,,Dall's Sheep,1
-Talpidae,mammal,par_bre,Wilson_2005,Parascalops breweri,Parascalops,,breweri,,Bachman,1842,,Hairy-tailed Mole,1
-Tayassuidae,mammal,pec_taj,Wilson_2005,Pecari tajacu,Pecari,,tajacu,,Linnaeus,1758,,Collared Peccary,1
-Heteromyidae,mammal,per_amp,Wilson_2005,Perognathus amplus,Perognathus,,amplus,,Osgood,1900,,Arizona Pocket Mouse,1
-Heteromyidae,mammal,per_fas,Wilson_2005,Perognathus fasciatus,Perognathus,,fasciatus,,Wied-Neuwied,1839,,Olive-backed Pocket Mouse,1
-Heteromyidae,mammal,per_flc,Wilson_2005,Perognathus flavescens,Perognathus,,flavescens,,Merriam,1889,,Plains Pocket Mouse,1
-Heteromyidae,mammal,per_fla,Wilson_2005,Perognathus flavus,Perognathus,,flavus,,Baird,1855,,Silky Pocket Mouse,1
-Heteromyidae,mammal,per_par,Wilson_2005,Perognathus parvus,Perognathus,,parvus,,Peale,1848,,Great Basin Pocket Mouse,1
-Cricetidae,mammal,per_att,Wilson_2005,Peromyscus attwateri,Peromyscus,,attwateri,,J. A. Allen,1895,,Texas Deermouse,1
-Cricetidae,mammal,per_boy,Wilson_2005,Peromyscus boylii,Peromyscus,,boylii,,Baird,1855,,Brush Deermouse,1
-Cricetidae,mammal,per_cal,Wilson_2005,Peromyscus californicus,Peromyscus,,californicus,,Gambel,1848,,California Deermouse,1
-Cricetidae,mammal,per_cri,Wilson_2005,Peromyscus crinitus,Peromyscus,,crinitus,,Merriam,1891,,Canyon Deermouse,1
-Cricetidae,mammal,per_ere,Wilson_2005,Peromyscus eremicus,Peromyscus,,eremicus,,Baird,1857,,Cactus Deermouse,1
-Cricetidae,mammal,per_gos,Wilson_2005,Peromyscus gossypinus,Peromyscus,,gossypinus,,Le Conte,1853,,Cotton Deermouse,1
-Cricetidae,mammal,per_leu,Wilson_2005,Peromyscus leucopus,Peromyscus,,leucopus,,Rafinesque,1818,,White-footed Deermouse,1
-Cricetidae,mammal,per_man,Wilson_2005,Peromyscus maniculatus,Peromyscus,,maniculatus,,Wagner,1845,,North American Deermouse,1
-Cricetidae,mammal,per_mer,Wilson_2005,Peromyscus merriami,Peromyscus,,merriami,,Mearns,1896,,Merriam's Deermouse,1
-Cricetidae,mammal,per_nas,Wilson_2005,Peromyscus nasutus,Peromyscus,,nasutus,,J. A. Allen,1891,,Northern Rock Deermouse,1
-Cricetidae,mammal,per_pol,Wilson_2005,Peromyscus polionotus,Peromyscus,,polionotus,,Wagner,1843,,Oldfield Deermouse,1
-Cricetidae,mammal,per_tru,Wilson_2005,Peromyscus truei,Peromyscus,,truei,,Shufeldt,1885,,Piñon Deermouse,1
-Cricetidae,mammal,phe_int,Wilson_2005,Phenacomys intermedius,Phenacomys,,intermedius,,Merriam,1889,,Western Heather Vole,1
-Vespertilionidae,mammal,pip_hes,Wilson_2005,Pipistrellus hesperus,Pipistrellus,,hesperus,,H. Allen,1864,,Western Pipistrelle,1
-Vespertilionidae,mammal,pip_sub,Wilson_2005,Pipistrellus subflavus,Pipistrellus,,subflavus,,F. Cuvier,1832,,Eastern Pipistrelle,1
-Cricetidae,mammal,pod_flo,Wilson_2005,Podomys floridanus,Podomys,,floridanus,,Chapman,1889,,Florida Deermouse,1
-Procyonidae,mammal,pro_lot,Wilson_2005,Procyon lotor,Procyon,,lotor,,Linnaeus,1758,,Raccoon,1
-Felidae,mammal,pum_con,Wilson_2005,Puma concolor,Puma,,concolor,,Linnaeus,1771,,Cougar,1
-Cervidae,mammal,ran_tar,Wilson_2005,Rangifer tarandus,Rangifer,,tarandus,,Linnaeus,1758,,Reindeer,1
-Cricetidae,mammal,rei_ful,Wilson_2005,Reithrodontomys fulvescens,Reithrodontomys,,fulvescens,,J. A. Allen,1894,,Fulvous Harvest Mouse,1
-Cricetidae,mammal,rei_hum,Wilson_2005,Reithrodontomys humulis,Reithrodontomys,,humulis,,Audubon and Bachman,1841,,Eastern Harvest Mouse,1
-Cricetidae,mammal,rei_meg,Wilson_2005,Reithrodontomys megalotis,Reithrodontomys,,megalotis,,Baird,1857,,Western Harvest Mouse,1
-Cricetidae,mammal,rei_mon,Wilson_2005,Reithrodontomys montanus,Reithrodontomys,,montanus,,Baird,1855,,Plains Harvest Mouse,1
-Talpidae,mammal,sca_aqu,Wilson_2005,Scalopus aquaticus,Scalopus,,aquaticus,,Linnaeus,1758,,Eastern Mole,1
-Talpidae,mammal,sca_lat,Wilson_2005,Scapanus latimanus,Scapanus,,latimanus,,Bachman,1842,,Broad-footed Mole,1
-Talpidae,mammal,sca_ora,Wilson_2005,Scapanus orarius,Scapanus,,orarius,,TRUE,1896,,Coast Mole,1
-Talpidae,mammal,sca_tow,Wilson_2005,Scapanus townsendii,Scapanus,,townsendii,,Bachman,1839,,Townsend's Mole,1
-Sciuridae,mammal,sci_abe,Wilson_2005,Sciurus aberti,Sciurus,,aberti,,Woodhouse,1852,,Abert's Squirrel,1
-Sciuridae,mammal,sci_car,Wilson_2005,Sciurus carolinensis,Sciurus,,carolinensis,,Gmelin,1788,,Eastern Gray Squirrel,1
-Sciuridae,mammal,sci_gri,Wilson_2005,Sciurus griseus,Sciurus,,griseus,,Ord,1818,,Western Gray Squirrel,1
-Sciuridae,mammal,sci_nig,Wilson_2005,Sciurus niger,Sciurus,,niger,,Linnaeus,1758,,Eastern Fox Squirrel,1
-Cricetidae,mammal,sig_ari,Wilson_2005,Sigmodon arizonae,Sigmodon,,arizonae,,Mearns,1890,,Arizona Cotton Rat,1
-Cricetidae,mammal,sig_ful,Wilson_2005,Sigmodon fulviventer,Sigmodon,,fulviventer,,J. A. Allen,1889,,Tawny-bellied Cotton Rat,1
-Cricetidae,mammal,sig_his,Wilson_2005,Sigmodon hispidus,Sigmodon,,hispidus,,Say and Ord,1825,,Hispid Cotton Rat,1
-Cricetidae,mammal,sig_och,Wilson_2005,Sigmodon ochrognathus,Sigmodon,,ochrognathus,,Bailey,1902,,Yellow-nosed Cotton Rat,1
-Soricidae,mammal,sor_arc,Wilson_2005,Sorex arcticus,Sorex,,arcticus,,Kerr,1792,,Arctic Shrew,1
-Soricidae,mammal,sor_ari,Wilson_2005,Sorex arizonae,Sorex,,arizonae,,Diersing and Hoffmeister,1977,,Arizona Shrew,1
-Soricidae,mammal,sor_bai,Wilson_2005,Sorex bairdi,Sorex,,bairdi,,Merriam,1895,,Baird's Shrew,1
-Soricidae,mammal,sor_ben,Wilson_2005,Sorex bendirii,Sorex,,bendirii,,Merriam,1884,,Marsh Shrew,1
-Soricidae,mammal,sor_cin,Wilson_2005,Sorex cinereus,Sorex,,cinereus,,Kerr,1792,,Cinereus Shrew,1
-Soricidae,mammal,sor_dis,Wilson_2005,Sorex dispar,Sorex,,dispar,,Batchelder,1911,,Long-tailed Shrew,1
-Soricidae,mammal,sor_fum,Wilson_2005,Sorex fumeus,Sorex,,fumeus,,G. M. Miller,1895,,Smoky Shrew,1
-Soricidae,mammal,sor_hay,Wilson_2005,Sorex haydeni,Sorex,,haydeni,,Baird,1857,,Prairie Shrew,1
-Soricidae,mammal,sor_hoy,Wilson_2005,Sorex hoyi,Sorex,,hoyi,,Baird,1857,,American Pygmy Shrew,1
-Soricidae,mammal,sor_lon,Wilson_2005,Sorex longirostris,Sorex,,longirostris,,Bachman,1837,,Southeastern Shrew,1
-Soricidae,mammal,sor_lye,Wilson_2005,Sorex lyelli,Sorex,,lyelli,,Merriam,1902,,Mt. Lyell Shrew,1
-Soricidae,mammal,sor_mer,Wilson_2005,Sorex merriami,Sorex,,merriami,,Dobson,1890,,Merriam's Shrew,1
-Soricidae,mammal,sor_mon,Wilson_2005,Sorex monticolus,Sorex,,monticolus,,Merriam,1890,,Dusky Shrew,1
-Soricidae,mammal,sor_nan,Wilson_2005,Sorex nanus,Sorex,,nanus,,Merriam,1895,,Dwarf Shrew,1
-Soricidae,mammal,sor_orn,Wilson_2005,Sorex ornatus,Sorex,,ornatus,,Merriam,1895,,Ornate Shrew,1
-Soricidae,mammal,sor_pal,Wilson_2005,Sorex palustris,Sorex,,palustris,,Richardson,1828,,American Water Shrew,1
-Soricidae,mammal,sor_pre,Wilson_2005,Sorex preblei,Sorex,,preblei,,Jackson,1922,,Preble's Shrew,1
-Soricidae,mammal,sor_tro,Wilson_2005,Sorex trowbridgii,Sorex,,trowbridgii,,Baird,1857,,Trowbridge's Shrew,1
-Soricidae,mammal,sor_tun,Wilson_2005,Sorex tundrensis,Sorex,,tundrensis,,Merriam,1900,,Tundra Shrew,1
-Soricidae,mammal,sor_ugy,Wilson_2005,Sorex ugyunak,Sorex,,ugyunak,,Anderson and Rand,1945,,Barren Ground Shrew,1
-Soricidae,mammal,sor_vag,Wilson_2005,Sorex vagrans,Sorex,,vagrans,,Baird,1857,,Vagrant Shrew,1
-Sciuridae,mammal,spe_arm,Wilson_2005,Spermophilus armatus,Spermophilus,,armatus,,Kennicott,1863,,Uinta Ground Squirrel,1
-Sciuridae,mammal,spe_bee,Wilson_2005,Spermophilus beecheyi,Spermophilus,,beecheyi,,Richardson,1829,,California Ground Squirrel,1
-Sciuridae,mammal,spe_bel,Wilson_2005,Spermophilus beldingi,Spermophilus,,beldingi,,Merriam,1888,,Belding's Ground Squirrel,1
-Sciuridae,mammal,spe_fra,Wilson_2005,Spermophilus franklinii,Spermophilus,,franklinii,,Sabine,1822,,Franklin's Ground Squirrel,1
-Sciuridae,mammal,spe_lat,Wilson_2005,Spermophilus lateralis,Spermophilus,,lateralis,,Say,1823,,Golden-mantled Ground Squirrel,1
-Sciuridae,mammal,spe_mol,Wilson_2005,Spermophilus mollis,Spermophilus,,mollis,,Kennicott,1863,,Piute Ground Squirrel,1
-Sciuridae,mammal,spe_par,Wilson_2005,Spermophilus parryii,Spermophilus,,parryii,,Richardson,1825,,Arctic Ground Squirrel,1
-Sciuridae,mammal,spe_ric,Wilson_2005,Spermophilus richardsonii,Spermophilus,,richardsonii,,Sabine,1822,,Richardson's Ground Squirrel,1
-Sciuridae,mammal,spe_sat,Wilson_2005,Spermophilus saturatus,Spermophilus,,saturatus,,Rhoads,1895,,Cascade Golden-mantled Ground Squirrel,1
-Sciuridae,mammal,spe_spi,Wilson_2005,Spermophilus spilosoma,Spermophilus,,spilosoma,,Bennett,1833,,Spotted Ground Squirrel,1
-Sciuridae,mammal,spe_ter,Wilson_2005,Spermophilus tereticaudus,Spermophilus,,tereticaudus,,Baird,1858,,Round-tailed Ground Squirrel,1
-Sciuridae,mammal,spe_tri,Wilson_2005,Spermophilus tridecemlineatus,Spermophilus,,tridecemlineatus,,Mitchill,1821,,Thirteen-lined Ground Squirrel,1
-Sciuridae,mammal,spe_var,Wilson_2005,Spermophilus variegatus,Spermophilus,,variegatus,,Erxleben,1777,,Rock Squirrel,1
-Mephitidae,mammal,spi_gra,Wilson_2005,Spilogale gracilis,Spilogale,,gracilis,,Merriam,1890,,Western Spotted Skunk,1
-Mephitidae,mammal,spi_put,Wilson_2005,Spilogale putorius,Spilogale,,putorius,,Linnaeus,1758,,Eastern Spotted Skunk,1
-Leporidae,mammal,syl_aqu,Wilson_2005,Sylvilagus aquaticus,Sylvilagus,,aquaticus,,Bachman,1837,,Swamp Rabbit,1
-Leporidae,mammal,syl_aud,Wilson_2005,Sylvilagus audubonii,Sylvilagus,,audubonii,,Baird,1858,,Desert Cottontail,1
-Leporidae,mammal,syl_bac,Wilson_2005,Sylvilagus bachmani,Sylvilagus,,bachmani,,Waterhouse,1839,,Brush Rabbit,1
-Leporidae,mammal,syl_flo,Wilson_2005,Sylvilagus floridanus,Sylvilagus,,floridanus,,J. A. Allen,1890,,Eastern Cottontail,1
-Leporidae,mammal,syl_nut,Wilson_2005,Sylvilagus nuttallii,Sylvilagus,,nuttallii,,Bachman,1837,,Mountain Cottontail,1
-Leporidae,mammal,syl_obs,Wilson_2005,Sylvilagus obscurus,Sylvilagus,,obscurus,,Chapman et al.,1992,,Appalachian Cottontail,1
-Leporidae,mammal,syl_pal,Wilson_2005,Sylvilagus palustris,Sylvilagus,,palustris,,Bachman,1837,,Marsh Rabbit,1
-Leporidae,mammal,syl_tra,Wilson_2005,Sylvilagus transitionalis,Sylvilagus,,transitionalis,,Bangs,1895,,New England Cottontail,1
-Cricetidae,mammal,syn_bor,Wilson_2005,Synaptomys borealis,Synaptomys,,borealis,,Richardson,1828,,Northern Bog Lemming,1
-Cricetidae,mammal,syn_coo,Wilson_2005,Synaptomys cooperi,Synaptomys,,cooperi,,Baird,1857,,Southern Bog Lemming,1
-Molossidae,mammal,tad_bra,Wilson_2005,Tadarida brasiliensis,Tadarida,,brasiliensis,,I. Geoffroy,1824,,Brazilian Free-tailed Bat (known as the Mexican Free-tailed Bat in North America),1
-Sciuridae,mammal,tam_amo,Wilson_2005,Tamias amoenus,Tamias,,amoenus,,J. A. Allen,1890,,Yellow-pine Chipmunk,1
-Sciuridae,mammal,tam_cin,Wilson_2005,Tamias cinereicollis,Tamias,,cinereicollis,,J. A. Allen,1890,,Gray-collared Chipmunk,1
-Sciuridae,mammal,tam_dor,Wilson_2005,Tamias dorsalis,Tamias,,dorsalis,,Baird,1855,,Cliff Chipmunk,1
-Sciuridae,mammal,tam_mer,Wilson_2005,Tamias merriami,Tamias,,merriami,,J. A. Allen,1889,,Merriam's Chipmunk,1
-Sciuridae,mammal,tam_min,Wilson_2005,Tamias minimus,Tamias,,minimus,,Bachman,1839,,Least Chipmunk,1
-Sciuridae,mammal,tam_qua,Wilson_2005,Tamias quadrivittatus,Tamias,,quadrivittatus,,Say,1823,,Colorado Chipmunk,1
-Sciuridae,mammal,tam_ruf,Wilson_2005,Tamias rufus,Tamias,,rufus,,Hoffmeister and Ellis,1979,,Hopi Chipmunk,1
-Sciuridae,mammal,tam_spe,Wilson_2005,Tamias speciosus,Tamias,,speciosus,,Merriam,1890,,Lodgepole Chipmunk,1
-Sciuridae,mammal,tam_str,Wilson_2005,Tamias striatus,Tamias,,striatus,,Linnaeus,1758,,Eastern Chipmunk,1
-Sciuridae,mammal,tam_tow,Wilson_2005,Tamias townsendii,Tamias,,townsendii,,Bachman,1839,,Townsend's Chipmunk,1
-Sciuridae,mammal,tam_umb,Wilson_2005,Tamias umbrinus,Tamias,,umbrinus,,J. A. Allen,1890,,Uinta Chipmunk,1
-Sciuridae,mammal,tam_dou,Wilson_2005,Tamiasciurus douglasii,Tamiasciurus,,douglasii,,Bachman,1838,,Douglas's Squirrel,1
-Sciuridae,mammal,tam_hud,Wilson_2005,Tamiasciurus hudsonicus,Tamiasciurus,,hudsonicus,,Erxleben,1777,,Red Squirrel,1
-Mustelidae,mammal,tax_tax,Wilson_2005,Taxidea taxus,Taxidea,,taxus,,Schreber,1777,,American Badger,1
-Geomyidae,mammal,tho_bot,Wilson_2005,Thomomys bottae,Thomomys,,bottae,,(Eydoux and Gervais),1836,,Botta's Pocket Gopher.,1
-Geomyidae,mammal,tho_ida,Wilson_2005,Thomomys idahoensis,Thomomys,,idahoensis,,Merriam,1901,,Idaho Pocket Gopher.,1
-Geomyidae,mammal,tho_tal,Wilson_2005,Thomomys talpoides,Thomomys,,talpoides,,(Richardson),1828,,Northern Pocket Gopher.,1
-Geomyidae,mammal,tho_umb,Wilson_2005,Thomomys umbrinus,Thomomys,,umbrinus,,(Richardson),1829,,Southern Pocket Gopher.,1
-Canidae,mammal,uro_cin,Wilson_2005,Urocyon cinereoargenteus,Urocyon,,cinereoargenteus,,Schreber,1775,,Gray Fox,1
-Ursidae,mammal,urs_ame,Wilson_2005,Ursus americanus,Ursus,,americanus,,Pallas,1780,,American Black Bear,1
-Ursidae,mammal,urs_arc,Wilson_2005,Ursus arctos,Ursus,,arctos,,Linnaeus,1758,,Brown Bear,1
-Ursidae,mammal,urs_mar,Wilson_2005,Ursus maritimus,Ursus,,maritimus,,Phipps,1774,,Polar Bear,1
-Canidae,mammal,vul_lag,Wilson_2005,Vulpes lagopus,Vulpes,,lagopus,,Linnaeus,1758,,Arctic Fox,1
-Canidae,mammal,vul_vel,Wilson_2005,Vulpes velox,Vulpes,,velox,,Say,1823,,Swift Fox,1
-Canidae,mammal,vul_vul,Wilson_2005,Vulpes vulpes,Vulpes,,vulpes,,Linnaeus,1758,,Red Fox,1
-Dipodidae,mammal,zap_hud,Wilson_2005,Zapus hudsonius,Zapus,,hudsonius,,Zimmermann,1780,,Meadow Jumping Mouse,1
-Dipodidae,mammal,zap_pri,Wilson_2005,Zapus princeps,Zapus,,princeps,,Allen,1893,,Western Jumping Mouse,1
-Dipodidae,mammal,zap_tri,Wilson_2005,Zapus trinotatus,Zapus,,trinotatus,,Rhoads,1894,,Pacific Jumping Mouse,1
-Cricetidae,mammal,mic_mog,Wilson_2005,Microtus mogollonensis,Microtus,,mogollonensis,,,,,Mogollon vole,1
+taxon_id,spp_id,source_id,scientific_name,genus,subgenus,species,subspecies,authority_name,authority_year,itis_number,common_name,species_level_id
+mammal,alc_alc,Wilson_2005,Alces alces,Alces,,alces,,Linnaeus,1758,,Eurasian Elk,1
+mammal,amm_har,Wilson_2005,Ammospermophilus harrisii,Ammospermophilus,,harrisii,,Audubon and Bachman,1854,,Harris's Antelope Squirrel,1
+mammal,amm_int,Wilson_2005,Ammospermophilus interpres,Ammospermophilus,,interpres,,Merriam,1890,,Texas Antelope Squirrel,1
+mammal,amm_leu,Wilson_2005,Ammospermophilus leucurus,Ammospermophilus,,leucurus,,Merriam,1889,,White-tailed Antelope Squirrel,1
+mammal,ant_ame,Wilson_2005,Antilocapra americana,Antilocapra,,americana,,Ord,1815,,Pronghorn,1
+mammal,ant_pal,Wilson_2005,Antrozous pallidus,Antrozous,,pallidus,,Le Conte,1856,,Pallid Bat,1
+mammal,apl_ruf,Wilson_2005,Aplodontia rufa,Aplodontia,,rufa,,Rafinesque,1817,,Sewellel,1
+mammal,bai_tay,Wilson_2005,Baiomys taylori,Baiomys,,taylori,,Thomas,1887,,Northern Pygmy Mouse,1
+mammal,bas_ast,Wilson_2005,Bassariscus astutus,Bassariscus,,astutus,,Lichtenstein,1827,,Ringtail,1
+mammal,bla_bre,Wilson_2005,Blarina brevicauda,Blarina,,brevicauda,,Say,1823,,Northern Short-tailed Shrew,1
+mammal,bla_car,Wilson_2005,Blarina carolinensis,Blarina,,carolinensis,,Bachman,1837,,Southern Short-tailed Shrew,1
+mammal,bla_hyl,Wilson_2005,Blarina hylophaga,Blarina,,hylophaga,,Elliot,1899,,Elliot's Short-tailed Shrew,1
+mammal,bra_ida,Wilson_2005,Brachylagus idahoensis,Brachylagus,,idahoensis,,Merriam,1891,,Pygmy Rabbit,1
+mammal,can_lat,Wilson_2005,Canis latrans,Canis,,latrans,,Say,1823,,Coyote,1
+mammal,can_lup,Wilson_2005,Canis lupus,Canis,,lupus,,Linnaeus,1758,,Wolf,1
+mammal,cas_can,Wilson_2005,Castor canadensis,Castor,,canadensis,,Kuhl,1820,,American Beaver,1
+mammal,cer_ela,Wilson_2005,Cervus elaphus,Cervus,,elaphus,,Linnaeus,1758,,Red Deer (see comments),1
+mammal,cha_bai,Wilson_2005,Chaetodipus baileyi,Chaetodipus,,baileyi,,Merriam,1894,,Bailey's Pocket Mouse,1
+mammal,cha_cal,Wilson_2005,Chaetodipus californicus,Chaetodipus,,californicus,,Merriam,1889,,California Pocket Mouse,1
+mammal,cha_ere,Wilson_2005,Chaetodipus eremicus,Chaetodipus,,eremicus,,Mearns,1898,,Chihuahuan Pocket Mouse,1
+mammal,cha_for,Wilson_2005,Chaetodipus formosus,Chaetodipus,,formosus,,Merriam,1889,,Long-tailed Pocket Mouse,1
+mammal,cha_his,Wilson_2005,Chaetodipus hispidus,Chaetodipus,,hispidus,,Baird,1858,,Hispid Pocket Mouse,1
+mammal,cha_int,Wilson_2005,Chaetodipus intermedius,Chaetodipus,,intermedius,,Merriam,1889,,Rock Pocket Mouse,1
+mammal,cha_pen,Wilson_2005,Chaetodipus penicillatus,Chaetodipus,,penicillatus,,Woodhouse,1852,,Desert Pocket Mouse,1
+mammal,cho_mex,Wilson_2005,Choeronycteris mexicana,Choeronycteris,,mexicana,,Tschudi,1844,,Mexican Long-tongued Bat,1
+mammal,con_cri,Wilson_2005,Condylura cristata,Condylura,,cristata,,Linnaeus,1758,,Star-nosed Mole,1
+mammal,cor_raf,Wilson_2005,Corynorhinus rafinesquii,Corynorhinus,,rafinesquii,,Lesson,1827,,Rafinesque's Big-eared Bat,1
+mammal,cor_tow,Wilson_2005,Corynorhinus townsendii,Corynorhinus,,townsendii,,Cooper,1837,,Townsend's Big-eared Bat,1
+mammal,cry_par,Wilson_2005,Cryptotis parva,Cryptotis,,parva,,Say,1823,,North American Least Shrew,1
+mammal,cyn_gun,Wilson_2005,Cynomys gunnisoni,Cynomys,,gunnisoni,,Baird,1855,,Gunnison's Prairie Dog,1
+mammal,cyn_lud,Wilson_2005,Cynomys ludovicianus,Cynomys,,ludovicianus,,Ord,1815,,Black-tailed Prairie Dog,1
+mammal,das_nov,Wilson_2005,Dasypus novemcinctus,Dasypus,,novemcinctus,,Linnaeus,1758,,Nine-banded Armadillo,1
+mammal,dic_gro,Wilson_2005,Dicrostonyx groenlandicus,Dicrostonyx,,groenlandicus,,Traill,1823,,Nearctic Collared Lemming,1
+mammal,did_vir,Wilson_2005,Didelphis virginiana,Didelphis,,virginiana,,Kerr,1792,,Virginia Opossum,1
+mammal,dip_des,Wilson_2005,Dipodomys deserti,Dipodomys,,deserti,,Stephens,1887,,Desert Kangaroo Rat,1
+mammal,dip_hee,Wilson_2005,Dipodomys heermanni,Dipodomys,,heermanni,,Le Conte,1853,,Heermann's Kangaroo Rat,1
+mammal,dip_mer,Wilson_2005,Dipodomys merriami,Dipodomys,,merriami,,Mearns,1897,,NULL,1
+mammal,dip_mic,Wilson_2005,Dipodomys microps,Dipodomys,,microps,,Merriam,1904,,Chisel-toothed Kangaroo Rat,1
+mammal,dip_ord,Wilson_2005,Dipodomys ordii,Dipodomys,,ordii,,Woodhouse,1853,,Ord's Kangaroo Rat,1
+mammal,dip_spe,Wilson_2005,Dipodomys spectabilis,Dipodomys,,spectabilis,,Merriam,1890,,Banner-tailed Kangaroo Rat,1
+mammal,ept_fus,Wilson_2005,Eptesicus fuscus,Eptesicus,,fuscus,,Beauvois,1796,,Big Brown Bat,1
+mammal,ere_dor,Wilson_2005,Erethizon dorsata,Erethizon,,dorsata,,Linnaeus,1758,,North American Porcupine,1
+mammal,eud_mac,Wilson_2005,Euderma maculatum,Euderma,,maculatum,,J. A. Allen,1891,,Spotted Bat,1
+mammal,eum_per,Wilson_2005,Eumops perotis,Eumops,,perotis,,Schinz,1821,,Greater Bonneted Bat,1
+mammal,eum_und,Wilson_2005,Eumops underwoodi,Eumops,,underwoodi,,Goodwin,1940,,Underwood's Bonneted Bat,1
+mammal,geo_are,Wilson_2005,Geomys arenarius,Geomys,,arenarius,,Merriam,1895,,Desert Pocket Gopher.,1
+mammal,geo_bre,Wilson_2005,Geomys breviceps,Geomys,,breviceps,,Baird,1855,,Baird's Pocket Gopher.,1
+mammal,geo_bur,Wilson_2005,Geomys bursarius,Geomys,,bursarius,,(Shaw),1800,,Plains Pocket Gopher.,1
+mammal,geo_pin,Wilson_2005,Geomys pinetis,Geomys,,pinetis,,Rafinesque,1817,,Southeastern Pocket Gopher.,1
+mammal,gla_sab,Wilson_2005,Glaucomys sabrinus,Glaucomys,,sabrinus,,Shaw,1801,,Northern Flying Squirrel,1
+mammal,gla_vol,Wilson_2005,Glaucomys volans,Glaucomys,,volans,,Linnaeus,1758,,Southern Flying Squirrel,1
+mammal,gul_gul,Wilson_2005,Gulo gulo,Gulo,,gulo,,Linnaeus,1758,,Wolverine,1
+mammal,idi_phy,Wilson_2005,Idionycteris phyllotis,Idionycteris,,phyllotis,,G. M. Allen,1916,,Allen's Big-eared Bat,1
+mammal,las_noc,Wilson_2005,Lasionycteris noctivagans,Lasionycteris,,noctivagans,,Le Conte,1831,,Silver-haired Bat,1
+mammal,myo_sod,Wilson_2005,Myotis sodalis,Myotis,,sodalis,,Miller and Allen,1928,,Indiana Myotis,1
+mammal,las_blo,Wilson_2005,Lasiurus blossevillii,Lasiurus,,blossevillii,,Lesson and Garnot,1826,,Red Bat (known as the Western Red Bat in North America),1
+mammal,las_bor,Wilson_2005,Lasiurus borealis,Lasiurus,,borealis,,Müller,1776,,Eastern Red Bat,1
+mammal,las_cin,Wilson_2005,Lasiurus cinereus,Lasiurus,,cinereus,,Palisot de Beauvois,1796,,Hoary Bat,1
+mammal,las_ega,Wilson_2005,Lasiurus ega,Lasiurus,,ega,,Gervais,1856,,Southern Yellow Bat,1
+mammal,las_int,Wilson_2005,Lasiurus intermedius,Lasiurus,,intermedius,,H. Allen,1862,,Northern Yellow Bat,1
+mammal,las_sem,Wilson_2005,Lasiurus seminolus,Lasiurus,,seminolus,,Rhoads,1895,,Seminole Bat,1
+mammal,lem_cur,Wilson_2005,Lemmiscus curtatus,Lemmiscus,,curtatus,,Cope,1868,,Sagebrush Vole,1
+mammal,lem_tri,Wilson_2005,Lemmus trimucronatus,Lemmus,,trimucronatus,,Richardson,1825,,Nearctic Brown Lemming,1
+mammal,lep_yer,Wilson_2005,Leptonycteris yerbabuenae,Leptonycteris,,yerbabuenae,,Martínez and Villa-R,1940,,Lesser Long-nosed Bat,1
+mammal,lep_all,Wilson_2005,Lepus alleni,Lepus,,alleni,,Mearns,1890,,Antelope Jackrabbit,1
+mammal,lep_ame,Wilson_2005,Lepus americanus,Lepus,,americanus,,Erxleben,1777,,Snowshoe Hare,1
+mammal,lep_cal,Wilson_2005,Lepus californicus,Lepus,,californicus,,Gray,1837,,Black-tailed Jackrabbit,1
+mammal,lep_tow,Wilson_2005,Lepus townsendii,Lepus,,townsendii,,Bachman,1839,,White-tailed Jackrabbit,1
+mammal,lon_can,Wilson_2005,Lontra canadensis,Lontra,,canadensis,,Schreber,1777,,North American River Otter,1
+mammal,lyn_can,Wilson_2005,Lynx canadensis,Lynx,,canadensis,,Kerr,1792,,Canadian Lynx,1
+mammal,lyn_ruf,Wilson_2005,Lynx rufus,Lynx,,rufus,,Schreber,1777,,Bobcat,1
+mammal,mac_cal,Wilson_2005,Macrotus californicus,Macrotus,,californicus,,Baird,1858,,Californian Leaf-nosed Bat,1
+mammal,mar_bro,Wilson_2005,Marmota broweri,Marmota,,broweri,,Hall and Gilmore,1934,,Alaska Marmot,1
+mammal,mar_cal,Wilson_2005,Marmota caligata,Marmota,,caligata,,Eschscholtz,1829,,Hoary Marmot,1
+mammal,mar_fla,Wilson_2005,Marmota flaviventris,Marmota,,flaviventris,,Audubon and Bachman,1841,,Yellow-bellied Marmot,1
+mammal,mar_mon,Wilson_2005,Marmota monax,Marmota,,monax,,Linnaeus,1758,,Woodchuck,1
+mammal,mar_ame,Wilson_2005,Martes americana,Martes,,americana,,Turton,1806,,American Marten,1
+mammal,mar_pen,Wilson_2005,Martes pennanti,Martes,,pennanti,,Erxleben,1777,,Fisher,1
+mammal,mep_mac,Wilson_2005,Mephitis macroura,Mephitis,,macroura,,Lichtenstein,1832,,Hooded Skunk,1
+mammal,mep_mep,Wilson_2005,Mephitis mephitis,Mephitis,,mephitis,,Schreber,1776,,Striped Skunk,1
+mammal,mic_meg,Wilson_2005,Microdipodops megacephalus,Microdipodops,,megacephalus,,Merriam,1891,,Dark Kangaroo Mouse,1
+mammal,mic_cal,Wilson_2005,Microtus californicus,Microtus,,californicus,,Peale,1848,,California Vole,1
+mammal,mic_can,Wilson_2005,Microtus canicaudus,Microtus,,canicaudus,,Miller,1897,,Gray-tailed Vole,1
+mammal,mic_chr,Wilson_2005,Microtus chrotorrhinus,Microtus,,chrotorrhinus,,Miller,1894,,Rock Vole,1
+mammal,mic_lon,Wilson_2005,Microtus longicaudus,Microtus,,longicaudus,,Merriam,1888,,Long-tailed Vole,1
+mammal,mic_miu,Wilson_2005,Microtus miurus,Microtus,,miurus,,Osgood,1901,,Singing Vole,1
+mammal,mic_mon,Wilson_2005,Microtus montanus,Microtus,,montanus,,Peale,1848,,Montane Vole,1
+mammal,mic_och,Wilson_2005,Microtus ochrogaster,Microtus,,ochrogaster,,Wagner,1842,,Prairie Vole,1
+mammal,mic_oec,Wilson_2005,Microtus oeconomus,Microtus,,oeconomus,,Pallas,1776,,Root Vole,1
+mammal,mic_ore,Wilson_2005,Microtus oregoni,Microtus,,oregoni,,Bachman,1839,,Creeping Vole,1
+mammal,mic_pen,Wilson_2005,Microtus pennsylvanicus,Microtus,,pennsylvanicus,,Ord,1815,,Meadow Vole,1
+mammal,mic_pin,Wilson_2005,Microtus pinetorum,Microtus,,pinetorum,,Le Conte,1830,,Woodland Vole,1
+mammal,mic_ric,Wilson_2005,Microtus richardsoni,Microtus,,richardsoni,,DeKay,1842,,North American Water Vole,1
+mammal,mic_tow,Wilson_2005,Microtus townsendii,Microtus,,townsendii,,Bachman,1839,,Townsend's Vole,1
+mammal,mic_xan,Wilson_2005,Microtus xanthognathus,Microtus,,xanthognathus,,Leach,1815,,Taiga Vole,1
+mammal,mol_mol,Wilson_2005,Molossus molossus,Molossus,,molossus,,Pallas,1766,,Pallas's Mastiff Bat,1
+mammal,mor_meg,Wilson_2005,Mormoops megalophylla,Mormoops,,megalophylla,,Peters,1864,,Peters's Ghost-faced Bat,1
+mammal,mus_erm,Wilson_2005,Mustela erminea,Mustela,,erminea,,Linnaeus,1758,,Ermine,1
+mammal,mus_fre,Wilson_2005,Mustela frenata,Mustela,,frenata,,Lichtenstein,1831,,Long-tailed Weasel,1
+mammal,mus_niv,Wilson_2005,Mustela nivalis,Mustela,,nivalis,,Linnaeus,1766,,Least Weasel,1
+mammal,myo_gap,Wilson_2005,Myodes gapperi,Myodes,,gapperi,,Vigors,1830,,Southern Red-backed Vole,1
+mammal,myo_rut,Wilson_2005,Myodes rutilus,Myodes,,rutilus,,Pallas,1779,,Northern Red-backed Vole,1
+mammal,myo_aur,Wilson_2005,Myotis auriculus,Myotis,,auriculus,,Baker and Stains,1955,,Southwestern Myotis,1
+mammal,myo_aus,Wilson_2005,Myotis austroriparius,Myotis,,austroriparius,,Rhoads,1897,,Southeastern Myotis,1
+mammal,myo_cal,Wilson_2005,Myotis californicus,Myotis,,californicus,,Audubon and Bachman,1842,,Californian Myotis,1
+mammal,myo_cil,Wilson_2005,Myotis ciliolabrum,Myotis,,ciliolabrum,,Merriam,1886,,Western Small-footed Myotis,1
+mammal,myo_evo,Wilson_2005,Myotis evotis,Myotis,,evotis,,H. Allen,1864,,Long-eared Myotis,1
+mammal,myo_gri,Wilson_2005,Myotis grisescens,Myotis,,grisescens,,A. H. Howell,1909,,Gray Myotis,1
+mammal,myo_lei,Wilson_2005,Myotis leibii,Myotis,,leibii,,Audubon and Bachman,1842,,Eastern Small-footed Myotis,1
+mammal,myo_luc,Wilson_2005,Myotis lucifugus,Myotis,,lucifugus,,Le Conte,1831,,Little Brown Myotis,1
+mammal,myo_sep,Wilson_2005,Myotis septentrionalis,Myotis,,septentrionalis,,Trouessart,1897,,Northern Myotis,1
+mammal,myo_thy,Wilson_2005,Myotis thysanodes,Myotis,,thysanodes,,Miller,1897,,Fringed Myotis,1
+mammal,myo_vel,Wilson_2005,Myotis velifer,Myotis,,velifer,,J. A. Allen,1890,,Cave Myotis,1
+mammal,myo_vol,Wilson_2005,Myotis volans,Myotis,,volans,,H. Allen,1866,,Long-legged Myotis,1
+mammal,myo_yum,Wilson_2005,Myotis yumanensis,Myotis,,yumanensis,,H. Allen,1864,,Yuma Myotis,1
+mammal,nap_ins,Wilson_2005,Napaeozapus insignis,Napaeozapus,,insignis,,Miller,1891,,Woodland Jumping Mouse,1
+mammal,nas_nar,Wilson_2005,Nasua narica,Nasua,,narica,,Linnaeus,1766,,White-nosed Coati,1
+mammal,neo_all,Wilson_2005,Neofiber alleni,Neofiber,,alleni,,TRUE,1884,,Round-tailed Muskrat,1
+mammal,neo_alb,Wilson_2005,Neotoma albigula,Neotoma,,albigula,,Hartley,1894,,White-throated Woodrat,1
+mammal,neo_cin,Wilson_2005,Neotoma cinerea,Neotoma,,cinerea,,Ord,1815,,Bushy-tailed Woodrat,1
+mammal,neo_flo,Wilson_2005,Neotoma floridana,Neotoma,,floridana,,Ord,1818,,Eastern Woodrat,1
+mammal,neo_fus,Wilson_2005,Neotoma fuscipes,Neotoma,,fuscipes,,Baird,1857,,Dusky-footed Woodrat,1
+mammal,neo_lep,Wilson_2005,Neotoma lepida,Neotoma,,lepida,,Thomas,1893,,Desert Woodrat,1
+mammal,neo_mag,Wilson_2005,Neotoma magister,Neotoma,,magister,,Baird,1857,,Allegheny Woodrat,1
+mammal,neo_mex,Wilson_2005,Neotoma mexicana,Neotoma,,mexicana,,Baird,1855,,Mexican Woodrat,1
+mammal,neo_mic,Wilson_2005,Neotoma micropus,Neotoma,,micropus,,Baird,1855,,Southern Plains Woodrat,1
+mammal,neo_vis,Wilson_2005,Neovison vison,Neovison,,vison,,Schreber,1777,,American Mink,1
+mammal,neu_gib,Wilson_2005,Neurotrichus gibbsii,Neurotrichus,,gibbsii,,Baird,1858,,Shrew-mole,1
+mammal,not_cra,Wilson_2005,Notiosorex crawfordi,Notiosorex,,crawfordi,,Coues,1877,,Crawford's Gray Shrew,1
+mammal,nyc_hum,Wilson_2005,Nycticeius humeralis,Nycticeius,,humeralis,,Rafinesque,1818,,Evening Bat,1
+mammal,nyc_fem,Wilson_2005,Nyctinomops femorosaccus,Nyctinomops,,femorosaccus,,Merriam,1889,,Pocketed Free-tailed Bat,1
+mammal,nyc_mac,Wilson_2005,Nyctinomops macrotis,Nyctinomops,,macrotis,,Gray,1840,,Big Free-tailed Bat,1
+mammal,och_col,Wilson_2005,Ochotona collaris,Ochotona,,collaris,,Nelson,1893,,Collared Pika,1
+mammal,och_pri,Wilson_2005,Ochotona princeps,Ochotona,,princeps,,Richardson,1828,,American Pika,1
+mammal,och_nut,Wilson_2005,Ochrotomys nuttalli,Ochrotomys,,nuttalli,,Harlan,1832,,Golden Mouse,1
+mammal,odo_hem,Wilson_2005,Odocoileus hemionus,Odocoileus,,hemionus,,Rafinesque,1817,,Mule Deer,1
+mammal,odo_vir,Wilson_2005,Odocoileus virginianus,Odocoileus,,virginianus,,Zimmermann,1780,,White-tailed Deer,1
+mammal,ond_zib,Wilson_2005,Ondatra zibethicus,Ondatra,,zibethicus,,Linnaeus,1766,,Common Muskrat,1
+mammal,ony_are,Wilson_2005,Onychomys arenicola,Onychomys,,arenicola,,Mearns,1896,,Chihuahuan Grasshopper Mouse,1
+mammal,ony_leu,Wilson_2005,Onychomys leucogaster,Onychomys,,leucogaster,,Wied-Neuwied,1841,,Northern Grasshopper Mouse,1
+mammal,ony_tor,Wilson_2005,Onychomys torridus,Onychomys,,torridus,,Coues,1874,,Southern Grasshopper Mouse,1
+mammal,ory_pal,Wilson_2005,Oryzomys palustris,Oryzomys,,palustris,,Harlan,1837,,Marsh Oryzomys,1
+mammal,ovi_can,Wilson_2005,Ovis canadensis,Ovis,,canadensis,,Shaw,1804,,Bighorn Sheep,1
+mammal,ovi_dal,Wilson_2005,Ovis dalli,Ovis,,dalli,,Nelson,1884,,Dall's Sheep,1
+mammal,par_bre,Wilson_2005,Parascalops breweri,Parascalops,,breweri,,Bachman,1842,,Hairy-tailed Mole,1
+mammal,pec_taj,Wilson_2005,Pecari tajacu,Pecari,,tajacu,,Linnaeus,1758,,Collared Peccary,1
+mammal,per_amp,Wilson_2005,Perognathus amplus,Perognathus,,amplus,,Osgood,1900,,Arizona Pocket Mouse,1
+mammal,per_fas,Wilson_2005,Perognathus fasciatus,Perognathus,,fasciatus,,Wied-Neuwied,1839,,Olive-backed Pocket Mouse,1
+mammal,per_flc,Wilson_2005,Perognathus flavescens,Perognathus,,flavescens,,Merriam,1889,,Plains Pocket Mouse,1
+mammal,per_fla,Wilson_2005,Perognathus flavus,Perognathus,,flavus,,Baird,1855,,Silky Pocket Mouse,1
+mammal,per_par,Wilson_2005,Perognathus parvus,Perognathus,,parvus,,Peale,1848,,Great Basin Pocket Mouse,1
+mammal,per_att,Wilson_2005,Peromyscus attwateri,Peromyscus,,attwateri,,J. A. Allen,1895,,Texas Deermouse,1
+mammal,per_boy,Wilson_2005,Peromyscus boylii,Peromyscus,,boylii,,Baird,1855,,Brush Deermouse,1
+mammal,per_cal,Wilson_2005,Peromyscus californicus,Peromyscus,,californicus,,Gambel,1848,,California Deermouse,1
+mammal,per_cri,Wilson_2005,Peromyscus crinitus,Peromyscus,,crinitus,,Merriam,1891,,Canyon Deermouse,1
+mammal,per_ere,Wilson_2005,Peromyscus eremicus,Peromyscus,,eremicus,,Baird,1857,,Cactus Deermouse,1
+mammal,per_gos,Wilson_2005,Peromyscus gossypinus,Peromyscus,,gossypinus,,Le Conte,1853,,Cotton Deermouse,1
+mammal,per_leu,Wilson_2005,Peromyscus leucopus,Peromyscus,,leucopus,,Rafinesque,1818,,White-footed Deermouse,1
+mammal,per_man,Wilson_2005,Peromyscus maniculatus,Peromyscus,,maniculatus,,Wagner,1845,,North American Deermouse,1
+mammal,per_mer,Wilson_2005,Peromyscus merriami,Peromyscus,,merriami,,Mearns,1896,,Merriam's Deermouse,1
+mammal,per_nas,Wilson_2005,Peromyscus nasutus,Peromyscus,,nasutus,,J. A. Allen,1891,,Northern Rock Deermouse,1
+mammal,per_pol,Wilson_2005,Peromyscus polionotus,Peromyscus,,polionotus,,Wagner,1843,,Oldfield Deermouse,1
+mammal,per_tru,Wilson_2005,Peromyscus truei,Peromyscus,,truei,,Shufeldt,1885,,Piñon Deermouse,1
+mammal,phe_int,Wilson_2005,Phenacomys intermedius,Phenacomys,,intermedius,,Merriam,1889,,Western Heather Vole,1
+mammal,pip_hes,Wilson_2005,Pipistrellus hesperus,Pipistrellus,,hesperus,,H. Allen,1864,,Western Pipistrelle,1
+mammal,pip_sub,Wilson_2005,Pipistrellus subflavus,Pipistrellus,,subflavus,,F. Cuvier,1832,,Eastern Pipistrelle,1
+mammal,pod_flo,Wilson_2005,Podomys floridanus,Podomys,,floridanus,,Chapman,1889,,Florida Deermouse,1
+mammal,pro_lot,Wilson_2005,Procyon lotor,Procyon,,lotor,,Linnaeus,1758,,Raccoon,1
+mammal,pum_con,Wilson_2005,Puma concolor,Puma,,concolor,,Linnaeus,1771,,Cougar,1
+mammal,ran_tar,Wilson_2005,Rangifer tarandus,Rangifer,,tarandus,,Linnaeus,1758,,Reindeer,1
+mammal,rei_ful,Wilson_2005,Reithrodontomys fulvescens,Reithrodontomys,,fulvescens,,J. A. Allen,1894,,Fulvous Harvest Mouse,1
+mammal,rei_hum,Wilson_2005,Reithrodontomys humulis,Reithrodontomys,,humulis,,Audubon and Bachman,1841,,Eastern Harvest Mouse,1
+mammal,rei_meg,Wilson_2005,Reithrodontomys megalotis,Reithrodontomys,,megalotis,,Baird,1857,,Western Harvest Mouse,1
+mammal,rei_mon,Wilson_2005,Reithrodontomys montanus,Reithrodontomys,,montanus,,Baird,1855,,Plains Harvest Mouse,1
+mammal,sca_aqu,Wilson_2005,Scalopus aquaticus,Scalopus,,aquaticus,,Linnaeus,1758,,Eastern Mole,1
+mammal,sca_lat,Wilson_2005,Scapanus latimanus,Scapanus,,latimanus,,Bachman,1842,,Broad-footed Mole,1
+mammal,sca_ora,Wilson_2005,Scapanus orarius,Scapanus,,orarius,,TRUE,1896,,Coast Mole,1
+mammal,sca_tow,Wilson_2005,Scapanus townsendii,Scapanus,,townsendii,,Bachman,1839,,Townsend's Mole,1
+mammal,sci_abe,Wilson_2005,Sciurus aberti,Sciurus,,aberti,,Woodhouse,1852,,Abert's Squirrel,1
+mammal,sci_car,Wilson_2005,Sciurus carolinensis,Sciurus,,carolinensis,,Gmelin,1788,,Eastern Gray Squirrel,1
+mammal,sci_gri,Wilson_2005,Sciurus griseus,Sciurus,,griseus,,Ord,1818,,Western Gray Squirrel,1
+mammal,sci_nig,Wilson_2005,Sciurus niger,Sciurus,,niger,,Linnaeus,1758,,Eastern Fox Squirrel,1
+mammal,sig_ari,Wilson_2005,Sigmodon arizonae,Sigmodon,,arizonae,,Mearns,1890,,Arizona Cotton Rat,1
+mammal,sig_ful,Wilson_2005,Sigmodon fulviventer,Sigmodon,,fulviventer,,J. A. Allen,1889,,Tawny-bellied Cotton Rat,1
+mammal,sig_his,Wilson_2005,Sigmodon hispidus,Sigmodon,,hispidus,,Say and Ord,1825,,Hispid Cotton Rat,1
+mammal,sig_och,Wilson_2005,Sigmodon ochrognathus,Sigmodon,,ochrognathus,,Bailey,1902,,Yellow-nosed Cotton Rat,1
+mammal,sor_arc,Wilson_2005,Sorex arcticus,Sorex,,arcticus,,Kerr,1792,,Arctic Shrew,1
+mammal,sor_ari,Wilson_2005,Sorex arizonae,Sorex,,arizonae,,Diersing and Hoffmeister,1977,,Arizona Shrew,1
+mammal,sor_bai,Wilson_2005,Sorex bairdi,Sorex,,bairdi,,Merriam,1895,,Baird's Shrew,1
+mammal,sor_ben,Wilson_2005,Sorex bendirii,Sorex,,bendirii,,Merriam,1884,,Marsh Shrew,1
+mammal,sor_cin,Wilson_2005,Sorex cinereus,Sorex,,cinereus,,Kerr,1792,,Cinereus Shrew,1
+mammal,sor_dis,Wilson_2005,Sorex dispar,Sorex,,dispar,,Batchelder,1911,,Long-tailed Shrew,1
+mammal,sor_fum,Wilson_2005,Sorex fumeus,Sorex,,fumeus,,G. M. Miller,1895,,Smoky Shrew,1
+mammal,sor_hay,Wilson_2005,Sorex haydeni,Sorex,,haydeni,,Baird,1857,,Prairie Shrew,1
+mammal,sor_hoy,Wilson_2005,Sorex hoyi,Sorex,,hoyi,,Baird,1857,,American Pygmy Shrew,1
+mammal,sor_lon,Wilson_2005,Sorex longirostris,Sorex,,longirostris,,Bachman,1837,,Southeastern Shrew,1
+mammal,sor_lye,Wilson_2005,Sorex lyelli,Sorex,,lyelli,,Merriam,1902,,Mt. Lyell Shrew,1
+mammal,sor_mer,Wilson_2005,Sorex merriami,Sorex,,merriami,,Dobson,1890,,Merriam's Shrew,1
+mammal,sor_mon,Wilson_2005,Sorex monticolus,Sorex,,monticolus,,Merriam,1890,,Dusky Shrew,1
+mammal,sor_nan,Wilson_2005,Sorex nanus,Sorex,,nanus,,Merriam,1895,,Dwarf Shrew,1
+mammal,sor_orn,Wilson_2005,Sorex ornatus,Sorex,,ornatus,,Merriam,1895,,Ornate Shrew,1
+mammal,sor_pal,Wilson_2005,Sorex palustris,Sorex,,palustris,,Richardson,1828,,American Water Shrew,1
+mammal,sor_pre,Wilson_2005,Sorex preblei,Sorex,,preblei,,Jackson,1922,,Preble's Shrew,1
+mammal,sor_tro,Wilson_2005,Sorex trowbridgii,Sorex,,trowbridgii,,Baird,1857,,Trowbridge's Shrew,1
+mammal,sor_tun,Wilson_2005,Sorex tundrensis,Sorex,,tundrensis,,Merriam,1900,,Tundra Shrew,1
+mammal,sor_ugy,Wilson_2005,Sorex ugyunak,Sorex,,ugyunak,,Anderson and Rand,1945,,Barren Ground Shrew,1
+mammal,sor_vag,Wilson_2005,Sorex vagrans,Sorex,,vagrans,,Baird,1857,,Vagrant Shrew,1
+mammal,spe_arm,Wilson_2005,Spermophilus armatus,Spermophilus,,armatus,,Kennicott,1863,,Uinta Ground Squirrel,1
+mammal,spe_bee,Wilson_2005,Spermophilus beecheyi,Spermophilus,,beecheyi,,Richardson,1829,,California Ground Squirrel,1
+mammal,spe_bel,Wilson_2005,Spermophilus beldingi,Spermophilus,,beldingi,,Merriam,1888,,Belding's Ground Squirrel,1
+mammal,spe_fra,Wilson_2005,Spermophilus franklinii,Spermophilus,,franklinii,,Sabine,1822,,Franklin's Ground Squirrel,1
+mammal,spe_lat,Wilson_2005,Spermophilus lateralis,Spermophilus,,lateralis,,Say,1823,,Golden-mantled Ground Squirrel,1
+mammal,spe_mol,Wilson_2005,Spermophilus mollis,Spermophilus,,mollis,,Kennicott,1863,,Piute Ground Squirrel,1
+mammal,spe_par,Wilson_2005,Spermophilus parryii,Spermophilus,,parryii,,Richardson,1825,,Arctic Ground Squirrel,1
+mammal,spe_ric,Wilson_2005,Spermophilus richardsonii,Spermophilus,,richardsonii,,Sabine,1822,,Richardson's Ground Squirrel,1
+mammal,spe_sat,Wilson_2005,Spermophilus saturatus,Spermophilus,,saturatus,,Rhoads,1895,,Cascade Golden-mantled Ground Squirrel,1
+mammal,spe_spi,Wilson_2005,Spermophilus spilosoma,Spermophilus,,spilosoma,,Bennett,1833,,Spotted Ground Squirrel,1
+mammal,spe_ter,Wilson_2005,Spermophilus tereticaudus,Spermophilus,,tereticaudus,,Baird,1858,,Round-tailed Ground Squirrel,1
+mammal,spe_tri,Wilson_2005,Spermophilus tridecemlineatus,Spermophilus,,tridecemlineatus,,Mitchill,1821,,Thirteen-lined Ground Squirrel,1
+mammal,spe_var,Wilson_2005,Spermophilus variegatus,Spermophilus,,variegatus,,Erxleben,1777,,Rock Squirrel,1
+mammal,spi_gra,Wilson_2005,Spilogale gracilis,Spilogale,,gracilis,,Merriam,1890,,Western Spotted Skunk,1
+mammal,spi_put,Wilson_2005,Spilogale putorius,Spilogale,,putorius,,Linnaeus,1758,,Eastern Spotted Skunk,1
+mammal,syl_aqu,Wilson_2005,Sylvilagus aquaticus,Sylvilagus,,aquaticus,,Bachman,1837,,Swamp Rabbit,1
+mammal,syl_aud,Wilson_2005,Sylvilagus audubonii,Sylvilagus,,audubonii,,Baird,1858,,Desert Cottontail,1
+mammal,syl_bac,Wilson_2005,Sylvilagus bachmani,Sylvilagus,,bachmani,,Waterhouse,1839,,Brush Rabbit,1
+mammal,syl_flo,Wilson_2005,Sylvilagus floridanus,Sylvilagus,,floridanus,,J. A. Allen,1890,,Eastern Cottontail,1
+mammal,syl_nut,Wilson_2005,Sylvilagus nuttallii,Sylvilagus,,nuttallii,,Bachman,1837,,Mountain Cottontail,1
+mammal,syl_obs,Wilson_2005,Sylvilagus obscurus,Sylvilagus,,obscurus,,Chapman et al.,1992,,Appalachian Cottontail,1
+mammal,syl_pal,Wilson_2005,Sylvilagus palustris,Sylvilagus,,palustris,,Bachman,1837,,Marsh Rabbit,1
+mammal,syl_tra,Wilson_2005,Sylvilagus transitionalis,Sylvilagus,,transitionalis,,Bangs,1895,,New England Cottontail,1
+mammal,syn_bor,Wilson_2005,Synaptomys borealis,Synaptomys,,borealis,,Richardson,1828,,Northern Bog Lemming,1
+mammal,syn_coo,Wilson_2005,Synaptomys cooperi,Synaptomys,,cooperi,,Baird,1857,,Southern Bog Lemming,1
+mammal,tad_bra,Wilson_2005,Tadarida brasiliensis,Tadarida,,brasiliensis,,I. Geoffroy,1824,,Brazilian Free-tailed Bat (known as the Mexican Free-tailed Bat in North America),1
+mammal,tam_amo,Wilson_2005,Tamias amoenus,Tamias,,amoenus,,J. A. Allen,1890,,Yellow-pine Chipmunk,1
+mammal,tam_cin,Wilson_2005,Tamias cinereicollis,Tamias,,cinereicollis,,J. A. Allen,1890,,Gray-collared Chipmunk,1
+mammal,tam_dor,Wilson_2005,Tamias dorsalis,Tamias,,dorsalis,,Baird,1855,,Cliff Chipmunk,1
+mammal,tam_mer,Wilson_2005,Tamias merriami,Tamias,,merriami,,J. A. Allen,1889,,Merriam's Chipmunk,1
+mammal,tam_min,Wilson_2005,Tamias minimus,Tamias,,minimus,,Bachman,1839,,Least Chipmunk,1
+mammal,tam_qua,Wilson_2005,Tamias quadrivittatus,Tamias,,quadrivittatus,,Say,1823,,Colorado Chipmunk,1
+mammal,tam_ruf,Wilson_2005,Tamias rufus,Tamias,,rufus,,Hoffmeister and Ellis,1979,,Hopi Chipmunk,1
+mammal,tam_spe,Wilson_2005,Tamias speciosus,Tamias,,speciosus,,Merriam,1890,,Lodgepole Chipmunk,1
+mammal,tam_str,Wilson_2005,Tamias striatus,Tamias,,striatus,,Linnaeus,1758,,Eastern Chipmunk,1
+mammal,tam_tow,Wilson_2005,Tamias townsendii,Tamias,,townsendii,,Bachman,1839,,Townsend's Chipmunk,1
+mammal,tam_umb,Wilson_2005,Tamias umbrinus,Tamias,,umbrinus,,J. A. Allen,1890,,Uinta Chipmunk,1
+mammal,tam_dou,Wilson_2005,Tamiasciurus douglasii,Tamiasciurus,,douglasii,,Bachman,1838,,Douglas's Squirrel,1
+mammal,tam_hud,Wilson_2005,Tamiasciurus hudsonicus,Tamiasciurus,,hudsonicus,,Erxleben,1777,,Red Squirrel,1
+mammal,tax_tax,Wilson_2005,Taxidea taxus,Taxidea,,taxus,,Schreber,1777,,American Badger,1
+mammal,tho_bot,Wilson_2005,Thomomys bottae,Thomomys,,bottae,,(Eydoux and Gervais),1836,,Botta's Pocket Gopher.,1
+mammal,tho_ida,Wilson_2005,Thomomys idahoensis,Thomomys,,idahoensis,,Merriam,1901,,Idaho Pocket Gopher.,1
+mammal,tho_tal,Wilson_2005,Thomomys talpoides,Thomomys,,talpoides,,(Richardson),1828,,Northern Pocket Gopher.,1
+mammal,tho_umb,Wilson_2005,Thomomys umbrinus,Thomomys,,umbrinus,,(Richardson),1829,,Southern Pocket Gopher.,1
+mammal,uro_cin,Wilson_2005,Urocyon cinereoargenteus,Urocyon,,cinereoargenteus,,Schreber,1775,,Gray Fox,1
+mammal,urs_ame,Wilson_2005,Ursus americanus,Ursus,,americanus,,Pallas,1780,,American Black Bear,1
+mammal,urs_arc,Wilson_2005,Ursus arctos,Ursus,,arctos,,Linnaeus,1758,,Brown Bear,1
+mammal,urs_mar,Wilson_2005,Ursus maritimus,Ursus,,maritimus,,Phipps,1774,,Polar Bear,1
+mammal,vul_lag,Wilson_2005,Vulpes lagopus,Vulpes,,lagopus,,Linnaeus,1758,,Arctic Fox,1
+mammal,vul_vel,Wilson_2005,Vulpes velox,Vulpes,,velox,,Say,1823,,Swift Fox,1
+mammal,vul_vul,Wilson_2005,Vulpes vulpes,Vulpes,,vulpes,,Linnaeus,1758,,Red Fox,1
+mammal,zap_hud,Wilson_2005,Zapus hudsonius,Zapus,,hudsonius,,Zimmermann,1780,,Meadow Jumping Mouse,1
+mammal,zap_pri,Wilson_2005,Zapus princeps,Zapus,,princeps,,Allen,1893,,Western Jumping Mouse,1
+mammal,zap_tri,Wilson_2005,Zapus trinotatus,Zapus,,trinotatus,,Rhoads,1894,,Pacific Jumping Mouse,1
+mammal,mic_mog,Wilson_2005,Microtus mogollonensis,Microtus,,mogollonensis,,,,,Mogollon vole,1
