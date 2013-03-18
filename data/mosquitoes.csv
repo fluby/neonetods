@@ -1,4 +1,4 @@
-taxon_id,spp_id,resource_id,scientific_name,genus,subgenus,species,subspecies,authority_name,authority_year,itis_number,common_name,species_level_id
+taxon_id,spp_id,source_id,scientific_name,genus,subgenus,species,subspecies,authority_name,authority_year,itis_number,common_name,species_level_id
 mosquito,aedcan2,WRBU_2010,Aedes canadensis mathesoni,Aedes,Ochlerotatus,canadensis,mathesoni,Middlekauff,1944,126325,,1
 mosquito,aedful,WRBU_2010,Aedes fulvus pallens,Aedes,Ochlerotatus,fulvus,pallens,Ross,1943,126546,,1
 mosquito,toxrut2,WRBU_2010,Toxorhynchites rutilus septentrionalis,Toxorhynchites,Lynchiella,rutilus,septentrionalis,Dyar & Knab,1906,126284,,1
