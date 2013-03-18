@@ -1,4 +1,4 @@
-taxon_id,spp_id,resource_id,scientific_name,genus,subgenus,species,subspecies,authority_name,authority_year,itis_number,common_name,species_level_id
+taxon_id,spp_id,source_id,scientific_name,genus,subgenus,species,subspecies,authority_name,authority_year,itis_number,common_name,species_level_id
 mammal,alc_alc,Wilson_2005,Alces alces,Alces,,alces,,Linnaeus,1758,,Eurasian Elk,1
 mammal,amm_har,Wilson_2005,Ammospermophilus harrisii,Ammospermophilus,,harrisii,,Audubon and Bachman,1854,,Harris's Antelope Squirrel,1
 mammal,amm_int,Wilson_2005,Ammospermophilus interpres,Ammospermophilus,,interpres,,Merriam,1890,,Texas Antelope Squirrel,1

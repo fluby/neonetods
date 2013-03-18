@@ -21,7 +21,7 @@ BONA,Martes,americana,,Marten,http://www.mendeley.com/research/animal-species-li
 BONA,Mustela,erminea,,Ermine,http://www.mendeley.com/research/animal-species-list-bona-1/
 BONA,Mustela,nivalis,,Least Weasel,http://www.mendeley.com/research/animal-species-list-bona-1/
 BONA,Mustela,vision,,Mink,http://www.mendeley.com/research/animal-species-list-bona-1/
-BONA,Ursus,americanus,,Black Bear,http://www.mendeley.com/research/animal-species-list-bona-1/
+BONA,Ursus,americanus,,American Black Bear,http://www.mendeley.com/research/animal-species-list-bona-1/
 BONA,Myotis,lucifugus,,Little Brown Bat,http://www.mendeley.com/research/animal-species-list-bona-1/
 BONA,Sorex,arcticus,,Arctic Shrew,http://www.mendeley.com/research/animal-species-list-bona-1/
 BONA,Sorex,cinereus,,Masked Shrew,http://www.mendeley.com/research/animal-species-list-bona-1/
@@ -69,7 +69,7 @@ FEXF,Mustela,frenata,,long-tailed weasel,http://www.mendeley.com/c/5077870952/g/
 FEXF,Mustela,vison,,Mink,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
 FEXF,Taxidea,taxus,,badger,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
 FEXF,Procyon,lotor,,raccoon,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
-FEXF,Ursus,americanus,,black bear,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
+FEXF,Ursus,americanus,,American Black Bear,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
 FEXF,Lasionycteris,noctivagans,,silver-haired bat,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
 FEXF,Lasiurus,cinereus,,hoary bat,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
 FEXF,Myotis,ciliolabrum,,Western small-footed myotis,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
@@ -157,7 +157,7 @@ GRSM,Sylvilagus,floridanus,mallurus,Eastern cottontail,http://www.mendeley.com/c
 GRSM,Synaptomys,cooperi,,Southern bog lemming,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
 GRSM,Tamias,striatus,,Eastern chipmunk,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
 GRSM,Tamiasciurus,hudsonicus,,Red squirrel,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
-GRSM,Ursus,americanus,,Black bear,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
+GRSM,Ursus,americanus,,American Black Bear,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
 GRSM,Vulpes,vulpes,,Red fox,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
 GRSM,Zapus,hudsonius,,Meadow jumping mouse,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
 GUAN,Eptesicus,fuscus,,,http://www.mendeley.com/c/5004975572/g/2058663/guanica-checklist/
@@ -410,7 +410,7 @@ NIWO,Erethizon,dorsatum,,Porcupine,http://www.mendeley.com/c/5052628462/g/205866
 NIWO,Canis,latrans,,Coyote,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
 NIWO,Canis,lupus,,Gray Wolf,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
 NIWO,Vulpes,vulpes,,Red fox,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
-NIWO,Ursus,americanus,,Black Bear,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
+NIWO,Ursus,americanus,,American Black Bear,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
 NIWO,Ursus,arctos,,Grizzly Bear,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
 NIWO,Martes,americana,,American Marten,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
 NIWO,Mustela,erminea,,Short-tailed Weasel,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
@@ -506,7 +506,7 @@ ORNL,Sus,scrofa,,Feral hog,http://www.mendeley.com/c/5050614152/g/2058663/2011-m
 ORNL,Lynx,rufus,,Bobcat,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
 ORNL,Odocoileus,virginianus,,White-tailed deer,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
 ORNL,Cervus,canadensis,,Elk,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
-ORNL,Ursus,americana,,Black bear,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
+ORNL,Ursus,americana,,American Black Bear,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
 OSBS,Didelphis,virginiana,pigra,Virginia opossum,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
 OSBS,Sorex,longirostris,longirostris,Southeastern shrew,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
 OSBS,Blarina,carolinensis,,Short-tailed shrew,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
@@ -552,7 +552,7 @@ POKE,Martes,americana,,Marten,http://www.mendeley.com/research/animal-species-li
 POKE,Mustela,erminea,,Ermine,http://www.mendeley.com/research/animal-species-list-bona-1/
 POKE,Mustela,nivalis,,Least Weasel,http://www.mendeley.com/research/animal-species-list-bona-1/
 POKE,Mustela,vision,,Mink,http://www.mendeley.com/research/animal-species-list-bona-1/
-POKE,Ursus,americanus,,Black Bear,http://www.mendeley.com/research/animal-species-list-bona-1/
+POKE,Ursus,americanus,,American Black Bear,http://www.mendeley.com/research/animal-species-list-bona-1/
 POKE,Myotis,lucifugus,,Little Brown Bat,http://www.mendeley.com/research/animal-species-list-bona-1/
 POKE,Sorex,arcticus,,Arctic Shrew,http://www.mendeley.com/research/animal-species-list-bona-1/
 POKE,Sorex,cinereus,,Masked Shrew,http://www.mendeley.com/research/animal-species-list-bona-1/
@@ -744,11 +744,11 @@ TALL,Myotis,sodalist,,Gray bat,http://www.mendeley.com/c/5014516852/g/2058663/ev
 TALL,Mustela,frenata,,Long-tailed Weasle,http://www.mendeley.com/c/5133689034/g/2058663/rare-species-documented-in-bibb-county-al/
 TALL,Myotis,grisescens,,Gray Bat,http://www.mendeley.com/c/5133689034/g/2058663/rare-species-documented-in-bibb-county-al/
 TALL,Myotis,sodalis,,Indiana Bat,http://www.mendeley.com/c/5133689034/g/2058663/rare-species-documented-in-bibb-county-al/
-TALL,Ursus,americanus,,Black Bear,http://www.mendeley.com/c/5133689034/g/2058663/rare-species-documented-in-bibb-county-al/
+TALL,Ursus,americanus,,American Black Bear,http://www.mendeley.com/c/5133689034/g/2058663/rare-species-documented-in-bibb-county-al/
 TREE,Canis,lupus,,Gray Wolf,http://www.mendeley.com/c/5405289164/g/2058663/UWSP---Treehaven-Land-Management-Plan
 TREE,,,,Fisher,http://www.mendeley.com/c/5072967812/g/2058663/treelandmanagementplanpdf-applicationpdf-object/
 TREE,,,,Timber wolf,http://www.mendeley.com/c/5072967812/g/2058663/treelandmanagementplanpdf-applicationpdf-object/
-TREE,,,,Black bear,http://www.mendeley.com/c/5072967812/g/2058663/treelandmanagementplanpdf-applicationpdf-object/
+TREE,,,,American Black Bear,http://www.mendeley.com/c/5072967812/g/2058663/treelandmanagementplanpdf-applicationpdf-object/
 TREE,,,,White tailed deer,http://www.mendeley.com/c/5072967812/g/2058663/treelandmanagementplanpdf-applicationpdf-object/
 TREE,,,,Porcupine,http://www.mendeley.com/c/5072967812/g/2058663/treelandmanagementplanpdf-applicationpdf-object/
 TREE,,,,Raccoon,http://www.mendeley.com/c/5072967812/g/2058663/treelandmanagementplanpdf-applicationpdf-object/
@@ -799,7 +799,7 @@ UNDE,Mustela,frenata,,Long-tailed Weasel,http://www.mendeley.com/c/5097547162/g/
 UNDE,Mustela,nivalis,,Least Weasel,http://www.mendeley.com/c/5097547162/g/2058663/underc-mammal-list/
 UNDE,Mustela,vison,,Mink,http://www.mendeley.com/c/5097547162/g/2058663/underc-mammal-list/
 UNDE,Procyon,lotor,,Common Raccoon,http://www.mendeley.com/c/5097547162/g/2058663/underc-mammal-list/
-UNDE,Ursus,americanus,,Black Bear,http://www.mendeley.com/c/5097547162/g/2058663/underc-mammal-list/
+UNDE,Ursus,americanus,,American Black Bear,http://www.mendeley.com/c/5097547162/g/2058663/underc-mammal-list/
 UNDE,Odocoileus,virginianus,,White-tailed Deer,http://www.mendeley.com/c/5097547162/g/2058663/underc-mammal-list/
 UNDE,Alces,alces,,Moose,http://www.mendeley.com/c/5097547162/g/2058663/underc-mammal-list/
 WOOD,Blarina,brevicauda,,Northern short-tailed shrew,http://www.mendeley.com/c/5007912492/g/2058663/higgins-1992-waterfowl-production-on-the-woodworth-station-in-south-central-north-dakota--1965-1981/
@@ -892,14 +892,14 @@ DSNY,Neofiber,alleni,,Round-tailed muskrat,http://www.mendeley.com/c/5147567754/
 DSNY,Mus,musculus,,House mouse,http://www.mendeley.com/c/5147567754/g/2058663/mammals-of-florida--american-society-of-mammalogists/
 DSNY,Rattus,rattus,,Black rat,http://www.mendeley.com/c/5147567754/g/2058663/mammals-of-florida--american-society-of-mammalogists/
 DSNY,Rattus,norvegicus,,Norway rat,http://www.mendeley.com/c/5147567754/g/2058663/mammals-of-florida--american-society-of-mammalogists/
-DSNY,Hydrochaeris,hydrochaeris,,Capybara,http://www.mendeley.com/c/5147567754/g/2058663/mammals-of-florida--american-society-of-mammalogists/
+DSNY,Hydrochoeris,hydrochaeris,,Capybara,http://www.mendeley.com/c/5147567754/g/2058663/mammals-of-florida--american-society-of-mammalogists/
 DSNY,Canis,familiaris,,Feral domestic dog,http://www.mendeley.com/c/5147567754/g/2058663/mammals-of-florida--american-society-of-mammalogists/
 DSNY,Canis,latrans,,Coyote,http://www.mendeley.com/c/5147567754/g/2058663/mammals-of-florida--american-society-of-mammalogists/
 DSNY,Vulpes,vulpes,,Red fox,http://www.mendeley.com/c/5147567754/g/2058663/mammals-of-florida--american-society-of-mammalogists/
 DSNY,Urocyon,cinereoargenteus,,Gray fox,http://www.mendeley.com/c/5147567754/g/2058663/mammals-of-florida--american-society-of-mammalogists/
-DSNY,Ursus,americanus,,Black bear,http://www.mendeley.com/c/5147567754/g/2058663/mammals-of-florida--american-society-of-mammalogists/
+DSNY,Ursus,americanus,,American Black Bear,http://www.mendeley.com/c/5147567754/g/2058663/mammals-of-florida--american-society-of-mammalogists/
 DSNY,Procyon,lotor,,Raccoon,http://www.mendeley.com/c/5147567754/g/2058663/mammals-of-florida--american-society-of-mammalogists/
-DSNY,Mustala,vison,,Mink,http://www.mendeley.com/c/5147567754/g/2058663/mammals-of-florida--american-society-of-mammalogists/
+DSNY,Mustela,vison,,Mink,http://www.mendeley.com/c/5147567754/g/2058663/mammals-of-florida--american-society-of-mammalogists/
 DSNY,Lutra,canadensis,,River otter,http://www.mendeley.com/c/5147567754/g/2058663/mammals-of-florida--american-society-of-mammalogists/
 DSNY,Mephitis,mephitis,,Striped skunk,http://www.mendeley.com/c/5147567754/g/2058663/mammals-of-florida--american-society-of-mammalogists/
 DSNY,Spilogale,putorius,,Spotted skunk,http://www.mendeley.com/c/5147567754/g/2058663/mammals-of-florida--american-society-of-mammalogists/
