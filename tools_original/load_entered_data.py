@@ -14,7 +14,7 @@ default_synonyms = {
                     'plants': [('plants.csv', 2, 3)],
                     'inverts': [('beetles.csv', 1, 3), 
                                 ('mosquitoes.csv', 1, 3)],
-                    'herps': [],
+                    'herps': [('herps_taxonomy.csv', 1, 3)],
                     }
 
 default_species_lists = [
@@ -122,7 +122,7 @@ def main(species_lists):
         unknown = 0
 
         # parse entered data
-        data_file = open(data_entry_file, 'r')
+        data_file = open(os.path.join(DATA_DIR, data_entry_file), 'r')
         data = data_file.read().replace('\r', '\n')
         lines = data.split('\n')[1:]
         for line in lines:
