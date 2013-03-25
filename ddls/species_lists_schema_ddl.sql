@@ -7,6 +7,128 @@
 ---conservation status is included here, because status can vary across the geographical range of a species
 ---status should include state and federal listings
 
+DROP TABLE IF EXISTS species_lists.mammals_raw CASCADE;
+CREATE TABLE species_lists.mammals_raw
+(
+
+site_id		varchar(1000)    NOT NULL,
+genus		varchar(1000),
+sp		varchar(1000),
+subsp		varchar(1000),
+common_name	varchar(1000),
+source_id	varchar(1000)    NOT NULL
+
+);
+
+
+ALTER TABLE species_lists.mammals_raw
+  ADD CONSTRAINT mammals_raw_site_id_fkey FOREIGN KEY (site_id)
+  REFERENCES site_data.site_info_V11 (site_id);
+
+ALTER TABLE species_lists.mammals_raw
+  ADD CONSTRAINT mammals_raw_source_id_fkey FOREIGN KEY (source_id)
+  REFERENCES sources.sources (source_id);
+
+COMMIT;
+---------------------------------------------------------------------------------------------------
+
+DROP TABLE IF EXISTS species_lists.inverts_raw CASCADE;
+CREATE TABLE species_lists.inverts_raw
+(
+
+site_id		varchar(1000)    NOT NULL,
+genus		varchar(1000),
+sp		varchar(1000),
+subsp		varchar(1000),
+common_name	varchar(1000),
+source_id	varchar(1000)    NOT NULL
+
+);
+
+
+ALTER TABLE species_lists.inverts_raw
+  ADD CONSTRAINT inverts_raw_site_id_fkey FOREIGN KEY (site_id)
+  REFERENCES site_data.site_info_V11 (site_id);
+
+ALTER TABLE species_lists.inverts_raw
+  ADD CONSTRAINT inverts_raw_source_id_fkey FOREIGN KEY (source_id)
+  REFERENCES sources.sources (source_id);
+
+COMMIT;
+-----------------------------------------------------------------------------------
+DROP TABLE IF EXISTS species_lists.birds_raw CASCADE;
+CREATE TABLE species_lists.birds_raw
+(
+
+site_id		varchar(1000)    NOT NULL,
+genus		varchar(1000),
+sp		varchar(1000),
+subsp		varchar(1000),
+common_name	varchar(1000),
+source_id	varchar(1000)    NOT NULL
+
+);
+
+
+ALTER TABLE species_lists.birds_raw
+  ADD CONSTRAINT birds_raw_site_id_fkey FOREIGN KEY (site_id)
+  REFERENCES site_data.site_info_V11 (site_id);
+
+ALTER TABLE species_lists.birds_raw
+  ADD CONSTRAINT birds_raw_source_id_fkey FOREIGN KEY (source_id)
+  REFERENCES sources.sources (source_id);
+
+COMMIT;
+-----------------------------------------------------------------------------------
+DROP TABLE IF EXISTS species_lists.plants_raw CASCADE;
+CREATE TABLE species_lists.plants_raw
+(
+
+site_id		varchar(1000)    NOT NULL,
+genus		varchar(1000),
+sp		varchar(1000),
+subsp		varchar(1000),
+common_name	varchar(1000),
+source_id	varchar(1000)    NOT NULL
+
+);
+
+
+ALTER TABLE species_lists.plants_raw
+  ADD CONSTRAINT plants_raw_site_id_fkey FOREIGN KEY (site_id)
+  REFERENCES site_data.site_info_V11 (site_id);
+
+ALTER TABLE species_lists.plants_raw
+  ADD CONSTRAINT plants_raw_source_id_fkey FOREIGN KEY (source_id)
+  REFERENCES sources.sources (source_id);
+
+COMMIT;
+-----------------------------------------------------------------------------------
+DROP TABLE IF EXISTS species_lists.herps_raw CASCADE;
+CREATE TABLE species_lists.herps_raw
+(
+
+site_id		varchar(1000)    NOT NULL,
+genus		varchar(1000),
+sp		varchar(1000),
+subsp		varchar(1000),
+common_name	varchar(1000),
+source_id	varchar(1000)    NOT NULL
+
+);
+
+ALTER TABLE species_lists.herps_raw
+  ADD CONSTRAINT herps_raw_site_id_fkey FOREIGN KEY (site_id)
+  REFERENCES site_data.site_info_V11 (site_id);
+
+ALTER TABLE species_lists.herps_raw
+  ADD CONSTRAINT herps_raw_source_id_fkey FOREIGN KEY (source_id)
+  REFERENCES sources.sources (source_id);
+
+COMMIT;
+-----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
+
 DROP TABLE IF EXISTS species_lists.mammals CASCADE;
 CREATE TABLE species_lists.mammals
 (
@@ -20,7 +142,7 @@ ALTER TABLE species_lists.mammals
 
 ALTER TABLE species_lists.mammals
   ADD CONSTRAINT mammals_site_id_fkey FOREIGN KEY (site_id)
-  REFERENCES site_data.site_info (site_id);
+  REFERENCES site_data.site_info_v11 (site_id);
 
 ALTER TABLE species_lists.mammals
   ADD CONSTRAINT mammals_source_id_fkey FOREIGN KEY (source_id)
@@ -43,7 +165,7 @@ ALTER TABLE species_lists.birds
 
 ALTER TABLE species_lists.birds
   ADD CONSTRAINT birds_site_id_fkey FOREIGN KEY (site_id)
-  REFERENCES site_data.site_info (site_id);
+  REFERENCES site_data.site_info_v11 (site_id);
 
 ALTER TABLE species_lists.birds
   ADD CONSTRAINT birds_source_id_fkey FOREIGN KEY (source_id)
@@ -66,7 +188,7 @@ ALTER TABLE species_lists.plants
 
 ALTER TABLE species_lists.plants
   ADD CONSTRAINT plants_site_id_fkey FOREIGN KEY (site_id)
-  REFERENCES site_data.site_info (site_id);
+  REFERENCES site_data.site_info_v11 (site_id);
 
 ALTER TABLE species_lists.plants
   ADD CONSTRAINT plants_source_id_fkey FOREIGN KEY (source_id)
@@ -89,7 +211,7 @@ ALTER TABLE species_lists.inverts
 
 ALTER TABLE species_lists.inverts
   ADD CONSTRAINT inverts_site_id_fkey FOREIGN KEY (site_id)
-  REFERENCES site_data.site_info (site_id);
+  REFERENCES site_data.site_info_v11 (site_id);
 
 ALTER TABLE species_lists.inverts
   ADD CONSTRAINT inverts_source_id_fkey FOREIGN KEY (source_id)
@@ -112,7 +234,7 @@ ALTER TABLE species_lists.herps
 
 ALTER TABLE species_lists.herps
   ADD CONSTRAINT herps_site_id_fkey FOREIGN KEY (site_id)
-  REFERENCES site_data.site_info (site_id);
+  REFERENCES site_data.site_info_v11 (site_id);
 
 ALTER TABLE species_lists.herps
   ADD CONSTRAINT herps_source_id_fkey FOREIGN KEY (source_id)

@@ -1,4 +1,4 @@
-site,genus,sp,subsp,common_name,source
+site_id,genus,sp,subsp,common_name,source_id
 BART,Desmognathus,fuscus,,dusky salamander,http://www.mendeley.com/c/4981706182/g/2058663/degraaf-2002-effects-of-edge-contrast-on-redback-salamander-distribution-in-even-aged-northern-hardwoods/
 BART,Eurycea,bislineata,,two-lined salamander,http://www.mendeley.com/c/4981706182/g/2058663/degraaf-2002-effects-of-edge-contrast-on-redback-salamander-distribution-in-even-aged-northern-hardwoods/
 BART,Gyrinophilus,porphyriticus,,spring salamander,http://www.mendeley.com/c/4981706182/g/2058663/degraaf-2002-effects-of-edge-contrast-on-redback-salamander-distribution-in-even-aged-northern-hardwoods/

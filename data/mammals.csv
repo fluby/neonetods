@@ -1,4 +1,4 @@
-taxon_id,spp_id,resource_id,scientific_name,genus,subgenus,species,subspecies,authority_name,authority_year,itis_number,common_name,species_level_id
+taxon_id,spp_id,source_id,scientific_name,genus,subgenus,species,subspecies,authority_name,authority_year,itis_number,common_name,species_level_id
 mammal,alc_alc,Wilson_2005,Alces alces,Alces,,alces,,Linnaeus,1758,,Eurasian Elk,1
 mammal,amm_har,Wilson_2005,Ammospermophilus harrisii,Ammospermophilus,,harrisii,,Audubon and Bachman,1854,,Harris's Antelope Squirrel,1
 mammal,amm_int,Wilson_2005,Ammospermophilus interpres,Ammospermophilus,,interpres,,Merriam,1890,,Texas Antelope Squirrel,1
@@ -53,6 +53,7 @@ mammal,gla_vol,Wilson_2005,Glaucomys volans,Glaucomys,,volans,,Linnaeus,1758,,So
 mammal,gul_gul,Wilson_2005,Gulo gulo,Gulo,,gulo,,Linnaeus,1758,,Wolverine,1
 mammal,idi_phy,Wilson_2005,Idionycteris phyllotis,Idionycteris,,phyllotis,,G. M. Allen,1916,,Allen's Big-eared Bat,1
 mammal,las_noc,Wilson_2005,Lasionycteris noctivagans,Lasionycteris,,noctivagans,,Le Conte,1831,,Silver-haired Bat,1
+mammal,myo_sod,Wilson_2005,Myotis sodalis,Myotis,,sodalis,,Miller and Allen,1928,,Indiana Myotis,1
 mammal,las_blo,Wilson_2005,Lasiurus blossevillii,Lasiurus,,blossevillii,,Lesson and Garnot,1826,,Red Bat (known as the Western Red Bat in North America),1
 mammal,las_bor,Wilson_2005,Lasiurus borealis,Lasiurus,,borealis,,Müller,1776,,Eastern Red Bat,1
 mammal,las_cin,Wilson_2005,Lasiurus cinereus,Lasiurus,,cinereus,,Palisot de Beauvois,1796,,Hoary Bat,1
@@ -109,7 +110,6 @@ mammal,myo_gri,Wilson_2005,Myotis grisescens,Myotis,,grisescens,,A. H. Howell,19
 mammal,myo_lei,Wilson_2005,Myotis leibii,Myotis,,leibii,,Audubon and Bachman,1842,,Eastern Small-footed Myotis,1
 mammal,myo_luc,Wilson_2005,Myotis lucifugus,Myotis,,lucifugus,,Le Conte,1831,,Little Brown Myotis,1
 mammal,myo_sep,Wilson_2005,Myotis septentrionalis,Myotis,,septentrionalis,,Trouessart,1897,,Northern Myotis,1
-mammal,myo_sod,Wilson_2005,Myotis sodalis,Myotis,,sodalis,,Miller and Allen,1928,,Indiana Myotis,1
 mammal,myo_thy,Wilson_2005,Myotis thysanodes,Myotis,,thysanodes,,Miller,1897,,Fringed Myotis,1
 mammal,myo_vel,Wilson_2005,Myotis velifer,Myotis,,velifer,,J. A. Allen,1890,,Cave Myotis,1
 mammal,myo_vol,Wilson_2005,Myotis volans,Myotis,,volans,,H. Allen,1866,,Long-legged Myotis,1

@@ -1,4 +1,4 @@
-site,genus,sp,subsp,common_name,source
+site_id,genus,sp,subsp,common_name,source_id
 BLAN,Peromyscus,leucopus,noveborcensis,white-footed mouse,http://www.mendeley.com/c/4997133882/g/2058663/bowers-1993-predation-hazard-and-seed-removal-by-small-mammals--microhabitat-versus-patch-scale-effects/
 BLAN,Microtus,pennsylvanicus,,meadow vole,http://www.mendeley.com/c/4997133882/g/2058663/bowers-1993-predation-hazard-and-seed-removal-by-small-mammals--microhabitat-versus-patch-scale-effects/
 BLAN,Mus,musculus,,house mouse,http://www.mendeley.com/c/4997133882/g/2058663/bowers-1993-predation-hazard-and-seed-removal-by-small-mammals--microhabitat-versus-patch-scale-effects/
