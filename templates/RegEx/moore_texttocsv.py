@@ -2,7 +2,7 @@
 
 import re
 
-inputfile = open('C:/Users/jspencer/Desktop/crother_2008.txt')
+inputfile = open('C:/Users/jspencer/xpdf/bin32/Colorado_spec_status/Colorado_fed_status.txt)
 outputdata=[]
 subspdata=[]
 altdata=[]
@@ -20,6 +20,6 @@ for line in inputfile:
         output += '\n'
         outputdata.append(output)
 
-textfile = open('C:/Users/jspencer/Desktop/crother_2008.csv','w',)
+textfile = open('C:/Users/jspencer/xpdf/bin32/Colorado_spec_status/Colorado_fed_status.txt','w',)
 textfile.writelines(outputdata)
 textfile.close()            
