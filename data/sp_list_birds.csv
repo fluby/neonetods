@@ -1,4 +1,4 @@
-site,genus,sp,subsp,common_name,source
+site_id,genus,sp,subsp,common_name,source_id
 BART,Empidonax,alnorum,,Alder flycatcher,http://www.mendeley.com/c/4980589502/g/2058663/costello-2000-songbird-response-to-group-selection-harvests-and-clearcuts-in-a-new-hampshire-northern-hardwood-forest/
 BART,Setophaga,ruticilla,,American redstart,http://www.mendeley.com/c/4980589502/g/2058663/costello-2000-songbird-response-to-group-selection-harvests-and-clearcuts-in-a-new-hampshire-northern-hardwood-forest/
 BART,Mniotilta,varia,,black and white warbler,http://www.mendeley.com/c/4980589502/g/2058663/costello-2000-songbird-response-to-group-selection-harvests-and-clearcuts-in-a-new-hampshire-northern-hardwood-forest/
