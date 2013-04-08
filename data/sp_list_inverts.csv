@@ -1,4 +1,4 @@
-site,genus,sp,subsp,common_name,source
+site_id,genus,sp,subsp,common_name,source_id
 BLAN,Tetraopes,tetraophthalmus,,red milkweed beetle,http://www.mendeley.com/c/5001138862/g/2058663/matter-1996-interpatch-movement-of-the-red-milkweed-beetle--tetraopes-tetraophthalmus--individual-responses-to-patch-size-and-isolation/
 BLAN,Leptinotarsa,juncta,,horse nettle beetle,http://www.mendeley.com/c/5001149062/g/2058663/wise-michael-j-sacchi-1995-impact-of-two-specialist-insect-herbivores-on-reproduction-of-horse-nettle--solanum-carolinense/
 BLAN,Leptinotarsa,decemlineata,,Colorado potato beetle,http://www.mendeley.com/c/5001149062/g/2058663/wise-michael-j-sacchi-1995-impact-of-two-specialist-insect-herbivores-on-reproduction-of-horse-nettle--solanum-carolinense/

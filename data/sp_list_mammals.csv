@@ -1,4 +1,4 @@
-site,genus,sp,subsp,common_name,source
+site_id,genus,sp,subsp,common_name,source_id
 BONA,Alces,alces,,Moose,http://www.mendeley.com/research/animal-species-list-bona-1/
 FEXF,Alces,alces,,Moose,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
 HEAL,Alces,alces,,moose,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
