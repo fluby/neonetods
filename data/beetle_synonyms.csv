@@ -1,147 +1,394 @@
 unaccepted_synonym,accepted_synonym,spp_id,source_id
-Calathus advena,Acalathus advena,acaadv,
-Aephnidius opaculus,Anaulacus opaculus,anaopa,
-Gnatholymnaeum spurcum,Bembidion spurcum,bemspu,
-Atelothrus aaae,Blackburnia aaae,blaaaa,
-Mesothriscus abax,Blackburnia abax,blaaba,
-Disenochus agilis,Blackburnia agilis,blaagi,
-Anchonymus agonoides,Blackburnia agonoides,blaago,
-Mesothriscus alternans,Blackburnia alternans,blaalt,
-Disenochus anomalus,Blackburnia anomala,blaano,
-Disenochus aterrimus,Blackburnia aterrima,blaate,
-Metromenus audax,Blackburnia audax,blaaud,
-Metromenus bardus,Blackburnia barda,blabar,
-Deropristus blaptoides,Blackburnia blaptoides,blabla,
-Disenochus flavitarsus,Blackburnia brevipes,blabre,
-Disenochus brevipes,Blackburnia brevipes,blabre,
-Metromenus calathoides,Blackburnia calathoides,blacal2,
-Metromenus caliginosus,Blackburnia caliginosa,blacal3,
-Disenochus cephalotes,Blackburnia cephalotes,blacep,
-Atelothrus cheloniceps,Blackburnia cheloniceps,blache,
-Atelothrus constrictus,Blackburnia constricta,blacon,
-Chalcomenus corruscus,Blackburnia corrusca,blacor,
-Chalcomenus costatus,Blackburnia costata,blacos,
-Metromenus cuneipennis,Blackburnia cuneipennis,blacun,
-Disenochus curtipes,Blackburnia curtipes,blacur,
-Atelothrus debilis,Blackburnia debilis,bladeb,
-Atelothrus depressus depressus,Blackburnia depressa,bladep1,
-Atelothrus depressus fuscipes,Blackburnia depressa fuscipes,bladep2,
-Deropristus deroderus,Blackburnia derodera,blader,
-Atelothrus dyscoleus,Blackburnia dyscolea,bladys,
-Anchotefflus elegans,Blackburnia elegans,blaele,
-Metromenus epicurus,Blackburnia epicurus,blaepi,
-Atelothrus politus,Blackburnia erro,blaerr,
-Atelothrus erro,Blackburnia erro,blaerr,
-Disenochus erythropus,Blackburnia erythropus,blaery,
-Atelothrus filipes,Blackburnia filipes,blafil,
-Metromenus fossipennis,Blackburnia fossipennis,blafos,
-Disenochus fractus,Blackburnia fracta,blafra1,
-Atelothrus fractistriatus,Blackburnia fractistriata,blafra2,
-Metromenus fraternus,Blackburnia fraterna,blafra3,
-Metromenus scrupulosus,Blackburnia fraterna,blafra3,
-Metromenus velox,Blackburnia fraterna,blafra3,
-Metromenus aequalis,Blackburnia fraterna,blafra3,
-Metromenus fraudator,Blackburnia fraudator,blafra4,
-Mauna frigida,Blackburnia frigida,blafri,
-Metromenus fugitivus,Blackburnia fugitiva,blafug,
-Atelothrus gracilis,Blackburnia gracilis,blagra,
-Mecostomus perkinsi,Blackburnia haleakala,blahal,
-Colpocaccus hawaiiensis,Blackburnia hawaiiensis,blahaw,
-Colpocaccus apicalis,Blackburnia hawaiiensis,blahaw,
-Metromenus hilaris,Blackburnia hilaris,blahil,
-Atelothrus howarthi,Blackburnia howarthi,blahow,
-Barypristus incendiarius,Blackburnia incendiaria,blainc,
-Atelothrus stenopus,Blackburnia insociabilis,blains2,
-Atelothrus insociabilis,Blackburnia insociabilis,blains2,
-Anchotefflus gracilis,Blackburnia kamehameha,blakam,
-Mesothriscus kauaiensis,Blackburnia kauaiensis,blakau,
-Mesothriscus hawaiiensis,Blackburnia kilauea,blakil,
-Metromenus lentus,Blackburnia kilauea,blakil,
-Atelothrus hawaiiensis,Blackburnia kilauea,blakil,
-Atrachycnemis koebelei,Blackburnia koebelei,blakoe,
-Mecomenus koebelei,Blackburnia komohana,blakom,
-Colpocaccus lanaiensis,Blackburnia lanaiensis,blalan1,
-Mesothriscus lanaiensis,Blackburnia lanaihalensis,blalan2,
-Metromenus latifrons,Blackburnia latifrons,blalat,
-Pseudobroscus lentus,Blackburnia lenta,blalen,
-Metromenus limbatus,Blackburnia limbata,blalim,
-Disenochus longipes,Blackburnia longipes,blalon1,
-Atelothrus longulus,Blackburnia longula,blalon2,
-Colpodiscus lucipetens,Blackburnia lucipetens,blaluc,
-Colpodiscus lahainensis,Blackburnia lucipetens,blaluc,
-Apteromesus maculatus,Blackburnia maculata,blamac,
-Metromenus meticulosus,Blackburnia meticulosa,blamet1,
-Atelothrus metromenoides,Blackburnia metromenoides,blamet2,
-Disenochus micantipennis,Blackburnia micantipennis,blamic1,
-Derobroscus politus,Blackburnia micans,blamic2,
-Derobroscus solitarius,Blackburnia micans,blamic2,
-Derobroscus micans,Blackburnia micans,blamic2,
-Mesothriscus microps,Blackburnia microps,blamic3,
-Metromenus moerens,Blackburnia moerens,blamoe,
-Chalcomenus molokaiensis,Blackburnia molokaiensis,blamol,
-Disenochus munroi,Blackburnia munroi,blamun,
-Mesothriscus prognathus,Blackburnia muscicola,blamus,
-Mesothriscus muscicola,Blackburnia muscicola,blamus,
-Metromenus mutabilis,Blackburnia mutabilis,blamut,
-Mysticomenus mysticus,Blackburnia mystica,blamys,
-Metromenus oceanicus,Blackburnia oceanica,blaoce,
-Baryneus sharpi,Blackburnia octoocellata,blaoct,
-Mesothriscus opacus,Blackburnia opaca,blaopa,
-Brosconymus optatus,Blackburnia optata,blaopt1,
-Mesothriscus optimus,Blackburnia optima,blaopt2,
-Metromenus palmae,Blackburnia palmae,blapal,
-Metromenus pavidus,Blackburnia pavida,blapav,
-Mesothriscus truncatus,Blackburnia pavida,blapav,
-Atrachycnemis perkinsi,Blackburnia perkinsi,blaper1,
-Metromenus perpolitus,Blackburnia perpolita,blaper2,
-Atelothrus platynoides platynoides,Blackburnia platynoides,blapla,
-Atelothrus platynoides flavipes,Blackburnia platynoides,blapla,
-Colpocaccus posticatus,Blackburnia posticata,blapos,
-Colpocaccus marginatus,Blackburnia posticata,blapos,
-Metromenus protervus,Blackburnia proterva,blapro,
-Metromenus angustifrons,Blackburnia proterva,blapro,
-Deropristus puncticeps,Blackburnia puncticeps,blapun,
-Mecomenus putealis,Blackburnia putealis,blaput,
-Barypristus rupicola,Blackburnia rupicola,blarup,
-Atrachycnemis sharpi,Blackburnia sharpi,blasha,
-Atelothrus limbatus limbatus,Blackburnia sphodriformis,blasph,
-Atelothrus longicollis,Blackburnia sphodriformis,blasph,
-Mesothriscus collaris,Blackburnia sphodriformis,blasph,
-Mesothriscus collaris,Blackburnia sphodriformis,blasph,
-Metromenus cinctus,Blackburnia sphodriformis,blasph,
-Metromenus sphodriformis,Blackburnia sphodriformis,blasph,
-Atelothrus limbatus concolor,Blackburnia sphodriformis,blasph,
-Disenochus sulcipennis,Blackburnia sulcipennis,blasul,
-Colpocaccus tantalus,Blackburnia tantalus,blatan,
-Prodisenochus terebratus,Blackburnia terebrata,blater,
-Mysticomenus tibialis,Blackburnia tibialis,blatib,
-Atelothrus transiens,Blackburnia transiens,blatra,
-Mesothriscus tricolor,Blackburnia tricolor,blatri,
-Mesothriscus vagans,Blackburnia vagans,blavag,
-Calosoma lecontei,Calosoma marginale,calmar,
-Damaster blaptoides blaptoides,Carabus blaptoides blaptoides,carbla,
-Colliuris pensylvanica,Cosnania pensylvanica,cospen,
-Cicindela terricola cinctipennis,Cylindera cinctipennis cinctipennis,cylcin1,
-Cicindela terricola continua,Cylindera cinctipennis continua,cylcin2,
-Cicindela terricola imperfecta,Cylindera cinctipennis imperfecta,cylcin3,
-Cicindela terricola kaibabensis,Cylindera cinctipennis kaibabensis,cylcin4,
-Cicindela terricola lunalonga,Cylindera cinctipennis lunalonga,cylcin5,
-Scarites substriatus,Dyschirius substriatus,dyssub3,
-Tachys luteus,Elaphropus luteus,elalut,
-Colpodes buchannani,Metacolpodes buchannani,metbuc2,
-Bembidion molokaiense,Nesocidium molokaiense,nesmol,
-Omus californicus angustocylindricus,Omus angustocylindricus,omuang,
-Omus californicus intermedius,Omus intermedius,omuint,
-Pterostichus iripennis,Pterostichus [NN1],pte[nn,
-Pterostichus bryanti biocryus,Pterostichus biocryus,ptebio,
-Pterostichus bryanti bryantoides,Pterostichus bryantoides,ptebry3,
-Pterostichus bryanti cacumenis,Pterostichus cacumensis,ptecac,
-Pterostichus breviusculus mimus,Pterostichus mimus,ptemim,
-Pterostichus bryanti stantonensis,Pterostichus stantonensis,ptesta1,
-Pterostichus bryanti tiliaceoradix,Pterostichus tiliaceoradix,ptetil,
-Tachys potomacus,Tachys potomaca,tacpot,
-Tefflus jamesoni,Tefflus raffrayi jamesoni,tefraf,
-Megacephala affinis affinis,Tetracha affinis affinis,tetaff,
-Megacephala carolina,Tetracha carolina,tetcar0,
-Megacephala virginica,Tetracha virginica,tetvir,
-Trechus tennesseensis,Trechus tennessensis,treten1,
+Acalathus advena,Calathus advena,caladv,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Acupalpus alternans,Philodes alternans,phialt,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Acupalpus flavilimbus,Philodes flavilimbus,phifla,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Acupalpus longulus,Philodes longulus,philon,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Acupalpus lucens,Philodes flavilimbus,phifla,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Acupalpus rectangulus,Philodes rectangulus,phirec,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Aephnidius opaculus,Anaulacus opaculus,anaopa,http://www.mendeley.com/research/systematic-list-of-ground-beetles/
+Agonum cyanope,Agonum cyanopis,agocya,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Agonum ericeti quinquepunctatum,Agonum quinquepunctatum,agoqui,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Agonum fallianum,Agonum deplanatum,agodep,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Agonum variolatum,Agonum limbatum,agolim,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Amara jucunda,Amara chalcea,amacha,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Amara nupera,Amara rectangula ciudadensis,amarec,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Anchomenus bardus,Blackburnia barda,blabar2,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Anchonymus agonoides,Blackburnia agonoides,blaago,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Anchotefflus elegans,Blackburnia elegans,blaele,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Anchotefflus gracilis,Blackburnia kamehameha,blakam,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Anillinus dunavani,Serranillus dunavani,serdun,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Anillodes affabilis,Anillinus affabilis,aniaff,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Anillodes sinuatus,Anillinus sinuatus,anisin2,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Apenes angustatus,Apenes angustata,apeang,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Apenes lucidulus lucidulus,Apenes lucidula lucidula,apeluc,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Apenes nebulosus,Apenes nebulosa,apeneb,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Apenes opacus,Apenes opaca,apeopa,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Apenes pallipes,Apenes parallela parallela,apepar,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Apenes sinuatus,Apenes sinuata,apesin,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Apteromesus maculatus,Blackburnia maculata,blamac,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Ardistomis morio,Clivina morio,climor,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Ardistomis obliquatus,Ardistomis obliquata,ardobl,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Asaphidion flavipes,Asaphidion curtum curtum,asacur,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Atelothrus aaae,Blackburnia aaae,blaaaa,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Atelothrus cheloniceps,Blackburnia cheloniceps,blache,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Atelothrus constrictus,Blackburnia constricta,blacon2,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Atelothrus debilis,Blackburnia debilis,bladeb,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Atelothrus depressus depressus,Blackburnia depressa,bladep,http://www.mendeley.com/c/5670424044/g/2058663/liebherr-2000-insects-of-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-and-tribe-platynini/
+Atelothrus dyscoleus,Blackburnia dyscolea,bladys,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Atelothrus erro,Blackburnia erro,blaerr,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Atelothrus filipes,Blackburnia filipes,blafil,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Atelothrus fractistriatus,Blackburnia fractistriata,blafra2,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Atelothrus gracilis,Blackburnia gracilis,blagra,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Atelothrus hawaiiensis,Blackburnia kilauea,blakil,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Atelothrus howarthi,Blackburnia howarthi,blahow,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Atelothrus insociabilis,Blackburnia insociabilis,blains2,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Atelothrus limbatus concolor,Blackburnia sphodriformis,blasph,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Atelothrus limbatus limbatus,Blackburnia sphodriformis,blasph,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Atelothrus longicollis,Blackburnia sphodriformis,blasph,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Atelothrus longulus,Blackburnia longula,blalon2,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Atelothrus metromenoides,Blackburnia metromenoides,blamet2,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Atelothrus platynoides flavipes,Blackburnia platynoides,blapla2,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Atelothrus platynoides platynoides,Blackburnia platynoides,blapla2,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Atelothrus politus,Blackburnia erro,blaerr,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Atelothrus stenopus,Blackburnia insociabilis,blains2,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Atelothrus transiens,Blackburnia transiens,blatra,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Atrachycnemis koebelei,Blackburnia koebelei,blakoe,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Atrachycnemis perkinsi,Blackburnia perkinsi,blaper1,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Atrachycnemis sharpi,Blackburnia sharpi,blasha,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Axinopalpus californicus,Axinopalpus biplagiatus,axibip,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Axinopalpus coloradensis,Axinopalpus biplagiatus,axibip,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Axinopalpus demissus,Axinopalpus biplagiatus,axibip,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Axinopalpus habilis,Axinopalpus biplagiatus,axibip,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Badister flavipes laticeps,Badister flavipes flavipes,badfla1,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Baryneus sharpi,Blackburnia octoocellata,blaoct,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Barypristus incendiarius,Blackburnia incendiaria,blainc,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Barypristus rupicola,Blackburnia rupicola,blarup,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Bembidion arizonae,Bembidion durangoense,bemdur,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Bembidion blackburni,Bembidion ateradustum,bemate,http://www.mendeley.com/catalog/taxonomic-revision-hawaiian-bembidion-latreille-coleoptera-carabidae-bembidiini-discussion-reductive/
+Bembidion castum,Lionepha casta,liocas,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Bembidion chintimini,Lionepha chintimini,liochi,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Bembidion coecus,Bembidion coecum,bemcoe,http://www.mendeley.com/catalog/taxonomic-revision-hawaiian-bembidion-latreille-coleoptera-carabidae-bembidiini-discussion-reductive/
+Bembidion colvillense,Bembidion alaskense,bemala,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Bembidion disjunctum,Lionepha disjuncta,liodis,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Bembidion ephippiger,Bembidion ephippigerum,bemeph,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Bembidion erasum,Lionepha erasa,lioera,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Bembidion femoratum,Bembidion femoratum femoratum,bemfem,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Bembidion flavopictum,Bembidion impotens,bemimp1,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Bembidion lindrothellum,Lionepha lindrothellus,liolin,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Bembidion lummi,Lionepha lummi,liolum,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Bembidion marinianum,Bembidion innocuum,bemino,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Bembidion molokaiense,Bembidion ignicola,bemign,http://www.mendeley.com/catalog/taxonomic-revision-hawaiian-bembidion-latreille-coleoptera-carabidae-bembidiini-discussion-reductive/
+Bembidion niloticum batesi,Bembidion niloticum,bemnil,http://www.mendeley.com/catalog/taxonomic-revision-hawaiian-bembidion-latreille-coleoptera-carabidae-bembidiini-discussion-reductive/
+Bembidion osculans,Lionepha osculans,lioosc,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Bembidion politum,Bembidion anguliferum,bemang,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Bembidion pseudoerasum,Lionepha pseudoerasa,liopse,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Bembidion sequoiae,Lionepha sequoiae,lioseq,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Bembidion utahense,Amerizus utahensis,ameuta,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Bembidion vespertinum,Bembidion vandykei,bemvan,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Bembidion zephyrium,Bembidion zephyrum,bemzep,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Blackburnia depressa fuscipes,Blackburnia depressa,bladep,http://www.mendeley.com/c/5670424044/g/2058663/liebherr-2000-insects-of-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-and-tribe-platynini/
+Blethisa inexpectata,Blethisa multipunctata aurata,blemul,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Brosconymus optatus,Blackburnia optata,blaopt1,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Calleida cordicollis,Calleida decora,caldec,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Calleida striata,Calleida fulgida,calful,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Calleida viridis,Philophuga caerulea,phicae,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Callisthenes schaefferi,Calosoma schaefferi,calsch,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Callisthenes semilaevis,Calosoma semilaeve,calsem,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Callisthenes simplex,Calosoma simplex,calsim,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Calosoma blaptoides,Calopachys blaptoides,calbla,http://www.mendeley.com/research/systematic-list-of-ground-beetles/
+Calosoma blaptoides tehuacanum,Calopachys blaptoides,calbla,http://www.mendeley.com/research/systematic-list-of-ground-beetles/
+Calosoma lecontei,Calosoma marginale,calmar,http://www.mendeley.com/c/5670424044/g/2058663/liebherr-2000-insects-of-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-and-tribe-platynini/
+Calosoma sponsum,Calosoma sponsa,calspo,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Chalcomenus corruscus,Blackburnia corrusca,blacor,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Chalcomenus costatus,Blackburnia costata,blacos,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Chalcomenus molokaiensis,Blackburnia molokaiensis,blamol,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Chlaenius cursor,Chlaenius sparsus,chlspa,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Chlaenius purpuricollis frostii,Chlaenius purpuricollis,chlpur2,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Chlaenius sericeus regularis,Chlaenius sericeus,chlser,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Chlaenius sericeus sericeus,Chlaenius sericeus,chlser,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Chlaenius sericeus sierricola,Chlaenius sericeus,chlser,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Chlaenius sericeus viridifrons,Chlaenius sericeus,chlser,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Cicindela cyanella,Cylindera terricola cinctipennis,cylter4,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Cicindela duodecimgutatta,Cicindela duodecimguttata,cicduo,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Cicindela fulgida rumppi,Cicindela fulgida fulgida,cicful1,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Cicindela hemorrhagica woodgatei,Cicindela hemorrhagica hemorrhagica,cichem2,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Cicindela imperfecta,Cylindera terricola imperfecta,cylter2,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Cicindela lunalonga,Cylindera lunalonga,cyllun,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Cicindela pusilla,Cylindera terricola terricola,cylter1,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Cicindela pusilla imperfecta form continua,Cylindera terricola continua,cylter5,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Cicindela pusilla kaibabensis,Cylindera terricola kaibabensis,cylter6,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Cicindela pusilla sayanella,Cylindera terricola terricola,cylter1,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Cicindela rufiventris heutzi,Cicindela rufiventris hentzii,cicruf1,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Cicindela terricola,Cylindera terricola terricola,cylter1,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Cicindela terricola lunalonga,Cylindera lunalonga,cyllun,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Cicindela terricola susanagreae,Cylindera terricola susanagreae,cylter3,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Cicindela tranquebarica arida,Cicindela arida,cicari,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Cicindela viridicollis,Brasiella viridicollis,bravir2,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Cillenus palosverdes,Bembidion palosverdes,bempal,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Clivina analis,Clivina americana,cliame,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Clivina floridae,Paraclivina fasciata,parfas,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Clivina floridae,Paraclivina fasciata,parfas,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Clivina morula,Clivina americana,cliame,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Colpocaccus apicalis,Blackburnia hawaiiensis,blahaw,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Colpocaccus hawaiiensis,Blackburnia hawaiiensis,blahaw,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Colpocaccus lanaiensis,Blackburnia lanaiensis,blalan1,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Colpocaccus marginatus,Blackburnia posticata,blapos,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Colpocaccus posticatus,Blackburnia posticata,blapos,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Colpocaccus tantalus,Blackburnia tantalus,blatan,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Colpodes buchannani,Metacolpodes buchanani,metbuc,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Colpodiscus lahainensis,Blackburnia lucipetens,blaluc,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Colpodiscus lucipetens,Blackburnia lucipetens,blaluc,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Cosnania lengi,Colliuris lengi,collen,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Cosnania lioptera,Colliuris lioptera,collio,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Cosnania pensylvanica,Colliuris pensylvanica,colpen,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Cosnania picta,Colliuris pensylvanica,colpen,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Cyclotrachelus sodalis lodingi,Cyclotrachelus lodingi,cyclod,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Cyclotrachelus torvus deceptus,Cyclotrachelus deceptus,cycdec,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Cylindera cinctipennis lunalonga,Cylindera lunalonga,cyllun,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Cylindera cinctipennis lunalonga,Cylindera lunalonga,cyllun,http://www.mendeley.com/research/rediscovery-status-cylindera-s-str-lunalonga-schaupp-1884-coleoptera-carabidae-cicindelinae-san-joaq-1/
+Damaster blaptoides blaptoides,Carabus blaptoides blaptoides,carbla,http://www.mendeley.com/research/systematic-list-of-ground-beetles/
+Darlingtonea kentuckensis lexingtoni,Darlingtonea kentuckensis,darken,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Derobroscus micans,Blackburnia micans,blamic2,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Derobroscus politus,Blackburnia micans,blamic2,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Derobroscus solitarius,Blackburnia micans,blamic2,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Deropristus blaptoides,Blackburnia blaptoides,blabla,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Deropristus deroderus,Blackburnia derodera,blader,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Deropristus puncticeps,Blackburnia puncticeps,blapun,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Dicaelus alternans subtropicus,Dicaelus subtropicus,dicsub,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Dicaelus purpuratus darlingtoni,Dicaelus quadratus,dicqua,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Dicaelus purpuratus quadratus,Dicaelus quadratus,dicqua,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Dicheirus pilosus,Dicheirus brunneus,dicbru,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Disenochus agilis,Blackburnia agilis,blaagi,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Disenochus anomalus,Blackburnia anomala,blaano,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Disenochus aterrimus,Blackburnia aterrima,blaate,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Disenochus brevipes,Blackburnia brevipes,blabre,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Disenochus cephalotes,Blackburnia cephalotes,blacep,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Disenochus curtipes,Blackburnia curtipes,blacur,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Disenochus erythropus,Blackburnia erythropus,blaery,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Disenochus flavitarsus,Blackburnia brevipes,blabre,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Disenochus fractus,Blackburnia fracta,blafra1,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Disenochus longipes,Blackburnia longipes,blalon1,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Disenochus micantipennis,Blackburnia micantipennis,blamic1,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Disenochus munroi,Blackburnia munroi,blamun,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Disenochus sulcipennis,Blackburnia sulcipennis,blasul,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Dyschirius filiformis,Dyschirius sublaevis,dyssub2,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Dyschirius integer,Dyschirius dejeanii,dysdej,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Dyschirius melancholicus hiemalis,Dyschirius hiemalis,dyshie,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Elaphropus levipes,Elaphropus xanthopus,elaxan,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Elaphropus occultus,Elaphropus granarius,elagra,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Ellipsoptera marutha,Ellipsoptera rubicunda,ellrub,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Gnatholymnaeum spurcum,Bembidion spurcum,bemspu,http://www.mendeley.com/research/systematic-list-of-ground-beetles/
+Harpalus carbonatus,Harpalus somnulentus,harsom,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Harpalus cunctipeps,Harpalus puncticeps,harpun,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Harpalus cyrtonotoides,Harpalus desertus,hardes,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Harpalus eraticus,Harpalus erraticus,harerr,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Harpalus regressus,Harpalus obliquus,harobl,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Harpalus tadorcus,Harpalus cordatus,harcor,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Hyboptera dilutior,Hyboptera auxiliadora,hybaux,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Hydrium levigatum,Bembidion levigatum,bemlev1,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Loxandrus aduncus,Loxandrus parvulus,loxpar2,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Loxandrus breviusculus,Loxandrus floridanus,loxflo,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Loxandrus calathinus,Loxandrus agilis,loxagi,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Loxandrus comptus,Loxandrus floridanus,loxflo,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Loxandrus concinnus,Loxandrus celer,loxcel,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Loxandrus contumax,Loxandrus floridanus,loxflo,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Loxandrus crenulatus,Loxandrus crenatus,loxcre,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Loxandrus cursitans,Loxandrus agilis,loxagi,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Loxandrus fulgens,Loxandrus brevicollis,loxbre,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Loxandrus lateralis,Loxandrus saphyrinus,loxsap,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Loxandrus limatus,Loxandrus rectus,loxrec2,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Loxandrus ludovicianus,Loxandrus collucens,loxcol,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Loxandrus minutus,Loxandrus pusillus,loxpul,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Loxandrus mundus,Loxandrus cervicalis,loxcer,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Loxandrus parvicollis,Loxandrus celer,loxcel,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Loxandrus reflexus,Loxandrus saphyrinus,loxsap,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Loxandrus suturalis,Loxandrus cervicalis,loxcer,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Loxandrus vitiosus,Loxandrus vulneratus,loxvul,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Mauna frigida,Blackburnia frigida,blafri,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Mecomenus koebelei,Blackburnia komohana,blakom,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Mecomenus putealis,Blackburnia putealis,blaput,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Mecostomus perkinsi,Blackburnia haleakala,blahal,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Mecyclothorax inequalis,Mecyclothorax inaequalis,mecine,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Megacephala carolina,Tetracha carolina carolina,tetcar1,http://www.mendeley.com/c/5670424044/g/2058663/liebherr-2000-insects-of-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-and-tribe-platynini/
+Megacephala virginica,Tetracha virginica,tetvir,http://www.mendeley.com/c/5670424044/g/2058663/liebherr-2000-insects-of-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-and-tribe-platynini/
+Mesothriscus abax,Blackburnia abax,blaaba1,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Mesothriscus alternans,Blackburnia alternans,blaalt,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Mesothriscus collaris,Blackburnia sphodriformis,blasph,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Mesothriscus hawaiiensis,Blackburnia kilauea,blakil,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Mesothriscus kauaiensis,Blackburnia kauaiensis,blakau2,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Mesothriscus lanaiensis,Blackburnia lanaihalensis,blalan2,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Mesothriscus microps,Blackburnia microps,blamic3,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Mesothriscus muscicola,Blackburnia muscicola,blamus,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Mesothriscus opacus,Blackburnia opaca,blaopa,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Mesothriscus optimus,Blackburnia optima,blaopt2,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Mesothriscus prognathus,Blackburnia muscicola,blamus,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Mesothriscus tricolor,Blackburnia tricolor,blatri,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Mesothriscus truncatus,Blackburnia pavida,blapav,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Mesothriscus vagans,Blackburnia vagans,blavag,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Metrocidium munroi,Bembidion munroi,bemmun2,http://www.mendeley.com/catalog/taxonomic-revision-hawaiian-bembidion-latreille-coleoptera-carabidae-bembidiini-discussion-reductive/
+Metromenus aequalis,Blackburnia fraterna,blafra3,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Metromenus angustifrons,Blackburnia proterva,blapro,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Metromenus audax,Blackburnia audax,blaaud,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Metromenus bardus,Blackburnia barda,blabar2,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Metromenus calathoides,Blackburnia calathoides,blacal2,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Metromenus caliginosus,Blackburnia caliginosa,blacal3,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Metromenus cinctus,Blackburnia sphodriformis,blasph,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Metromenus cuneipennis,Blackburnia cuneipennis,blacun,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Metromenus epicurus,Blackburnia epicurus,blaepi,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Metromenus fossipennis,Blackburnia fossipennis,blafos,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Metromenus fraternus,Blackburnia fraterna,blafra3,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Metromenus fraudator,Blackburnia fraudator,blafra4,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Metromenus fugitivus,Blackburnia fugitiva,blafug,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Metromenus hilaris,Blackburnia hilaris,blahil,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Metromenus latifrons,Blackburnia latifrons,blalat2,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Metromenus lentus,Blackburnia kilauea,blakil,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Metromenus limbatus,Blackburnia limbata,blalim,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Metromenus meticulosus,Blackburnia meticulosa,blamet1,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Metromenus moerens,Blackburnia moerens,blamoe,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Metromenus mutabilis,Blackburnia mutabilis,blamut,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Metromenus oceanicus,Blackburnia oceanica,blaoce,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Metromenus palmae,Blackburnia palmae,blapal,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Metromenus pavidus,Blackburnia pavida,blapav,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Metromenus perpolitus,Blackburnia perpolita,blaper2,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Metromenus protervus,Blackburnia proterva,blapro,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Metromenus scrupulosus,Blackburnia fraterna,blafra3,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Metromenus sphodriformis,Blackburnia sphodriformis,blasph,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Metromenus velox,Blackburnia fraterna,blafra3,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Micranillodes depressus,Anillinus depressus,anidep,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Myas lindrothi,Myas cyanescens,myacya,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Mysticomenus mysticus,Blackburnia mystica,blamys,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Mysticomenus tibialis,Blackburnia tibialis,blatib,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Nebria lacustris bellorum,Nebria bellorum,nebbel,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Nesocidium molokaiense,Bembidion ignicola,bemign,http://www.mendeley.com/catalog/taxonomic-revision-hawaiian-bembidion-latreille-coleoptera-carabidae-bembidiini-discussion-reductive/
+Omus angustocylindricus,Omus californicus angustocylindricus,omucal1,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Omus intermedius,Omus californicus intermedius,omucal4,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pachyteles kuntzeni kuntzeni,Goniotropis kuntzeni kuntzeni,gonkun,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pachyteles parca,Goniotropis parca,gonpar,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pelmatellus obtusa,Pelmatellus obtusus,pelobt,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pelmatellus stenolophoides parallela,Pelmatellus stenolophoides parallelus,pelste1,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pinacodera abbreviata,Cymindis abbreviata,cymabb,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pinacodera ampliata,Cymindis ampliata,cymamp,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pinacodera atripennis,Cymindis atripennis,cymatr,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pinacodera blanda,Cymindis blanda,cymbla,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pinacodera complanata,Cymindis complanata,cymcom,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pinacodera limbata,Cymindis limbata,cymlim,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pinacodera obscura,Cymindis obscura,cymobs,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pinacodera platicollis,Cymindis platicollis,cympla2,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pinacodera punctifera,Cymindis punctifera,cympun1,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pinacodera punctigera,Cymindis punctigera,cympun2,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pinacodera subcarinata,Cymindis subcarinata,cymsub,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Plochionus amandus discoideus,Plochionus discoideus,plodis,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Plochionus amandus vittatus,Plochionus amandus,ploama,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Prodisenochus terebratus,Blackburnia terebrata,blater,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Pseudanophthalmus brevis,Pseudanophthalmus humeralis,psehum,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pseudanophthalmus ciliaris colemanensis,Pseudanophthalmus colemanensis,psecol,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pseudanophthalmus desertus major,Pseudanophthalmus major,psemaj,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pseudanophthalmus elevatus,Pseudanophthalmus grandis elevatus,psegra3,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pseudanophthalmus exiguus exiguus,Pseudanophthalmus exiguus,pseexi,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pseudanophthalmus exiguus furtivus,Pseudanophthalmus exiguus,pseexi,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pseudanophthalmus horni abditus,Pseudanophthalmus abditus,pseabd,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pseudanophthalmus horni caecus,Pseudanophthalmus caecus,psecae,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pseudanophthalmus illinoiensis,Pseudanophthalmus illinoisensis,pseill,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pseudanophthalmus inexpectatus orientalis,Pseudanophthalmus orientalis,pseori,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pseudanophthalmus loedingi aladdini,Pseudanophthalmus aladdini,pseala2,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pseudanophthalmus loedingi aquaticus,Pseudanophthalmus profundus,psepro1,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pseudanophthalmus loedingi distinguens,Pseudanophthalmus distinguens,psedis,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pseudanophthalmus loedingi fluviatilis,Pseudanophthalmus fluviatilis,pseflu,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pseudanophthalmus loedingi meridionalis,Pseudanophthalmus meridionalis,psemer,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pseudanophthalmus macradei,Pseudanophthalmus macradyi,psemac,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pseudanophthalmus potomacus potomacus,Pseudanophthalmus potomaca,psepot,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pseudanophthalmus potomacus senecae,Pseudanophthalmus senecae,psesen,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pseudanophthalmus shilohensis boonensis,Pseudanophthalmus shilohensis mayfieldensis,pseshi1,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pseudanophthalmus tenesensis,Pseudanophthalmus tennesseensis,pseten2,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pseudanophthalmus tenuis blatchleyi,Pseudanophthalmus stricticollis,psestr1,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pseudanophthalmus tenuis jeanneli,Pseudanophthalmus stricticollis,psestr1,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pseudanophthalmus tenuis morrisoni,Pseudanophthalmus stricticollis,psestr1,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pseudanophthalmus tenuis stricticollis,Pseudanophthalmus stricticollis,psestr1,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pseudanophthalmus youngi donaldsoni,Pseudanophthalmus youngi,pseyou,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pseudobroscus lentus,Blackburnia lenta,blalen,http://www.mendeley.com/research/insects-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-tribe-platynini-2/
+Pseudomorpha ruficollis,Pseudomorpha excrucians,pseexc,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pterostichus alamedae,Pterostichus vicinus,ptevic,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pterostichus biocryus,Pterostichus bryanti biocryus,ptebry4,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pterostichus breviusculus,Pterostichus congestus,ptecon,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pterostichus bryanti acumenis,Pterostichus bryanti cacumenis,ptebry2,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pterostichus bryantoides,Pterostichus bryanti bryantoides,ptebry3,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pterostichus bucolicus,Pterostichus algidus,ptealg,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pterostichus cacumenis,Pterostichus bryanti cacumenis,ptebry2,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pterostichus cacumensis,Pterostichus bryanti cacumenis,ptebry2,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pterostichus cuneatulus,Pterostichus suffusus,ptesuf,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pterostichus diabolus,Pterostichus californicus,ptecal1,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pterostichus gregalis,Pterostichus castanipes,ptecas2,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pterostichus humboldti,Pterostichus algidus,ptealg,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pterostichus intectus,Pterostichus protractus,ptepro2,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pterostichus iripennis,Pterostichus [NN1],pte[nn,http://www.mendeley.com/research/systematic-list-of-ground-beetles/
+Pterostichus kansanus,Pterostichus algidus,ptealg,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pterostichus mimus,Pterostichus congestus,ptecon,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pterostichus placerensis,Pterostichus laborans,ptelab,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pterostichus plutonicus,Pterostichus congestus,ptecon,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pterostichus protensipennis,Pterostichus mercedianus,ptemer,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pterostichus sejungendus,Pterostichus castaneus,ptecas1,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pterostichus tahoensis,Pterostichus laborans,ptelab,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pterostichus tiliaceoradix,Pterostichus bryanti tiliaceoradix,ptebry6,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pterostichus tiliaceoradix,Pterostichus bryanti tiliaceoradix,ptebry6,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pterostichus vexatus,Pterostichus amadeus,pteama,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Pterostichus zunianus,Pterostichus protractus,ptepro2,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Rhadine araizai babcocki,Rhadine babcocki,rhabab,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Rhadine gracilenta,Rhadine jejuna,rhajej,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Rhadine plumasensis,Rhadine jejuna,rhajej,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Rhadine specus crinicollis,Rhadine specum crinicollis,rhaspe1,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Rhadine specus gentilis,Rhadine specum gentilis,rhaspe2,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Rhadine specus specus,Rhadine specum specum,rhaspe3,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Rhadine tenuipes,Rhadine jejuna,rhajej,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Scaphinotus andrewsii barksdalei,Scaphinotus andrewsii darlingtoni,scaand4,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Scaphinotus andrewsii montanus,Scaphinotus andrewsii amplicollis,scaand1,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Scaphinotus andrewsii nantahalae,Scaphinotus andrewsii darlingtoni,scaand4,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Scaphinotus andrewsii saludae,Scaphinotus andrewsii darlingtoni,scaand4,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Scaphinotus parisianus,Scaphinotus parisiana,scapar,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Scaphinotus ridingsii intermedius,Scaphinotus ridingsii ridingsii,scarid2,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Scaphinotus unicolor floridanus,Scaphinotus unicolor,scauni1,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Scaphinotus unicolor heros,Scaphinotus unicolor,scauni1,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Scaphinotus unicolor shoemakeri,Scaphinotus unicolor,scauni1,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Scaphinotus violaceus carolinae,Scaphinotus violaceus,scavio,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Scaphinotus webbi,Scaphinotus viduus,scavid,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Scarites patruelis,Scarites subterraneus,scasub2,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Scarites texanus,Scarites subterraneus,scasub2,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Selenophorus depressulus,Selenophorus striatopunctatus,selstr,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Selenophorus mustus,Selenophorus parumpunctatus,selpar1,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Selenophorus perpolitus,Athrostictus punctatulus,athpun1,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Selenophorus sinuatus,Selenophorus parumpunctatus,selpar1,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Sphaeroderus nitidicollis brevoorti,Sphaeroderus nitidicollis,sphnit,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Sphaeroderus nitidicollis schaumii,Sphaeroderus schaumii,sphsch,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Sphaeroderus stenostomus aequalis,Sphaeroderus stenostomus stenostomus,sphste2,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Stenolophus abstinens,Stenolophus incultus,steinc,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Stenolophus conjunctus,Agonoleptus conjunctus,agocon,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Stenolophus dolosus,Agonoleptus dolosus,agodol,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Stenolophus extensicollis,Stenolophus cincticollis,stecin,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Stenolophus parviceps,Agonoleptus parviceps,agopar1,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Stenolophus peregrinus,Stenolophus anceps,steanc,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Stenolophus remissus,Stenolophus incultus,steinc,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Stenolophus rotundatus,Agonoleptus rotundatus,agorot1,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Stenolophus rotundicollis (Haldeman 1843),Agonoleptus rotundicollis,agorot2,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Stenolophus rotundicollis Motschulsky 1859,Stenolophus ochropezus,steoch,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Stenolophus semitinctus,Stenolophus cincticollis,stecin,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Stenolophus unicolor,Agonoleptus unicolor,agouni,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Tachys ceylanicus,Elaphropus ceylanicus,elacey,http://www.mendeley.com/c/5670884654/g/2058663/britton-1948-the-carabid-tribes-harpalini-lebiini-and-bembidiini-in-hawaii-coleoptera/
+Tachys diaphanus,Polyderis diaphana,poldia,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Tachys fasciatus,Tachys oahuensis,tacoah,http://www.mendeley.com/research/systematic-list-of-ground-beetles/
+Tachys laevis,Polyderis laeva,pollae,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Tachys luteus,Elaphropus luteus,elalut,http://www.mendeley.com/research/systematic-list-of-ground-beetles/
+Tachys potomacus,Tachys potomaca,tacpot,http://www.mendeley.com/c/5670424044/g/2058663/liebherr-2000-insects-of-hawaii-volume-16-hawaiian-carabidae-coleoptera-part-1-introduction-and-tribe-platynini/
+Tachys rufotestaceus,Polyderis rufotestacea,polruf,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Tachyta nana inornata,Tachyta inornata,tacino,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Tachyta nana kirbyi,Tachyta kirbyi,tackir,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Technophilus croceicollis croceicollis,Tecnophilus croceicollis croceicollis,teccro1,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Technophilus croceicollis peigani,Tecnophilus croceicollis peigani,teccro2,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Technophilus pilatei,Tecnophilus pilatei,tecpil,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Tefflus jamesoni,Tefflus raffrayi jamesoni,tefraf,http://www.mendeley.com/research/systematic-list-of-ground-beetles/
+Tetracha affinis angustata,Tetracha impressa,tetimp,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Tetracha carolina floridana,Tetracha floridana,tetflo,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Trechus aduncus coweensis,Trechus coweensis,trecow,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Trechus aduncus howellae,Trechus howellae,trehow,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Trechus aduncus toxawayi,Trechus toxawayi,tretox,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Trechus luculentus unicoi,Trechus unicoi,treuni,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Trechus pisgahensis,Trechus vandykei pisgahensis,trevan1,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
+Trechus tennessensis,Trechus tennesseensis tennesseensis,treten2,http://www.mendeley.com/c/5670257554/g/2058663/bousquet-2012-catalogue-of-geadephaga-coleoptera-adephaga-of-america-north-of-mexico/
