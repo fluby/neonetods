@@ -1,0 +1,35 @@
+---generic code for checking if all species listed in the species list are in the taxonomy tables: 
+
+
+---first check to see  how many distinct species are in the species list write down this number so you have a reference point for checking if all of your species are included in the taxonomy tables.
+
+SELECT DISTINCT plants.spp_id
+FROM species_lists.plants;	
+
+---second: temporarily change the name of the taxonomy table you are working with so that sql can distinguish between the species list and the taxonomy table.
+
+ALTER TABLE taxonomy.plants
+RENAME TO plants_tax;
+
+---third: join the species list and corresponding taxonomy table on spp_id and see how many results the query returns
+
+SELECT DISTINCT plants.spp_id, plants_tax.spp_id
+FROM species_lists.plants INNER JOIN taxonomy.plants_tax
+ON plants.spp_id = plants_tax.spp_id
+WHERE plants_tax.spp_id = plants.spp_id;
+
+--If the query above does not return the same number of records as the first SELECT DISTINCT query execute the following statement. 
+--If it does return the same number of records the skip to the last step.
+
+SELECT DISTINCT plants.spp_id, plants_tax.spp_id FROM
+species_lists.plants
+LEFT OUTER JOIN taxonomy.plants_tax
+	ON plants.spp_id = plants_tax.spp_id
+WHERE plants_tax.spp_id IS NULL;
+
+--This will return the spp_id that are in the species list but not in the taxonomy table. 
+
+--finally return the plants taxonomy table to its original name. 	
+
+ALTER TABLE taxonomy.plants_tax
+RENAME TO plants;

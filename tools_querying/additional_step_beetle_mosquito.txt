@@ -1,0 +1,14 @@
+
+
+
+--Instructions for additional step in updating the beetle and mosquito taxonomy tables (just replace 'beetle' with 'mosquito')
+
+
+DROP TABLE IF EXISTS taxonomy.beetles;
+CREATE TABLE taxonomy.beetles AS 
+SELECT high_level.taxon_id, inverts.spp_id, inverts.source_id, inverts.scientific_name,
+inverts.genus, inverts.subgenus, inverts.species, inverts.subspecies, inverts.authority_name, 
+inverts.authority_year, inverts.itis_number, inverts.common_name
+FROM taxonomy.inverts INNER JOIN taxonomy.high_level			
+ON inverts.genus = high_level.genus
+WHERE high_level.taxon_id = 'beetle';

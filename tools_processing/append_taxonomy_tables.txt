@@ -1,0 +1,32 @@
+--This code will update taxonomy tables with new records excluding any duplicate records. 
+--For more detailed instructions on how to update these tables look in GitHub/neonetods/tutorials/SearchProtocol/Tutorial 
+
+
+DROP TABLE IF EXISTS taxonomy.birds_update_temp CASCADE;
+
+CREATE TABLE taxonomy.birds_update_temp
+
+(
+   taxon_id         varchar(255),
+   spp_id           varchar(255)    NOT NULL,
+   scientific_name  varchar(255),
+   common_name      varchar(255)
+);
+
+
+wbimport														 -file=K:\FSU1\Technician_Shared_Documents\dodobase_latestrun\taxonomy.birds.csv
+ -table=taxonomy.birds_update_temp
+ -delimiter=,
+ -header = TRUE;
+
+
+CREATE RULE birds_taxonomy_duplicate_ignore AS ON INSERT TO taxonomy.birds
+	WHERE (EXISTS (SELECT 1 FROM taxonomy.birds 
+	WHERE (source_id, site_id, spp_id) = (NEW.source_id, NEW.site_id, NEW.spp_id))) 
+	DO INSTEAD NOTHING;
+INSERT INTO species_lists.plants SELECT * FROM species_lists.plants_update_temp;
+DROP RULE plants_spp_list_duplicate_ignore ON species_lists.plants;
+
+DROP TABLE species_lists.plants_update_temp CASCADE;
+
+--It is essential that you drop the rule at the end of the code. 
