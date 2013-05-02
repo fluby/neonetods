@@ -4,7 +4,7 @@ import cPickle as pickle
 mendeley = MendeleyClient('f37044bebbda140b8ad9a7a923588a84051253aa2','0038b670aa7e4ec9e4aaf441599bec13')
 ##mendeley = MendeleyClient('<consumer_key>', '<secret_key>')
 mendeley.load_keys()
-data = pickle.load(open('mendeley_api_keys.pkl', 'rb'))
+data = pickle.load(open('mendeley_api_keys.pkl', 'r'))
 
 request_token = data['request_token']
 access_token = data['access_token']

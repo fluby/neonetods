@@ -6,7 +6,7 @@ import get_mendeley_data as mend
 ## must load raw data and perform taxonomic scrubbing on the server first:
 ## fetch entered_data.pkl from server data folder - unpickle it here
 
-(species_list_data, taxonomy_info, sources, unknowns) = pickle.load(open(os.path.join(DATA_DIR, 'data/entered_data.pkl'), 'rb'))
+(species_list_data, taxonomy_info, sources, unknowns) = pickle.load(open(os.path.join(DATA_DIR, 'entered_data.pkl'), 'rb'))
 
 def gen_tax_files(DATA_DIR, species_list_data, taxonomy_info):
     for taxon in species_list_data.keys():    
