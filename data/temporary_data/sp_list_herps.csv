@@ -1,269 +1,337 @@
-site,genus,sp,subsp,common_name,source,,,
-DSNY,Drymarchon,corais,couperi,Eastern indigo snake,http://www.mendeley.com/c/5605595424/g/2058663/2012-dwp-listed-vertebrates/,,,
-DSNY,Gopherus,polyphemus,,Gopher tortoise,http://www.mendeley.com/c/5605595424/g/2058663/2012-dwp-listed-vertebrates/,,,
-DSNY,Rana,capito,aesopus,Florida gopher frog,http://www.mendeley.com/c/5605595424/g/2058663/2012-dwp-listed-vertebrates/,,,
-DSNY,Pituophis,melanoleucus,mugitus,Florida pine snake,http://www.mendeley.com/c/5605595424/g/2058663/2012-dwp-listed-vertebrates/,,,
-DSNY,Alligator,mississippiensis,,american alligator,http://www.mendeley.com/c/5605595424/g/2058663/2012-dwp-listed-vertebrates/,,,
-DSNY,Crotalus,adamanteus,,Eastern diamondback rattlesnake,http://www.mendeley.com/c/5605595424/g/2058663/2012-dwp-listed-vertebrates/,,,
-DSNY,Stilosoma,extenuatum,,Short-tailed snake,http://www.mendeley.com/c/5605595424/g/2058663/2012-dwp-listed-vertebrates/,,,
-DSNY,Lampropeltis,getulus,floridana,Florida kingsnake,http://www.mendeley.com/c/5605595424/g/2058663/2012-dwp-listed-vertebrates/,,,
-DSNY,Sceloporus,woodi,,Florida scrub lizard,http://www.mendeley.com/c/5605595424/g/2058663/2012-dwp-listed-vertebrates/,,,
-PSRS,Ambystoma,californiense,,California Tiger Salamander,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/,,,
-PSRS,Taricha,torosa,,California Newt,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/,,,
-PSRS,Batrachoseps,gregarius,,Gregarious Slender Salamander,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/,,,
-PSRS,Spea,hammondii,,Western spadefoot,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/,,,
-PSRS,Bufo,boreas,,Western toad,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/,,,
-PSRS,Hyla,regilla,,Pacific treefrog,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/,,,
-PSRS,Rana,draytonii,,California red-legged frog,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/,,,
-PSRS,Rana,catesbeiana,,bullfrog,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/,,,
-PSRS,Actinemys,marmorata,,Western Pond Turtle,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/,,,
-PSRS,Phrynosoma,coronatum,,Coast Horned Lizard,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/,,,
-PSRS,Sceloporus,occidentalis,,Western Fence Lizard,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/,,,
-PSRS,Uta,stansburiana,,Side-blotched Lizard,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/,,,
-PSRS,Elgaria,multicarinata,,Southern Alligator Lizard,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/,,,
-PSRS,Eumeces,gilberti,,Gilber's skink,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/,,,
-PSRS,Aspidoscelis,tigris,,Tiger whiptail,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/,,,
-PSRS,Coluber,constrictor,,Racer,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/,,,
-PSRS,Hypsiglena,torquata,,nightsnake,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/,,,
-PSRS,Diadophis,punctatus,,ring-necked snake,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/,,,
-PSRS,Lampropeltis,getula,,common kingsnake,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/,,,
-PSRS,Lampropeltis,zonata,,California mountain kingsnake,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/,,,
-PSRS,Masticophis,lateralis,,striped racer,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/,,,
-PSRS,Pituophis,catenifer,,gophersnake,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/,,,
-PSRS,Rhinocheilus,lecontei,,long-nosed snake,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/,,,
-PSRS,Thamnophis,couchii,,Sierra gartersnake,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/,,,
-PSRS,Thamnophis,gigas,,Giant gartersnake,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/,,,
-PSRS,Thamnophis,sirtalis,,common gartersnake,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/,,,
-PSRS,Cortalus,oreganus,,western rattlesnake,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/,,,
-SCBI,Lithobates,catesbeianus,,American bullfrog,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154,,,
-SCBI,Anaxyrus,americanus,americanus,eastern American toad,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154,,,
-SCBI,Plethodon,cinereus,,eastern red-backed salamander,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154,,,
-SCBI,Hemidactylium,scutatum,,four-toed salamander,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154,,,
-SCBI,Anaxyrus,fowleri,,Fowler's toad,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154,,,
-SCBI,Hyla,versicolor,,gray treefrog,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154,,,
-SCBI,Ambystoma,jeffersonianum,,Jefferson salamander,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154,,,
-SCBI,Eurycea,longicauda,,long-tailed salamander,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154,,,
-SCBI,Ambystoma,opacum,,marbled salamander,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154,,,
-SCBI,Acris,crepitans,,northern cricket frog,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154,,,
-SCBI,Desmognathus,fuscus,,northern dusky salamander,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154,,,
-SCBI,Lithobates,clamitans,melanota,northern green frog,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154,,,
-SCBI,Pseudotriton,ruber,ruber,northern red salamander,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154,,,
-SCBI,Pseudacris,crucifer,crucifer,northern spring peeper,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154,,,
-SCBI,Gyrinophilus,porphyriticus,porphyriticus,northern spring salamander,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154,,,
-SCBI,Eurycea,bislineata,,northern two-lined salamander,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154,,,
-SCBI,Lithobates,palustris,,pickerel frog,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154,,,
-SCBI,Notophthalmus,viridescens,viridescens,red-spotted newt,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154,,,
-SCBI,Desmognathus,monticola,,seal salamander,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154,,,
-SCBI,Ambystoma,maculatum,,spotted salamander,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154,,,
-SCBI,Eurycea,guttolineata,,three-lined salamander,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154,,,
-SCBI,Pseudacris,feriarum,feriarum,upland chorus frog,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154,,,
-SCBI,Plethodon,cylindraceus,,white-spotted slimy salamander,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154,,,
-SCBI,Lithobates,sylvaticus,,wood frog,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154,,,
-SCBI,Plestidon,laticeps,,broad-headed skink,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/,,,
-SCBI,Plestidon,fasciatus,,common five-lined skink,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/,,,
-SCBI,Thamnophis,sauritus,sauritus,common ribbonsnake,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/,,,
-SCBI,Terrapene,carolina,carolina,eastern box turtle,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/,,,
-SCBI,Sceloporous,undulatus,,eastern fence lizard,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/,,,
-SCBI,Thamnophis,sirtalis,sirtalis,eastern gartersnake,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/,,,
-SCBI,Heterodon,platirhinos,,eastern hog-nosed snake,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/,,,
-SCBI,Lampropeltis,getula,getula,eastern kingsnake,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/,,,
-SCBI,Lampropeltis,triangulum,triangulum,eastern milksnake,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/,,,
-SCBI,Chrysemys,picta,picta,eastern painted turtle,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/,,,
-SCBI,Pantherophis,alleghaniensis,,eastern ratsnake,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/,,,
-SCBI,Virginia,valeriae,valeriae,eastern smooth earthsnake,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/,,,
-SCBI,Chelydra,serpentina,serpentina,eastern snapping turtle,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/,,,
-SCBI,Carphophis,amoenus,amoenus,eastern worm snake,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/,,,
-SCBI,Coluber,constrictor,constrictor,northern black racer,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/,,,
-SCBI,Storeria,dekayi,dekayi,northern brownsnake,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/,,,
-SCBI,Agkistrodon,contorttix,mokasen,northern copperhead,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/,,,
-SCBI,Pseudemys,rubriventris,,northern red-bellied cooter,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/,,,
-SCBI,Storeria,occipitomaculata,occipitomaculata,northern red-bellied snake,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/,,,
-SCBI,Diadophis,punctatus,edwardsii,northern ring-necked snake,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/,,,
-SCBI,Opheodrys,aestivus,aestivus,northern rough greensnake,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/,,,
-SCBI,Nerodia,sipedon,sipedon,northern watersnake,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/,,,
-SCBI,Regina,septemvittata,,queen snake,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/,,,
-SCBI,Pantherophis,guttatus,,red cornsnake,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/,,,
-SCBI,Plestiodon,inexpectatus,,southeastern five-lined skink,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/,,,
-SCBI,Clemmys,guttata,,spotted turtle,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/,,,
-SCBI,Sternotherus,odoratus,,stinkpot,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/,,,
-SCBI,Crotalus,horridus,,timber rattlesnake,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/,,,
-SCBI,Glyptemys,insculpata,,wood turtle,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/,,,
-SCBI,Acris,crepitans,crepitans,eastern cricket Frog,http://www.mendeley.com/research/herps-warren-county-12213-2/,,,
-SCBI,Agkistrodon,contortrix,mokasen,northern  Copperhead,http://www.mendeley.com/research/herps-warren-county-12213-2/,,,
-SCBI,Ambystoma,jeffersonianum,,Jefferson  Salamander,http://www.mendeley.com/research/herps-warren-county-12213-2/,,,
-SCBI,Ambystoma,maculatum,,spotted  Salamander,http://www.mendeley.com/research/herps-warren-county-12213-2/,,,
-SCBI,Anaxyrus,americanus,americanus,eastern American Toad,http://www.mendeley.com/research/herps-warren-county-12213-2/,,,
-SCBI,Anaxyrus,fowleri,,Fowler's  Toad,http://www.mendeley.com/research/herps-warren-county-12213-2/,,,
-SCBI,Carphophis,amoenus,amoenus,Worm Snake Eastern,http://www.mendeley.com/research/herps-warren-county-12213-2/,,,
-SCBI,Chelydra,serpentina,serpentina,eastern snapping Turtle,http://www.mendeley.com/research/herps-warren-county-12213-2/,,,
-SCBI,Chrysemys,picta,picta,eastern painted Turtle,http://www.mendeley.com/research/herps-warren-county-12213-2/,,,
-SCBI,Coluber,constrictor,constrictor,northern black Racer,http://www.mendeley.com/research/herps-warren-county-12213-2/,,,
-SCBI,Crotalus,horridus,,timber  Rattlesnake,http://www.mendeley.com/research/herps-warren-county-12213-2/,,,
-SCBI,Desmognathus,fuscus,,northern dusky Salamander,http://www.mendeley.com/research/herps-warren-county-12213-2/,,,
-SCBI,Desmognathus,monticola,,seal  Salamander,http://www.mendeley.com/research/herps-warren-county-12213-2/,,,
-SCBI,Diadophis,punctatus,edwardsii,northern ring-necked Snake,http://www.mendeley.com/research/herps-warren-county-12213-2/,,,
-SCBI,Eurycea,bislineata,,northern two-lined Salamander,http://www.mendeley.com/research/herps-warren-county-12213-2/,,,
-SCBI,Eurycea,guttolineata,,three-lined  Salamander,http://www.mendeley.com/research/herps-warren-county-12213-2/,,,
-SCBI,Eurycea,longicauda,longicauda,long-tailed  Salamander,http://www.mendeley.com/research/herps-warren-county-12213-2/,,,
-SCBI,Glyptemys,insculpta,,wood  Turtle,http://www.mendeley.com/research/herps-warren-county-12213-2/,,,
-SCBI,Gyrinophilus,porphyriticus,porphyriticus,northern spring Salamander,http://www.mendeley.com/research/herps-warren-county-12213-2/,,,
-SCBI,Heterodon,platirhinos,,eastern hog-nosed Snake,http://www.mendeley.com/research/herps-warren-county-12213-2/,,,
-SCBI,Hyla,versicolor,,gray  Treefrog,http://www.mendeley.com/research/herps-warren-county-12213-2/,,,
-SCBI,Lampropeltis,getula,getula,eastern  Kingsnake,http://www.mendeley.com/research/herps-warren-county-12213-2/,,,
-SCBI,Lampropeltis,triangulum,triangulum,eastern  Milksnake,http://www.mendeley.com/research/herps-warren-county-12213-2/,,,
-SCBI,Lithobates,catesbeianus,,American  Bullfrog,http://www.mendeley.com/research/herps-warren-county-12213-2/,,,
-SCBI,Lithobates,clamitans,melanota,northern green Frog,http://www.mendeley.com/research/herps-warren-county-12213-2/,,,
-SCBI,Lithobates,palustris,,pickerel  Frog,http://www.mendeley.com/research/herps-warren-county-12213-2/,,,
-SCBI,Lithobates,sylvaticus,,wood  Frog,http://www.mendeley.com/research/herps-warren-county-12213-2/,,,
-SCBI,Nerodia,sipedon,sipedon,northern  Watersnake,http://www.mendeley.com/research/herps-warren-county-12213-2/,,,
-SCBI,Notophthalmus,viridescens,viridescens,red-spotted  Newt,http://www.mendeley.com/research/herps-warren-county-12213-2/,,,
-SCBI,Opheodrys,aestivus,aestivus,northern rough Greensnake,http://www.mendeley.com/research/herps-warren-county-12213-2/,,,
-SCBI,Pantherophis,alleghaniensis,,eastern  Ratsnake,http://www.mendeley.com/research/herps-warren-county-12213-2/,,,
-SCBI,Pantherophis,guttatus,,red  Cornsnake,http://www.mendeley.com/research/herps-warren-county-12213-2/,,,
-SCBI,Plestiodon,fasciatus,,common five-lined Skink,http://www.mendeley.com/research/herps-warren-county-12213-2/,,,
-SCBI,Plethodon,cinereus,,eastern red-backed Salamander,http://www.mendeley.com/research/herps-warren-county-12213-2/,,,
-SCBI,Plethodon,cylindraceus,,white-spotted slimy Salamander,http://www.mendeley.com/research/herps-warren-county-12213-2/,,,
-SCBI,Pseudacris,crucifer,crucifer,northern spring Peeper,http://www.mendeley.com/research/herps-warren-county-12213-2/,,,
-SCBI,Pseudemys,rubriventris,,northern red-bellied Cooter,http://www.mendeley.com/research/herps-warren-county-12213-2/,,,
-SCBI,Pseudotriton,ruber,ruber,northern red Salamander,http://www.mendeley.com/research/herps-warren-county-12213-2/,,,
-SCBI,Sceloporus,undulatus,,eastern fence Lizard,http://www.mendeley.com/research/herps-warren-county-12213-2/,,,
-SCBI,Terrapene,carolina,carolina,eastern box Turtle,http://www.mendeley.com/research/herps-warren-county-12213-2/,,,
-SCBI,Thamnophis,sirtalis,sirtalis,eastern  Gartersnake,http://www.mendeley.com/research/herps-warren-county-12213-2/,,,
-SCBI,Chelydra,serpentina,,Common snapping turtle,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Carphophis,amoenus,,Eastern Worm Snake,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Coluber,constrictor,,Racer  ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Diadophis,punctatus,,Ring-necked Snake ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Elaphe,guttata,,Corn Snake ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Elaphe,obsoleta,,Rat Snake ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Heterodon,platirhinos,,Eastern Hog-nosed Snake,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Lampropeltis,calligaste,rhombomaculata,Mole Kingsnake ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Lampropeltis,getula,,Common Kingsnake ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Lampropeltis,triangulum,,Milk Snake ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Nerodia,sipedon,,Northern Water Snake,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Opheodrys,aestivus,,Rough Green Snake,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Opheodrys,vernalis,,Smooth Green Snake,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Pituophis,melanoleucus,,Pine Snake ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Storeria,occipitomaculata,,Red-bellied Snake ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Thamnophis,sauritus,,Eastern Ribbon Snake,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Thamnophis,sirtalis,,Common Garter Snake,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Chrysemys,picta,,Painted Turtle ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Clemmys,guttata,,Spotted Turtle ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Clemmys,insculpta,,Wood Turtle ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Terrapene,carolina,,Common Box Turtle,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Sceloporus,undulatus,,Eastern Fence Lizard,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Eumeces,fasciatus,,Five-lined Skink ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Scincella,lateralis,,Ground Skink ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Agkistrodon,contortrix,,Copperhead  ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Crotalus,horridus,,Timber Rattlesnake ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Chelydra,serpentina,,Common snapping turtle,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Carphophis,amoenus,,Eastern Worm Snake,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Coluber,constrictor,,Racer  ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Diadophis,punctatus,,Ring-necked Snake ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Elaphe,guttata,,Corn Snake ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Elaphe,obsoleta,,Rat Snake ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Heterodon,platirhinos,,Eastern Hog-nosed Snake,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Lampropeltis,calligaste,rhombomaculata,Mole Kingsnake ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Lampropeltis,getula,,Common Kingsnake ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Lampropeltis,triangulum,,Milk Snake ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Nerodia,sipedon,,Northern Water Snake,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Opheodrys,aestivus,,Rough Green Snake,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Opheodrys,vernalis,,Smooth Green Snake,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Pituophis,melanoleucus,,Pine Snake ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Storeria,occipitomaculata,,Red-bellied Snake ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Thamnophis,sauritus,,Eastern Ribbon Snake,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Thamnophis,sirtalis,,Common Garter Snake,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Chrysemys,picta,,Painted Turtle ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Clemmys,guttata,,Spotted Turtle ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Clemmys,insculpta,,Wood Turtle ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Terrapene,carolina,,Common Box Turtle,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Sceloporus,undulatus,,Eastern Fence Lizard,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Eumeces,fasciatus,,Five-lined Skink ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Scincella,lateralis,,Ground Skink ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Agkistrodon,contortrix,,Copperhead  ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Crotalus,horridus,,Timber Rattlesnake ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344,,,
-SCBI,Ambystoma,jeffersonianum,,Jefferson Salamander ,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754,,,
-SCBI,Ambystoma,maculatum,,Spotted Salamander ,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754,,,
-SCBI,Bufo,americanus,,American Toad ,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754,,,
-SCBI,Bufo,fowleri,,Fowler's Toad ,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754,,,
-SCBI,Acris,crepitans,,Northern Cricket Frog,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754,,,
-SCBI,Hyla,versicolor,,Gray Treefrog ,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754,,,
-SCBI,Pseudacris,crucifer,,Spring Peeper ,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754,,,
-SCBI,Pseudacris,triseriata,feriarum,Upland Chorus Frog,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754,,,
-SCBI,Desmognathus,fuscus,,Dusky Salamander ,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754,,,
-SCBI,Desmognathus,monticola,,Seal Salamander ,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754,,,
-SCBI,Eurycea,bislineata,,Northern Two-lined Salamander,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754,,,
-SCBI,Eurycea,longicauda,guttolineata,Three-lined Salamander ,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754,,,
-SCBI,Eurycea,longicauda,longicauda,Long-tailed Salamander ,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754,,,
-SCBI,Gyrinophilus,porphyriticus,,Spring Salamander ,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754,,,
-SCBI,Hemidactylium,scutatum,,Four-toed Salamander ,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754,,,
-SCBI,Plethodon,cinereus,,Eastern Red-backed Salamander,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754,,,
-SCBI,Plethodon,cylindraceus,,White-spotted Slimy Salamander,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754,,,
-SCBI,Plethodon,shenandoah,,Shenandoah Salamander ,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754,,,
-SCBI,Rana,catesbeiana,,Bullfrog  ,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754,,,
-SCBI,Rana,clamitans,,Green Frog ,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754,,,
-SCBI,Rana,palustris,,Pickerel Frog ,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754,,,
-SCBI,Rana,sylvatica,,Wood Frog ,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754,,,
-SCBI,Notophthalmus,viridescens,,Eastern Newt ,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754,,,
-ONAQ,Rana,catesbeiana,,American Bullfrog,http://www.mendeley.com/library/showrecent/document/5631450954/#document-5631450954,,,
-ONAQ,Spea,intermontana,,Great Basin Spadefoot,http://www.mendeley.com/library/showrecent/document/5631450954/#document-5631450954,,,
-ONAQ,Bufo,Cognatus,,Great Plains Toad,http://www.mendeley.com/library/showrecent/document/5631450954/#document-5631450954,,,
-ONAQ,Rana,Pipiens,,Northern Leopard From,http://www.mendeley.com/library/showrecent/document/5631450954/#document-5631450954,,,
-ONAQ,Ambystoma,Tigrinum,,Tiger Salamander,http://www.mendeley.com/library/showrecent/document/5631450954/#document-5631450954,,,
-ONAQ,Pseudacris,Triseriata,,Western Chorus Frog,http://www.mendeley.com/library/showrecent/document/5631450954/#document-5631450954,,,
-ONAQ,Bufo,woodhousii,,Woodhouse's Toad,http://www.mendeley.com/library/showrecent/document/5631450954/#document-5631450954,,,
-ONAQ,Thamnophis,cyrtopsis,,Common Gartersnake,http://www.mendeley.com/library/showrecent/document/5631442744/#document-5631442744,,,
-ONAQ,Sceloporus,graciosus,,Common Sagebrush Lizard,http://www.mendeley.com/library/showrecent/document/5631442744/#document-5631442744,,,
-ONAQ,Uta,stansburiana,,Common Sideblotched Lizard,http://www.mendeley.com/library/showrecent/document/5631442744/#document-5631442744,,,
-ONAQ,Phrynosoma,platyrhinos,,Desert Horned Lizard,http://www.mendeley.com/library/showrecent/document/5631442744/#document-5631442744,,,
-ONAQ,Coluber,constrictor,,Eastern Racer,http://www.mendeley.com/library/showrecent/document/5631442744/#document-5631442744,,,
-ONAQ,Pituophis,Catenifer,,Gophersnake,http://www.mendeley.com/library/showrecent/document/5631442744/#document-5631442744,,,
-ONAQ,Crotalus,Oreganus,Lutosus,Great Basin Western Rattlesnake,http://www.mendeley.com/library/showrecent/document/5631442744/#document-5631442744,,,
-ONAQ,Crotaphytus,bicinctores,,Great Basin Collared Lizard,http://www.mendeley.com/library/showrecent/document/5631442744/#document-5631442744,,,
-ONAQ,Phrynosoma,hernandesi,,Greater Short-Horned Lizard,http://www.mendeley.com/library/showrecent/document/5631442744/#document-5631442744,,,
-ONAQ,Gambelia,wislizenii,,Long-nosed Leopard Lizard,http://www.mendeley.com/library/showrecent/document/5631442744/#document-5631442744,,,
-ONAQ,Rhinocheilus,lecontei,,Long Nosed snake,http://www.mendeley.com/library/showrecent/document/5631442744/#document-5631442744,,,
-ONAQ,Hypsiglena,torquata,,Nnightsnake,http://www.mendeley.com/library/showrecent/document/5631442744/#document-5631442744,,,
-ONAQ,Masticophis,taeniatus,,Striped Whipsnake,http://www.mendeley.com/library/showrecent/document/5631442744/#document-5631442744,,,
-ONAQ,Thamnophis,elegans,,Terrestrial Gartersnake,http://www.mendeley.com/library/showrecent/document/5631442744/#document-5631442744,,,
-ONAQ,Aspidoscelis,tigris,,Tiger Whiptail,http://www.mendeley.com/library/showrecent/document/5631442744/#document-5631442744,,,
-ONAQ,Sceloporus,occidentalis,,Western Fence Lizard,http://www.mendeley.com/library/showrecent/document/5631442744/#document-5631442744,,,
-ONAQ,Eumeces,skiltonianus,,Predicted Habitat,http://www.mendeley.com/library/showrecent/document/5631442744/#document-5631442744,,,
-BART,Rana,catesbeiana,,Bullfrog ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/,,,
-BART,Rana,clamitans,,Green frog ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/,,,
-BART,Rana,septentrionalis,,Mink frog ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/,,,
-BART,Rana,pipiens,,Northern leopard frog ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/,,,
-BART,Rana,palustris,,Pickerel frog ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/,,,
-BART,Rana,sylvatica,,Wood frog ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/,,,
-BART,Pseudacris,crucifer,,Spring peeper ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/,,,
-BART,Hyla,versicolor,,Gray treefrog ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/,,,
-BART,Bufo,americanus,,American toad ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/,,,
-BART,Bufo,fowleri,,Fowler's toad ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/,,,
-BART,Notophthalmus,viridescens,,Eastern newt ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/,,,
-BART,Ambystoma,laterale,,Blue-spotted salamander ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/,,,
-BART,Ambystoma,jeffersonianum,,Jefferson salamander ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/,,,
-BART,Ambystoma,opacum,,Marbled salamander ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/,,,
-BART,Ambystoma,maculatum,,Spotted salamander ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/,,,
-BART,Hemidactylium,scutatum,,Four-toed salamander ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/,,,
-BART,Desmognathus,fuscus,,Dusky salamander ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/,,,
-BART,Gyrinophilus,porphyriticus,,Spring salamander ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/,,,
-BART,Eurycea,bislineata,,Two-lined salamander ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/,,,
-BART,Plethodon,cinereus,,Redback salamander ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/,,,
-BART,Plethodon,glutinosus,,Slimy salamander,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/,,,
-BART,Thamnophis,sirtalis,,Common garter snake ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/,,,
-BART,Heterodon,platirhinos,,Eastern hognose snake  ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/,,,
-BART,Lampropeltis,triangulum,,Milk snake ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/,,,
-BART,Thamnophis,sauritus,,Eastern ribbon snake  ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/,,,
-BART,Opheodrys,vernalis,,Smooth green snake ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/,,,
-BART,Coluber,constrictor,,Racer  ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/,,,
-BART,Storeria,dekayi,,Brown snake ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/,,,
-BART,Storeria,orripitomaculata,,Redbelly snake ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/,,,
-BART,Diadophis,punctatus,,Ringneck snake ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/,,,
-BART,Nerodia,sipedon,,Northern water snake ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/,,,
-BART,Crotalus,horridus,,Timber rattlesnake  ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/,,,
-BART,Sternotherus,odoratus,,Common musk turtle  ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/,,,
-BART,Emydoidea,blandingii,,Blanding's turtle ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/,,,
-BART,Chelydra,serpentina,,Snapping turtle ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/,,,
-BART,Terrapene,carolina,,Eastern box turtle  ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/,,,
-BART,Chrysemys,picta,,Painted turtle ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/,,,
-BART,Clemmys,guttata,,Spotted turtle ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/,,,
-BART,Glyptemys,insculpta,,Wood turtle ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/,,,
+site,genus,sp,subsp,common_name,source
+DSNY,Drymarchon,corais,couperi,Eastern indigo snake,http://www.mendeley.com/c/5605595424/g/2058663/2012-dwp-listed-vertebrates/
+DSNY,Gopherus,polyphemus,,Gopher tortoise,http://www.mendeley.com/c/5605595424/g/2058663/2012-dwp-listed-vertebrates/
+DSNY,Rana,capito,aesopus,Florida gopher frog,http://www.mendeley.com/c/5605595424/g/2058663/2012-dwp-listed-vertebrates/
+DSNY,Pituophis,melanoleucus,mugitus,Florida pine snake,http://www.mendeley.com/c/5605595424/g/2058663/2012-dwp-listed-vertebrates/
+DSNY,Alligator,mississippiensis,,american alligator,http://www.mendeley.com/c/5605595424/g/2058663/2012-dwp-listed-vertebrates/
+DSNY,Crotalus,adamanteus,,Eastern diamondback rattlesnake,http://www.mendeley.com/c/5605595424/g/2058663/2012-dwp-listed-vertebrates/
+DSNY,Stilosoma,extenuatum,,Short-tailed snake,http://www.mendeley.com/c/5605595424/g/2058663/2012-dwp-listed-vertebrates/
+DSNY,Lampropeltis,getulus,floridana,Florida kingsnake,http://www.mendeley.com/c/5605595424/g/2058663/2012-dwp-listed-vertebrates/
+DSNY,Sceloporus,woodi,,Florida scrub lizard,http://www.mendeley.com/c/5605595424/g/2058663/2012-dwp-listed-vertebrates/
+PSRS,Ambystoma,californiense,,California Tiger Salamander,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/
+PSRS,Taricha,torosa,,California Newt,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/
+PSRS,Batrachoseps,gregarius,,Gregarious Slender Salamander,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/
+PSRS,Spea,hammondii,,Western spadefoot,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/
+PSRS,Bufo,boreas,,Western toad,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/
+PSRS,Hyla,regilla,,Pacific treefrog,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/
+PSRS,Rana,draytonii,,California red-legged frog,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/
+PSRS,Rana,catesbeiana,,bullfrog,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/
+PSRS,Actinemys,marmorata,,Western Pond Turtle,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/
+PSRS,Phrynosoma,coronatum,,Coast Horned Lizard,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/
+PSRS,Sceloporus,occidentalis,,Western Fence Lizard,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/
+PSRS,Uta,stansburiana,,Side-blotched Lizard,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/
+PSRS,Elgaria,multicarinata,,Southern Alligator Lizard,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/
+PSRS,Eumeces,gilberti,,Gilber's skink,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/
+PSRS,Aspidoscelis,tigris,,Tiger whiptail,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/
+PSRS,Coluber,constrictor,,Racer,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/
+PSRS,Hypsiglena,torquata,,nightsnake,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/
+PSRS,Diadophis,punctatus,,ring-necked snake,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/
+PSRS,Lampropeltis,getula,,common kingsnake,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/
+PSRS,Lampropeltis,zonata,,California mountain kingsnake,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/
+PSRS,Masticophis,lateralis,,striped racer,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/
+PSRS,Pituophis,catenifer,,gophersnake,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/
+PSRS,Rhinocheilus,lecontei,,long-nosed snake,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/
+PSRS,Thamnophis,couchii,,Sierra gartersnake,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/
+PSRS,Thamnophis,gigas,,Giant gartersnake,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/
+PSRS,Thamnophis,sirtalis,,common gartersnake,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/
+PSRS,Cortalus,oreganus,,western rattlesnake,http://www.mendeley.com/c/5678833124/g/2058663/purcell-2007-vertebrate-fauna-of-the-san-joaquin-experimental-range-california-an-annotated-checklist-based-on-70-years-of-observations/
+SCBI,Lithobates,catesbeianus,,American bullfrog,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154
+SCBI,Anaxyrus,americanus,americanus,eastern American toad,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154
+SCBI,Plethodon,cinereus,,eastern red-backed salamander,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154
+SCBI,Hemidactylium,scutatum,,four-toed salamander,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154
+SCBI,Anaxyrus,fowleri,,Fowler's toad,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154
+SCBI,Hyla,versicolor,,gray treefrog,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154
+SCBI,Ambystoma,jeffersonianum,,Jefferson salamander,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154
+SCBI,Eurycea,longicauda,,long-tailed salamander,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154
+SCBI,Ambystoma,opacum,,marbled salamander,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154
+SCBI,Acris,crepitans,,northern cricket frog,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154
+SCBI,Desmognathus,fuscus,,northern dusky salamander,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154
+SCBI,Lithobates,clamitans,melanota,northern green frog,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154
+SCBI,Pseudotriton,ruber,ruber,northern red salamander,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154
+SCBI,Pseudacris,crucifer,crucifer,northern spring peeper,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154
+SCBI,Gyrinophilus,porphyriticus,porphyriticus,northern spring salamander,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154
+SCBI,Eurycea,bislineata,,northern two-lined salamander,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154
+SCBI,Lithobates,palustris,,pickerel frog,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154
+SCBI,Notophthalmus,viridescens,viridescens,red-spotted newt,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154
+SCBI,Desmognathus,monticola,,seal salamander,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154
+SCBI,Ambystoma,maculatum,,spotted salamander,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154
+SCBI,Eurycea,guttolineata,,three-lined salamander,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154
+SCBI,Pseudacris,feriarum,feriarum,upland chorus frog,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154
+SCBI,Plethodon,cylindraceus,,white-spotted slimy salamander,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154
+SCBI,Lithobates,sylvaticus,,wood frog,http://www.mendeley.com/library/showrecent/document/5624281154/#document-5624281154
+SCBI,Plestidon,laticeps,,broad-headed skink,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/
+SCBI,Plestidon,fasciatus,,common five-lined skink,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/
+SCBI,Thamnophis,sauritus,sauritus,common ribbonsnake,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/
+SCBI,Terrapene,carolina,carolina,eastern box turtle,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/
+SCBI,Sceloporous,undulatus,,eastern fence lizard,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/
+SCBI,Thamnophis,sirtalis,sirtalis,eastern gartersnake,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/
+SCBI,Heterodon,platirhinos,,eastern hog-nosed snake,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/
+SCBI,Lampropeltis,getula,getula,eastern kingsnake,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/
+SCBI,Lampropeltis,triangulum,triangulum,eastern milksnake,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/
+SCBI,Chrysemys,picta,picta,eastern painted turtle,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/
+SCBI,Pantherophis,alleghaniensis,,eastern ratsnake,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/
+SCBI,Virginia,valeriae,valeriae,eastern smooth earthsnake,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/
+SCBI,Chelydra,serpentina,serpentina,eastern snapping turtle,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/
+SCBI,Carphophis,amoenus,amoenus,eastern worm snake,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/
+SCBI,Coluber,constrictor,constrictor,northern black racer,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/
+SCBI,Storeria,dekayi,dekayi,northern brownsnake,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/
+SCBI,Agkistrodon,contorttix,mokasen,northern copperhead,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/
+SCBI,Pseudemys,rubriventris,,northern red-bellied cooter,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/
+SCBI,Storeria,occipitomaculata,occipitomaculata,northern red-bellied snake,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/
+SCBI,Diadophis,punctatus,edwardsii,northern ring-necked snake,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/
+SCBI,Opheodrys,aestivus,aestivus,northern rough greensnake,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/
+SCBI,Nerodia,sipedon,sipedon,northern watersnake,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/
+SCBI,Regina,septemvittata,,queen snake,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/
+SCBI,Pantherophis,guttatus,,red cornsnake,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/
+SCBI,Plestiodon,inexpectatus,,southeastern five-lined skink,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/
+SCBI,Clemmys,guttata,,spotted turtle,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/
+SCBI,Sternotherus,odoratus,,stinkpot,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/
+SCBI,Crotalus,horridus,,timber rattlesnake,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/
+SCBI,Glyptemys,insculpata,,wood turtle,http://www.mendeley.com/research/species-booklets-virginia-reptiles-2/
+SCBI,Acris,crepitans,crepitans,eastern cricket Frog,http://www.mendeley.com/research/herps-warren-county-12213-2/
+SCBI,Agkistrodon,contortrix,mokasen,northern  Copperhead,http://www.mendeley.com/research/herps-warren-county-12213-2/
+SCBI,Ambystoma,jeffersonianum,,Jefferson  Salamander,http://www.mendeley.com/research/herps-warren-county-12213-2/
+SCBI,Ambystoma,maculatum,,spotted  Salamander,http://www.mendeley.com/research/herps-warren-county-12213-2/
+SCBI,Anaxyrus,americanus,americanus,eastern American Toad,http://www.mendeley.com/research/herps-warren-county-12213-2/
+SCBI,Anaxyrus,fowleri,,Fowler's  Toad,http://www.mendeley.com/research/herps-warren-county-12213-2/
+SCBI,Carphophis,amoenus,amoenus,Worm Snake Eastern,http://www.mendeley.com/research/herps-warren-county-12213-2/
+SCBI,Chelydra,serpentina,serpentina,eastern snapping Turtle,http://www.mendeley.com/research/herps-warren-county-12213-2/
+SCBI,Chrysemys,picta,picta,eastern painted Turtle,http://www.mendeley.com/research/herps-warren-county-12213-2/
+SCBI,Coluber,constrictor,constrictor,northern black Racer,http://www.mendeley.com/research/herps-warren-county-12213-2/
+SCBI,Crotalus,horridus,,timber  Rattlesnake,http://www.mendeley.com/research/herps-warren-county-12213-2/
+SCBI,Desmognathus,fuscus,,northern dusky Salamander,http://www.mendeley.com/research/herps-warren-county-12213-2/
+SCBI,Desmognathus,monticola,,seal  Salamander,http://www.mendeley.com/research/herps-warren-county-12213-2/
+SCBI,Diadophis,punctatus,edwardsii,northern ring-necked Snake,http://www.mendeley.com/research/herps-warren-county-12213-2/
+SCBI,Eurycea,bislineata,,northern two-lined Salamander,http://www.mendeley.com/research/herps-warren-county-12213-2/
+SCBI,Eurycea,guttolineata,,three-lined  Salamander,http://www.mendeley.com/research/herps-warren-county-12213-2/
+SCBI,Eurycea,longicauda,longicauda,long-tailed  Salamander,http://www.mendeley.com/research/herps-warren-county-12213-2/
+SCBI,Glyptemys,insculpta,,wood  Turtle,http://www.mendeley.com/research/herps-warren-county-12213-2/
+SCBI,Gyrinophilus,porphyriticus,porphyriticus,northern spring Salamander,http://www.mendeley.com/research/herps-warren-county-12213-2/
+SCBI,Heterodon,platirhinos,,eastern hog-nosed Snake,http://www.mendeley.com/research/herps-warren-county-12213-2/
+SCBI,Hyla,versicolor,,gray  Treefrog,http://www.mendeley.com/research/herps-warren-county-12213-2/
+SCBI,Lampropeltis,getula,getula,eastern  Kingsnake,http://www.mendeley.com/research/herps-warren-county-12213-2/
+SCBI,Lampropeltis,triangulum,triangulum,eastern  Milksnake,http://www.mendeley.com/research/herps-warren-county-12213-2/
+SCBI,Lithobates,catesbeianus,,American  Bullfrog,http://www.mendeley.com/research/herps-warren-county-12213-2/
+SCBI,Lithobates,clamitans,melanota,northern green Frog,http://www.mendeley.com/research/herps-warren-county-12213-2/
+SCBI,Lithobates,palustris,,pickerel  Frog,http://www.mendeley.com/research/herps-warren-county-12213-2/
+SCBI,Lithobates,sylvaticus,,wood  Frog,http://www.mendeley.com/research/herps-warren-county-12213-2/
+SCBI,Nerodia,sipedon,sipedon,northern  Watersnake,http://www.mendeley.com/research/herps-warren-county-12213-2/
+SCBI,Notophthalmus,viridescens,viridescens,red-spotted  Newt,http://www.mendeley.com/research/herps-warren-county-12213-2/
+SCBI,Opheodrys,aestivus,aestivus,northern rough Greensnake,http://www.mendeley.com/research/herps-warren-county-12213-2/
+SCBI,Pantherophis,alleghaniensis,,eastern  Ratsnake,http://www.mendeley.com/research/herps-warren-county-12213-2/
+SCBI,Pantherophis,guttatus,,red  Cornsnake,http://www.mendeley.com/research/herps-warren-county-12213-2/
+SCBI,Plestiodon,fasciatus,,common five-lined Skink,http://www.mendeley.com/research/herps-warren-county-12213-2/
+SCBI,Plethodon,cinereus,,eastern red-backed Salamander,http://www.mendeley.com/research/herps-warren-county-12213-2/
+SCBI,Plethodon,cylindraceus,,white-spotted slimy Salamander,http://www.mendeley.com/research/herps-warren-county-12213-2/
+SCBI,Pseudacris,crucifer,crucifer,northern spring Peeper,http://www.mendeley.com/research/herps-warren-county-12213-2/
+SCBI,Pseudemys,rubriventris,,northern red-bellied Cooter,http://www.mendeley.com/research/herps-warren-county-12213-2/
+SCBI,Pseudotriton,ruber,ruber,northern red Salamander,http://www.mendeley.com/research/herps-warren-county-12213-2/
+SCBI,Sceloporus,undulatus,,eastern fence Lizard,http://www.mendeley.com/research/herps-warren-county-12213-2/
+SCBI,Terrapene,carolina,carolina,eastern box Turtle,http://www.mendeley.com/research/herps-warren-county-12213-2/
+SCBI,Thamnophis,sirtalis,sirtalis,eastern  Gartersnake,http://www.mendeley.com/research/herps-warren-county-12213-2/
+SCBI,Chelydra,serpentina,,Common snapping turtle,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Carphophis,amoenus,,Eastern Worm Snake,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Coluber,constrictor,,Racer  ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Diadophis,punctatus,,Ring-necked Snake ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Elaphe,guttata,,Corn Snake ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Elaphe,obsoleta,,Rat Snake ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Heterodon,platirhinos,,Eastern Hog-nosed Snake,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Lampropeltis,calligaste,rhombomaculata,Mole Kingsnake ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Lampropeltis,getula,,Common Kingsnake ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Lampropeltis,triangulum,,Milk Snake ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Nerodia,sipedon,,Northern Water Snake,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Opheodrys,aestivus,,Rough Green Snake,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Opheodrys,vernalis,,Smooth Green Snake,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Pituophis,melanoleucus,,Pine Snake ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Storeria,occipitomaculata,,Red-bellied Snake ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Thamnophis,sauritus,,Eastern Ribbon Snake,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Thamnophis,sirtalis,,Common Garter Snake,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Chrysemys,picta,,Painted Turtle ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Clemmys,guttata,,Spotted Turtle ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Clemmys,insculpta,,Wood Turtle ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Terrapene,carolina,,Common Box Turtle,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Sceloporus,undulatus,,Eastern Fence Lizard,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Eumeces,fasciatus,,Five-lined Skink ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Scincella,lateralis,,Ground Skink ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Agkistrodon,contortrix,,Copperhead  ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Crotalus,horridus,,Timber Rattlesnake ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Chelydra,serpentina,,Common snapping turtle,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Carphophis,amoenus,,Eastern Worm Snake,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Coluber,constrictor,,Racer  ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Diadophis,punctatus,,Ring-necked Snake ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Elaphe,guttata,,Corn Snake ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Elaphe,obsoleta,,Rat Snake ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Heterodon,platirhinos,,Eastern Hog-nosed Snake,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Lampropeltis,calligaste,rhombomaculata,Mole Kingsnake ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Lampropeltis,getula,,Common Kingsnake ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Lampropeltis,triangulum,,Milk Snake ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Nerodia,sipedon,,Northern Water Snake,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Opheodrys,aestivus,,Rough Green Snake,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Opheodrys,vernalis,,Smooth Green Snake,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Pituophis,melanoleucus,,Pine Snake ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Storeria,occipitomaculata,,Red-bellied Snake ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Thamnophis,sauritus,,Eastern Ribbon Snake,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Thamnophis,sirtalis,,Common Garter Snake,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Chrysemys,picta,,Painted Turtle ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Clemmys,guttata,,Spotted Turtle ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Clemmys,insculpta,,Wood Turtle ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Terrapene,carolina,,Common Box Turtle,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Sceloporus,undulatus,,Eastern Fence Lizard,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Eumeces,fasciatus,,Five-lined Skink ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Scincella,lateralis,,Ground Skink ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Agkistrodon,contortrix,,Copperhead  ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Crotalus,horridus,,Timber Rattlesnake ,http://www.mendeley.com/library/showrecent/document/5630572344/#document-5630572344
+SCBI,Ambystoma,jeffersonianum,,Jefferson Salamander ,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754
+SCBI,Ambystoma,maculatum,,Spotted Salamander ,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754
+SCBI,Bufo,americanus,,American Toad ,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754
+SCBI,Bufo,fowleri,,Fowler's Toad ,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754
+SCBI,Acris,crepitans,,Northern Cricket Frog,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754
+SCBI,Hyla,versicolor,,Gray Treefrog ,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754
+SCBI,Pseudacris,crucifer,,Spring Peeper ,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754
+SCBI,Pseudacris,triseriata,feriarum,Upland Chorus Frog,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754
+SCBI,Desmognathus,fuscus,,Dusky Salamander ,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754
+SCBI,Desmognathus,monticola,,Seal Salamander ,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754
+SCBI,Eurycea,bislineata,,Northern Two-lined Salamander,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754
+SCBI,Eurycea,longicauda,guttolineata,Three-lined Salamander ,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754
+SCBI,Eurycea,longicauda,longicauda,Long-tailed Salamander ,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754
+SCBI,Gyrinophilus,porphyriticus,,Spring Salamander ,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754
+SCBI,Hemidactylium,scutatum,,Four-toed Salamander ,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754
+SCBI,Plethodon,cinereus,,Eastern Red-backed Salamander,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754
+SCBI,Plethodon,cylindraceus,,White-spotted Slimy Salamander,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754
+SCBI,Plethodon,shenandoah,,Shenandoah Salamander ,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754
+SCBI,Rana,catesbeiana,,Bullfrog  ,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754
+SCBI,Rana,clamitans,,Green Frog ,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754
+SCBI,Rana,palustris,,Pickerel Frog ,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754
+SCBI,Rana,sylvatica,,Wood Frog ,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754
+SCBI,Notophthalmus,viridescens,,Eastern Newt ,http://www.mendeley.com/library/showrecent/document/5630757754/#document-5630757754
+ONAQ,Rana,catesbeiana,,American Bullfrog,http://www.mendeley.com/library/showrecent/document/5631450954/#document-5631450954
+ONAQ,Spea,intermontana,,Great Basin Spadefoot,http://www.mendeley.com/library/showrecent/document/5631450954/#document-5631450954
+ONAQ,Bufo,Cognatus,,Great Plains Toad,http://www.mendeley.com/library/showrecent/document/5631450954/#document-5631450954
+ONAQ,Rana,Pipiens,,Northern Leopard From,http://www.mendeley.com/library/showrecent/document/5631450954/#document-5631450954
+ONAQ,Ambystoma,Tigrinum,,Tiger Salamander,http://www.mendeley.com/library/showrecent/document/5631450954/#document-5631450954
+ONAQ,Pseudacris,Triseriata,,Western Chorus Frog,http://www.mendeley.com/library/showrecent/document/5631450954/#document-5631450954
+ONAQ,Bufo,woodhousii,,Woodhouse's Toad,http://www.mendeley.com/library/showrecent/document/5631450954/#document-5631450954
+ONAQ,Thamnophis,cyrtopsis,,Common Gartersnake,http://www.mendeley.com/library/showrecent/document/5631442744/#document-5631442744
+ONAQ,Sceloporus,graciosus,,Common Sagebrush Lizard,http://www.mendeley.com/library/showrecent/document/5631442744/#document-5631442744
+ONAQ,Uta,stansburiana,,Common Sideblotched Lizard,http://www.mendeley.com/library/showrecent/document/5631442744/#document-5631442744
+ONAQ,Phrynosoma,platyrhinos,,Desert Horned Lizard,http://www.mendeley.com/library/showrecent/document/5631442744/#document-5631442744
+ONAQ,Coluber,constrictor,,Eastern Racer,http://www.mendeley.com/library/showrecent/document/5631442744/#document-5631442744
+ONAQ,Pituophis,Catenifer,,Gophersnake,http://www.mendeley.com/library/showrecent/document/5631442744/#document-5631442744
+ONAQ,Crotalus,Oreganus,Lutosus,Great Basin Western Rattlesnake,http://www.mendeley.com/library/showrecent/document/5631442744/#document-5631442744
+ONAQ,Crotaphytus,bicinctores,,Great Basin Collared Lizard,http://www.mendeley.com/library/showrecent/document/5631442744/#document-5631442744
+ONAQ,Phrynosoma,hernandesi,,Greater Short-Horned Lizard,http://www.mendeley.com/library/showrecent/document/5631442744/#document-5631442744
+ONAQ,Gambelia,wislizenii,,Long-nosed Leopard Lizard,http://www.mendeley.com/library/showrecent/document/5631442744/#document-5631442744
+ONAQ,Rhinocheilus,lecontei,,Long Nosed snake,http://www.mendeley.com/library/showrecent/document/5631442744/#document-5631442744
+ONAQ,Hypsiglena,torquata,,Nnightsnake,http://www.mendeley.com/library/showrecent/document/5631442744/#document-5631442744
+ONAQ,Masticophis,taeniatus,,Striped Whipsnake,http://www.mendeley.com/library/showrecent/document/5631442744/#document-5631442744
+ONAQ,Thamnophis,elegans,,Terrestrial Gartersnake,http://www.mendeley.com/library/showrecent/document/5631442744/#document-5631442744
+ONAQ,Aspidoscelis,tigris,,Tiger Whiptail,http://www.mendeley.com/library/showrecent/document/5631442744/#document-5631442744
+ONAQ,Sceloporus,occidentalis,,Western Fence Lizard,http://www.mendeley.com/library/showrecent/document/5631442744/#document-5631442744
+ONAQ,Eumeces,skiltonianus,,Predicted Habitat,http://www.mendeley.com/library/showrecent/document/5631442744/#document-5631442744
+BART,Rana,catesbeiana,,Bullfrog ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/
+BART,Rana,clamitans,,Green frog ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/
+BART,Rana,septentrionalis,,Mink frog ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/
+BART,Rana,pipiens,,Northern leopard frog ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/
+BART,Rana,palustris,,Pickerel frog ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/
+BART,Rana,sylvatica,,Wood frog ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/
+BART,Pseudacris,crucifer,,Spring peeper ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/
+BART,Hyla,versicolor,,Gray treefrog ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/
+BART,Bufo,americanus,,American toad ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/
+BART,Bufo,fowleri,,Fowler's toad ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/
+BART,Notophthalmus,viridescens,,Eastern newt ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/
+BART,Ambystoma,laterale,,Blue-spotted salamander ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/
+BART,Ambystoma,jeffersonianum,,Jefferson salamander ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/
+BART,Ambystoma,opacum,,Marbled salamander ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/
+BART,Ambystoma,maculatum,,Spotted salamander ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/
+BART,Hemidactylium,scutatum,,Four-toed salamander ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/
+BART,Desmognathus,fuscus,,Dusky salamander ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/
+BART,Gyrinophilus,porphyriticus,,Spring salamander ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/
+BART,Eurycea,bislineata,,Two-lined salamander ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/
+BART,Plethodon,cinereus,,Redback salamander ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/
+BART,Plethodon,glutinosus,,Slimy salamander,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/
+BART,Thamnophis,sirtalis,,Common garter snake ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/
+BART,Heterodon,platirhinos,,Eastern hognose snake  ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/
+BART,Lampropeltis,triangulum,,Milk snake ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/
+BART,Thamnophis,sauritus,,Eastern ribbon snake  ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/
+BART,Opheodrys,vernalis,,Smooth green snake ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/
+BART,Coluber,constrictor,,Racer  ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/
+BART,Storeria,dekayi,,Brown snake ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/
+BART,Storeria,orripitomaculata,,Redbelly snake ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/
+BART,Diadophis,punctatus,,Ringneck snake ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/
+BART,Nerodia,sipedon,,Northern water snake ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/
+BART,Crotalus,horridus,,Timber rattlesnake  ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/
+BART,Sternotherus,odoratus,,Common musk turtle  ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/
+BART,Emydoidea,blandingii,,Blanding's turtle ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/
+BART,Chelydra,serpentina,,Snapping turtle ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/
+BART,Terrapene,carolina,,Eastern box turtle  ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/
+BART,Chrysemys,picta,,Painted turtle ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/
+BART,Clemmys,guttata,,Spotted turtle ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/
+BART,Glyptemys,insculpta,,Wood turtle ,http://www.mendeley.com/c/5679447374/g/2058663/amphibians-and-reptiles-of-new-hampshire/
+KONZ,Acris,crepitans,blanchardi,Blanchard's Cricket Frog,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONZ,Agkistrodon,contortrix,phaeogaster,Osage Copperhead,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONZ,Ambystoma,tigrinum,mavortium,Barred Tiger Salamander,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONZ,Bufo,woodhousii,woodhousii,Woodhouse's Toad,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONZ,Carphophis,vermis,,Western Worm Snake,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONZ,Chelydra,serpentina,serpentina,Common Snapping Turtle,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONZ,Chrysemys,picta,bellii,Western Painted Turtle,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONZ,Cnemidophorus,sexlineatus,viridis,Prairie Racerunner,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONZ,Coluber,constrictor,flaviventris,Eastern Yellowbelly Racer,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONZ,Crotaphytus,collaris,collaris,Eastern Collared Lizard,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONZ,Diadophis,punctatus,arnyi,Prairie Ringneck Snake,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONZ,Elaphe,emoryi,,Great Plains Rat Snake,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONZ,Elaphe,obsoleta,obsoleta,Black Rat Snake,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONZ,Eumeces,obsoletus,,Great Plains Skink,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONZ,Eumeces,septentrionalis,,Northern Prairie Skink,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONZ,Gastrophryne,olivacea,,Plains Narrowmouth Toad,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONZ,Hyla,chrysoscelis,,Cope's Gray Treefrog,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONZ,Lampropeltis,calligaster,,Prairie Kingsnake,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONZ,Lampropeltis,getula,,Common Kingsnake,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONZ,Lampropeltis,triangulum,,Milk Snake,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONZ,Nerodia,sipedon,sipedon,Northern Water Snake,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONZ,Ophisaurus,attenuatus,,Western Slender Glass Lizard,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONZ,Phrynosoma,cornutum,,Texas Horned Lizard,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONZ,Pituophis,catenifer,sayi,Bullsnake,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONZ,Pseudacris,triseriata,triseriata,Western Chorus Frog,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONZ,Rana,blairi,,Plains Leopard Frog,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONZ,Rana,catesbeiana,,Bullfrog,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONZ,Scincella,lateralis,,Ground Skink,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONZ,Spea,bombifrons,,Plains Spadefoot,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONZ,Storeria,dekayi,texana,Texas Brown Snake,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONZ,Tantilla,gracilis,,Flathead Snake,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONZ,Terrapene,ornata,ornata,Ornate Box Turtle,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONZ,Thamnophis,sirtalis,parietalis,Red-sided Garter Snake,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONZ,Tropidoclonion,lineatum,,Lined Snake,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONA,Acris,crepitans,blanchardi,Blanchard's Cricket Frog,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONA,Agkistrodon,contortrix,phaeogaster,Osage Copperhead,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONA,Ambystoma,tigrinum,mavortium,Barred Tiger Salamander,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONA,Bufo,woodhousii,woodhousii,Woodhouse's Toad,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONA,Carphophis,vermis,,Western Worm Snake,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONA,Chelydra,serpentina,serpentina,Common Snapping Turtle,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONA,Chrysemys,picta,bellii,Western Painted Turtle,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONA,Cnemidophorus,sexlineatus,viridis,Prairie Racerunner,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONA,Coluber,constrictor,flaviventris,Eastern Yellowbelly Racer,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONA,Crotaphytus,collaris,collaris,Eastern Collared Lizard,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONA,Diadophis,punctatus,arnyi,Prairie Ringneck Snake,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONA,Elaphe,emoryi,,Great Plains Rat Snake,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONA,Elaphe,obsoleta,obsoleta,Black Rat Snake,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONA,Eumeces,obsoletus,,Great Plains Skink,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONA,Eumeces,septentrionalis,,Northern Prairie Skink,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONA,Gastrophryne,olivacea,,Plains Narrowmouth Toad,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONA,Hyla,chrysoscelis,,Cope's Gray Treefrog,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONA,Lampropeltis,calligaster,,Prairie Kingsnake,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONA,Lampropeltis,getula,,Common Kingsnake,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONA,Lampropeltis,triangulum,,Milk Snake,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONA,Nerodia,sipedon,sipedon,Northern Water Snake,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONA,Ophisaurus,attenuatus,,Western Slender Glass Lizard,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONA,Phrynosoma,cornutum,,Texas Horned Lizard,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONA,Pituophis,catenifer,sayi,Bullsnake,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONA,Pseudacris,triseriata,triseriata,Western Chorus Frog,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONA,Rana,blairi,,Plains Leopard Frog,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONA,Rana,catesbeiana,,Bullfrog,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONA,Scincella,lateralis,,Ground Skink,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONA,Spea,bombifrons,,Plains Spadefoot,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONA,Storeria,dekayi,texana,Texas Brown Snake,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONA,Tantilla,gracilis,,Flathead Snake,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONA,Terrapene,ornata,ornata,Ornate Box Turtle,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONA,Thamnophis,sirtalis,parietalis,Red-sided Garter Snake,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
+KONA,Tropidoclonion,lineatum,,Lined Snake,http://www.mendeley.com/c/5866958014/g/2058663/lter-1993-amphibians-and-reptiles-of-konza-prairie-biological-station/
