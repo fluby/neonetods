@@ -1,4 +1,8 @@
 taxon_id,spp_id,source_id,scientific_name,genus,subgenus,species,subspecies,authority_name,authority_year,itis_number,common_name,species_level_id,coarse_distro_reference,addition_tax_reference,date_updated
+beetle,copsch,http://www.mendeley.com/research/systematic-list-of-ground-beetles,Coptocarpus schaumi,Coptocarpus,,schaumi,,Chaudoir,1882,,,,Larochelle 2003,,4/8/2013
+beetle,teccro1,http://www.mendeley.com/research/systematic-list-of-ground-beetles,Tecnophilus croceicollis croceicollis,Tecnophilus,,croceicollis,croceicollis,Menetries,1843,111619,,,Larochelle 2003,,4/8/2013
+beetle,teccro2,http://www.mendeley.com/research/systematic-list-of-ground-beetles,Tecnophilus croceicollis peigani,Tecnophilus,,croceicollis,peigani,Larson,1969,,,,Larochelle 2003,,4/8/2013
+beetle,tecpil,http://www.mendeley.com/research/systematic-list-of-ground-beetles,Tecnophilus pilatei,Tecnophilus,,pilatei,,Chaudoir,1877,111618,,,Larochelle 2003,,4/8/2013
 beetle,abaspl,http://www.mendeley.com/research/systematic-list-of-ground-beetles,Abaris splendidula,Abaris,,splendidula,,LeConte,1863,,,,Larochelle 2003,,4/8/2013
 beetle,acucan,http://www.mendeley.com/research/systematic-list-of-ground-beetles,Acupalpus canadensis,Acupalpus,,canadensis,,Casey,1924,111111,,,Larochelle 2003,,4/8/2013
 beetle,acucar,http://www.mendeley.com/research/systematic-list-of-ground-beetles,Acupalpus carus,Acupalpus,,carus,,LeConte,1863,111108,,,Larochelle 2003,,4/8/2013
@@ -1209,7 +1213,6 @@ beetle,copbru,http://www.mendeley.com/research/systematic-list-of-ground-beetles
 beetle,copfes,http://www.mendeley.com/research/systematic-list-of-ground-beetles,Coptodera festiva,Coptodera,,festiva,,Dejean,1825,,,,Larochelle 2003,,4/8/2013
 beetle,copnit,http://www.mendeley.com/research/systematic-list-of-ground-beetles,Coptodera nitidula,Coptodera,,nitidula,,Buquet,1834,,,,Larochelle 2003,,4/8/2013
 beetle,coppic,http://www.mendeley.com/research/systematic-list-of-ground-beetles,Coptodera picea,Coptodera,,picea,,Dejean,1826,,,,Larochelle 2003,,4/8/2013
-beetle,copsch,http://www.mendeley.com/research/systematic-list-of-ground-beetles,Coptocarpus schaumi,Coptocarpus,,schaumi,,Chaudoir,1882,,,,Larochelle 2003,,4/8/2013
 beetle,cradub,http://www.mendeley.com/research/systematic-list-of-ground-beetles,Cratacanthus dubius,Cratacanthus,,dubius,,Palisot de Beauvois,1811,111197,,,Larochelle 2003,,4/8/2013
 beetle,cratib,http://www.mendeley.com/research/systematic-list-of-ground-beetles,Craspedonotus tibialis,Craspedonotus,,tibialis,,Schaum,1863,,,,Bishop Museum Online Database,,4/8/2013
 beetle,cycala1,http://www.mendeley.com/research/systematic-list-of-ground-beetles,Cyclotrachelus alabamae,Cyclotrachelus,,alabamae,,Van Dyke,1926,,,,Larochelle 2003,,4/8/2013
@@ -2907,9 +2910,6 @@ beetle,tancuy,http://www.mendeley.com/research/systematic-list-of-ground-beetles
 beetle,tanmac,http://www.mendeley.com/research/systematic-list-of-ground-beetles,Tanystoma maculicolle,Tanystoma,,maculicolle,,Dejean,1828,,,,Larochelle 2003,,4/8/2013
 beetle,tanstr,http://www.mendeley.com/research/systematic-list-of-ground-beetles,Tanystoma striatum,Tanystoma,,striatum,,Dejean,1828,,,,Larochelle 2003,,4/8/2013
 beetle,tansul,http://www.mendeley.com/research/systematic-list-of-ground-beetles,Tanystoma sulcatum,Tanystoma,,sulcatum,,Dejean,1828,,,,Larochelle 2003,,4/8/2013
-beetle,teccro1,http://www.mendeley.com/research/systematic-list-of-ground-beetles,Tecnophilus croceicollis croceicollis,Technophilus,,croceicollis,croceicollis,Menetries,1843,111619,,,Larochelle 2003,,4/8/2013
-beetle,teccro2,http://www.mendeley.com/research/systematic-list-of-ground-beetles,Tecnophilus croceicollis peigani,Technophilus,,croceicollis,peigani,Larson,1969,,,,Larochelle 2003,,4/8/2013
-beetle,tecpil,http://www.mendeley.com/research/systematic-list-of-ground-beetles,Tecnophilus pilatei,Technophilus,,pilatei,,Chaudoir,1877,111618,,,Larochelle 2003,,4/8/2013
 beetle,tefcar,http://www.mendeley.com/research/systematic-list-of-ground-beetles,Tefflus carinatus,Tefflus,,carinatus,,Klug,1853,186363,,,Bishop Museum Online Database,,4/8/2013
 beetle,tefmey,http://www.mendeley.com/research/systematic-list-of-ground-beetles,Tefflus meyerlei,Tefflus,,meyerlei,,Fabricius,1801,,,,Bishop Museum Online Database,,4/8/2013
 beetle,tefpur,http://www.mendeley.com/research/systematic-list-of-ground-beetles,Tefflus purpureipennis wituensis ,Tefflus,,purpureipennis,,Kolbe,1903,,,,Davis and Butler 1964,,4/8/2013
