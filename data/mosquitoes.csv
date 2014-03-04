@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 taxon_id,spp_id,resource_id,scientific_name,species,genus,subgenus,subspecies,authority_name,authority_year,itis_number,common_name,species_level_id
 mosquito,aedcan2,WRBU_2010,Aedes canadensis mathesoni,canadensis,Aedes,Ochlerotatus,mathesoni,Middlekauff,1944,126325,,1
 mosquito,aedful,WRBU_2010,Aedes fulvus pallens,fulvus,Aedes,Ochlerotatus,pallens,Ross,1943,126546,,1
@@ -199,7 +198,7 @@ mosquito,anojud,WRBU_2010,Anopheles judithae,judithae,Anopheles,Anopheles,,Zavor
 mosquito,aedpap,WRBU_2010,Aedes papago,papago,Aedes,Abraedes,,Zavortink,1970,126091,,1
 mosquito,aedbre,WRBU_2010,Aedes brelandi,brelandi,Aedes,Protomacleaya,,Zavortink,1972,126095,,1
 mosquito,aedbur,WRBU_2010,Aedes burgeri,burgeri,Aedes,Protomacleaya,,Zavortink,1972,126097,,1
-=======
+=======,,,,,,,,,,,,
 taxon_id,spp_id,source_id,scientific_name,genus,subgenus,species,subspecies,authority_name,authority_year,itis_number,common_name,species_level_id
 mosquito,aedcan2,WRBU_2010,Aedes canadensis mathesoni,Aedes,Ochlerotatus,canadensis,mathesoni,Middlekauff,1944,126325,,1
 mosquito,aedful,WRBU_2010,Aedes fulvus pallens,Aedes,Ochlerotatus,fulvus,pallens,Ross,1943,126546,,1
@@ -400,4 +399,3 @@ mosquito,anojud,WRBU_2010,Anopheles judithae,Anopheles,Anopheles,judithae,,Zavor
 mosquito,aedpap,WRBU_2010,Aedes papago,Aedes,Abraedes,papago,,Zavortink,1970,126091,,1
 mosquito,aedbre,WRBU_2010,Aedes brelandi,Aedes,Protomacleaya,brelandi,,Zavortink,1972,126095,,1
 mosquito,aedbur,WRBU_2010,Aedes burgeri,Aedes,Protomacleaya,burgeri,,Zavortink,1972,126097,,1
->>>>>>> aebb8f04b9e3219e0b0d748e0a5a9bcc46823abc
