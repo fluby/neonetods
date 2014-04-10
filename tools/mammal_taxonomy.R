@@ -9,13 +9,11 @@ neondata <- read.csv('mammal_codes_neonStatus.csv', header = TRUE)
 both <- merge(neondata, mswdata, by.x = c('genus','specificEpithet', 'infraspecificEpithet'), by.y = c('Genus','Species','Subspecies'), all.x = TRUE, sort = TRUE, suffixes = c('', 'msw'))
 
 nameAccordingTo <- rep('Don E. Wilson & DeeAnn M. Reeder (editors). 2005. Mammal Species of the World. A Taxonomic and Geographic Reference (3rd ed), Johns Hopkins University Press, 2,142 pp.', length(both$taxonID))
-nameAccordingToID <- rep("Wilson&Reeder2005", length(both$taxonID))
 
 startUseDate <- rep('2012-05-01', length(both$taxonID))
 startUseDate <- as.Date(startUseDate, "%Y-%m-%d")
 endUseDate <- ''
 speciesGroup <- ''
-taxonomicStatus <- rep('accepted', length(both$taxonID))
 
 ##convert Order from all caps to Title case
 order <- tolower(both$Order)
@@ -47,8 +45,6 @@ mammal_accepted_names_list <- data.frame(as.character(both$taxonID),
                                     as.character(both$taxonRank), 
                                     commonname, 
                                     nameAccordingTo, 
-                                    nameAccordingToID, 
-                                    taxonomicStatus, 
                                     as.character(both$neonStatus))
 
 names(mammal_accepted_names_list) <- c("taxonID",
@@ -72,8 +68,6 @@ names(mammal_accepted_names_list) <- c("taxonID",
                                        "taxonRank",
                                        "vernacularName",
                                        "nameAccordingTo",
-                                       "nameAccordingtoID", 
-                                       "taxonomicStatus", 
                                        "protocolCategory")
 
 
