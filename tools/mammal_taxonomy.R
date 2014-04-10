@@ -1,77 +1,95 @@
-# url <- 'http://help.ebird.org/customer/portal/kb_article_attachments/21637/original.xls?1381800781'
-# data <- download.file(url, 'ebird_tax.xls', mode = 'wb')
-
 ##read in data
-setwd("C:/Users/kthibault/Dropbox/NEON/Birds/Taxonomy/")
-require(XLConnect)
-wb <- loadWorkbook("eBird_taxonomy_1.54.xls")
-ebirdtax <- readWorksheet(wb,1, header = TRUE)
-aoudata <- read.csv('NACC_list_species.csv', header = TRUE)
-alphacodes <- read.csv('LIST13_alphacodes.csv', header = TRUE)
+setwd("C:/Users/kthibault/Dropbox/NEON/Mammals/Taxonomy/")
+url <- 'http://www.departments.bucknell.edu/biology/resources/msw3/export.asp'
+data <- download.file(url, 'msw3_tax.csv', mode = 'wb')
+mswdata <- read.csv('msw3_tax.csv', header = TRUE)
+neondata <- read.csv('mammal_codes_neonStatus.csv', header = TRUE)
 
-###generate landbird list
+##generate NEON mammal list
+both <- merge(neondata, mswdata, by.x = c('genus','specificEpithet', 'infraspecificEpithet'), by.y = c('Genus','Species','Subspecies'), all.x = TRUE, sort = TRUE, suffixes = c('', 'msw'))
 
-NAlandbirds <- c('Columbiformes', 'Cuculiformes', 'Apodiformes', 'Coraciiformes', 'Piciformes', 'Passeriformes', 'Trogoniformes')
-aoulandbirds <- subset(aoudata, aoudata$order %in% NAlandbirds)
-aoulandbirdfamilies <- as.data.frame(sort(unique(aoulandbirds$family)))
-colnames(aoulandbirdfamilies) <- c("family")
-aoulandbirdgenera <- as.data.frame(sort(unique(aoulandbirds$genus)))
-colnames(aoulandbirdgenera) <- c("genus")
-aouother <- subset(aoudata, (aoudata$order %in% NAlandbirds) == "FALSE")
+nameAccordingTo <- rep('Don E. Wilson & DeeAnn M. Reeder (editors). 2005. Mammal Species of the World. A Taxonomic and Geographic Reference (3rd ed), Johns Hopkins University Press, 2,142 pp.', length(both$taxonID))
+nameAccordingToID <- rep("Wilson&Reeder2005", length(both$taxonID))
 
-both <- merge(ebirdtax, alphacodes, by.x = 'SCI_NAME', by.y = 'SCINAME', all = TRUE, sort = TRUE, suffixes = c('ebird', 'alpha'))
+startUseDate <- rep('2012-05-01', length(both$taxonID))
+startUseDate <- as.Date(startUseDate, "%Y-%m-%d")
+endUseDate <- ''
+speciesGroup <- ''
+taxonomicStatus <- rep('accepted', length(both$taxonID))
 
-require(stringr)
-both$FAMILY <- str_extract(both$FAMILY, "[A-Za-z]*dae")
+##convert Order from all caps to Title case
+order <- tolower(both$Order)
+substring(order, 1, 1) <- toupper(substring(order, 1, 1))
 
-step1 <- subset(both, both$FAMILY %in% aoulandbirdfamilies$family)
-genus <- str_extract(step1$SCI_NAME, "[A-Za-z]*")
-step2 <- subset(step1, genus %in% aoulandbirdgenera$genus)
-genus <- str_extract(step2$SCI_NAME, "[A-Za-z]*")
-step2$SCI_NAME <- str_replace(step2$SCI_NAME, " x ", "_x_")
+a <- grep( "*comments*", both$Subgenus)
+both$Subgenus[a] <- ""
 
-a <- str_split(step2$SCI_NAME, " ", n = 3)
-genus <- sapply(a, "[", c(1))
-specificEpithet <- sapply(a, "[", c(2))
-infraspecificEpithet <- sapply(a, "[", c(3))
-taxonID <- step2$SPEC
-nameAccordingtoID <- "eBird_taxonomy_1.54; Pyle and DeSante 2014"
-nameAccordingtoID <- rep(nameAccordingtoID, length(taxonID))
-landbird <- "TRUE"
-landbird <-rep(landbird, length(taxonID))
+commonname <- gsub("[^A-Za-z ]", "", as.character(both$CommonName))
 
-landbird_list <- cbind(step2$TAXON_ORDER, as.character(step2$SPEC), step2$ORDER1, step2$FAMILY, genus, specificEpithet, infraspecificEpithet, step2$SCI_NAME, step2$CATEGORY, step2$PRIMARY_COM_NAME, step2$SPECIES_CODE, as.character(step2$SPEC6), nameAccordingtoID, landbird)
-landbird_list <- as.data.frame(landbird_list)
-names(landbird_list) <- c("ebirdTaxonOrder","taxonID","orderName","family","genus","specificEpithet","infraspecificEpithet","scientificName","taxonRank","vernacularName","ebirdCode","SPEC6","nameAccordingtoID","landbird")
+mammal_accepted_names_list <- data.frame(as.character(both$taxonID), 
+                                    as.character(both$taxonID), 
+                                    as.Date(startUseDate, "%Y-%m-%d"),  
+                                    endUseDate, 
+                                    as.character(both$kingdom), 
+                                    as.character(both$phylum), 
+                                    as.character(both$class), 
+                                    order, 
+                                    as.character(both$Family), 
+                                    as.character(both$Subfamily), 
+                                    as.character(both$Tribe), 
+                                    as.character(both$genus), 
+                                    as.character(both$Subgenus), 
+                                    as.character(speciesGroup), 
+                                    as.character(both$specificEpithet), 
+                                    as.character(both$infraspecificEpithet), 
+                                    as.character(both$scientificName), 
+                                    as.character(both$Author), 
+                                    as.character(both$taxonRank), 
+                                    commonname, 
+                                    nameAccordingTo, 
+                                    nameAccordingToID, 
+                                    taxonomicStatus, 
+                                    as.character(both$neonStatus))
 
-###generate other (non-landbird) list
-aouother <- subset(aoudata, (aoudata$order %in% NAlandbirds) == "FALSE")
-aouotherfamilies <- as.data.frame(sort(unique(aouother$family)))
-colnames(aouotherfamilies) <- c("family")
-aouothergenera <- as.data.frame(sort(unique(aouother$genus)))
-colnames(aouothergenera) <- c("genus")
+names(mammal_accepted_names_list) <- c("taxonID",
+                                       "acceptedTaxonID", 
+                                       "startUseDate", 
+                                       "endUseDate", 
+                                       "kingdom", 
+                                       "phylum", 
+                                       "class", 
+                                       "order",
+                                       "family", 
+                                       "subfamily", 
+                                       "tribe", 
+                                       "genus", 
+                                       "subgenus", 
+                                       "speciesGroup", 
+                                       "specificEpithet",
+                                       "infraspecificEpithet",
+                                       "scientificName",
+                                       "scientificNameAuthorship", 
+                                       "taxonRank",
+                                       "vernacularName",
+                                       "nameAccordingTo",
+                                       "nameAccordingtoID", 
+                                       "taxonomicStatus", 
+                                       "protocolCategory")
 
-both$FAMILY <- str_extract(both$FAMILY, "[A-Za-z]*dae")
 
-step1 <- subset(both, both$FAMILY %in% aouotherfamilies$family)
-genus <- str_extract(step1$SCI_NAME, "[A-Za-z]*")
-step2 <- subset(step1, genus %in% aouothergenera$genus)
-genus <- str_extract(step2$SCI_NAME, "[A-Za-z]*")
-step2$SCI_NAME <- str_replace(step2$SCI_NAME, " x ", "_x_")
+for (i in 1:nrow(mammal_accepted_names_list)){
+  if (mammal_accepted_names_list$specificEpithet[i] == "sp.")
+    {
+    genusa <- mammal_accepted_names_list$genus[i]
+    mammal_accepted_names_list$order[i] <- 
+      mammal_accepted_names_list$order[mammal_accepted_names_list$genus == genusa][1]
+    mammal_accepted_names_list$family[i] <-
+      mammal_accepted_names_list$family[mammal_accepted_names_list$genus == genusa][1]
+    mammal_accepted_names_list$subfamily[i] <-
+      mammal_accepted_names_list$subfamily[mammal_accepted_names_list$genus == genusa][1]
+    mammal_accepted_names_list$tribe[i] <-
+      mammal_accepted_names_list$tribe[mammal_accepted_names_list$genus == genusa][1]
+  }
+}
 
-a <- str_split(step2$SCI_NAME, " ", n = 3)
-genus <- sapply(a, "[", c(1))
-specificEpithet <- sapply(a, "[", c(2))
-infraspecificEpithet <- sapply(a, "[", c(3))
-taxonID <- step2$SPEC
-nameAccordingtoID <- "eBird_taxonomy_1.54; Pyle and DeSante 2014"
-nameAccordingtoID <- rep(nameAccordingtoID, length(taxonID))
-landbird <- "FALSE"
-landbird <-rep(landbird, length(taxonID))
-
-nonlandbird_list <- cbind(step2$TAXON_ORDER, as.character(step2$SPEC), step2$ORDER1, step2$FAMILY, genus, specificEpithet, infraspecificEpithet, step2$SCI_NAME, step2$CATEGORY, step2$PRIMARY_COM_NAME, step2$SPECIES_CODE, as.character(step2$SPEC6), nameAccordingtoID, landbird)
-nonlandbird_list <- as.data.frame(nonlandbird_list)
-names(nonlandbird_list) <- c("ebirdTaxonOrder","taxonID","orderName","family","genus","specificEpithet","infraspecificEpithet","scientificName","taxonRank","vernacularName","ebirdCode","SPEC6","nameAccordingtoID","landbird")
-
-all <- rbind(landbird_list, nonlandbird_list)
-write.csv(all, 'bird_taxon_list.csv')
+write.csv(mammal_accepted_names_list, 'mammal_taxon_list.csv', na = "", row.names = FALSE)
