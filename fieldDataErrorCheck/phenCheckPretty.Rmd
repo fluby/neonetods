@@ -1,0 +1,354 @@
+Autochecking 2014 NEON phenology data
+========================================================
+#fixed the ctfiles by domain so D1 is distinct from D1X
+#added test for blanks in addDate, for some reason we are getting blank rows in here now
+#added test for only one perIndiv record pertagID
+#the code now deletes them, but we should fix this as it will cause probs for CI
+
+#still to be done once we get the date format straightened out
+#per month, per site, calculate mean, min and max return interval for sampling w.some data entered in any of the columns
+#count of # n-y and y-n transitions per phenophase per year per site
+#spit out list of species sampled per site.
+
+
+
+#per species per site per year, print out min, max mean for all of the annual quantitative meas.
+
+```{r setup so markdown writes nice latex-y looking tables, echo=FALSE}
+# code borrowed from here:
+#  http://rstudio-pubs-static.s3.amazonaws.com/13339_fdb3c6810e95476fb60c98a657cd00cc.html
+require (knitr)
+require (xtable)
+
+default_output_handler <- knit_hooks$get("output")
+
+knit_hooks$set(output = function(x, options) {
+    if (options["results"] == "jax") {
+        sprintf("\\[\n %s\n \\]\n", x)
+    } else if ((options["results"] == "hold") && (options["holdjax"] == TRUE)) {
+        sprintf("\\[\n %s\n \\]\n", x)
+    } else {
+        default_output_handler(x, options)
+    }
+})
+
+#Options templates for cleaner markdown.
+
+opts_template$set(jax = list(comment = "", results = "jax"))
+opts_template$set(jaxasis = list(comment = "", results = "asis", echo = FALSE))
+opts_template$set(jaxhold = list(comment = "", results = "hold", holdjax = TRUE))
+
+#And a modified toLatex.xtable with two extra settings.
+
+toMathJax.xtable <- function(object, ...) {
+    dotArgs <- list(...)
+    dotArgs$x <- object
+    dotArgs$type <- "latex"
+    dotArgs$print.results <- FALSE
+    dotArgs$floating <- FALSE
+    dotArgs$tabular.environment <- "array"
+    z <- do.call("print.xtable", dotArgs)
+
+    z <- strsplit(z, split = "\n")[[1]]
+    class(z) <- "Latex"
+    z
+}
+
+```
+
+
+
+```{r make vector of relevant csvs in dropbox,  include=FALSE, cache=FALSE}
+require (plyr)
+require (stringr)
+
+#set this to the path to your speclist
+pathtospeclist<-'N:/common/TOS/ATBDs/Lookups'
+#set this to the dropbox
+pathtocsvs<-'Z:/'
+#set this to the prefix for the sheets in your module
+myPrefix<-'phe'
+
+
+Filelist<-list.files(pathtocsvs) #list all the files
+Filelist<-Filelist[grep (myPrefix,Filelist)] #subset to just the ones in your module
+Filelist<-Filelist[grep ('.csv',Filelist)] #subset to just the uploaded csvs
+```
+
+```{r summary of number of uploaded tables containing text DXX.csv per domain, echo=FALSE}
+myDomains<-paste ('D', c(1:20), sep="")
+mySummary<-data.frame(Domain=myDomains)
+mySummary$num.tables<-rep(NA, nrow(mySummary))
+for (i in 1:nrow(mySummary)){
+  mySummary$num.tables[i]<-length(grep(paste(mySummary$Domain[i], '.csv', sep=''),Filelist))
+  }
+
+```
+
+Summary table of the number of uploaded DXX.csv files per domain in the specified module
+
+```{r print summaries, echo=FALSE, opts.label="jax"}
+toMathJax.xtable(xtable(mySummary))
+
+Filesnamedwrong<-list.files(pathtocsvs) #list all the files
+#subset to just the ones in your module
+Filesnamedwrong<-Filesnamedwrong[grep (myPrefix,Filesnamedwrong, ignore.case=T)] 
+Filesnamedwrong<-Filesnamedwrong[-grep ('.csv',Filesnamedwrong)]
+
+toMathJax.xtable(xtable(data.frame(extrafiles<-Filesnamedwrong)))
+
+```
+
+Full list of uploaded files per domain.  If there are not the expected
+number of files per domain in the summary above, check out this list to figure
+out what is missing.
+
+```{r print filelist, echo=FALSE, opts.label="jax"}
+toMathJax.xtable(xtable (data.frame(filesInZDrive=Filelist)), include.rownames=F)
+
+```
+
+```{r phen errorcheck, echo=FALSE}
+#grab the master phenology lookup table
+speclist<-read.csv (paste (pathtospeclist, '/','L_phe_speciesList.csv',
+                           sep=''))
+
+phencheck<-function(i)  {
+  #i<-mySummary$Domain[mySummary$num.tables>0][1]
+  cat (paste ('\n', '\n', '\n', 'checking Domain', i, '\n', '\n', '\n'))
+  cat (paste('perIndiv checks', i, '\n'))
+  perIndiv<-NULL
+  if (!file.exists(paste (pathtocsvs, '/','phe_perindividual_', i, '.csv', 
+                          sep=''))){
+    cat (paste('no perIndiv file for', i, '\n', '\n'))
+    }  else{
+    perIndiv<-read.csv(paste (pathtocsvs, '/','phe_perindividual_', i, '.csv', 
+                              sep=''))
+    if (!is.null(perIndiv)){
+      #check for all blank rows in perIndiv
+      #print out the blank rows, and then delete them
+      nodates<-which(is.na(perIndiv$addDate))
+      if (length(nodates)>0){
+        cat ('\n', paste('these rows have no dates and are not subjected to further testing', i,'\n'))
+        print (perIndiv[nodates,])
+        perIndiv<-perIndiv[-nodates,]
+        }
+     cat ('\n', paste('range of 90 degree distance', i, '\n'))
+      if (min (perIndiv$ninetyDegreeDistance)>1&
+            max(perIndiv$ninetyDegreeDistance)<10) {
+        print ('looks good')
+        } else {
+          print (range(perIndiv$ninetyDegreeDistance))
+          }
+      
+      cat ('\n', paste('test for <2 perIndiv record per individual per year', i, '\n'))
+      ctrecords<-ddply(perIndiv, c('tagID'), summarize, nrecords=length('tagID'))
+      probindivs<-ctrecords$tagID[ctrecords$nrecords!=1]
+      if (length(probindivs)>0){
+        cat ('these perIndiv records are duplicates or missing')
+        print (perIndiv[perIndiv$tagID%in%probindivs,])
+      } else {
+        print ('looks good')
+      }
+            
+      cat ('\n', paste('number of individuals selected for sampling in site', i,
+                       '\n'))
+      indivscounted<-ddply (perIndiv, c('plotID'), summarize, 
+                            nindiv=length(unique(tagID)))
+      if (min(indivscounted$nindiv==90)) {
+        print ('looks good')
+        } else {
+          print (indivscounted, row.names=F)
+          }
+      cat ('\n', paste('test transect m <800', i, '\n'))
+      if (min (perIndiv$transectMeter)>0&max(perIndiv$transectMeter)<800) {
+        print ('looks good')
+        } else {
+          print (range(perIndiv$transectMeter))
+          }
+      
+      cat ('\n', paste('growthform check', i, '\n'))
+      
+      #this joins the speclist to the perIndiv and makes sure we know 
+      #what species each individual is based on it's code
+      myGFcheck<-perIndiv   
+        
+      myGFcheck<-merge(myGFcheck, speclist, all.x=T)
+      if (min (!is.na(myGFcheck$scientificName))){
+        print ('looks good')
+        } else {
+          print (unique (myGFcheck[,c('taxonID', 'growthForm',
+                                      'scientificName')]))
+          }    
+      
+      cat ('\n', 'remarks perIndiv', i, '\n')
+      print (unique(perIndiv$remarks))
+      }
+    }
+  cat (paste('\n', 'statint checks', i, '\n'))
+  statint<-NULL
+  if (!file.exists(paste (pathtocsvs, '/','phe_statusintensity_', i, '.csv', 
+                          sep=''))){
+    cat (paste('no statusintensity file for', i, '\n', '\n'))
+    }
+  else{
+    statint<-read.csv(paste (pathtocsvs, '/','phe_statusintensity_', i, '.csv',
+                             sep=''))
+    if (!is.null(statint)){
+      cat ('\n', 'unique status', i, '\n')
+      print (unique(c(as.character(statint$p1Status),
+                      as.character(statint$p2Status),
+                      as.character(statint$p3Status),
+                      as.character(statint$p4Status),
+                      as.character(statint$p5Status),
+                      as.character(statint$p6Status))))
+      
+      cat ('\n', 'check trouble identifying phenophases', i, '\n')
+      recognizephen<-data.frame(status=c('p1Status', 'p2Status', 'p3Status',
+                                         'p4Status', 'p5Status', 'p6Status'),
+                                propquestionmark=NA)   
+      for (j in 1:nrow(recognizephen)){
+        dat<-statint[,which(names(statint)==recognizephen$status[j])]
+        recognizephen$propquestionmark[j]<-length(dat[dat=='?'])/length(dat[dat%in%c('y', 'n')])
+        }
+      recognizephen$propquestionmark[!is.finite(recognizephen$propquestionmark)]<-NA
+      print (recognizephen)
+      
+      #make sure everything with a y has an intensity except: P1 intensity 
+      #for forbs and grasses does not exist, everything else does, except p6
+      
+      #first figure out the species for each tagID
+      statint<-merge(statint, myGFcheck[,c('tagID', 'growthForm', 
+                                           'scientificName')], all.x=T) 
+      #P1 intensity for forbs and grasses does not exist
+      probs<-NULL
+      probs<-c(probs, which(statint$p1Status=='y'&is.na(statint$p1Intensity)&
+                              statint$growthForm%in%c('DBL', 'EBL', 'EC', 'DC',
+                                                      'Pine')))
+      probs<-c(probs,which(statint$p2Status=='y'&is.na(statint$p2Intensity)&
+                 statint$growthForm%in%c('DBL', 'EBL', 'EC', 'Pine')))
+      probs<-c(probs,which(statint$p3Status=='y'&is.na(statint$p3Intensity)&
+                 statint$growthForm%in%c('DBL', 'DC', 'GRS')))
+      probs<-c(probs,which(statint$p4Status=='y'&is.na(statint$p4Intensity)))
+      probs<-c(probs,which(statint$p5Status=='y'&is.na(statint$p5Intensity)&
+                             statint$growthForm%in%c('DBL', 'DC')))
+      if (length (probs)==0){
+        cat ('\n', 'all statusus have intensities', i, '\n')
+        }
+      
+      if (length (probs)>0){
+        cat ('\n', 'these statusus have no intensities', i, '\n')
+        print (statint[probs,])
+        }
+      
+      
+      #match phenophase to suite of possible phenophases
+      cat ('\n', 'check growth form validity', i, '\n')
+      probs<-NULL
+      probs<-c(probs, which(statint$p1Status%in%c('y', 'n', '?')&
+                              statint$growthForm =='Cactus'))
+      probs<-c(probs, which(statint$p2Status%in%c('y', 'n', '?')&
+                              statint$growthForm %in%c('DC', 'Forb', 'GRS',
+                                                       'Cactus')))
+      probs<-c(probs, which(statint$p3Status%in%c('y', 'n', '?')&
+                              statint$growthForm %in%c('EBL', 'EC', 'Pine')))
+      probs<-c(probs, which(statint$p5Status%in%c('y', 'n', '?')&
+                              statint$growthForm %in%c('EBL', 'EC', 'Pine',
+                                                       'Forb', 'GRS', 'Cactus')))
+      probs<-c(probs, which(statint$p6Status%in%c('y', 'n', '?')&
+                              statint$growthForm %in%c('EBL', 'EC', 'Pine', 
+                                                       'Forb', 'GRS', 'Cactus')))
+      if (length (probs)==0){
+        cat ('\n', 'All phenophase codes valid for growthForms', i, '\n')
+        }
+      
+      if (length (probs)>0){
+        cat ('\n', 'These phenophase codes are invalid for growthForms', i, '\n')
+        print (statint[probs,])
+        }
+      
+      
+      datebyindiv<-ddply(statint, c('tagID', 'date'), summarize, 
+                         nobs=length(tagID))
+      if (max(datebyindiv$nobs)==1){
+        cat ('\n', 'no duplicate observations per date', i, '\n')
+        }
+      
+      if (length (probs)>0){
+        cat ('\n', 'duplicate observations per date', i, '\n')
+        myprobs<-merge(statint, datebyindiv[datebyindiv$nobs>0,], all.y=T)
+        print (myprobs)
+        }
+      
+      cat ('\n', 'table of intercensus sampling interval in days', i,'\n')
+      
+      statint<-within(statint, {
+        myDates<-paste(substr(date, start=3, stop=4), substr(date,
+                    start=5, stop=6), substr(date,
+                    start=7, stop=8), sep='/')
+        })
+      
+      statint<-within(statint, myDates<-as.Date(myDates, format = '%y/%m/%d'))
+            
+      statint$interbout<-NULL
+      for (j in 1:nrow(statint)){
+        if (length(statint$myDates[statint$tagID==statint$tagID[j]&
+                                   statint$myDates<statint$myDates[j]])>0){
+          statint$interbout[j]<-statint$myDates[j]-
+            max(statint$myDates[statint$tagID==statint$tagID[j]&
+                                                statint$myDates<statint$myDates[j]])
+        }else {statint$interbout[j]<-NA}
+      }
+      
+      statint$month<-substr(statint$date, start=5, stop=6)      
+      print(ddply (statint[!is.na(statint$interbout),], c('plotID', 'month'), summarize, 
+                    aveIntercensus=mean(interbout, na.rm=T),
+                    minIntercensus= min(interbout, na.rm=T),
+                     maxIntercensus= max(interbout, na.rm=T)), row.names=F)  
+      
+      
+      cat ('\n', 'list of species sampled per site', i, '\n')
+      print (ddply (statint, c('plotID'), summarize, uniqueSpp=
+                      unique(scientificName)), row.names=F)
+      
+      cat ('\n', 'remarks statint', i, '\n')
+      if (length(unique(statint$remarks))>0) {      
+      print (unique(statint$remarks))
+      }
+      else (cat ('no remarks'))
+    }
+  }
+}
+
+```
+Phenology check for **Domain 1** 
+--------------------------------
+
+```{r phencheck D1, echo=FALSE}
+phencheck('D01')
+
+```
+
+Phenology check for **Domain 10** 
+--------------------------------
+
+```{r phencheck D0, echo=FALSE}
+
+phencheck('D10')
+
+```
+
+
+Phenology check for **Domain 11** 
+--------------------------------
+
+```{r phencheck D11, echo=FALSE}
+
+phencheck('D11')
+
+```
+
+
+
+
+
