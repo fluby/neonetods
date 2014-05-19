@@ -1,20 +1,20 @@
 site_id,genus,sp,subsp,common_name,source_id
 BONA,Alces,alces,,Moose,http://www.mendeley.com/research/animal-species-list-bona-1/
 FEXF,Alces,alces,,Moose,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
-HEAL,Alces,alces,,moose,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
+HEAL,Alces,alces,,Moose,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
 POKE,Alces,alces,,Moose,http://www.mendeley.com/research/animal-species-list-bona-1/
 UNDE,Alces,alces,,Moose,http://www.mendeley.com/c/5097547162/g/2058663/underc-mammal-list/
-BART,Alces,alces,,Eurasian Elk,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
-BASC,Alces,alces,,Eurasian Elk,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
-BONA,Alces,alces,,Eurasian Elk,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
-HEAL,Alces,alces,,Eurasian Elk,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
-POKE,Alces,alces,,Eurasian Elk,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
-TOOL,Alces,alces,,Eurasian Elk,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
-UNDE,Alces,alces,,Eurasian Elk,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
-HARV,Alces,alces,,Eurasian Elk,http://www.mendeley.com/c/4939778312/g/2058663/massachussetts-division-of-fish-and-game-2009-massachussetts-state-mammal-list/
-BART,Alces,alces,,Eurasian Elk,http://www.mendeley.com/c/4939778312/g/2058663/massachussetts-division-of-fish-and-game-2009-massachussetts-state-mammal-list/
-RMNP,Alces,alces,,Eurasian Elk,http://www.mendeley.com/c/4939778322/g/2058663/rmnp-rmnp-species-lists/
-RBUT,Alces,americanus,,moose,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
+BART,Alces,alces,,Moose,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
+BASC,Alces,alces,,Moose,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
+BONA,Alces,alces,,Moose,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
+HEAL,Alces,alces,,Moose,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
+POKE,Alces,alces,,Moose,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
+TOOL,Alces,alces,,Moose,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
+UNDE,Alces,alces,,Moose,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
+HARV,Alces,alces,,Moose,http://www.mendeley.com/c/4939778312/g/2058663/massachussetts-division-of-fish-and-game-2009-massachussetts-state-mammal-list/
+BART,Alces,alces,,Moose,http://www.mendeley.com/c/4939778312/g/2058663/massachussetts-division-of-fish-and-game-2009-massachussetts-state-mammal-list/
+RMNP,Alces,alces,,Moose,http://www.mendeley.com/c/4939778322/g/2058663/rmnp-rmnp-species-lists/
+RBUT,Alces,alces,,Moose,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
 CAPL,Ammospermophilus,harrisii,,Harris's Antelope Squirrel,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
 SRER,Ammospermophilus,harrisii,,Harris's Antelope Squirrel,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
 JORN,Ammospermophilus,interpres,,Texas Antelope Squirrel,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
@@ -3892,7 +3892,7 @@ CAPL,Ammospermophilus,harrisii,,Harris' Antelope Ground Squirrel,http://www.mend
 CAPL,Spermophilus,variegatus,,Rock Squirrel,http://www.mendeley.com/c/5017965982/g/2058663/ohmart-2000-vertebrate-species-composition-of-remnant-desert-islands-within-urban-phoenix/
 CAPL,Sylvilagus,,,Desert Cottontail,http://www.mendeley.com/c/5017965982/g/2058663/ohmart-2000-vertebrate-species-composition-of-remnant-desert-islands-within-urban-phoenix/
 DSNY,Corynorhinus,rafinesquii,,southeastern big-eared bat,http://www.mendeley.com/c/4955268692/g/2058663/the-nature-conservancy-2012-disney-wilderness-preserve---about/
-DSNY,,,,Sherman's fox squirrel,http://www.mendeley.com/c/4955268692/g/2058663/the-nature-conservancy-2012-disney-wilderness-preserve---about/
+DSNY,Sciurus,niger,shermani,Sherman's fox squirrel,http://www.mendeley.com/c/4955268692/g/2058663/the-nature-conservancy-2012-disney-wilderness-preserve---about/
 TREE,,,,Fisher,http://www.mendeley.com/c/5072967812/g/2058663/treelandmanagementplanpdf-applicationpdf-object/
 TREE,,,,Timber wolf,http://www.mendeley.com/c/5072967812/g/2058663/treelandmanagementplanpdf-applicationpdf-object/
 TREE,Ursus,americanus,,American Black Bear,http://www.mendeley.com/c/5072967812/g/2058663/treelandmanagementplanpdf-applicationpdf-object/
