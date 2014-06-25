@@ -1,0 +1,1342 @@
+Phenology ATBD test implementation
+========================================================
+These markdown contains test code for implementing the phenology observations 
+ATBD.
+
+TODOS:
+1.Clean up code and set test wrap at 80 characters
+2.Modify code to retain the uid column so that we can send particular rows
+back to CI with the uid in them for them to fix.  Originally I was writing this
+just as an ATBD, and didn't include this functionality, because we don't have
+uid in the data ingest workbook for phenology, thus I wasn't expecting it to
+show up in the files.
+3.Generate real taxon tables in the expected format, rather than the fake 
+example here
+4.Add validation for the phe_perindividualperyear and phe_indicatordata sheets.
+No data were available so I didn't write those yet in the interest of starting 
+with real data
+5. Character length restrictions on remarks field?
+6. Location validation tests, are those necessary still?  I think this will be
+built into the PDA, but perhaps we need to give specific instructions to do so
+7. Capitalization rules need to be built into PDA and desktop PDA. I liked kate's
+suggestions of ALL caps, no caps, title, sentence, etc.
+8. Need ability to update records with new taxonomic information at a later date.
+Hale will need to weigh in on the workflow for this.  
+9. Update the test data type algorithm to identify columns for which validating
+data type is a waste of time (for example, if that column has additional
+conditional validation rules)
+10. Process for SOM-lite for manually flagging critically broken data (scienceReviewFlag
+or something?), see youtube example below
+
+
+____________________________________________________________
+First section is to read files.  I have been variously reading .csvs that Katie
+has cleaned up directly from dropbox OR reading from them from the fsudropbox.
+To switch from one to the other, turn on/off the read.csv ('C etc etc) vs the 
+read.csv (url(blah blah)) lines.
+
+Note sometimes the xlsx library fails to load. I would say this occurs approx 25%
+of the time, which just goes to show that word products stink.  If the .xlsx 
+library fails to load, you can't read the ingest workbook for validation rules
+and the rest of the code will fail.  Closing R and reopening a new session
+generally fixes this.  Don't ask me why.
+
+```{read files from CI dropbox, echo=FALSE}
+#clean workspace
+rm(list=ls())
+pkgs = names(sessionInfo()$otherPkgs)
+pkgs = paste('package:', pkgs, sep = "")
+
+if (pkgs[1]!="package:"){
+  lapply(pkgs, detach, character.only = TRUE, unload = TRUE)
+}
+
+#phe_perdate_in<-read.csv(url('http://fsudropbox.ci.neoninternal.org/fsuarchive/phe_perdate_D01_20140501.csv'), stringsAsFactors#=F, na.strings = "")
+
+phe_perdate_in<-read.csv('C:/Users/selmendorf/Dropbox/Phenology_Katie_Sarah_share/FOPScheck/testfiles/phe_perdate_D01.csv',stringsAsFactors=F, na.strings = "")
+
+
+#phe_perindividual_in<-read.csv(url('http://fsudropbox.ci.neoninternal.org/fsuarchive/phe_perindividual_D01_20140429.csv'), stringsAsFactors=F, na.strings = "")
+
+phe_perindividual_in<-read.csv('C:/Users/selmendorf/Dropbox/Phenology_Katie_Sarah_share/FOPScheck/testfiles/phe_perindividual_D01.csv',stringsAsFactors=F, na.strings = "")
+
+
+#Katie is fixing so this won't exist
+skipme<-which(names(phe_perindividual_in)=='droppedDate')
+if (length(skipme)>1){
+phe_perindividual_in<-phe_perindividual_in[,-skipme]
+  }
+
+#phe_statusintensity_in<-read.csv(url('http://fsudropbox.ci.neoninternal.org/fsuarchive/phe_statusintensity_D01_20140501.csv'), stringsAsFactors=F, na.strings = "")
+phe_statusintensity_in<-read.csv('C:/Users/selmendorf/Dropbox/Phenology_Katie_Sarah_share/FOPScheck/testfiles/phe_statusintensity_D01.csv',stringsAsFactors=F, na.strings = "")
+
+#this is the directory to write files out for FOPS to check the flags
+pathtowriteforFOPS <-'C:/Users/selmendorf/Dropbox/Phenology_Katie_Sarah_share/FOPscheck'
+
+#read the directions in the ingest workbook
+library (xlsx)
+library (xlsxjars)
+library (stringr)
+pathtoingest<-'~/TOSgit/neonetods/fieldDataErrorCheck/phe_dataingest_2014_20140407_v1.xlsx'
+
+isMissing<-function(x){
+  is.na(x)
+}
+
+#fill table names in myIngest, currently only the first entry has a table name
+myIngest<-read.xlsx(pathtoingest, sheetName='pheFieldSummary_in')
+for (i in 1:nrow(myIngest)){
+  if (is.na(myIngest$table[i])){myIngest$table[i]<-myIngest$table[i-1]}
+}
+
+
+# make sample taxontables
+pathtospeclist<-'N:/common/TOS/ATBDs/Lookups'
+
+#a real example of this would have the taxonProtocolCategory in it instead of growthForm
+taxonTable<-read.csv(paste (pathtospeclist, 'L_D01_USDA_plantslist.csv', sep='/'))
+speclist<-read.csv(paste (pathtospeclist, 'L_phe_speciesList.csv', sep='/'))
+
+speclist<-merge(speclist, taxonTable, all.x=T, by.x=c('taxonID', 'scientificName'),
+                    by.y=c("acceptedSymbol", "scientificName"))
+
+names (speclist)[names(speclist=='taxonProtocolCategory')]<-'growthForm'
+#sce modified the lookupTABLE here for illustration purposes only
+#do NOT do this in the real code
+speclist$d01NativeStatusCode<-sample(c(NA, 'n', 'i'), nrow(speclist), replace=T) #fake data
+speclist$d02NativeStatusCode<-sample(c(NA, 'n', 'i'), nrow(speclist), replace=T) #fake data
+speclist$taxonRank<-'species'
+
+#PLACEHOLDER ->add readfiles for phe_perindividualperyear_DO1, phe_indicatordata_DO1
+#No test files exist yet for these
+```
+
+This section of code simply copies the data and strips the uid column, making
+the FOPS data look like what the ingest template specifies, and also 
+trying to copy Natalie's sample code.  I think we could probably get rid of it,
+though it would involve searching and replacing names in both the ATBD and 
+markdown to change _db suffixes to _in
+
+
+
+```
+
+```{r create empty database tables and copy values in from the dropbox, simulating ingest}
+phe_perdate_db<-phe_perdate_in[,names(phe_perdate_in)!='uid']
+phe_statusintensity_db<-phe_statusintensity_in[,names(phe_statusintensity_in)!='uid']
+#phe_perindividualperyear_db<-phe_perindividualperyear_in
+phe_perindividual_db<-phe_perindividual_in[,names(phe_perindividual_in)!='uid']
+#phe_indicatordata_db<-phe_indicatordata_in
+
+
+
+```
+
+First step, check for complete records.  I think some of this can be done by the
+PDA, and should be done on a per cell rather than per record basis.  I would vote
+for getting rid of this flag if/when we move to PDAs.
+
+```{r Verify that all records are complete}
+
+
+checkcomplete<-function(ingestTable=myIngest, fieldTable='phe_perindividual_in',
+                        fieldData=phe_perindividual_db){
+  cantBeNull<-ingestTable$fieldName[ingestTable$table==fieldTable&
+                                      ingestTable$canBeNull=='no']
+  
+  notNullCols<-which(names(fieldData)%in%paste(cantBeNull))
+  if (length(notNullCols)>=1){
+    for (i in notNullCols){
+      #fieldData[is.na(fieldData[,i]),i]<-NA
+      fieldData[,i][fieldData[,i]=='N/A'] <- NA
+      fieldData[,i][fieldData[,i]=='nodata'] <- NA
+      fieldData[,i][fieldData[,i]=='n/a'] <- NA
+      fieldData[,i][fieldData[,i]=='NODATA'] <- NA
+      fieldData[,i][fieldData[,i]=='NULL'] <- -NA
+      fieldData[,i][fieldData[,i]=='NAN'] <- NA
+      fieldData[,i][fieldData[,i]=='NA'] <- NA
+      }
+   if (length(notNullCols)>1){
+     fieldData$completeRecordQF<-apply (isMissing(fieldData[,notNullCols]), 1, max)
+    }
+  if (length(notNullCols)==1){
+     fieldData$completeRecordQF<-as.numeric(isMissing(fieldData[,notNullCols]))
+    }
+  }
+  if (length(notNullCols)==0){
+    fieldData$completeRecordQF<-rep (0, nrow(fieldData))
+  }
+  return (fieldData)
+}
+
+phe_perdate_db<-checkcomplete (myIngest, 'phe_perdate_in',
+                                                phe_perdate_db)
+
+phe_statusintensity_db<-checkcomplete (myIngest, 'phe_statusintensity_in',
+                                                phe_statusintensity_db)
+
+phe_perindividual_db<-checkcomplete (myIngest, 'phe_perindividual_in',
+                                                phe_perindividual_db)
+
+
+
+#PLACEHOLDER for phe_perindividualperyear_db, phe_indicatordata_db
+
+
+#internal bookkeeping of what flags made
+flagsGenerated<-grep('completeRecordQF', c(names(phe_perdate_db), names(phe_perindividual_db),
+                                           names(phe_statusintensity_db)), value=T)
+```
+This tests for date validity.  This can be programmed into the PDA, but a modified
+version of this would need to go into the UIdesktopPDA.  Note I just put in Sys.date
+as a convenience for illustration, I'm not sure exactly how CI will implement
+the date range.
+
+My date tests do not cover all the possible date options in the current
+plausibility ATBD.  They are a PITA, and should not be necessary in either
+the PDA or DesktopPDA versions.
+
+```{r Verify that all records of all fields are of the correct data type AND Convert date  to correct format and verify that this is within acceptable range}
+check.integer <- function(x) {
+    if (is.character(x)){
+      x<-suppressWarnings(as.numeric(as.character(x)))
+    }
+    x == round(x)
+}
+
+
+checkDataType<-function(ingestTable=myIngest, fieldTable='phe_statusintensity_in',
+                        fieldData=phe_statusintensity_db){
+  colsToValidate<-names(fieldData)
+  skipme<-which(colsToValidate%in%c('plotID', 'siteID', 'samplingProtocol', flagsGenerated))
+  colsToValidate<-colsToValidate[-skipme]
+  #skipme<-grep('date', colsToValidate)
+  #colsToValidate<-colsToValidate[-skipme]
+  skipme<-which(colsToValidate%in%ingestTable$fieldName[ingestTable$table==fieldTable&
+                                                       ingestTable$dataType=='string'])
+  colsToValidate<-colsToValidate[-skipme]
+  QFcols<-paste('invalid',colsToValidate, 'QF', sep='')
+  ncolFieldData<-ncol(fieldData)
+  fieldData<-cbind(fieldData, matrix (0, nrow(fieldData), length(QFcols)))
+  if (length(colsToValidate)>0){
+    for (i in 1:length(colsToValidate)){
+      if (ingestTable$dataType[ingestTable$table==fieldTable&ingestTable$fieldName==colsToValidate[i]]=='unsigned integer'){
+        for (j in 1:nrow(fieldData)){
+          val<-fieldData[j, which(names(fieldData)==colsToValidate[i])]
+          if (!is.na(val)){
+            fieldData[j,ncolFieldData+i]<-max(!(check.integer (val)),
+                                              val<0)
+            }
+          }
+        }
+      if (ingestTable$dataType[ingestTable$table==fieldTable&ingestTable$fieldName==colsToValidate[i]]=='signed integer'){
+        for (j in 1:nrow(fieldData)){
+          val<-fieldData[j, which(names(fieldData)==colsToValidate[i])]
+          if (!is.na(val)){
+            fieldData[j,ncolFieldData+i]<-!(check.integer (val))
+            }
+          }
+        }
+      if (ingestTable$dataType[ingestTable$table==fieldTable&ingestTable$fieldName==colsToValidate[i]]=='real'){
+        for (j in 1:nrow(fieldData)){
+          val<-fieldData[j, which(names(fieldData)==colsToValidate[i])]
+          if (!is.na(val)){
+            fieldData[j,ncolFieldData+i]<-suppressWarnings(max(!(is.numeric(as.numeric(val))),is.na(as.numeric(val))))
+            }
+          }
+        }
+      if (ingestTable$dataType[ingestTable$table==fieldTable&ingestTable$fieldName==colsToValidate[i]]=='date')
+        for (j in 1:nrow(fieldData)){
+          val<-fieldData[j, which(names(fieldData)==colsToValidate[i])]
+          if (nchar(val)==8&!grepl ('/', val)&!grepl ('-', val)){
+            myDate<-paste(substr(val, start=3, stop=4), substr(val,
+                                                               start=5, stop=6), substr(val,
+                                                                                        start=7, stop=8), sep='/')
+            myDate<-as.Date(myDate, format = '%y/%m/%d')
+            fieldData[j,ncolFieldData+i]<-max(myDate<'2013-06-01', myDate>Sys.Date())
+            if (max(myDate<'2013-06-01')==1){
+              fieldData$remarks[j]<-c(fieldData$remarks[j], 'Date is out of range')
+            }
+
+            }
+          if (nchar(val)==10&grepl ('-', substr(val, start=5, stop=5)) &grepl('-', substr(val, start=8, stop=8))) {
+            myDate<-paste(substr(val, start=3, stop=4), substr(val,
+                                                               start=6, stop=7), substr(val,
+                                                                                        start=9, stop=10), sep='/')
+            myDate<-as.Date(myDate, format = '%y/%m/%d')
+            fieldData[j, which(names(fieldData)==colsToValidate[i])]<-paste(substr(val, start=1, stop=4), substr(val,
+                                                               start=6, stop=7), substr(val,
+                                                                                        start=9, stop=10), sep='')
+            fieldData[j,ncolFieldData+i]<-max(myDate<'2013-06-01', myDate>Sys.Date()) 
+            if (max(myDate<'2013-06-01')==1){
+              fieldData$remarks[j]<-c(fieldData$remarks[j], 'Date is out of range')
+            }
+            }
+          #SCE got lazy and did not implement all the other possible date options here
+          }
+      }
+    }
+  names(fieldData)[(ncolFieldData+1):ncol(fieldData)]<-QFcols
+  return (fieldData)
+}
+
+phe_perdate_db<-checkDataType (myIngest, 'phe_perdate_in',
+                                                phe_perdate_db)
+
+phe_statusintensity_db<-checkDataType (myIngest, 'phe_statusintensity_in',
+                                                phe_statusintensity_db)
+
+phe_perindividual_db<-checkDataType(myIngest, 'phe_perindividual_in',
+                                                phe_perindividual_db)
+
+
+flagsGenerated<-c(flagsGenerated, grep('invalid', c(names(phe_perdate_db), names(phe_perindividual_db),
+                                           names(phe_statusintensity_db)), value=T))
+
+```
+
+This is an R cludge to manually add the domainID.  I didn't have the lookup tables
+so I just hardcoded the domainID in.  This info should all come directly from the 
+PDA/desktopPDA and/or links to LHDD.
+
+```{r populate domainID, necessary for downstream processing but CI will do differently}
+
+#Example code only, this will be done differently by CI but we need these values
+#downstream
+#assigb domain and/or site identifications, this will presumably be done on ingest}
+phe_perdate_db$siteID<-substr(phe_perdate_db$plotID,1,4)
+phe_perindividual_db$siteID<-substr(phe_perindividual_db$plotID,1,4)
+phe_statusintensity_db$siteID<-substr(phe_statusintensity_db$plotID,1,4)
+
+#direct input of the domains for now in the absenct of a lookup table
+if (substr(phe_perdate_db$plotID[1], 1,4)=='HARV'){phe_perdate_db$domainID<-'D01'}
+if (substr(phe_perindividual_db$plotID[1], 1,4)=='HARV'){phe_perindividual_db$domainID<-'D01'}
+if (substr(phe_statusintensity_db$plotID[1], 1,4)=='HARV'){phe_statusintensity_db$domainID<-'D01'}
+
+
+```
+Check for duplicate records.  As implemented here, of n duplicate records, I
+only tagged records 2:N as duplicates, the first does not receive a flag.
+This deviates from the plausibility ATBD, but I think is how it should be done
+
+```{r check for duplicate values}
+checkDuplicateRecord<-function(fieldData=phe_perdate_db, colNames=c('date', 'plotID'),
+                               nameOfCol='duplicateDatePlotIDQF'){
+  colsToValidate<-which(names(fieldData)%in%colNames)
+  dups<-fieldData[duplicated (fieldData[,colsToValidate]),]
+  if (nrow (dups)>0){
+    dups$duplicate<-1
+    fieldData<-merge(fieldData, dups, all.x=T)
+    fieldData$duplicate[is.na(fieldData$duplicate)]<-0    
+  }else{
+    fieldData$duplicate<-0
+  }
+  for (i in 1:nrow(fieldData)){#set to test not run if we are missing a value in either
+    if (sum (is.na(fieldData[i,colsToValidate]))>0){
+      fieldData$duplicate[i]<--1
+    }
+  }
+  names(fieldData)[names(fieldData)=='duplicate']<-nameOfCol
+  return(fieldData)
+}  
+
+#sort first such that the duplicate is the last entry
+phe_perdate_db<-phe_perdate_db[order(phe_perdate_db$date),]
+phe_perdate_db<-checkDuplicateRecord(phe_perdate_db, colNames=c('date', 'plotID'),
+                                      nameOfCol='duplicateDatePlotIDQF')
+
+phe_statusintensity_db<-phe_statusintensity_db[order(phe_statusintensity_db$date),]
+phe_statusintensity_db<-checkDuplicateRecord(phe_statusintensity_db, colNames=c('plotID', 'date', 'tagID'),
+                                      nameOfCol='duplicateDateIndividualIDQF')
+
+phe_perindividual_db<-phe_perindividual_db[order(phe_perindividual_db$addDate),]
+phe_perindividual_db<-checkDuplicateRecord(phe_perindividual_db, colNames=c('plotID', 'tagID'),
+                                      nameOfCol='duplicateIndividualIDQF')
+
+#SCE PLACEHOLDER add in 
+# phe_perindividualperyear_db$Year<-substr(phe_perindividual_db$data,1,4)
+# phe_perindividualperyear_db<-checkDuplicateRecord(phe_perindividualperyear_db, colNames=c('plotID', 'tagID', 'Year'),
+#                                       nameOfCol='duplicateYearIndividualIDQF')
+
+
+```
+
+Generate individual ID.  Generic function, should work for other modules as sample
+code although we need to set the pathtoIndivIDs correctly to not overwrite
+individual IDs.  Here, I'm assuming we don't have any individual ID's already
+in existence.
+```{r generate individualID}
+pathtoIndivIDs<-NULL
+indivIDdata<-if (!is.null(pathtoIndivIDs)){
+  if (file.exists(pathtoIndivIDs)){
+    indivIDdata<-read.csv(indivIDs)
+    }
+  }else{indivIDdata<-NULL}
+ 
+
+updateIndivIDs<-function(fieldData=phe_perindividual_db, indivIDs=indivIDdata,
+                         mod='PLA'){
+  require (gtools)#for smartbind
+  if (!is.null(indivIDs)){
+    fieldData<-merge(fieldData, indivIDs, all.x=T)
+    fieldData<-fieldData[is.na(fieldData$individualID),]
+    if (nrow(fieldData)==0){return (indivIDs)}else{
+      tagCol<-which(names(fieldData)=='tagID')
+      domainCol<-which(names(fieldData)=='domainID')
+      newinds<-fieldData[,c(domainCol, tagCol)]
+      newinds<-unique(newinds[,c(names(newinds))])
+      indivIDs<-smartbind(indivIDs, newinds)
+      indivIDs$numb<-as.numeric(substr(indivIDs$individualID, 14,19))
+      indivIDs$numb[is.na(indivIDs$numb)]<-seq ((max(indivIDs$numb, na.rm=T)+1),length(indivIDs$numb), by=1)
+      indivIDs$individualID<-as.character(indivIDs$individualID)
+      indivIDs$individualID<-paste('00000', indivIDs$numb, sep='')
+      for (i in 1:nrow(indivIDs)){
+        digits<-nchar(indivIDs$individualID[i])
+        indivIDs$individualID[i]<-substr(indivIDs$individualID[i], start=digits-5, stop=digits)
+        indivIDs$individualID[i]<-paste ('NEON',mod, indivIDs$domainID[i], indivIDs$individualID[i], sep='.' )
+      }   
+    skipme<-which(names(indivIDs)=='numb')
+    indivIDs<-indivIDs[,-skipme]
+    return (indivIDs)
+    }
+  }
+  if (is.null(indivIDs)){
+    tagCol<-which(names(fieldData)=='tagID')
+    domainCol<-which(names(fieldData)=='domainID')
+    indivIDs<-fieldData[,c(domainCol, tagCol)]
+    indivIDs<-unique(indivIDs)
+    indivIDs$individualID<-c(1:nrow(indivIDs)) 
+    indivIDs$individualID<-as.character(indivIDs$individualID)
+    indivIDs$individualID<-paste('00000', indivIDs$individualID, sep='')
+    for (i in 1:nrow(indivIDs)){
+      digits<-nchar(indivIDs$individualID[i])
+      indivIDs$individualID[i]<-substr(indivIDs$individualID[i], start=digits-5, stop=digits)
+      indivIDs$individualID[i]<-paste ('NEON',mod, indivIDs$domainID[i], indivIDs$individualID[i], sep='.' )
+    }
+    return (indivIDs)
+  }
+}
+
+  
+indivIDdata<-updateIndivIDs(phe_perindividual_db, indivIDdata)
+indivIDdata<-updateIndivIDs(phe_statusintensity_db, indivIDdata)
+  
+#then add indivIDs to the data
+addIndivIDs<-function(fieldData=phe_perindividual_db, indivIDs=indivIDdata){
+  fieldData<-merge(fieldData, indivIDs, all.x=T)
+  return(fieldData)
+}
+
+phe_perindividual_db<-addIndivIDs(phe_perindividual_db, indivIDdata)
+phe_statusintensity_db<-addIndivIDs(phe_statusintensity_db, indivIDdata)
+
+#SCE add phe_perindividualperyear_db here when we have test data
+```
+
+Starting here, I deviated a bit in the implementation from Natalie's original
+ATBD order.  I think it's necessary to move the uid generation to the end of the
+workflow.
+
+Next section adds the specific validation rules for phe_perdate.  All should
+be put into the PDA and desktopPDA.
+
+```{r implement other phe_perdate_db nonconditional rules}
+#phe_perdate_db nonconditional
+phe_perdate_db$invalidrecordedByQF<-0
+phe_perdate_db$invalidmeasuredByQF<-0
+phe_perdate_db$invalidsamplingProtocolQF<-0
+#phe_perdate_db$invalidremarksQF<-0
+
+for (i in 1:nrow(phe_perdate_db)){
+  phe_perdate_db$invalidrecordedByQF[i]<-max(nchar(phe_perdate_db$recordedBy[i])>10, !grepl('D', substr(phe_perdate_db$recordedBy[i], 1,1)))
+  phe_perdate_db$invalidmeasuredByQF[i]<-max(nchar(phe_perdate_db$measuredBy[i])>10, !grepl('D', substr(phe_perdate_db$measuredBy[i], 1,1)))
+  phe_perdate_db$invalidsamplingProtocolQF[i]<-max(nchar(phe_perdate_db$samplingProtocol[i])!=17, 
+                                 !grepl('NEON.DOC.', substr(phe_perdate_db$samplingProtocol[i], 1,9)),
+                                 is.na(as.numeric(substr(phe_perdate_db$samplingProtocol[i], 10,15))),
+                                 !grepl('V', substr(phe_perdate_db$samplingProtocol[i], 16,16)))
+  #phe_perdate_db$invalidremarksQF[i]<-max(nchar(phe_perdate_db$remarks[i])>49) #question do we want to make this longer?                                                         
+}
+
+
+#SCE add validation rules for other 2 datasets when we have prototype
+ 
+```
+Placeolder - do we need location validation test now that we know the ingest process?
+
+Next section adds the specific validation rules for phe_perindividual.  Some
+can be implemented in the PDA.  It became clear in writing this that
+some of the validation rules in the excel spreadsheet were not necessary to test
+becase the longer, conditional validation rules in the ATBD would catch those
+plus additional problems.  Hence some commented out here, although there is no
+harm in checking twice it's redundant.
+
+```{r check other validation rules phe_perindividual_db}
+
+
+#phe_perindividual_db nonconditional rules first tested
+
+phe_perindividual_db$invalidrecordedByQF<-0
+phe_perindividual_db$invalidmeasuredByQF<-0
+phe_perindividual_db$invalidremarksQF<-0
+#transectMeter is already initiated above
+phe_perindividual_db$invaliddirectionFromTransectQF<-0
+#invalidninetyDegreeDistanceQF is already initiated above
+#invalidtagIDQF not needed because unsigned integer already tested
+phe_perindividual_db$invalididentificationQualifierQF<-0
+
+#phe_perindividual_db$invalidgrowthFormQF<-0
+phe_perindividual_db$invalidassociatedMediaNumberQF<-0
+
+
+#This list comes directly from the lookup table, see smammal example
+validIdentificationQualifiers<-c('cf. species', 'aff. species', 'cf. genus', 'cf. subspecies',
+'aff. subspecies', 'cf. family', 'aff. family', 'cf. variety', 'aff. variety', NA)
+
+#growth forms get validated later, SCE change ATBD to reflect this
+#validGrowthForms<-c ('DBL', 'EBL', 'EC', 'Pine', 'DC', 'Forb', 'GRS', 'Cactus')
+
+for (i in 1:nrow(phe_perindividual_db)){
+  phe_perindividual_db$invalidrecordedByQF[i]<-max(nchar(phe_perindividual_db$recordedBy[i])>10, !grepl('D', substr(phe_perindividual_db$recordedBy[i], 1,1)))
+  phe_perindividual_db$invalidmeasuredByQF[i]<-max(nchar(phe_perindividual_db$aMeasuredBy[i])>10, !grepl('D', substr(phe_perindividual_db$aMeasuredBy[i], 1,1)))
+  if (!is.na(phe_perindividual_db$bMeasuredBy[i])){
+  phe_perindividual_db$invalidmeasuredByQF[i]<-max(phe_perindividual_db$invalidmeasuredByQF[i], 
+                                                   max(nchar(phe_perindividual_db$bMeasuredBy[i])>10, !grepl('D', substr(phe_perindividual_db$bMeasuredBy[i], 1,1))))
+  }
+  phe_perindividual_db$invaliddirectionFromTransectQF[i]<-max(!(phe_perindividual_db$directionFromTransect[i]%in%c('R', 'L')))
+  #phe_perindividual_db$invalidgrowthFormsQF[i]<-max(!(phe_perindividual_db$growthForm[i]%in%validGrowthForms))
+  if (phe_perindividual_db$invalidtransectMeter[i]==0){
+  phe_perindividual_db$invalidtransectMeter[i]<-max(phe_perindividual_db$transectMeter[i]<0,
+    phe_perindividual_db$transectMeter[i]>800)
+    phe_perindividual_db$invalidtagIDQF[i]<-max(phe_perindividual_db$invalidtagIDQF[i], nchar (phe_perindividual_db$tagID[i])!=4)
+  }
+  #SCE need domain->plot matching table for this one as well
+  if (!is.na(phe_perindividual_db$associatedMediaNumber[i])){
+      phe_perindividual_db$invalidassociatedMediaNumberQF<-max(!grepl('_', substr(phe_perindividual_db$associatedMediaNumber[i], 4,4)), !is.numeric(as.numeric(substr(phe_perindividual_db$associatedMediaNumber[i], 5,8))))
+  }
+}
+```
+
+Fix the capitalization to make the output pretty, and so the merges work properly.
+```{r and standardize capitalization for phe_perindividual_db}
+
+phe_perindividual_db$growthForm<-toupper(phe_perindividual_db$growthForm)
+```
+
+
+This validates the taxonID codes and adds real scientific Names and ranks.
+I think all could be done on the PDA.  We need improved workflow for updating 
+taxonomic information, though.
+```{r validate  phe_perindividual_db taxonID codes, and assign scientificName and rank}
+
+speclist$growthForm<-toupper(speclist$growthForm)
+speclist$invalidTaxonIDQF<-0 #anything that is in the speciest list does not fail invalidTaxonIDQF
+
+#select which domain you are in
+myDomainList<-grep(unique(phe_perindividual_db$domainID),names(speclist), ignore.case=T)
+
+#prep for join by renaming columns to match
+names (speclist)[names(speclist=='taxonProtocolCategory')]<-'growthForm'
+
+
+
+
+phe_perindividual_db<-merge(phe_perindividual_db, speclist[,c('taxonID',
+                                                              'scientificName', 'taxonRank', 'invalidTaxonIDQF')], all.x=T)
+
+#if it doesn't show up on the known codelist, then it gets flagged and -9999 into the taxonID, and sppcodes
+phe_perindividual_db$taxonIDDomainStatusQF[is.na(phe_perindividual_db$invalidTaxonIDQF)]<-1
+
+#set scientificName and taxonRank to -9999 if no match with taxon list
+levels(phe_perindividual_db$scientificName)<-c(levels(phe_perindividual_db$scientificName), -9999)
+phe_perindividual_db$scientificName[phe_perindividual_db$invalidTaxonIDQF==1]<--9999
+
+levels(phe_perindividual_db$taxonRank)<-c(levels(phe_perindividual_db$taxonRank), -9999)
+phe_perindividual_db$scientificName[phe_perindividual_db$invalidTaxonIDQF==1]<--9999
+
+levels(phe_perindividual_db$taxonID)<-c(levels(phe_perindividual_db$taxonID), -9999)
+phe_perindividual_db$taxonID[phe_perindividual_db$invalidTaxonIDQF==1]<--9999
+```
+
+```{r verify species geographic range overlaps site}
+phe_perindividual_db$taxonIDDomainStatusQF<-1#default is fail, reset passes to 0
+
+#check for taxon in range
+for (i in 1:nrow (phe_perindividual_db)){
+  myDomain<-phe_perindividual_db$domainID[i]
+  myDomain<-paste('d', substr(myDomain, 2,3), sep='')#fix capitalization
+  myListCol<-grep(myDomain, names(speclist))
+  validTaxaInDomain<-unique(speclist$taxonID[speclist[,myListCol]!='A'])
+  if (phe_perindividual_db$taxonID[i]%in%validTaxaInDomain){
+    phe_perindividual_db$taxonIDDomainStatusQF[i]<-0
+  }
+}
+
+```
+
+Test consistency of taxonID assignment for each individualID
+In theory, each individual should only be identified ONCE.  It would be nice 
+if the PDA/desktopPDA could warn techs before they enter a duplicate record
+and cut down on these errors.
+
+```{r test for unique taxonomic assignments for each individual,aka consistency test for individualID, taxonID}
+
+phe_perindividual_db$consistencyIndividualIDTaxonIDQF<-0
+for (i in 1:nrow (phe_perindividual_db)){
+  myIndividualID<-phe_perindividual_db$individualID[i]
+  myTaxonID<-unique(phe_perindividual_db$taxonID[phe_perindividual_db$individualID==myIndividualID])
+  if (length(myTaxonID)>1){
+    phe_perindividual_db$consistencyIndividualIDTaxonIDQF[i]<-1
+  }
+}
+
+```
+
+
+This can be put into the PDA
+```{r test whether technicians correctly assigned the taxa to growth Form}
+speclist$invalidgrowthFormQF<-0
+
+#if it growthForm doesn't match our master list, flag and reset growthForm to -9999 (later removed from output)  
+phe_perindividual_db<-merge(phe_perindividual_db, speclist[,c('taxonID', 'growthForm', 'invalidgrowthFormQF')], all.x=T)
+phe_perindividual_db$invalidgrowthFormQF[is.na(phe_perindividual_db$invalidgrowthFormQF)]<-1
+levels(phe_perindividual_db$growthForm)<-c(levels(phe_perindividual_db$growthForm), -9999)
+phe_perindividual_db$growthForm[phe_perindividual_db$taxonIDgrowthForm==1]<--9999
+
+
+```
+
+
+Get real locations from relative positions.
+```{r generate decimalLatitude, decimalLongitude, and elevation}
+phe_perindividual_db$offset_sign<-NA
+phe_perindividual_db$offset_sign[phe_perindividual_db$transectMeter<=200&phe_perindividual_db$directionFromTransect=='L']<--1
+phe_perindividual_db$offset_sign[phe_perindividual_db$transectMeter>600&phe_perindividual_db$transectMeter<=800&phe_perindividual_db$directionFromTransectl=='L']<--1
+phe_perindividual_db$offset_sign[phe_perindividual_db$transectMeter<=200&phe_perindividual_db$directionFromTransect=='R']<-1
+phe_perindividual_db$offset_sign[phe_perindividual_db$transectMeter>600&phe_perindividual_db$transectMeter<=800&phe_perindividual_db$directionFromTransect=='R']<--1
+
+phe_perindividual_db$offset_sign[phe_perindividual_db$transectMeter>200&phe_perindividual_db$transectMeter<=400&phe_perindividual_db$directionFromTransect=='L']<-1
+phe_perindividual_db$offset_sign[phe_perindividual_db$transectMeter>400&phe_perindividual_db$transectMeter<=600&phe_perindividual_db$directionFromTransect=='L']<-1
+phe_perindividual_db$offset_sign[phe_perindividual_db$transectMeter>200&phe_perindividual_db$transectMeter<=400200&phe_perindividual_db$directionFromTransect=='R']<--1
+phe_perindividual_db$offset_sign[phe_perindividual_db$transectMeter>400&phe_perindividual_db$transectMeter<=600&phe_perindividual_db$directionFromTransect=='R']<--1
+
+phe_perindividual_db$pointID<-NA
+phe_perindividual_db$pointID[phe_perindividual_db$transectMeter<100]<-'SW'
+phe_perindividual_db$pointID[phe_perindividual_db$transectMeter>=100&phe_perindividual_db$transectMeter<200]<-'W'
+phe_perindividual_db$pointID[phe_perindividual_db$transectMeter>=200&phe_perindividual_db$transectMeter<300]<-'NW'
+phe_perindividual_db$pointID[phe_perindividual_db$transectMeter>=300&phe_perindividual_db$transectMeter<400]<-'N'
+phe_perindividual_db$pointID[phe_perindividual_db$transectMeter>=400&phe_perindividual_db$transectMeter<500]<-'NE'
+phe_perindividual_db$pointID[phe_perindividual_db$transectMeter>=500&phe_perindividual_db$transectMeter<600]<-'E'
+phe_perindividual_db$pointID[phe_perindividual_db$transectMeter>=600&phe_perindividual_db$transectMeter<700]<-'SE'
+phe_perindividual_db$pointID[phe_perindividual_db$transectMeter>=700&phe_perindividual_db$transectMeter<800]<-'S'
+
+
+#SCE made up fake corner coordinates
+plotID<-unique (phe_perindividual_db$plotID)
+plotLookup<-data.frame(expand.grid(plotID=plotID, pointID='SW', longitudeUTM=-200, latitudeUTM=0, elevation=0))
+plotLookup<-smartbind (plotLookup, data.frame(expand.grid(plotID=plotID, pointID='W', longitudeUTM=-200, latitudeUTM=100, elevation=240)))
+plotLookup<-smartbind (plotLookup, data.frame(expand.grid(plotID=plotID, pointID='NW', longitudeUTM=-200, latitudeUTM=200, elevation=35)))
+plotLookup<-smartbind (plotLookup, data.frame(expand.grid(plotID=plotID, pointID='N', longitudeUTM=-100, latitudeUTM=200, elevation=18)))
+plotLookup<-smartbind (plotLookup, data.frame(expand.grid(plotID=plotID, pointID='NE', longitudeUTM=0, latitudeUTM=200, elevation=25)))
+plotLookup<-smartbind (plotLookup, data.frame(expand.grid(plotID=plotID, pointID='E', longitudeUTM=0, latitudeUTM=100, elevation=2)))
+plotLookup<-smartbind (plotLookup, data.frame(expand.grid(plotID=plotID, pointID='SE', longitudeUTM=0, latitudeUTM=000, elevation=18)))
+plotLookup<-smartbind (plotLookup, data.frame(expand.grid(plotID=plotID, pointID='S', longitudeUTM=-100, latitudeUTM=000, elevation=23)))
+plotLookup$subTypespecification<-'phe_primary'
+
+
+phe_perindividual_db<-merge(phe_perindividual_db, plotLookup, all.x=T)
+#add in reference point locations, there are other ways to do this
+#but here's an example
+
+#generate actual locations
+phe_perindividual_db$Latitude_UTMs<-NA
+phe_perindividual_db$Longitude_UTMs<-NA
+
+
+for (i in 1:nrow (phe_perindividual_db)){
+  if (phe_perindividual_db$pointID[i]=='SW'){
+    phe_perindividual_db$Latitude_UTMs[i]<-phe_perindividual_db$latitudeUTM[i]+phe_perindividual_db$transectMeter[i]
+    phe_perindividual_db$Longitude_UTMs[i]<-phe_perindividual_db$longitudeUTM[i]+phe_perindividual_db$offset_sign[i]*phe_perindividual_db$ninetyDegreeDistance[i]
+  }
+  if (phe_perindividual_db$pointID[i]=='W'){
+    phe_perindividual_db$Latitude_UTMs[i]<-phe_perindividual_db$latitudeUTM[i]+(phe_perindividual_db$transectMeter[i]-100)
+    phe_perindividual_db$Longitude_UTMs[i]<-phe_perindividual_db$longitudeUTM[i]+phe_perindividual_db$offset_sign[i]*phe_perindividual_db$ninetyDegreeDistance[i]
+  }
+  if (phe_perindividual_db$pointID[i]=='NW'){
+    phe_perindividual_db$Latitude_UTMs[i]<-phe_perindividual_db$latitudeUTM[i]+phe_perindividual_db$offset_sign[i]*phe_perindividual_db$ninetyDegreeDistance[i]
+    phe_perindividual_db$Longitude_UTMs[i]<-phe_perindividual_db$longitudeUTM[i]+(phe_perindividual_db$transectMeter[i]-200)
+  }
+  if (phe_perindividual_db$pointID[i]=='N'){
+    phe_perindividual_db$Latitude_UTMs[i]<-phe_perindividual_db$latitudeUTM[i]+phe_perindividual_db$offset_sign[i]*phe_perindividual_db$ninetyDegreeDistance[i]
+    phe_perindividual_db$Longitude_UTMs[i]<-phe_perindividual_db$longitudeUTM[i]+(phe_perindividual_db$transectMeter[i]-300)
+  }
+  if (phe_perindividual_db$pointID[i]=='NE'){
+    phe_perindividual_db$Latitude_UTMs[i]<-phe_perindividual_db$latitudeUTM[i]-(phe_perindividual_db$transectMeter[i]-400)
+    phe_perindividual_db$Longitude_UTMs[i]<-phe_perindividual_db$longitudeUTM[i]+phe_perindividual_db$offset_sign[i]*phe_perindividual_db$ninetyDegreeDistance[i]
+  }
+  if (phe_perindividual_db$pointID[i]=='E'){
+    phe_perindividual_db$Latitude_UTMs[i]<-phe_perindividual_db$latitudeUTM[i]-(phe_perindividual_db$transectMeter[i]-500)
+    phe_perindividual_db$Longitude_UTMs[i]<-phe_perindividual_db$longitudeUTM[i]+phe_perindividual_db$offset_sign[i]*phe_perindividual_db$ninetyDegreeDistance[i]
+  }
+  if (phe_perindividual_db$pointID[i]=='SE'){
+    phe_perindividual_db$Latitude_UTMs[i]<-phe_perindividual_db$latitudeUTM[i]+phe_perindividual_db$offset_sign[i]*phe_perindividual_db$ninetyDegreeDistance[i]
+    phe_perindividual_db$Longitude_UTMs[i]<-phe_perindividual_db$longitudeUTM[i]-(phe_perindividual_db$transectMeter[i]-600)
+  }
+  if (phe_perindividual_db$pointID[i]=='S'){
+    phe_perindividual_db$Latitude_UTMs[i]<-phe_perindividual_db$latitudeUTM[i]+phe_perindividual_db$offset_sign[i]*phe_perindividual_db$ninetyDegreeDistance[i]
+    phe_perindividual_db$Longitude_UTMs[i]<-phe_perindividual_db$longitudeUTM[i]-(phe_perindividual_db$transectMeter[i]-700)
+  }
+  #if you validate first you can just search the QFs for these, order sort of depends
+  if(sum(c(is.na(phe_perindividual_db$pointID[i]),is.na(phe_perindividual_db$transectMeter[i]),is.na(phe_perindividual_db$offset_sign[i]),is.na(phe_perindividual_db$ninetyDegreeDistance[i])), na.rm=T)>0){
+    phe_perindividual_db$longitudeUTM[i]<--9999
+    phe_perindividual_db$latitudeUTM[i]<--9999
+  }
+}
+
+phe_perindividual_db$elevation<--9999
+phe_perindividual_db$elevationUncertainty<--9999
+#conversion to dec lat long skipped for this fake example
+for (i in unique (phe_perindividual_db$plotID)){
+  phe_perindividual_db$elevation[phe_perindividual_db$plotID==i]<-(min(plotLookup$elevation[plotLookup$plotID==i])+max(plotLookup$elevation[plotLookup$plotID==i]))/2
+  phe_perindividual_db$elevationUncertainty[phe_perindividual_db$plotID==i]<-(max(plotLookup$elevation[plotLookup$plotID==i])-min(plotLookup$elevation[plotLookup$plotID==i]))/2
+}
+
+#SCE placeholder, example of how to convert using spatial overlay
+#SCE placeholder, convert from UTMs to decimal lat long
+
+#cleanup
+skipme<-which (names(phe_perindividual_db)%in%c('pointID', 'offset_sign', 'longitudeUTM', 'latitudeUTM'))
+phe_perindividual_db<-phe_perindividual_db[,-skipme]
+
+```
+
+```{r generate dropDate}
+phe_statusintensity_db$dropPlant<-toupper(phe_statusintensity_db$dropPlant)
+phe_perindividual_db$droppedDate<-NA
+for (i in 1:nrow (phe_perindividual_db)){
+  indiv<-phe_perindividual_db$individualID[i]
+  phe_perindividual_db$droppedDate[i]<-suppressWarnings(min(phe_statusintensity_db$date[phe_statusintensity_db$individualID==indiv&phe_statusintensity_db$dropPlant=='D']))
+}
+
+phe_perindividual_db$droppedDate[is.na(phe_perindividual_db$droppedDate)]<--9999
+phe_perindividual_db$droppedDate[!is.finite(phe_perindividual_db$droppedDate)]<--9999
+
+```
+
+SCI PLACEHOLDER - missing record test phe_perindividualperyear_db & any other validation tests.
+
+
+```{r phe_statusintensity_db nonconditional validation rules and making capitalization consistent}
+#phe_statusintensity_db nonconditional
+phe_statusintensity_db$invalidrecordedByQF<-0
+phe_statusintensity_db$invalidmeasuredByQF<-0
+phe_statusintensity_db$invalidp4StatusQF<-0
+phe_statusintensity_db$invaliddropPlantQF<-0
+phe_statusintensity_db$invalidflagDataQF<-0
+
+
+statuscodes<-c('y','n', '?', 'm')
+statusfields<-c('p1Status', 'p2Status','p3Status', 'p4Status', 'p5Status', 'p6Status')
+
+xtoNa<-function(x){
+  if ((x=='x'|x=='X')&!is.na(x)){
+    x<-NA
+  }
+  return(x)
+}
+  
+for (i in statusfields){
+  for (j in 1:nrow(phe_statusintensity_db)){
+  phe_statusintensity_db[j,i]<-tolower(phe_statusintensity_db[j,i])
+  phe_statusintensity_db[j,i]<-xtoNa(phe_statusintensity_db[j,i])
+  }
+}
+
+#phe_statusintensity_db$dropPlant<-tolower(phe_statusintensity_db$dropPlant)
+phe_statusintensity_db$flagData<-tolower(phe_statusintensity_db$flagData)
+
+
+for (i in 1:nrow(phe_statusintensity_db)){
+  phe_statusintensity_db$invalidrecordedByQF[i]<-max(nchar(phe_statusintensity_db$recordedBy[i])>10, !grepl('D', substr(phe_statusintensity_db$recordedBy[i], 1,1)))
+  phe_statusintensity_db$invalidmeasuredByQF[i]<-max(nchar(phe_statusintensity_db$measuredBy[i])>10, !grepl('D', substr(phe_statusintensity_db$measuredBy[i], 1,1)))  
+  if (!is.na(phe_statusintensity_db$p4Status[i])){
+  phe_statusintensity_db$invalidp4StatusQF[i]<-max(!phe_statusintensity_db$p4Status[i]%in%statuscodes)
+  }
+  if (!is.na(phe_statusintensity_db$dropPlant[i])){
+  phe_statusintensity_db$invaliddropPlantQF[i]<-max(!phe_statusintensity_db$p4Status[i]%in%c('D', 'S', ''))
+  }
+  if (!is.na(phe_statusintensity_db$flagData[i])){
+    phe_statusintensity_db$invalidflagDataQF[i]<-max(!phe_statusintensity_db$p4Status[i]%in%c('y'))
+  }
+  phe_statusintensity_db$invalidtagIDQF[i]<-max(phe_statusintensity_db$invalidtagIDQF[i], nchar (phe_statusintensity_db$tagID[i])!=4)
+}
+```
+
+
+Status intensity.  The conditional validation rules here are far too extensive
+to fit in an excel cell, however, they can ALL be programmed into the PDA.
+It is not really necessary to test these columns for dataType since the
+validation rules are much more complicated than could fit in a spreadsheet.
+Tf they fail these rules, they will also fail the dataType test.  
+I left the basic rules in the ingest doc to help our techs out, but you can
+see any time they fail, the full set of conditional validation rules will
+also fail.
+
+
+```{r R-specific programming prep for setting status and intensity flags}
+
+
+#get rid of the simple flags autogenerated above
+
+skipme<-which(names(phe_statusintensity_db)%in%c('invalidp1StatusQF',
+                                           'invalidp2StatusQF','invalidp3StatusQF','invalidp4StatusQF','invalidp5StatusQF','invalidp6StatusQF','invalidp1IntensityQF','invalidp2IntensityQF',
+                                                 'invalidp3IntensityQF','invalidp4IntensityQF','invalidp5IntensityQF'))
+phe_statusintensity_db<-phe_statusintensity_db[,-skipme]  
+```
+
+In the real workflow, growthForm should always be known and autopopulate
+into the statusintensity sheet.
+
+```{r populate growthForm based on tagID}
+phe_statusintensity_db$growthForm<-rep(NA, nrow(phe_statusintensity_db))
+phe_statusintensity_db$invalidgrowthFormQF<-rep(NA, nrow(phe_statusintensity_db))
+
+
+#assign growthForms
+for (i in 1:nrow(phe_statusintensity_db)){
+  growthForm<-unique(phe_perindividual_db$growthForm[phe_perindividual_db$individualID==
+                                                phe_statusintensity_db$individualID[i]])
+  if (sum((length(growthForm)!=1),(growthForm==-9999))>0){
+    phe_statusintensity_db$invalidgrowthFormQF[i]<-1#this is new
+    phe_statusintensity_db$growthForm[i]<--9999#this is new
+    }else{
+      phe_statusintensity_db$growthForm[i]<-growthForm
+      phe_statusintensity_db$invalidgrowthFormQF[i]<-0}
+}
+
+```
+Check for valid growth forms and intensities.  In each step, the full set of
+combinatorial growthForm*status*intensity sets are defined.
+Then status is validated, based on growthForm, then intensity, based on status
+and growthform.
+
+All can be put into the PDA/desktop PDA
+
+
+```{r validate phenophase status and intensity pairs based on growthForm}
+#define valid set P1
+P1a<-expand.grid(growthForm=c('DBL', 'EBL', 'EC','PINE', 'DC'), p1Status=c('y','?'),p1Intensity=c(1:6))
+P1b<-expand.grid(growthForm=c('DBL', 'EBL', 'EC','PINE', 'DC'), p1Status=c('n', 'm','?') ,p1Intensity=NA)
+P1c<-expand.grid(growthForm=c('FORB', 'GRS'), p1Status=c('y','?', 'n','m'),p1Intensity=NA)
+P1d<-expand.grid(growthForm=c('CACTUS'), p1Status=c(NA),p1Intensity=NA)
+p1valid<-rbind(P1a, P1b, P1c,P1d)
+p1valid$invalidp1StatusQF<-0
+p1valid$invalidp1IntensityQF<-0
+
+#add flags
+phe_statusintensity_db<-merge(phe_statusintensity_db, unique (p1valid[,c('growthForm', 'p1Status',
+                                                                'invalidp1StatusQF')]), all.x=T)
+phe_statusintensity_db<-merge(phe_statusintensity_db, unique (p1valid[,c('growthForm', 'p1Status',
+                                                                'invalidp1StatusQF', 'invalidp1IntensityQF')]), all.x=T)
+
+
+
+#define valid set P2
+
+P2a<-expand.grid(growthForm=c('DBL'), p2Status=c('y','?'),p2Intensity=c(2:6))
+P2b<-expand.grid(growthForm=c('DBL'), p2Status=c('n', 'm','?'),p2Intensity=NA)
+P2c<-expand.grid(growthForm=c('EBL', 'EC','PINE'), p2Status=c('y','?'),p2Intensity=c(1:6))
+P2d<-expand.grid(growthForm=c('DC', 'FORB','GRS', 'CACTUS'), p2Status=NA,p2Intensity=NA)
+p2valid<-rbind(P2a, P2b, P2c,P2d)
+p2valid$invalidp2StatusQF<-0
+p2valid$invalidp2IntensityQF<-0
+
+#add flags
+phe_statusintensity_db<-merge(phe_statusintensity_db, unique (p2valid[,c('growthForm', 'p2Status',
+                                                                'invalidp2StatusQF')]), all.x=T)
+phe_statusintensity_db<-merge(phe_statusintensity_db, unique (p2valid[,c('growthForm', 'p2Status',
+                                                                'invalidp2StatusQF', 'invalidp2IntensityQF')]), all.x=T)
+
+#SCE view
+unique(phe_statusintensity_db[,c('growthForm', 'p2Status', 'invalidp2StatusQF','invalidp2IntensityQF')])
+
+
+#define valid set P3
+
+P3a<-expand.grid(growthForm=c('DBL', 'DC','GRS'), p3Status=c('y','?'),p3Intensity=c(1:6))
+P3b<-expand.grid(growthForm=c('DBL', 'DC','GRS'), p3Status=c('n', 'm','?') ,p3Intensity=NA)
+P3c<-expand.grid(growthForm=c('FORB'), p3Status=c('y','n', 'm','?'),p3Intensity=NA)
+P3d<-expand.grid(growthForm=c('EBL', 'EC', 'PINE', 'CACTUS'), p3Status=NA,p3Intensity=NA)
+p3valid<-rbind(P3a, P3b, P3c,P3d)
+p3valid$invalidp3StatusQF<-0
+p3valid$invalidp3IntensityQF<-0
+
+#add flags
+phe_statusintensity_db<-merge(phe_statusintensity_db, unique (p3valid[,c('growthForm', 'p3Status',
+                                                                'invalidp3StatusQF')]), all.x=T)
+phe_statusintensity_db<-merge(phe_statusintensity_db, unique (p3valid[,c('growthForm', 'p3Status',
+                                                                'invalidp3StatusQF', 'invalidp3IntensityQF')]), all.x=T)
+
+
+
+#define valid set P4
+
+P4a<-expand.grid(growthForm=c('DBL', 'EBL', 'EC', 'PINE','DC','FORB','GRS', 'CACTUS'), p4Status=c('y','?'),p4Intensity=c(1:6))
+P4b<-expand.grid(growthForm=c('DBL', 'EBL', 'EC', 'PINE','DC','FORB','GRS', 'CACTUS'), p4Status=c('n', 'm','?') ,p4Intensity=NA)
+p4valid<-rbind(P4a, P4b)
+p4valid$invalidp4StatusQF<-0
+p4valid$invalidp4IntensityQF<-0
+
+#addflags
+phe_statusintensity_db<-merge(phe_statusintensity_db, unique (p4valid[,c('growthForm', 'p4Status',
+                                                                'invalidp4StatusQF')]), all.x=T)
+phe_statusintensity_db<-merge(phe_statusintensity_db, unique (p4valid[,c('growthForm', 'p4Status',
+                                                                'invalidp4StatusQF', 'invalidp4IntensityQF')]), all.x=T)
+
+
+p5a<-expand.grid(growthForm=c('DBL', 'DC'), p5Status=c('y','?'),p5Intensity=c(1:6))
+p5b<-expand.grid(growthForm=c('DBL', 'DC'), p5Status=c('n', 'm','?'), p5Intensity=NA)
+p5c<-expand.grid(growthForm=c('EBL', 'EC', 'PINE','FORB','GRS', 'CACTUS'), p5Status=NA, p5Intensity=NA)
+
+p5valid<-rbind(p5a, p5b, p5c)
+p5valid$invalidp5StatusQF<-0
+p5valid$invalidp5IntensityQF<-0
+
+
+#addflags
+phe_statusintensity_db<-merge(phe_statusintensity_db, unique (p5valid[,c('growthForm', 'p5Status',
+                                                                'invalidp5StatusQF')]), all.x=T)
+phe_statusintensity_db<-merge(phe_statusintensity_db, unique (p5valid[,c('growthForm', 'p5Status',
+                                                                'invalidp5StatusQF', 'invalidp5IntensityQF')]), all.x=T)
+
+
+p6a<-expand.grid(growthForm=c('DBL', 'DC'), p6Status=c('y','n', 'm','?'))
+p6b<-expand.grid(growthForm=c('EBL', 'EC', 'PINE','FORB','GRS', 'CACTUS'), p6Status=NA)
+p6valid<-rbind(p6a, p6b)
+p6valid$invalidp6StatusQF<-0
+
+
+#addflags
+phe_statusintensity_db<-merge(phe_statusintensity_db, unique (p6valid[,c('growthForm', 'p6Status',                                                              'invalidp6StatusQF')]), all.x=T)
+
+#vector of all the phenvalidatioqfs we made
+phenQFs<-grep('StatusQF', names(phe_statusintensity_db), value=T)         
+phenQFs<-c(phenQFs,grep('IntensityQF', names(phe_statusintensity_db), value=T))
+
+#anything that does not pass failed the test
+
+#if not in valid set, the status is invalid
+for (i in phenQFs){
+  colNum<-which(names(phe_statusintensity_db)==i)
+  for (j in 1:nrow(phe_statusintensity_db)){
+    if (phe_statusintensity_db$invalidgrowthFormQF[j]==1){#set all invalid growthforms to test not applied
+      phe_statusintensity_db[j,colNum]<--1
+    }
+    if (phe_statusintensity_db$invalidgrowthFormQF[j]==0){
+      if (is.na(phe_statusintensity_db[j,colNum])){#set the nonpassing to fail
+        phe_statusintensity_db[j,colNum]<-1
+        }
+    }
+  }
+}
+
+```
+
+
+```{r add phenophase names and intensity definitions}
+#not necessary to add growthForm categories again as specified in the ATBD, that's already done insteps above
+a<-expand.grid(growthForm=c('DBL', 'EBL'), p1Name='Breaking leaf buds', p1IntensityName='# of buds that are breaking')
+b<-rbind(a, expand.grid(growthForm=c('DC', 'EC'), p1Name='Breaking needle buds', p1IntensityName='# of buds that are breaking'))
+c<- rbind(b,expand.grid(growthForm=c('PINE'), p1Name='Emerging Needles', p1IntensityName='# of needles or needle bundles that are emerging' ))
+P1<- rbind(c,expand.grid(growthForm=c('FORB', 'GRS'), p1Name='Intial growth', p1IntensityName=NA))
+
+a<-expand.grid(growthForm=c('DBL'), p2Name='Increasing leaf size', p2IntensityName='% of full size of most leaves')
+b<-rbind(a, expand.grid(growthForm=c('EBL'), p2Name='Young leaves', p2IntensityName='# of young leaves present'))
+P2<-rbind(b, expand.grid(growthForm=c('EC', 'PINE'), p2Name='Young needles', p2IntensityName='# of young needles present'))
+
+
+a<-expand.grid(growthForm=c('DBL'), p3Name='Canopy', p3IntensityName='% of the canopy that is full with leaves')
+b<-rbind(a, expand.grid(growthForm=c('FORB', 'GRS'), p3Name='Leaves', p3IntensityName='% of the plant that is green'))
+P3<-rbind(b, expand.grid(growthForm=c('DC'), p3Name='Needles', p3IntensityName='% of the canopy that is full with needles'))
+
+a<-expand.grid(growthForm=c('DBL', 'EBL', 'EC', 'FORB', 'GRS', 'CACTUS'), p4Name='Open flowers', p4IntensityName='% of all fresh flowers (buds plus unopened plus open) on the plant that are open')
+P4<-rbind(a, expand.grid(growthForm=c('DC', 'EC', 'PINE'), p4Name='Open pollen cones', p4IntensityName='% of all fresh pollen cones (unopened plus open) on the plant that are open'))
+
+
+a<-expand.grid(growthForm=c('DBL'), p5Name='Colored leaves', p5IntensityName='% of the canopy that is full with colored leaves')
+P5<-rbind(a, expand.grid(growthForm=c('DC'), p5Name='Colored needles', p5IntensityName='% of the canopy that is full with colored needles'))
+          
+P6<-expand.grid(growthForm=c('DBL', 'DC'), p6Name='Falling leaves', p6IntensityName=NA)
+
+          
+            
+phe_statusintensity_db<-merge(phe_statusintensity_db, P1, all.x=T)
+phe_statusintensity_db<-merge(phe_statusintensity_db, P2, all.x=T)
+phe_statusintensity_db<-merge(phe_statusintensity_db, P3, all.x=T)
+phe_statusintensity_db<-merge(phe_statusintensity_db, P4, all.x=T)
+phe_statusintensity_db<-merge(phe_statusintensity_db, P5, all.x=T)
+phe_statusintensity_db<-merge(phe_statusintensity_db, P6, all.x=T)
+
+
+```
+
+Convert data from wide to long format for publication.
+I still don't know where this step lives (ATBD or ??).  It depends how
+CI chooses to store the data.
+```{r convert from wide to long format}
+P1<-phe_statusintensity_db[,c('domainID', 'siteID', 'date','growthForm', 'p1Name', 'p1IntensityName', 'p1Status', 'invalidp1StatusQF', 'plotID', 'recordedBy',
+                           'measuredBy', 'p1Intensity', 'associatedMediaNumber', 'flagData', 'flagReason', 'remarks',
+                           'completeRecordQF',  'invaliddateQF',  'invalidtagIDQF',  'duplicateDateIndividualIDQF',
+                           'invalidrecordedByQF', 'invalidmeasuredByQF',  'invaliddropPlantQF', 'invalidflagDataQF',
+                           'invalidgrowthFormQF', 'invalidp1IntensityQF', 'individualID') 
+                           ]
+names(P1)[names(P1)=='p1Name']<-'phenophaseName'
+names(P1)[names(P1)=='p1IntensityName']<-'intensityDefinition'
+names(P1)[names(P1)=='p1Status']<-'status'
+names(P1)[names(P1)=='p1Intensity']<-'intensity'
+names(P1)[names(P1)=='invalidp1IntensityQF']<-'invalidIntensityQF'
+names(P1)[names(P1)=='invalidp1StatusQF']<-'invalidStatusQF'
+P1<-P1[P1$growthForm%in%c('DBL', 'EBL', 'EC', 'PINE', 'DC', 'FORB', 'GRS'),]
+
+
+
+P2<-phe_statusintensity_db[,c('domainID', 'siteID', 'date','growthForm', 'p2Name', 'p2IntensityName', 'p2Status', 'invalidp2StatusQF', 'plotID', 'recordedBy',
+                           'measuredBy', 'p2Intensity', 'associatedMediaNumber', 'flagData', 'flagReason', 'remarks',
+                           'completeRecordQF',  'invaliddateQF',  'invalidtagIDQF',  'duplicateDateIndividualIDQF',
+                           'invalidrecordedByQF', 'invalidmeasuredByQF',  'invaliddropPlantQF', 'invalidflagDataQF',
+                           'invalidgrowthFormQF', 'invalidp2IntensityQF', 'individualID') ]
+
+names(P2)[names(P2)=='p2Name']<-'phenophaseName'
+names(P2)[names(P2)=='p2IntensityName']<-'intensityDefinition'
+names(P2)[names(P2)=='p2Status']<-'status'
+names(P2)[names(P2)=='p2Intensity']<-'intensity'
+names(P2)[names(P2)=='invalidp2IntensityQF']<-'invalidIntensityQF'
+names(P2)[names(P2)=='invalidp2StatusQF']<-'invalidStatusQF'
+P2<-P2[P2$growthForm%in%c('DBL', 'EBL', 'EC', 'PINE'),]
+
+
+P3<-phe_statusintensity_db[,c('domainID', 'siteID', 'date','growthForm', 'p3Name', 'p3IntensityName', 'p3Status', 'invalidp3StatusQF', 'plotID', 'recordedBy',
+                           'measuredBy', 'p3Intensity', 'associatedMediaNumber', 'flagData', 'flagReason', 'remarks',
+                           'completeRecordQF',  'invaliddateQF',  'invalidtagIDQF',  'duplicateDateIndividualIDQF',
+                           'invalidrecordedByQF', 'invalidmeasuredByQF',  'invaliddropPlantQF', 'invalidflagDataQF',
+                           'invalidgrowthFormQF', 'invalidp3IntensityQF', 'individualID') 
+                           ]
+names(P3)[names(P3)=='p3Name']<-'phenophaseName'
+names(P3)[names(P3)=='p3IntensityName']<-'intensityDefinition'
+names(P3)[names(P3)=='p3Status']<-'status'
+names(P3)[names(P3)=='p3Intensity']<-'intensity'
+names(P3)[names(P3)=='invalidp3IntensityQF']<-'invalidIntensityQF'
+names(P3)[names(P3)=='invalidp3StatusQF']<-'invalidStatusQF'
+P3<-P3[P3$growthForm%in%c('DBL', 'DC', 'GRS'),]
+
+
+P4<-phe_statusintensity_db[,c('domainID','siteID',  'date', 'growthForm', 'p4Name', 'p4IntensityName', 'p4Status', 'invalidp4StatusQF', 'plotID', 'recordedBy',
+                           'measuredBy', 'p4Intensity', 'associatedMediaNumber', 'flagData', 'flagReason', 'remarks',
+                           'completeRecordQF',  'invaliddateQF',  'invalidtagIDQF',  'duplicateDateIndividualIDQF',
+                           'invalidrecordedByQF', 'invalidmeasuredByQF',  'invaliddropPlantQF', 'invalidflagDataQF',
+                           'invalidgrowthFormQF', 'invalidp4IntensityQF', 'individualID') 
+                           ]
+names(P4)[names(P4)=='p4Name']<-'phenophaseName'
+names(P4)[names(P4)=='p4IntensityName']<-'intensityDefinition'
+names(P4)[names(P4)=='p4Status']<-'status'
+names(P4)[names(P4)=='p4Intensity']<-'intensity'
+names(P4)[names(P4)=='invalidp4IntensityQF']<-'invalidIntensityQF'
+names(P4)[names(P4)=='invalidp4StatusQF']<-'invalidStatusQF'
+
+
+
+P5<-phe_statusintensity_db[,c('domainID', 'siteID', 'date','growthForm', 'p5Name', 'p5IntensityName', 'p5Status', 'invalidp5StatusQF', 'plotID', 'recordedBy',
+                           'measuredBy', 'p5Intensity', 'associatedMediaNumber', 'flagData', 'flagReason', 'remarks',
+                           'completeRecordQF',  'invaliddateQF',  'invalidtagIDQF',  'duplicateDateIndividualIDQF',
+                           'invalidrecordedByQF', 'invalidmeasuredByQF',  'invaliddropPlantQF', 'invalidflagDataQF',
+                           'invalidgrowthFormQF', 'invalidp5IntensityQF', 'individualID') 
+                           ]
+names(P5)[names(P5)=='p5Name']<-'phenophaseName'
+names(P5)[names(P5)=='p5IntensityName']<-'intensityDefinition'
+names(P5)[names(P5)=='p5Status']<-'status'
+names(P5)[names(P5)=='p5Intensity']<-'intensity'
+names(P5)[names(P5)=='invalidp5IntensityQF']<-'invalidIntensityQF'
+names(P5)[names(P5)=='invalidp5StatusQF']<-'invalidStatusQF'
+P5<-P5[P5$growthForm%in%c('DC', 'DBL'),]
+
+
+P6<-phe_statusintensity_db[,c('domainID', 'siteID', 'date','growthForm', 'p6Name', 'p6Status', 'invalidp6StatusQF', 'plotID', 'recordedBy',
+                           'measuredBy', 'associatedMediaNumber', 'flagData', 'flagReason', 'remarks',
+                           'completeRecordQF',  'invaliddateQF',  'invalidtagIDQF',  'duplicateDateIndividualIDQF',
+                           'invalidrecordedByQF', 'invalidmeasuredByQF',  'invaliddropPlantQF', 'invalidflagDataQF',
+                           'invalidgrowthFormQF', 'individualID') 
+                           ]
+names(P6)[names(P6)=='p6Name']<-'phenophaseName'
+#names(P6)[names(P6)=='p6IntensityName']<-'intensityQuestion'
+names(P6)[names(P6)=='p6Status']<-'status'
+#names(P6)[names(P6)=='p6Intensity']<-'intensity'
+#names(P6)[names(P6)=='invalidp6IntensityQF']<-'invalidIntensityQF'
+names(P6)[names(P6)=='invalidp6StatusQF']<-'invalidStatusQF'
+P6$intensity<--9999 # SCE add this to the ATBD
+P6$invalidIntensityQF<-0  # SCE add this to the ATBD
+
+P6<-P6[P6$growthForm%in%c('DC', 'DBL'),]
+
+
+
+#generate outfile
+outfile<-smartbind(P1, P2)
+outfile<-smartbind(outfile, P3)
+outfile<-smartbind(outfile, P4)
+outfile<-smartbind(outfile, P5)
+outfile<-smartbind(outfile, P6)
+
+
+#if the statusQF=1, the proper intensityQF test cannot be done
+#therefore the flag value should be -1 on intensitytests
+outfile$invalidIntensityQF[outfile$invalidStatusQF==1]<--1
+
+
+
+```
+
+These scales should show up in the PDA/desktopPDA pick lists, so this
+step is unnecessary going forward.
+```{r assign scale ranges}
+#figure out type of scale used
+#outfile$scale<-NA
+outfile$intensityValue<-as.character(rep(-9999, nrow(outfile)))
+for (i in 1:nrow (outfile)){
+  scale<-substr(outfile$intensityDefinition[i],1,1)
+  if(!is.na(scale)){
+    if (scale=='#'){
+      if (!is.na(outfile$intensity)[i]){
+      if (outfile$intensity[i]==1){
+        outfile$intensityValue[i]<-'<3'
+        }
+      if (outfile$intensity[i]==2){
+        outfile$intensityValue[i]<-'3-10'
+        }
+      if (outfile$intensity[i]==3){
+        outfile$intensityValue[i]<-'11-100'
+        }
+      if (outfile$intensity[i]==4){
+        outfile$intensityValue[i]<-'101-1000'
+        }
+      if (outfile$intensity[i]==5){
+        outfile$intensityValue[i]<-'1001-10000'
+        }
+      if (outfile$intensity[i]==6){
+        outfile$intensityValue[i]<-'>10000'
+        }
+      }    
+          }
+    if (scale=='%'){
+      if (!is.na(outfile$intensity)[i]){
+      if (outfile$intensity[i]==1){
+        outfile$intensityValue[i]<-'<5'
+        }
+      if (outfile$intensity[i]==2){
+        if (!is.na(outfile$intensityDefinition[i])){
+          if (outfile$intensityDefinition[i]!='% of full size of most leaves'){
+            outfile$intensityValue[i]<-'5-25'
+          }
+          if (outfile$intensityDefinition[i]=='% of full size of most leaves'){
+            outfile$intensityValue[i]<-'<25'
+          }
+        }
+      }
+      if (outfile$intensity[i]==3){
+        outfile$intensityValue[i]<-'25-49'
+        }
+      if (outfile$intensity[i]==4){
+        outfile$intensityValue[i]<-'50-74'
+        }
+      if (outfile$intensity[i]==5){
+        outfile$intensityValue[i]<-'75-95'
+        }
+      if (outfile$intensity[i]==6){
+        outfile$intensityValue[i]<-'>=95'
+        }
+      }
+    }
+  }
+}
+```
+Calculate day of year and add to output
+```{r generate day of year}
+#SCE knows there must be a simpler way to do this, but whatever.
+outfile$dayOfYear<-NA
+outfile$year<-substr(outfile$date, 1,4)
+for (i in 1:nrow (outfile)){
+  date<-outfile$date[i]
+  myDates<-paste(substr(date, start=3, stop=4), substr(date,
+                    start=5, stop=6), substr(date,
+                    start=7, stop=8), sep='/')
+  m<-as.Date(myDates, format = '%y/%m/%d')-as.Date(paste(substr(outfile$year[i],3,4),01,01, sep='/'), format = '%y/%m/%d')
+  outfile$dayOfYear[i]<-as.numeric(str_replace(format(m), ' days', '' ))
+}
+
+
+
+```
+
+We might want to think more generally how we want to use the workflow for
+techs to flag (on entry, or post entry), data known critically to be WRONG.
+For example, if they discover that they accidentally assigned the mammalogist
+to do plant surveys.  Or we hire a loser that enters made up data and sits
+in the truck watching youtube all day.
+```{r generate fieldtechQF}
+
+for (i in 1:nrow (outfile)){
+  if (!is.na(outfile$flagReason[i])&(!is.na(outfile$remarks[i]))){
+  outfile$remarks[i]<-paste(outfile$remarks[i], 'AND', outfile$flagReason[i], sep= '')
+  }
+  if (!is.na(outfile$flagReason[i])&(is.na(outfile$remarks[i]))){
+  outfile$remarks[i]<-outfile$flagReason[i]
+  }
+}
+
+
+names(outfile)[names(outfile)=='flagData']<-'fieldTechDataQF'
+outfile$fieldTechDataQF[is.na(outfile$fieldTechDataQF)]<-0
+```
+
+```{r convert NAs to -9999 for publication}
+#replace all NAs with -9999
+i <- sapply(outfile, is.factor)
+outfile[i] <- lapply(outfile[i], as.character)
+outfile[is.na(outfile)]<--9999
+```
+Removal fatal errors from the dataset.  This won't be necessary once in PDA
+land, these should NEVEr have been entered.
+
+```{r convert reimplement the complete record test and removal fatal errors from the dataset}
+fatalNullCols<-c('phenophaseName', 'growthForm')
+notNullCols<-c('measuredBy', 'recordedBy')
+
+
+outfile$completeRecordQF<-apply (isMissing(outfile[,notNullCols]), 1, max)
+outfile$completeRecordQF<-max(outfile$completeRecordQF, outfile$invalidIntensityQF)
+outfile$deleteMe<-apply (isMissing(outfile[,fatalNullCols]), 1, max)
+
+outfile<-outfile[outfile$deleteMe==0,]
+skipme<-which(names(outfile)=='deleteMe')
+outfile<-outfile[,-skipme]
+
+
+```
+
+
+```{r specific cleanup to make the data look like it would from CIs ingest removing invalid dates, samplingprotocols, locations}
+#records without dates would not have been ingested
+outfile<-outfile[outfile$invaliddateQF!=1,]
+```
+
+
+```{r generate uids}
+genUID<-function(fieldData=phe_perindividual_db){
+  require(uuid)
+  fieldData$uid<-NA
+  for (i in 1:nrow(fieldData)){
+   fieldData$uid[i]<-(UUIDgenerate())
+  }
+  return(fieldData)
+}
+
+phe_perindividual_db<-genUID(phe_perindividual_db)
+phe_statusintensity_db<-genUID(phe_statusintensity_db)
+phe_perdate_db<-genUID(phe_perdate_db)
+outfile<-genUID(outfile)
+```
+
+
+Add full growth form Name.  This also can be built into the PDA/desktop PDA.
+```{r generate full growth form name}
+phe_perindividual_db$growthFormFull<-as.character(rep(-9999, nrow(phe_perindividual_db)))
+phe_perindividual_db$growthFormFull[phe_perindividual_db$growthForm=='FORB']<-'Forb'
+phe_perindividual_db$growthFormFull[phe_perindividual_db$growthForm=='DBL']<-'Deciduous trees and shrubs'
+phe_perindividual_db$growthFormFull[phe_perindividual_db$growthForm=='EC']<-'Evergreen conifer'
+phe_perindividual_db$growthFormFull[phe_perindividual_db$growthForm=='EBL']<-'Evergreen trees and shrubs'
+phe_perindividual_db$growthFormFull[phe_perindividual_db$growthForm=='DC']<-'Deciduous conifer'
+phe_perindividual_db$growthFormFull[phe_perindividual_db$growthForm=='GRS']<-'Grasses, Rushes, and Sedges'
+
+
+outfile$growthFormFull<-as.character(rep(-9999, nrow(outfile)))
+outfile$growthFormFull[outfile$growthForm=='FORB']<-'Forb'
+outfile$growthFormFull[outfile$growthForm=='DBL']<-'Deciduous trees and shrubs'
+outfile$growthFormFull[outfile$growthForm=='EC']<-'Evergreen conifer'
+outfile$growthFormFull[outfile$growthForm=='EBL']<-'Evergreen trees and shrubs'
+outfile$growthFormFull[outfile$growthForm=='DC']<-'Deciduous conifer'
+outfile$growthFormFull[outfile$growthForm=='GRS']<-'Grasses, Rushes, and Sedges'
+
+
+
+```
+
+```{r generate alphaQFs}
+#SCE think about where to put the alpha
+allflags<-grep('QF', names(outfile), value=T)
+outfile$alphaQF<-apply(outfile[,allflags],1,max)
+
+allflags<-grep('QF', names(phe_perdate_db), value=T)
+phe_perdate_db$alphaQF<-apply(phe_perdate_db[,allflags],1,max)
+
+allflags<-grep('QF', names(phe_perindividual_db), value=T)
+phe_perindividual_db$alphaQF<-apply(phe_perindividual_db[,allflags],1,max)
+
+
+
+phe_perdate_pub<-phe_perdate_db[phe_perdate_db$invaliddateQF==0,]
+phe_perdate_pub<-phe_perdate_pub[,c('uid', 'date', 'domainID', 'siteID', 'plotID', 'samplingProtocol',
+'recordedBy', 'measuredBy', 'remarks')]
+
+```
+
+This obviously would have far fewer flags in it, but would be nice to be 
+able to specify a part of the ATBD where we can send suspect records
+back to FOPS to recheck or remeasure, with instructions to update the
+date through SOM-lite
+
+```{r write files out for FOPS to check}
+#SCE output the file here for FOPS to fix any and all flags
+
+#statusintensity
+phe_statusintensity_db_FOPScheck<-phe_statusintensity_db[,names(phe_statusintensity_db)!='uid']
+part1<-phe_statusintensity_db_FOPScheck[,names(phe_statusintensity_in)[names(phe_statusintensity_in)!='uid']]
+part2<-phe_statusintensity_db_FOPScheck[,grep('QF', names (phe_statusintensity_db_FOPScheck))]
+#part2<-phe_statusintensity_db_FOPScheck[,-which(names(phe_statusintensity_db_FOPScheck)%in%(names(phe_statusintensity_in)))]
+phe_statusintensity_db_FOPScheck<-cbind (part1, part2)
+allflags<-c(grep('QF', names (phe_statusintensity_db_FOPScheck)))
+phe_statusintensity_db_FOPScheck$alphaQF<-apply(phe_statusintensity_db_FOPScheck[,allflags],1,max)
+phe_statusintensity_db_FOPScheck<-phe_statusintensity_db_FOPScheck[phe_statusintensity_db_FOPScheck$alphaQF==1,]
+
+#perdate SCE check why this is failing the remarks flag
+phe_perdate_db_FOPScheck<-phe_perdate_db[,names(phe_perdate_db)!='uid']
+part1<-phe_perdate_db_FOPScheck[,names(phe_perdate_in)[names(phe_perdate_in)!='uid']]
+part2<-phe_perdate_db_FOPScheck[,grep('QF', names (phe_perdate_db_FOPScheck))]
+#part2<-phe_perdate_db_FOPScheck[,-which(names(phe_perdate_db_FOPScheck)%in%(names(phe_perdate_in)))]
+phe_perdate_db_FOPScheck<-cbind (part1, part2)
+phe_perdate_db_FOPScheck<-phe_perdate_db_FOPScheck[phe_perdate_db_FOPScheck$alphaQF==1,]
+
+
+#perindividual
+phe_perindividual_db_FOPScheck<-phe_perindividual_db[,names(phe_perindividual_db)!='uid']
+part1<-phe_perindividual_db_FOPScheck[,names(phe_perindividual_in)[names(phe_perindividual_in)!='uid']]
+#part2<-phe_perindividual_db_FOPScheck[,-which(names(phe_perindividual_db_FOPScheck)%in%(names(phe_perindividual_in)))]
+part2<-phe_perindividual_db_FOPScheck[,grep('QF', names (phe_perindividual_db_FOPScheck))]
+phe_perindividual_db_FOPScheck<-cbind (part1, part2)
+
+#for now we are not checking the validity of the taxonIDs in the domain
+skipme<-which(names(phe_perindividual_db_FOPScheck)%in%c('taxonIDDomainStatusQF', 'alphaQF'))
+phe_perindividual_db_FOPScheck<-phe_perindividual_db_FOPScheck[,-skipme]
+allflags<-c(grep('QF', names (phe_perindividual_db_FOPScheck)))
+phe_perindividual_db_FOPScheck$alphaQF<-apply(phe_perindividual_db_FOPScheck[,allflags],1,max)
+phe_perindividual_db_FOPScheck<-phe_perindividual_db_FOPScheck[phe_perindividual_db_FOPScheck$alphaQF==1,]
+
+
+
+write.csv (phe_statusintensity_db_FOPScheck, paste (pathtowriteforFOPS, '/CHECK_phe_statusintensity_D01.csv', sep=''), row.names=F, na='')
+
+write.csv (phe_perdate_db_FOPScheck, paste (pathtowriteforFOPS, '/CHECK_phe_perdate_D01.csv', sep=''), row.names=F, na='')
+
+write.csv (phe_perindividual_db_FOPScheck, paste (pathtowriteforFOPS, '/CHECK_phe_perindividual_D01.csv', sep=''), row.names=F, na='')
+
+
+
+
+
