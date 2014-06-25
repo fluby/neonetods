@@ -1,20 +1,20 @@
 site_id,genus,sp,subsp,common_name,source_id
 BONA,Alces,alces,,Moose,http://www.mendeley.com/research/animal-species-list-bona-1/
 FEXF,Alces,alces,,Moose,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
-HEAL,Alces,alces,,moose,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
+HEAL,Alces,alces,,Moose,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
 POKE,Alces,alces,,Moose,http://www.mendeley.com/research/animal-species-list-bona-1/
 UNDE,Alces,alces,,Moose,http://www.mendeley.com/c/5097547162/g/2058663/underc-mammal-list/
-BART,Alces,alces,,Eurasian Elk,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
-BASC,Alces,alces,,Eurasian Elk,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
-BONA,Alces,alces,,Eurasian Elk,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
-HEAL,Alces,alces,,Eurasian Elk,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
-POKE,Alces,alces,,Eurasian Elk,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
-TOOL,Alces,alces,,Eurasian Elk,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
-UNDE,Alces,alces,,Eurasian Elk,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
-HARV,Alces,alces,,Eurasian Elk,http://www.mendeley.com/c/4939778312/g/2058663/massachussetts-division-of-fish-and-game-2009-massachussetts-state-mammal-list/
-BART,Alces,alces,,Eurasian Elk,http://www.mendeley.com/c/4939778312/g/2058663/massachussetts-division-of-fish-and-game-2009-massachussetts-state-mammal-list/
-RMNP,Alces,alces,,Eurasian Elk,http://www.mendeley.com/c/4939778322/g/2058663/rmnp-rmnp-species-lists/
-RBUT,Alces,americanus,,moose,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
+BART,Alces,alces,,Moose,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
+BASC,Alces,alces,,Moose,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
+BONA,Alces,alces,,Moose,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
+HEAL,Alces,alces,,Moose,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
+POKE,Alces,alces,,Moose,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
+TOOL,Alces,alces,,Moose,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
+UNDE,Alces,alces,,Moose,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
+HARV,Alces,alces,,Moose,http://www.mendeley.com/c/4939778312/g/2058663/massachussetts-division-of-fish-and-game-2009-massachussetts-state-mammal-list/
+BART,Alces,alces,,Moose,http://www.mendeley.com/c/4939778312/g/2058663/massachussetts-division-of-fish-and-game-2009-massachussetts-state-mammal-list/
+RMNP,Alces,alces,,Moose,http://www.mendeley.com/c/4939778322/g/2058663/rmnp-rmnp-species-lists/
+RBUT,Alces,alces,,Moose,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
 CAPL,Ammospermophilus,harrisii,,Harris's Antelope Squirrel,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
 SRER,Ammospermophilus,harrisii,,Harris's Antelope Squirrel,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
 JORN,Ammospermophilus,interpres,,Texas Antelope Squirrel,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
@@ -81,7 +81,7 @@ SRER,Bassariscus,astutus,,Ringtail,http://www.mendeley.com/c/5400303214/g/205866
 TEAK,Bassariscus,astutus,,Ringtail,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
 UOBS,Bassariscus,astutus,,Ringtail,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
 NIWO,Bison,bison,,Bison,http://www.mendeley.com/c/5052628462/g/2058663/mammals-of-the-niwot-ridge-biosphere-reserve/
-DSNY,Blairina,carolinensis,,Southern short-tailed shrew,http://www.mendeley.com/c/5147567754/g/2058663/mammals-of-florida--american-society-of-mammalogists/
+DSNY,Blarina,carolinensis,,Southern short-tailed shrew,http://www.mendeley.com/c/5147567754/g/2058663/mammals-of-florida--american-society-of-mammalogists/
 BLAN,Blarina,brevicauda,,Short-tailed shrew,http://www.mendeley.com/c/4997250582/g/2058663/1996-habitat-fragmentation-and-the-perceived-and-actual-risk-of-predation/
 GRSM,Blarina,brevicauda,,Northern short-tailed shrew,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
 MLBS,Blarina,brevicauda,,Short-tailed shrew,http://www.mendeley.com/c/5069088332/g/2058663/mlbsmammalspdf-applicationpdf-object/
@@ -471,7 +471,7 @@ UOBS,Dasypus,novemcinctus,,Nine-banded Armadillo,http://www.mendeley.com/c/54003
 BASC,Dicrostonyx,groenlandicus,,Nearctic Collared Lemming,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
 TOOL,Dicrostonyx,groenlandicus,,Nearctic Collared Lemming,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
 MLBS,Didelphis,marsupialis,,Opossum,http://www.mendeley.com/c/5069088332/g/2058663/mlbsmammalspdf-applicationpdf-object/
-DSNY,Didelphis,virginia,,Virginia opossum,http://www.mendeley.com/c/5147567754/g/2058663/mammals-of-florida--american-society-of-mammalogists/
+DSNY,Didelphis,virginiana,,Virginia opossum,http://www.mendeley.com/c/5147567754/g/2058663/mammals-of-florida--american-society-of-mammalogists/
 OSBS,Didelphis,virginiana,pigra,Virginia opossum,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
 JERC,Didelphis,virginiana,,opossum,http://www.mendeley.com/c/4974603702/g/2058663/smith-2006-the-vertebrate-fauna-of-ichauway-baker-county-ga/
 ORNL,Didelphis,virginiana,,Opossum ,http://www.mendeley.com/c/5050614152/g/2058663/2011-mammals-of-the-oak-ridge-reservation--revised-december-2011-/
@@ -1313,7 +1313,7 @@ CPER,Mephitis,mephitis,,Striped Skunk,http://www.mendeley.com/c/4939778352/g/205
 RMNP,Mephitis,mephitis,,Striped Skunk,http://www.mendeley.com/c/4939778322/g/2058663/rmnp-rmnp-species-lists/
 ONAQ,Microdipodops,megacephalus,,Dark Kangaroo Mouse,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
 SERC,Microsorex,hoyi,,pygmy shrew,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-SERC,Microtis,pennsylvanicus,,meadow vole,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+SERC,Microtus,pennsylvanicus,,meadow vole,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
 PSRS,Microtus,californicus,,California Vole,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
 SOAP,Microtus,californicus,,California Vole,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
 THAY,Microtus,canicaudus,,Gray-tailed Vole,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
@@ -2133,8 +2133,8 @@ MLBS,Ochrotomys,nuttalli,,Golden Mouse,http://www.mendeley.com/c/5400303214/g/20
 ORNL,Ochrotomys,nuttalli,,Golden Mouse,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
 OSBS,Ochrotomys,nuttalli,,Golden Mouse,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
 TALL,Ochrotomys,nuttalli,,Golden Mouse,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
-JERC,Ochrytomys,nuttalli,,golden mouse,http://www.mendeley.com/c/4974603702/g/2058663/smith-2006-the-vertebrate-fauna-of-ichauway-baker-county-ga/
-RBUT,Odocoileus,heminous,,mule deer,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
+JERC,Ochrotomys,nuttalli,,golden mouse,http://www.mendeley.com/c/4974603702/g/2058663/smith-2006-the-vertebrate-fauna-of-ichauway-baker-county-ga/
+RBUT,Odocoileus,hemionus,,mule deer,http://www.mendeley.com/c/5038504502/g/2058663/red-butte-canyon-mammalian-fauna/
 FEXF,Odocoileus,hemionus,,mule deer,http://www.mendeley.com/c/5077870952/g/2058663/2012-romomammalcertifiedspecieslist/
 JORN,Odocoileus,hemionus,,Mule deer                     ,http://www.mendeley.com/c/5015016762/g/2058663/jornada-jorn-mammal-species-list/
 MOAB,Odocoileus,hemionus,,Mule Deer,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
@@ -2168,8 +2168,8 @@ THAY,Odocoileus,hemionus,,Mule Deer,http://www.mendeley.com/c/5400303214/g/20586
 WREF,Odocoileus,hemionus,,Mule Deer,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
 YELL,Odocoileus,hemionus,,Mule Deer,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
 CPER,Odocoileus,hemionus,,Mule Deer,http://www.mendeley.com/c/4939778352/g/2058663/lter-mammal-species-list/
-OSBS,Odocoileus,virginiana,seminola,White-tailed deer,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
-JERC,Odocoileus,virginiana,,,http://www.mendeley.com/c/4974603722/g/2058663/howze-2009-predator-removal-and-white-tailed-deer-recruitment-in-southwestern-georgia/
+OSBS,Odocoileus,virginianus,seminola,White-tailed deer,http://www.mendeley.com/c/4959343312/g/2058663/annotated-mammal-species-list-of-the-ordway-swisher-biological-station/
+JERC,Odocoileus,virginianus,,,http://www.mendeley.com/c/4974603722/g/2058663/howze-2009-predator-removal-and-white-tailed-deer-recruitment-in-southwestern-georgia/
 GRSM,Odocoileus,virginianus,,White-tailed deer,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
 JERC,Odocoileus,virginianus,,white-tailed deer,http://www.mendeley.com/c/4974603702/g/2058663/smith-2006-the-vertebrate-fauna-of-ichauway-baker-county-ga/
 NOGP,Odocoileus,virginianus,,white-tailed deer,http://www.mendeley.com/c/5145034064/g/2058663/knrimammalcertifiedspecieslist/
@@ -2560,7 +2560,7 @@ DSNY,Peromyscus,polionotus,,Oldfield Deermouse,http://www.mendeley.com/c/5400303
 JERC,Peromyscus,polionotus,,Oldfield Deermouse,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
 OSBS,Peromyscus,polionotus,,Oldfield Deermouse,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
 TALL,Peromyscus,polionotus,,Oldfield Deermouse,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
-DSNY,Peromyscus,polionouts,,Beach mouse; Oldfield mouse,http://www.mendeley.com/c/5147567754/g/2058663/mammals-of-florida--american-society-of-mammalogists/
+DSNY,Peromyscus,polionotus,,Beach mouse; Oldfield mouse,http://www.mendeley.com/c/5147567754/g/2058663/mammals-of-florida--american-society-of-mammalogists/
 MOAB,Peromyscus,truei,,Pinon Mouse,http://www.mendeley.com/c/5051066502/g/2058663/canymammalcertifiedspecieslist/
 CPER,Peromyscus,truei,,Pinon Deermouse,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
 FEXF,Peromyscus,truei,,Pinon Deermouse,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
@@ -3391,7 +3391,7 @@ HARV,Sylvilagus,transitionalis,,New England Cottontail,http://www.mendeley.com/c
 SAWB,Sylvilagus,transitionalis,,New England Cottontail,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
 HARV,Sylvilagus,transitionalis,,New England Cottontail,http://www.mendeley.com/c/4939778312/g/2058663/massachussetts-division-of-fish-and-game-2009-massachussetts-state-mammal-list/
 BART,Sylvilagus,transitionalis,,New England Cottontail,http://www.mendeley.com/c/4939778312/g/2058663/massachussetts-division-of-fish-and-game-2009-massachussetts-state-mammal-list/
-JERC,Sylvilagus,,,,http://www.mendeley.com/c/4971280602/g/2058663/jerc-2012-jercpublications2003present/
+JERC,Sylvilagus,sp.,,,http://www.mendeley.com/c/4971280602/g/2058663/jerc-2012-jercpublications2003present/
 SERC,Synapotmys,cooperi,,southern bog lemming,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
 BONA,Synaptomys,borealis,,Northern Bog Lemming,http://www.mendeley.com/research/animal-species-list-bona-1/
 HEAL,Synaptomys,borealis,,northern bog lemming,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
@@ -3447,7 +3447,7 @@ TALL,Tadarida,brasiliensis,,Brazilian Free-tailed Bat (known as the Mexican Free
 TEAK,Tadarida,brasiliensis,,Brazilian Free-tailed Bat (known as the Mexican Free-tailed Bat in North America),http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
 UKFS,Tadarida,brasiliensis,,Brazilian Free-tailed Bat (known as the Mexican Free-tailed Bat in North America),http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
 UOBS,Tadarida,brasiliensis,,Brazilian Free-tailed Bat (known as the Mexican Free-tailed Bat in North America),http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
-DSNY,Tadarida,braziliensis,,Brazilian free-tailed bat,http://www.mendeley.com/c/5147567754/g/2058663/mammals-of-florida--american-society-of-mammalogists/
+DSNY,Tadarida,brasiliensis,,Brazilian free-tailed bat,http://www.mendeley.com/c/5147567754/g/2058663/mammals-of-florida--american-society-of-mammalogists/
 SERC,Tamasciurus,hudsonicus,,red squirrel,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
 ABBY,Tamias,amoenus,,Yellow-pine Chipmunk,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
 BOZE,Tamias,amoenus,,Yellow-pine Chipmunk,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
@@ -3829,8 +3829,8 @@ YELL,Vulpes,vulpes,,Red Fox,http://www.mendeley.com/c/5400303214/g/2058663/wilso
 HARV,Vulpes,vulpes,,Red Fox,http://www.mendeley.com/c/4939778312/g/2058663/massachussetts-division-of-fish-and-game-2009-massachussetts-state-mammal-list/
 BART,Vulpes,vulpes,,Red Fox,http://www.mendeley.com/c/4939778312/g/2058663/massachussetts-division-of-fish-and-game-2009-massachussetts-state-mammal-list/
 CPER,Vulpes,vulpes,,Red Fox,http://www.mendeley.com/c/4939778352/g/2058663/lter-mammal-species-list/
-SERC,Zapus,hudsonicus,,meadow jumping mice,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
-UNDE,Zapus,hudsonicus,,Meadow Jumping Mouse,http://www.mendeley.com/c/5097547162/g/2058663/underc-mammal-list/
+SERC,Zapus,hudsonius,,meadow jumping mice,http://www.mendeley.com/c/5014927362/g/2058663/oftedal-2009-sercmammallist2009/
+UNDE,Zapus,hudsonius,,Meadow Jumping Mouse,http://www.mendeley.com/c/5097547162/g/2058663/underc-mammal-list/
 BONA,Zapus,hudsonius,,Meadow Jumping Mouse,http://www.mendeley.com/research/animal-species-list-bona-1/
 GRSM,Zapus,hudsonius,,Meadow jumping mouse,http://www.mendeley.com/c/5032797962/g/2058663/grsm-mammals/
 HEAL,Zapus,hudsonius,,meadow jumping mouse,http://www.mendeley.com/c/5050144782/g/2058663/2002-denali-national-park-mammal-checklist/
@@ -3887,15 +3887,15 @@ RMNP,Zapus,princeps,,Western Jumping Mouse,http://www.mendeley.com/c/4939778322/
 ABBY,Zapus,trinotatus,,Pacific Jumping Mouse,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
 THAY,Zapus,trinotatus,,Pacific Jumping Mouse,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
 WREF,Zapus,trinotatus,,Pacific Jumping Mouse,http://www.mendeley.com/c/5400303214/g/2058663/wilson-north-american-mammals/
-CAPL,,,,Black-tailed Jackrabbit,http://www.mendeley.com/c/5017965982/g/2058663/ohmart-2000-vertebrate-species-composition-of-remnant-desert-islands-within-urban-phoenix/
-CAPL,,,,Harris' Antelope Ground Squirrel,http://www.mendeley.com/c/5017965982/g/2058663/ohmart-2000-vertebrate-species-composition-of-remnant-desert-islands-within-urban-phoenix/
-CAPL,,,,Rock Squirrel,http://www.mendeley.com/c/5017965982/g/2058663/ohmart-2000-vertebrate-species-composition-of-remnant-desert-islands-within-urban-phoenix/
-CAPL,,,,Desert Cottontail,http://www.mendeley.com/c/5017965982/g/2058663/ohmart-2000-vertebrate-species-composition-of-remnant-desert-islands-within-urban-phoenix/
-DSNY,,,,southeastern big-eared bat,http://www.mendeley.com/c/4955268692/g/2058663/the-nature-conservancy-2012-disney-wilderness-preserve---about/
-DSNY,,,,Sherman's fox squirrel,http://www.mendeley.com/c/4955268692/g/2058663/the-nature-conservancy-2012-disney-wilderness-preserve---about/
+CAPL,Lepus,,,Black-tailed Jackrabbit,http://www.mendeley.com/c/5017965982/g/2058663/ohmart-2000-vertebrate-species-composition-of-remnant-desert-islands-within-urban-phoenix/
+CAPL,Ammospermophilus,harrisii,,Harris' Antelope Ground Squirrel,http://www.mendeley.com/c/5017965982/g/2058663/ohmart-2000-vertebrate-species-composition-of-remnant-desert-islands-within-urban-phoenix/
+CAPL,Spermophilus,variegatus,,Rock Squirrel,http://www.mendeley.com/c/5017965982/g/2058663/ohmart-2000-vertebrate-species-composition-of-remnant-desert-islands-within-urban-phoenix/
+CAPL,Sylvilagus,,,Desert Cottontail,http://www.mendeley.com/c/5017965982/g/2058663/ohmart-2000-vertebrate-species-composition-of-remnant-desert-islands-within-urban-phoenix/
+DSNY,Corynorhinus,rafinesquii,,southeastern big-eared bat,http://www.mendeley.com/c/4955268692/g/2058663/the-nature-conservancy-2012-disney-wilderness-preserve---about/
+DSNY,Sciurus,niger,shermani,Sherman's fox squirrel,http://www.mendeley.com/c/4955268692/g/2058663/the-nature-conservancy-2012-disney-wilderness-preserve---about/
 TREE,,,,Fisher,http://www.mendeley.com/c/5072967812/g/2058663/treelandmanagementplanpdf-applicationpdf-object/
 TREE,,,,Timber wolf,http://www.mendeley.com/c/5072967812/g/2058663/treelandmanagementplanpdf-applicationpdf-object/
-TREE,,,,American Black Bear,http://www.mendeley.com/c/5072967812/g/2058663/treelandmanagementplanpdf-applicationpdf-object/
-TREE,,,,White tailed deer,http://www.mendeley.com/c/5072967812/g/2058663/treelandmanagementplanpdf-applicationpdf-object/
-TREE,,,,Porcupine,http://www.mendeley.com/c/5072967812/g/2058663/treelandmanagementplanpdf-applicationpdf-object/
-TREE,,,,Raccoon,http://www.mendeley.com/c/5072967812/g/2058663/treelandmanagementplanpdf-applicationpdf-object/
+TREE,Ursus,americanus,,American Black Bear,http://www.mendeley.com/c/5072967812/g/2058663/treelandmanagementplanpdf-applicationpdf-object/
+TREE,Odocoileus,virginianus,,White tailed deer,http://www.mendeley.com/c/5072967812/g/2058663/treelandmanagementplanpdf-applicationpdf-object/
+TREE,Erethizon,dorsata,,Porcupine,http://www.mendeley.com/c/5072967812/g/2058663/treelandmanagementplanpdf-applicationpdf-object/
+TREE,Procyon,lotor,,Raccoon,http://www.mendeley.com/c/5072967812/g/2058663/treelandmanagementplanpdf-applicationpdf-object/

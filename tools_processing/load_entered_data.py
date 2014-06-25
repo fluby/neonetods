@@ -23,7 +23,6 @@ default_species_lists = [
                          ('plants', 'sp_list_plants.csv'),
                          ('inverts', 'sp_list_inverts.csv'),
                          ('herps', 'sp_list_herps.csv'),
-					('status' 'status_raw.csv')
                          ]
 
 def col_split(line):
