@@ -1,0 +1,297 @@
+---
+title: "smammalsPostProc"
+author: "Natalie Robinson"
+date: "Thursday, June 26, 2014"
+output: html_document
+---
+
+This is a file of scripts for post-processing small mammal data. Each code block contains functions that can be
+run independently, and that return a data table called 'fieldData'. This data table can then be fed into additional 
+code blocks, for continued updating based on processing steps, and saved/stored at the end of the workflow.
+
+```{r Load libraries}
+library (xlsx)
+library (xlsxjars)
+library (stringr)
+library (Hmisc)
+```
+
+#Capture-level post-processing steps-----------------------------------------------------------------------------
+#5.2.1  Capture Data: Run the following processing steps for data in mam_capturedata_db
+```{r Read capture-level data file}
+rm(list=ls())
+data<- read.csv("smammal_capture2013.csv", stringsAsFactors=F, na.strings="", header=T)
+```
+
+
+```{r 1. Check for duplicate values, based on plotID/date/trapCoordinate}
+#First, flag complete duplicates IF trapStatus != 7. First record is not flagged and should be published, others are
+#   flagged and should not be published
+# SHOULD uid BE EXCLUDED? (BELOW TOO)
+duplicatesFull<-function(dataTable){
+  dataTable$duplicateRecord<-0
+   for (i in which(duplicated (dataTable[,names(dataTable)]))){
+     if (dataTable$trapStatus[i]!=7){
+       dataTable$duplicateRecord[i]<-1
+     }
+   }
+  fieldData<<-dataTable
+}
+
+#Call:
+duplicatesFull(data)  #For publication, do not publish records with a 1 in the duplicateRecord field
+#    (and do not publish duplicateRecord field)
+
+#Next, if plotID/date/trapCoordinate are the same but trapStatus != 1, flag record. Publish all
+duplicatesSelectFields<-function(dataTable, colNames, QFname){
+   nameQF<-paste('duplicate',QFname,'QF',sep='')
+   colsToValidate<-which(names(dataTable)%in%colNames)
+   dataTable$duplicate<-0   #Initiate 'duplicate' field at 0
+   #Set duplicate records quality flags
+   for (i in which(duplicated(dataTable[,colsToValidate]) | duplicated (dataTable[,colsToValidate], fromLast=TRUE))){   
+      dataTable[i,'duplicate']<-1
+   }
+   #set to 'test not run' value if there is NA in any field in colNames
+   for (i in 1:nrow(dataTable)){    
+       if (sum (is.na(dataTable[i,colsToValidate]))>0){
+          dataTable$duplicate[i]<- -1
+       }
+   }
+   names(dataTable)[names(dataTable)=='duplicate']<-nameQF  #Rename QF field
+   #Remove duplicate records, don't do this if the goal is only to mark records as duplicates
+   #fieldData<-dataTable[-which(dataTable$duplicate==1),]   
+   #Set global output table
+   fieldData<<-dataTable  #Drop indexed part if qual. flag desired
+}
+
+#Call:
+#duplicatesSelectFields(data, colNames=c('date', 'plotID', 'trapCoordinate'), 'TrapCoordinate')
+```
+
+```{r 2. Generate boutNumber and then eventID}
+#Use MoonPhase table to get dates of new moon for 2013, and set bout number
+mp<-read.csv('MoonPhases_2013to2020.csv',header=T,na.strings='')
+newMoon2013<-mp$yr_2013[!is.na(mp$yr_2013)]
+for (i in which(nchar(newMoon2013)==3)){ #Insert 0 before month for first 9 months
+  newMoon2013[i]<-paste("0",newMoon2013[i],sep="")
+}
+
+#Get ranges for each bout
+#This function gets the last day of ea. month, so bouts that span >1 month can be properly calculated
+getLastDay<-function(month){
+  #This relies on month being a string with two characters (e.g., '01' or '12')
+  if(month=='01' | month=='03' | month=='05' | month=='07' | month=='08' | month=='10' | month=='12'){
+    lastDay<-31
+  }else if (month=='04' | month=='06' | month=='09' | month=='11'){
+    lastDay<-30
+  }else{
+    lastDay<-28
+  } 
+  lastDay<<-as.numeric(lastDay)
+}
+
+#Get beginning day of each bout:
+beginDay<-vector()
+for (i in newMoon2013){
+  if ((as.numeric(substring(i,3,4))-14)<0){
+    if (substring(i,1,2) == '01'){
+      yr<-'2012'
+      mo<-'12'
+    }else{
+      yr<-'2013'
+      mo<-as.character(as.numeric(substring(i,1,2))-1)
+      if (nchar(mo)==1){
+        mo<-paste('0',mo,sep='')
+      }
+    }
+    getLastDay(mo)
+    day<-as.character(lastDay-(14-as.numeric(substring(i,3,4))))
+  }else{
+    yr<-'2013'
+    mo<-substring(i,1,2)
+    day<-as.character(as.numeric(substring(i,3,4))-14)
+  }
+  if (nchar(day)==1){
+    day<-paste('0',day,sep='')
+  }
+  bot<-paste(yr,mo,day,sep='')
+  beginDay<-c(beginDay,bot)
+}
+
+#Get end day of each bout:
+endDay<-vector()
+for (i in newMoon2013){
+  mo<-substring(i,1,2)
+  getLastDay(mo)
+  if ((as.numeric(substring(i,3,4))+14) > lastDay){
+    if (substring(i,1,2) == '12'){
+      yr<-'2014'
+      mo<-'01'
+    }else{
+      yr<-'2013'
+      mo<-as.character(as.numeric(substring(i,1,2))+1)
+      if (nchar(mo)==1){
+        mo<-paste('0',mo,sep='')
+      }
+    }
+    day<-as.character(14-(lastDay-as.numeric(substring(i,3,4))))      
+  }else{
+    yr<-'2013'
+    day<-as.character(as.numeric(substring(i,3,4))+14)
+  }
+  if (nchar(day)==1){
+    day<-paste('0',day,sep='')
+  }
+  top<-paste(yr,mo,day,sep='')
+  endDay<-c(endDay,top)
+}
+
+#Add boutNumber to data table based on range (NOTE- this function seems to run correctly, but produces warnings)
+addBout<-function(dataTable,beginDayList,endDayList){
+  dataTable$boutNumber<-NA
+  for (i in 1:length(beginDayList)){
+    dataTable$boutNumber[which(dataTable$date>=beginDayList[i] & dataTable$date<=endDayList[i])]<- i  
+  }
+  for (i in which(nchar(dataTable$boutNumber)==1)){ #Insert 0 before single digit bout numbers
+    dataTable$boutNumber[i]<-paste("0",dataTable$boutNumber[i],sep="")
+  }
+  fieldData<<-dataTable
+}
+
+#Add bout number and eventID:
+addBout(fieldData,beginDay,endDay)
+fieldData$eventID<-paste('MAM.',fieldData$siteID,'.',substring(fieldData$date,1,4),'.',
+                         fieldData$boutNumber,sep='')
+```
+
+```{r 3. Assign individual ID's. If animal was previously captured, get individualID from lookup table, otherwise generate new individualID and add this to the lookup table}
+#Load individualID lookup table
+IDLookup<-read.csv('IndIDTable.csv',header=T)
+
+#Check to see if tagID of animal is assigned to individualID in lookup table, if yes then populate data table with correct individualID, if no then generate new individualID and add record to lookup table
+assignIndID<-function(dataTable){
+  dataTable$individualID<-NA   #Initiate individualID with NA
+  IDLookup<-read.csv('IndIDTable.csv',header=T)   #Load individualID lookup table
+  for (i in 1:nrow(dataTable)){
+    if (is.na(fieldData$tagID[i])){  #Pass records with tagID== NA
+       dataTable$individualID[i]<-NA
+    } else {
+      #Rules for when a tagID is not present in the domain-specific individualID lookup table:
+      if (length(which(IDLookup$tagID==dataTable$tagID[i]))==0){  
+        #If there are no values in the lookup table, initiate the first individual ID at 000001
+        if (length(IDLookup$tagID)==0){
+          N<-sprintf('%06d', 1)
+        #Otherwise, set the new individualID at 1+ the last individualID in the table
+        }else{
+          val<-as.integer(substring(tail(IDLookup$individualID,n=1),14,19))+1
+          N<-sprintf('%06d',val) 
+        }
+        indID<-paste('NEON.MAM.D',sprintf('%02d',dataTable$domainID[i]),'.',N,sep='')
+        dataTable$individualID[i]<-indID #Set the new individualID
+        #Write the output to the lookup table
+        newRow<- c(dataTable$domainID[i],dataTable$tagID[i],indID)      
+        write.table(t(newRow), file = "IndIDTable.csv", sep = ",", col.names = FALSE, row.names=FALSE, append=TRUE)    
+        #Reload individualID lookup table for next iteration of loop
+        IDLookup<-read.csv('IndIDTable.csv',header=T) 
+      #If the tagID is already in the table, assign the corresponding individualID to the record of interest
+      }else{
+        dataTable$individualID[i]<- as.character(IDLookup$individualID[which(IDLookup$tagID==fieldData$tagID[i])])
+      }
+    }
+  }
+  fieldData<<- dataTable
+}
+      
+
+assignIndID(fieldData)
+
+```
+
+
+#ADD ANONOMYZE TECH ID
+
+
+
+#Bout-level post-processing steps-----------------------------------------------------------------------------
+#5.2.2  Per Night Data: Run the following processing steps for data in mam_pernight_db
+```{r Read night-level data file}
+rm(list=ls())
+data<- read.csv("smammal_2013_bout.csv", stringsAsFactors=F, na.strings="", header=T)
+```
+
+```{r 1. Check for duplicate values, based on plotID/date and keep only the record with the greatest # of trapsSet}
+#First, delete complete duplicates
+fieldData<-unique(data)
+
+#Next, check for duplicates based on plotID/date. Only record with greatest # of notTrapsSet should be published
+duplicatesKeepLargest<-function(dataTable,colNames,QFname){
+  colsToValidate<-which(names(dataTable)%in%colNames)
+  nameQF<-paste('duplicate',QFname,'QF',sep='')
+  #split data into tables with: a) records w/duplicates in fields of interest, b) unique records
+  dataTable$duplicate<-0   #Initiate 'duplicate' field at 0
+  a<-dataTable[duplicated (dataTable[,colsToValidate]) | duplicated (dataTable[,colsToValidate], fromLast=TRUE),]
+  b<-dataTable[-c(as.integer(rownames(a))),]
+  #Working the dataframe of duplicates:
+  a$dupDate<-0   #Set a duplicate date field, for sorting columns of interest
+  #Populate duplicate date field with different # for duplicates on new dates - originally written so that records 
+  #   could be sorted and certain ones deleted (e.g., all but that with greatest # notTrapsSet should be deleted)
+  for (i in 1:length(unique(a$date))){   
+    a[which(a$date==unique(a$date)[i]),'dupDate']<- i
+  } 
+  for (i in which(duplicated(a[,'dupDate']) | duplicated (a[,'dupDate'], fromLast=TRUE))){   #Flag all duplicates
+    a$duplicate[i]<-1
+  }
+  #Remove duplicates
+  #a<-a[-which(a$duplicate==1),]
+  a<- a[,-which(names(a)=='dupDate')]
+  fieldData<- data.frame(rbind(a,b))  #Merge with 'uniques' table
+  names(fieldData)[names(fieldData)=='duplicate']<-nameQF  #Rename QF field
+  fieldData<<-fieldData[order(as.integer(rownames(fieldData))),]
+}
+
+#Call:
+#duplicatesKeepLargest(fieldData, colNames=c('date', 'plotID'),'NightQF')
+```
+
+```{r 2. Assign night and year values, using generated boutNumber and eventID values}
+#Add bout number, using function in part    :
+addBout(fieldData,beginDay,endDay)
+
+#Assign year and night (using eventID), and set quality flags where < 3 records exist for a given bout
+yearNight<-function(dataTable, colNames, numRow, nameQF){
+  dataTable$year<-substring(dataTable$date,1,4)
+  #Create temporary field to hold plot/date/bout for the assignment of night
+  dataTable$plotDateBout<-paste(dataTable$plotID,'.',substring(dataTable$date,1,4),'.',dataTable$boutNumber,sep='')
+  dataTable$night<-0; dataTable$missing<-0  #Initiate night and missing records fields at 0
+  for  (i in unique(dataTable$plotDateBout)){     #Subset by unique plot/year/bout combos, and order by date
+    sub<- dataTable[which(dataTable$plotDateBout==i),]; sub<- sub[order(sub$date),]
+    dataTable<-dataTable[-which(dataTable$plotDateBout==i),]  #Remove subset from the data table (to avoid duplicates)
+    for (j in 1:nrow(sub)){   #Assign night values
+      sub[j,'night']<-j
+    }
+    if (nrow(sub)<numRow){
+      sub$missing<-1
+    }
+    dataTable<-rbind(dataTable, sub) #Add subset back onto data table
+  }
+  names(dataTable)[names(dataTable)=='missing']<-nameQF
+  fieldData<<-dataTable
+}
+
+#Call:
+yearNight(fieldData,c('plotID','date'),3,'missingRecordsPerBoutQF')
+```
+
+```{r 3. Generate disturbedTraps }
+
+```
+
+
+```{r 4. If less than three records are found per plot, but additional information is recorded in the capture data, add capture data records to per night data}
+
+```
+
+
+
+
+

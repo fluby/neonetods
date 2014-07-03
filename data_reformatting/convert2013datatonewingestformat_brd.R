@@ -10,6 +10,8 @@ path_to_jar = "C:/Program Files/postgresql-8.4-703.jdbc4.jar"
 drv <- JDBC("org.postgresql.Driver", path_to_jar)
 conn <- dbConnect (drv, "jdbc:postgresql://fsumysql.ci.neon.local:5432/dodobase", "fsu", "fsurocks")
 
+# NEED TO IMPLEMENT: If plotID is Null  and pointID is recorded as "88",  this indicates the detection of a species of special interest while traveling between point count locations. The plotID should be set to the plotID of the immediately adjacent record (first, use the plotID associated with the point that was sampled immediately prior to the 88 record . If no sampling occurred prior to the observation, use the plotID associated with the point that was sampled immediately after the 88 record .) 
+
 sqlStatement <- paste("SELECT * FROM mammals_neon.capture_data_2013", sep="")
 data_2013 <- dbGetQuery(conn, sqlStatement)
 
