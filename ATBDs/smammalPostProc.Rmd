@@ -20,7 +20,7 @@ library (Hmisc)
 #5.2.1  Capture Data: Run the following processing steps for data in mam_capturedata_db
 ```{r Read capture-level data file}
 rm(list=ls())
-data<- read.csv("smammal_capture2013.csv", stringsAsFactors=F, na.strings="", header=T)
+data<- read.csv("Smammals/smammal_capture2013.csv", stringsAsFactors=F, na.strings="", header=T)
 ```
 
 
@@ -195,7 +195,7 @@ assignIndID<-function(dataTable){
         IDLookup<-read.csv('IndIDTable.csv',header=T) 
       #If the tagID is already in the table, assign the corresponding individualID to the record of interest
       }else{
-        dataTable$individualID[i]<- as.character(IDLookup$individualID[which(IDLookup$tagID==fieldData$tagID[i])])
+        dataTable$individualID[i]<- as.character(IDLookup$individualID[which(IDLookup$tagID==dataTable$tagID[i])])
       }
     }
   }
@@ -216,15 +216,16 @@ assignIndID(fieldData)
 #5.2.2  Per Night Data: Run the following processing steps for data in mam_pernight_db
 ```{r Read night-level data file}
 rm(list=ls())
-data<- read.csv("smammal_2013_bout.csv", stringsAsFactors=F, na.strings="", header=T)
+data<- read.csv("Smammals/smammal_2013_bout.csv", stringsAsFactors=F, na.strings="", header=T)
 ```
 
 ```{r 1. Check for duplicate values, based on plotID/date and keep only the record with the greatest # of trapsSet}
 #First, delete complete duplicates
-fieldData<-unique(data)
+#This assumes that the uid is in the first column, & will need alteration if that is not true
+fieldData<-fieldData[which(!duplicated(fieldData[,2:dim(fieldData)[2]])==TRUE),]
 
 #Next, check for duplicates based on plotID/date. Only record with greatest # of notTrapsSet should be published
-duplicatesKeepLargest<-function(dataTable,colNames,QFname){
+duplicatesKeepLargest<-function(dataTable,colNames,QFname,dateField,orderField){
   colsToValidate<-which(names(dataTable)%in%colNames)
   nameQF<-paste('duplicate',QFname,'QF',sep='')
   #split data into tables with: a) records w/duplicates in fields of interest, b) unique records
@@ -235,9 +236,13 @@ duplicatesKeepLargest<-function(dataTable,colNames,QFname){
   a$dupDate<-0   #Set a duplicate date field, for sorting columns of interest
   #Populate duplicate date field with different # for duplicates on new dates - originally written so that records 
   #   could be sorted and certain ones deleted (e.g., all but that with greatest # notTrapsSet should be deleted)
-  for (i in 1:length(unique(a$date))){   
-    a[which(a$date==unique(a$date)[i]),'dupDate']<- i
-  } 
+  colNum<-which(colnames(a)==dateField) #First, identify column holding date information
+  for (i in 1:length(unique(a[,colNum]))){   
+    a[which(a[,colNum]==unique(a[,colNum])[i]),'dupDate']<- i
+  }
+  #Reorder based on 'ordering field' (e.g., trapsSet). 1st in series of duplicated records should be published
+  orderNum<-which(colnames(a)==orderField)
+  a<-a[with(a, order(a[,colNum],-a[,orderNum])),] 
   for (i in which(duplicated(a[,'dupDate']) | duplicated (a[,'dupDate'], fromLast=TRUE))){   #Flag all duplicates
     a$duplicate[i]<-1
   }
@@ -245,12 +250,14 @@ duplicatesKeepLargest<-function(dataTable,colNames,QFname){
   #a<-a[-which(a$duplicate==1),]
   a<- a[,-which(names(a)=='dupDate')]
   fieldData<- data.frame(rbind(a,b))  #Merge with 'uniques' table
-  names(fieldData)[names(fieldData)=='duplicate']<-nameQF  #Rename QF field
-  fieldData<<-fieldData[order(as.integer(rownames(fieldData))),]
+  names(fieldData)[names(fieldData)=='duplicate']<-nameQF  #Rename QF field if is to be published
+  #Alternately, remove QF field in data contain no duplicate values 
+  #a<- a[,-which(names(a)=='duplicate')]
+  fieldData<<-fieldData
 }
 
 #Call:
-#duplicatesKeepLargest(fieldData, colNames=c('date', 'plotID'),'NightQF')
+#duplicatesKeepLargest(fieldData, colNames=c('date', 'plotID'),'Night','date','trapsSet')
 ```
 
 ```{r 2. Assign night and year values, using generated boutNumber and eventID values}
