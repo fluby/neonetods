@@ -1,0 +1,93 @@
+taxonID,unacceptedBinomial,acceptedBinomial
+lio_ver,Liochlorophis vernalis,Opheodrys vernalis
+oll_neb,Ollotis nebulifer,Incilius nebulifer
+oll_alv,Ollotis alvaria,Incilius alvarius
+ran_pip,Rana pipiens,Lithobates pipiens
+ran_are,Rana areolata,Lithobates areolatus
+ran_bla,Rana blairi,Lithobates blairi
+ran_cap,Rana capito,Lithobates capito
+ran_cat,Rana catesbeiana,Lithobates catesbeianus
+ran_chi,Rana chiricahuensis,Lithobates chiricahuensis
+ran_cla,Rana clamitans,Lithobates clamitans
+ran_gry,Rana grylio,Lithobates grylio
+ran_hec,Rana heckscheri,Lithobates heckscheri
+ran_pal,Rana palustris,Lithobates palustris
+ran_sep,Rana septentrionalis,Lithobates septentrionalis
+ran_sph,Rana sphenocephala,Lithobates sphenocephalus
+ran_syl,Rana sylvatica,Lithobates sylvaticus
+ran_vir,Rana virgatipes,Lithobates virgatipes
+ran_tar,Rana tarahumarae,Lithobates tarahumarae
+sca_bom,Scaphiopus bombifrons,Spea bombifrons
+ple_oco,Plethodon oconaluftee,Plethodon teyahalee
+buf_mar,Bufo marinus,Rhinella marina
+asp_bur,Aspidoscelis burti,Aspidoscelis stictogramma
+asp_dix,Aspidoscelis dixoni,Aspidoscelis tesselata
+asp_gyp,Aspidoscelis gypsi,Aspidoscelis inornata gypsi
+eum_ant,Eumeces anthracinus,Plestiodon anthracinus
+eum_egr,Eumeces egregius,Plestiodon egregius
+eum_egr3,Eumeces egregius lividus,Plestiodon egregius lividus
+eum_egr2,Eumeces egregius onocrepis,Plestiodon egregius onocrepis
+eum_fas,Eumeces fasciatus,Plestiodon fasciatus
+eum_gai,Eumeces gaigeae,Plestiodon multivirgatus epipleurotus
+eum_ine,Eumeces inexpectatus,Plestiodon inexpectatus
+eum_lat,Eumeces laticeps,Plestiodon laticeps
+eum_mul,Eumeces multivirgatus,Plestiodon multivirgatus
+eum_obs,Eumeces obsoletus,Plestiodon obsoletus
+buf_ame,Bufo americanus,Anaxyrus americanus
+buf_ame2,Bufo americanus americanus,Anaxyrus americanus americanus
+buf_bor,Bufo boreas,Anaxyrus boreas
+buf_cog,Bufo cognatus,Anaxyrus cognatus
+buf_deb,Bufo debilis,Anaxyrus debilis
+buf_fow,Bufo fowleri,Anaxyrus fowleri
+buf_hem,Bufo hemiophrys,Anaxyrus hemiophrys
+buf_pun,Bufo punctatus,Anaxyrus punctatus
+buf_que,Bufo quercicus,Anaxyrus quercicus
+buf_ter,Bufo terrestris,Anaxyrus terrestris
+buf_woo,Bufo woodhousii,Anaxyrus woodhousii
+cne_exa,Cnemidophorus exanguis,Aspidoscelis exsanguis
+cne_neo,Cnemidophorus neomexicanus,Aspidoscelis neomexicana
+cne_sex,Cnemidophorus sexlineatus,Aspidoscelis sexlineata
+cne_sex2,Cnemidophorus sexlineatus sexlineatus,Aspidoscelis sexlineata sexlineata
+cne_tig,Cnemidophorus tigris,Aspidoscelis tigris
+cne_uni,Cnemidophorus uniparens,Aspidoscelis uniparens
+dry_cor,Drymarchon corais couperi,Drymarchon couperi
+hyp_tor,Hypsiglena torquata,Hypsiglena chlorophaea
+hyp_tor,Hypsiglena torquata,Hypsiglena jani
+hyp_tor,Hypsiglena torquata,Hypsiglena ochrorhyncha
+mas_bil,Masticophis bilineatus,Coluber bilineatus
+mas_fla2,Masticophis flagellum,Coluber flagellum
+mas_fla,Masticophis flagellum flagellum,Coluber flagellum flagellum
+mas_tae,Masticophis taeniatus,Coluber taeniatus
+pel_pla2,Pelamis platurus,Pelamis platura
+lep_dul,Leptotyphlops dissectus,Rena dissectus
+lep_dul2,Leptotyphlops dulcis,Rena dulcis
+lep_dul3,Leptotyphlops dulcis dulcis,Rena dulcis dulcis
+lep_hum,Leptotyphlops dulcis rubellum,Rena dulcis rubellum
+lep_hum2,Leptotyphlops humilis,Rena humilis
+lep_hum3,Leptotyphlops humilis cahuilae,Rena humilis cahuilae
+lep_hum4,Leptotyphlops humilis humilis,Rena humilis humilis
+lep_hum5,Leptotyphlops humilis segregus,Rena humilis segregus
+lep_hum6,Leptotyphlops humilis utahensis,Rena humilis utahensis
+sto_dek10,Storeria dekayi victa,Storeria victa
+tri_bis2,Trimorphodon biscutatus lambda,Trimorphodon lambda
+tri_bis3,Trimorphodon biscutatus lyrophanes,Trimorphodon lyrophanes
+apa_spi7,Apalone spinifera hartwegi,Apalone spinifera spinifera
+cle_ins,Clemmys insculpta,Glyptemys insculpta
+pse_flo,Pseudemys floridana,Pseudemys concinna
+phe_mad,Phelsuma madagascariensis,Phelsuma grandis
+cne_gra,Cnemidophorus grahamii,Aspidoscelis tesselata
+cne_ino,Cnemidophorus innotatus,Aspidoscelis velox
+cyc_cor,Cyclura cornuta stejnegeri,Cyclura stejnegeri
+ela_emo,Elaphe emoryi,Pantherophis emoryi
+ela_gut,Elaphe guttata,Pantherophis guttatus
+ela_obs,Elaphe obsoleta,Pantherophis obsoletus
+ela_vul,Elaphe vulpina,Pantherophis vulpinus
+ela_spi,Elephe spiloides,Pantherophis spiloides
+hyl_cru,Hyla crucifer,Pseudacris crucifer
+lam_tri12,Lampropeltis triangulum temporalis,Lampropeltis triangulum triangulum
+lim_ocu,Limnaoedus ocularis,Pseudacris ocularis
+neo_rey,Neoseps reynoldsi,Plestiodon reynoldsi
+sti_ext,Stilosoma extenuatum,Lampropeltis extenuata
+tri_fer,Trionyx ferox,Apalone ferox
+tri_spi,Trionyx spiniferus,Apalone spinifera
+sci_rur,Scinax rubra,Scinax ruber
