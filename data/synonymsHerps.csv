@@ -22,13 +22,13 @@ ple_oco,Plethodon oconaluftee,Plethodon teyahalee
 buf_mar,Bufo marinus,Rhinella marina
 asp_bur,Aspidoscelis burti,Aspidoscelis stictogramma
 asp_dix,Aspidoscelis dixoni,Aspidoscelis tesselata
-asp_gyp,Aspidoscelis gypsi,Aspidoscelis inornata gypsi
+asp_gyp,Aspidoscelis gypsi,Aspidoscelis inornata
 eum_ant,Eumeces anthracinus,Plestiodon anthracinus
 eum_egr,Eumeces egregius,Plestiodon egregius
-eum_egr3,Eumeces egregius lividus,Plestiodon egregius lividus
-eum_egr2,Eumeces egregius onocrepis,Plestiodon egregius onocrepis
+eum_egr3,Eumeces egregius,Plestiodon egregius
+eum_egr2,Eumeces egregius,Plestiodon egregius
 eum_fas,Eumeces fasciatus,Plestiodon fasciatus
-eum_gai,Eumeces gaigeae,Plestiodon multivirgatus epipleurotus
+eum_gai,Eumeces gaigeae,Plestiodon multivirgatus
 eum_ine,Eumeces inexpectatus,Plestiodon inexpectatus
 eum_lat,Eumeces laticeps,Plestiodon laticeps
 eum_mul,Eumeces multivirgatus,Plestiodon multivirgatus
@@ -50,7 +50,7 @@ cne_sex,Cnemidophorus sexlineatus,Aspidoscelis sexlineata
 cne_sex2,Cnemidophorus sexlineatus sexlineatus,Aspidoscelis sexlineata sexlineata
 cne_tig,Cnemidophorus tigris,Aspidoscelis tigris
 cne_uni,Cnemidophorus uniparens,Aspidoscelis uniparens
-dry_cor,Drymarchon corais couperi,Drymarchon couperi
+dry_cor,Drymarchon corais,Drymarchon couperi
 hyp_tor,Hypsiglena torquata,Hypsiglena chlorophaea
 hyp_tor,Hypsiglena torquata,Hypsiglena jani
 hyp_tor,Hypsiglena torquata,Hypsiglena ochrorhyncha
@@ -68,7 +68,7 @@ lep_hum3,Leptotyphlops humilis cahuilae,Rena humilis cahuilae
 lep_hum4,Leptotyphlops humilis humilis,Rena humilis humilis
 lep_hum5,Leptotyphlops humilis segregus,Rena humilis segregus
 lep_hum6,Leptotyphlops humilis utahensis,Rena humilis utahensis
-sto_dek10,Storeria dekayi victa,Storeria victa
+sto_dek10,Storeria dekayi,Storeria victa
 tri_bis2,Trimorphodon biscutatus lambda,Trimorphodon lambda
 tri_bis3,Trimorphodon biscutatus lyrophanes,Trimorphodon lyrophanes
 apa_spi7,Apalone spinifera hartwegi,Apalone spinifera spinifera
@@ -91,3 +91,17 @@ sti_ext,Stilosoma extenuatum,Lampropeltis extenuata
 tri_fer,Trionyx ferox,Apalone ferox
 tri_spi,Trionyx spiniferus,Apalone spinifera
 sci_rur,Scinax rubra,Scinax ruber
+eur_wal,Eurycea wallacei,Haideotriton wallacei
+mas_sch,Masticophis schotti,Coluber schotti
+pan_glo,Pantherophis gloydi,Pantherophis ramspotti
+ren_dsc,Rena dissecta,Rena dissectus
+sce_ser,Sceloporus serrifer,Sceloporus cyanogenys
+sce_jrv,Sceloporus jarrovi,Sceloporus jarrovii
+asp_sep,Aspidoscelis septemvittata,Aspidoscelis scalaris
+lit_sub,Lithobates subaquavocalis,Lithobates chiricahuensis
+mas_lat,Masticophis lateralis,Coluber lateralis
+phr_crn,Phrynosoma coronatum,Phrynosoma blainvillii
+phy_xan,Phyllodactylus xanti,Phyllodactylus nocticolus
+sce_van,Sceloporus vandenburgianus,Sceloporus graciosus
+tar_srr,Taricha sierra,Taricha sierrae
+cne_xan,Cnemidophorus xanthonotus,Aspidoscelis xanthonota
