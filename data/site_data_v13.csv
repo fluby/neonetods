@@ -1,0 +1,61 @@
+domain,domainName,siteName,PM_Code,SiteID,Type,subType,Lat,Long,Zone,Northing,Easting,County,State,Ownership,scienceTheme
+1,Northeast,Harvard Forest,D01C,HARV,Advanced,,42.536900,-72.172660,18,4713265.041137,732183.193774,Worcester,MA,"Harvard University, LTER",
+1,Northeast,Bartlett Experimental Forest,D01R1,BART,Relocatable,Relocatable Tower 1,44.063880,-71.287310,19,4881511.5519750,316812.159508,Carroll,NH,U.S. Forest Service,Climate
+1,Northeast,"Sawmill Brook Conservation Area -Burlington, MA",D01R2,SAWB,Relocatable,Relocatable Tower 2,42.523950,-71.182930,19,4710261.6242970,320701.730098,Middlesex,MA,"Town of Burlington, MA",Urbanization
+2,Mid-Atlantic,Smithsonian Conservation Biology Institute,D02C,SCBI,Advanced,,38.892920,-78.139500,17,4308784.078341,748090.647295,Warren,VA,Smithsonian Institution,
+2,Mid-Atlantic,Blandy Experimental Farm,D02R2,BLAN,Relocatable,Relocatable Tower 2,39.060260,-78.071640,17,4327545.8838800,753379.542088,Clarke,VA,University of Virginia,Invasive Species
+2,Mid-Atlantic,Smithsonian Environmental Research Center,D02R1,SERC,Relocatable,Relocatable Tower 1,38.890080,-76.560010,18,4305735.3000850,364703.662397,Anne Arundel,MD,Smithsonian Institution,Invasive Species
+3,Southeast,Ordway-Swisher Biological Station,D03C,OSBS,Advanced,,29.689270,-81.993430,17,3284767.488743,403886.418032,Putnam,FL,University of Florida Foundation,
+3,Southeast,Disney Wilderness Preserve,D03R1,DSNY,Relocatable,Relocatable Tower 1,28.125040,-81.436200,17,3111130.6894470,457161.092436,Osceola,FL,The Nature Conservancy,Forest Management
+3,Southeast,Jones Ecological Research Center,D03R2,JERC,Relocatable,Relocatable Tower 2,31.194840,-84.468610,16,3453956.3707510,741205.722381,Baker,GA,"Private, Robert W. Woodruff Foundation",Forest Management
+4,Atlantic Neotropical,Guanica Forest,D04C,GUAN,Advanced,,17.969550,-66.868700,19,1988112.213266,725706.128480,Guanica Municipio,PR,"State Forest, Dept. of Natural and Environmental Resources, Commonwealth of Puerto Rico",
+4,Atlantic Neotropical,Lajas Experimental Station,D04R1,LAJA,Relocatable,Relocatable Tower 1,18.021250,-67.076900,19,1993593.8712890,703591.128106,Lajas Municipio,PR,University of Puerto Rico,Agriculture
+4,Atlantic Neotropical,Mameyes,D04R2,MAME,Relocatable,Relocatable Tower 2,18.022010,-66.613710,19,1994249.0381720,752647.017563,Ponce Municipio,PR,"Municipality of Puerto Rico, Ponce",Urbanization
+5,Great Lakes,UNDERC,D05C,UNDE,Advanced,,46.233880,?89.53725,16,5123162.885706,304366.950153,Gogebic,MI,University of Notre Dame Environmental Research Center,
+5,Great Lakes,Steigerwaldt Land Services,D05R1,STEI,Relocatable,Relocatable Tower 1,45.508942,-89.586365,16,5042743.8522070,297968.686426,Lincoln,WI,Steigerwaldt Land Services,Forest Management
+5,Great Lakes,Treehaven,D05R2,TREE,Relocatable,Relocatable Tower 2,45.493725,-89.585718,16,5041051.7234560,297964.790108,Lincoln,WI,"University of Wisconsin, Stevens Point",Forest Management
+6,Prairie Peninsula,Konza Prairie Biological Station,D06C1,KONZ,Advanced,,39.100770,-96.563090,14,4330786.533667,710729.797994,Riley,KS,"The Nature Conservancy, Kansas State University, LTER",
+6,Prairie Peninsula,Konza Prairie Biological Station,D06R2,KONA,Relocatable,Relocatable Tower 2,39.110440,-96.612950,14,4331745.2806430,706389.453830,Riley,KS,"The Nature Conservancy, Kansas State University",Agriculture
+6,Prairie Peninsula,The University of Kansas Field Station,D06R1,UKFS,Relocatable,Relocatable Tower 1,39.040430,-95.192150,15,4323549.8479750,310276.297626,Jefferson,KS,University of Kansas,Agriculture
+7,Appalachians & Cumberland Plateau,Oak Ridge,D07C,ORNL,Advanced,,35.964120,-84.282600,16,3983383.087247,745052.435407,Anderson,TN,U.S. Department of Energy,
+7,Appalachians & Cumberland Plateau,"Great Smoky Mountains National Park, Twin Creeks",D07R2,GRSM,Relocatable,Relocatable Tower 2,35.688960,-83.501950,17,3952335.2894750,273599.876503,Sevier,TN,National Park Service,Climate
+7,Appalachians & Cumberland Plateau,Mountain Lake Biological Station,D07R1,MLBS,Relocatable,Relocatable Tower 1,37.378280,-80.524840,17,4136943.4400000,542067.640000,Giles,VA,"Private - Little Stony Inc, University of Virginia",Climate
+8,Ozarks Complex,Talladega National Forest,D08C,TALL,Advanced,,32.950460,-87.393270,16,3645863.572991,463241.719202,Bibb,AL,U.S. Forest Service,
+8,Ozarks Complex,Dead Lake,D08R1,DELA,Relocatable,Relocatable Tower 1,32.541720,-87.803890,16,3524154.8175010,389258.983726,Greene,AL,U.S. Army Corps of Engineers,Climate
+8,Ozarks Complex,Lenoir Landing,D08R2,LENO,Relocatable,Relocatable Tower 2,31.853880,-88.161220,16,3524827.1669510,390139.617213,Choctaw,AL,U.S. Army Corps of Engineers,Climate
+9,Northern Plains,Woodworth,D09C,WOOD,Advanced,,47.128228,-99.241356,14,5219442.039286,481694.721150,Stutsman,ND,"U.S. Geological Survey, U.S. Fish and Wildlife Service",
+9,Northern Plains,Dakota Coteau Field School,D09R1,DCFS,Relocatable,Relocatable Tower 1,47.161647,-99.106556,14,5223133.1167240,491923.484011,Stutsman,ND,State of North Dakota Land Trust,Agriculture
+9,Northern Plains,Northern Great Plains Research Laboratory,D09R2,NOGP,Relocatable,Relocatable Tower 2,46.769720,?100.91535,14,5181355.7126920,353761.603172,Morton,ND,"U.S. Department of Agriculture,  Agricultural Research Service",Agriculture
+10,Central Plains,Central Plains Experimental Range,D10C,CPER,Advanced,,40.815534,-104.745602,13,4518311.062080,521454.770587,Weld,CO,"U.S. Department of Agriculture, Agriculture Research Service, LTER",
+10,Central Plains,"North Sterling, CO",D10R1,STER,Relocatable,Relocatable Tower 1,40.461903,-103.029297,13,4480891.0975430,667084.955856,Logan,CO,Private - Glibert Lindstrom,Agriculture
+10,Central Plains,"Rocky Mountain National Park, CASTNET",D10R2,RMNP,Relocatable,Relocatable Tower 2,40.275910,?105.54592,13,4458524.2028870,453588.411839,Larimer,CO,National Park Service,Climate
+11,Southern Plains,LBJ National Grassland ,D11C1,CLBJ,Advanced,,33.401230,-97.570000,14,3696682.441126,632982.218266,Wise,TX,U. S. Forest Service,
+11,Southern Plains,Klemme Range Research Station,D11R1,OAES,Relocatable,Relocatable Tower 1,35.410590,-99.058790,14,3918579.0669170,494662.250420,Washita,OK,"Oklahoma State University, Oklahoma Agricultural Experimental Station",Invasive Species
+11,Southern Plains,Wichita Mountains Wildlife Reserve,D11R2,WICH,Relocatable,Relocatable Tower 2,34.745120,-98.715150,14,3844815.3741890,526073.414149,Comanche,OK,U.S. Fish and Wildlife Service,Invasive Species
+12,Northern Rockies,Yellowstone Northern Range (Frog Rock),D12C1,YELL,Advanced,,44.953480,-110.539140,12,4977885.935111,536352.199157,Park,MT,National Park Service,
+12,Northern Rockies,"Bozeman, MT",D12R1,BOZE,Relocatable,Relocatable Tower 1,45.669850,-111.055900,12,5057368.1466690,495645.862222,Gallatin,MT,Montana State University,Urbanization
+12,Northern Rockies,"Paradise Valley, MT",D12R2,PARA,Relocatable,Relocatable Tower 2,45.392911,-110.716300,12,5026638.4809960,522206.550316,Park,MT,Montana Department of Natural Resources,Urbanization
+13,Southern Rockies,Niwot Ridge Mountain Research Station,D13C1,NIWO,Advanced,,40.054250,-105.582370,13,4433940.916776,450328.284787,Boulder,CO,"University of Colorado at Boulder, U.S. Forest Service, LTER",
+13,Southern Rockies & Colorado Plateau,Moab,D13R1,MOAB,Relocatable,Relocatable Tower 1,38.248330,-109.388270,12,4234596.5093770,641031.470833,San Juan,UT,Bureau of Land Management,Climate
+13,Southern Rockies & Colorado Plateau,Fraser Experimental Forest,D13R2,FRAS,Relocatable,Relocatable Tower 2,39.892670,-105.891710,13,4416225.2404260,423764.311744,Grand,CO,U.S. Forest Service,Climate
+14,Desert Southwest,Santa Rita Experimental Range,D14C,SRER,Advanced,,31.910680,-110.835490,12,3530547.118293,515553.903125,Pima,AZ,University of Arizona,
+14,Desert Southwest,Jornada LTER,D14R1,JORN,Relocatable,Relocatable Tower 1,32.590680,-106.842540,13,3607409.1600000,327074.620000,Dona Ana,NM,"U.S. Department of Agriculture, Agricultural Research Service",Climate
+14,Desert Southwest,Relocatable,D14R2,,Relocatable,Relocatable Tower 2,,,12,,,,AZ,,Urbanization
+15,Great Basin,Onaqui-Ault,D15C,ONAQ,Advanced,,40.177590,-112.452440,12,4448479.605893,376339.685919,Tooele,UT,"Bureau of Land Management, U.S. Forest Service",
+15,Great Basin,Red Butte Canyon Research Natural Area,D15R2,RBUT,Relocatable,Relocatable Tower 2,40.782050,-111.803940,12,4514873.8700000,432164.850000,Salt Lake,UT,"U.S. Forest Service, University of Utah",Urbanization
+15,Great Basin,Relocatable,D15R1,,Relocatable,Relocatable Tower 1,,,12,,,,,,Urbanization
+16,Pacific Northwest,Wind River Experimental Forest,D16C1,WREF,Advanced,,45.820488,-121.951912,10,5074636.870193,581417.802429,Skamania,WA,U.S. Forest Service,
+16,Pacific Northwest,Abby Road,D16R2,ABBY,Relocatable,Relocatable Tower 2,45.762430,-122.330330,10,5067870.4287330,552075.542578,Clark,WA,Washington Department of Natural Resources,Forest Management
+16,Pacific Northwest,Thayer,D16R1,THAY,Relocatable,Relocatable Tower 1,45.714380,-122.340240,10,5062525.5925650,551348.937936,Clark,WA,Washington Department of Natural Resources,Forest Management
+17,Pacific Southwest,San Joaquin,D17C1,SJER,Advanced,,37.108780,-119.732280,11,4110433.937470,257213.975190,Madera,CA,U.S. Forest Service,
+17,Pacific Southwest,Lower Teakettle,D17R2,TEAK,Relocatable,Relocatable Tower 2,37.005830,-119.006020,11,4097400.1833420,321515.735197,Fresno,CA,U.S. Forest Service ,Climate
+17,Pacific Southwest,Soaproot Saddle,D17R1,SOAP,Relocatable,Relocatable Tower 1,37.033370,-119.262190,11,4100967.2527420,298792.741022,Fresno,CA,U.S. Forest Service ,Climate
+18,Tundra,Toolik Lake,D18C1,TOOL,Advanced,,68.661090,-149.370470,6,7618427.658944,403757.147014,North Slope,AK,Bureau of Land Management,
+18,Tundra,Barrow Environmental Observatory,D18R1,BASC,Relocatable,Relocatable Tower 1,71.282410,-156.619360,4,7910571.9862130,585246.129873,North Slope,AK,Barrow Environmental Observatory,Climate
+19,Taiga,Caribou Creek - Poker Flats Watershed,D19C,BONA,Advanced,,65.154010,-147.502580,6,7225712.648358,476436.739456,Fairbanks North Star,AK,University of Alaska,
+19,Taiga,Delta Junction,D19R1,DEJU,Relocatable,Relocatable Tower 1,63.881120,-145.751360,6,7084367.2156880,561330.060776,Southeast Fairbanks,AK,Bureau of Land Management,Climate
+19,Taiga,Healy,D19R3,HEAL,Relocatable,Relocatable Tower 3,63.875690,-149.213340,6,7085047.8650530,391276.598563,Denali,AK,Alaska Department of Natural Resources,Climate
+19,Taiga,Poker Flat,D19R2,POKE,Relocatable,Relocatable Tower 2,65.112980,-147.422740,6,7221112.5053960,480149.346485,Fairbanks North Star,AK,"Alaska Department of Natural Resources, University of Alaska Fairbanks",Climate
+20,Pacific Tropical,Upper Waiakea Forest Reserve,D20C1,OLAA,Advanced,,19.557680,-155.271030,5,2164116.713914,261733.152658,Hawaii,HI,"Hawaii State Forest Reserve System Department of Land and Natural Resources, Dividion of Forestry and Wildlife",
+20,Pacific Tropical,Puu Waa Waa Forest Site,D20R1,PUWI,Relocatable 1,Relocatable Tower 1,19.737590,-155.859070,5,2184969.8650030,200337.212027,Hawaii,HI,"Hawaii State Forest Reserve System Department of Land and Natural Resources, Division of Forestry and Wildlife",Invasive Species
+20,Pacific Tropical,Puu Waa Waa Grassland Site,D20R2,PUWU,Relocatable 2,Relocatable Tower 2,19.740650,-155.874940,5,2185336.9568940,198678.523515,Hawaii,HI,"Hawaii State Forest Reserve System Department of Land and Natural Resources, Division of Forestry and Wildlife",Invasive Species
