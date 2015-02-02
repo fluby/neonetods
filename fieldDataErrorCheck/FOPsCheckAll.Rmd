@@ -1,0 +1,260 @@
+---
+title: "FOPsCheckbet"
+author: "Sarah"
+date: "Thursday, January 29, 2015"
+output: word_document
+---
+
+```{r setup, echo=FALSE}
+#set this to the dropbox
+pathtocsvs<-'Y:/'
+
+options(stringsAsFactors=F)
+
+prefixes<-c('tck', 'vst', 'sls','phe', 'mos', 'mam', 'div', 'dhp',
+            'bet')
+#set this to the prefix for the sheets in your module
+myPrefix<-prefixes[1] #ticks
+#myPrefix<-prefixes[2] #vst
+#myPrefix<-prefixes[3] #sls
+#myPrefix<-prefixes[4] #phe
+myPrefix<-prefixes[5] #mos
+myPrefix<-prefixes[6] #mam
+myPrefix<-prefixes[7] #div
+myPrefix<-prefixes[8] #dhp
+myPrefix<-prefixes[9] #bet
+
+```
+
+
+List of all the files uploaded to the dropbox for the `r myPrefix` module.
+
+Includes ones that are not csvs or otherwise have naming problems.
+```{r see problems, echo=FALSE}
+#notes of problem files
+
+#general - often they are saving the "_in" part in the exported name
+
+#tck
+#D01, 3 files
+# tck_collection_in_D01.CSV -> wrong file naming convention, not checked
+# tck_collection.txt -> wrong file naming convention, D01 please fix, not checked
+# tck_collection_D01.CSV -> I assume this is the correct one and the others can be deleted
+# D05
+#saved with column headers, not checked
+
+#vst
+#D01
+#saved as txt and csv, which is right?
+#D08
+#only saved as txt
+#vst_perother_perbout.csv
+#D03 is saving their file without the domain in there
+#vst_perother_perbout.csv'
+
+#sls
+#D01 
+# 2 copies, do we want one the other or both?
+#  [1] "sls_soilcorecollection_D01.CSV"          "sls_soilcorecollection_D01_20140528.CSV"
+#d10 saved as text
+#sls_soilcorecollection_D10.txt"
+
+Filelist<-list.files(pathtocsvs) #list all the files
+string <-c(paste(myPrefix, '\\_', sep=''))
+Filelist<-Filelist[grep (string,Filelist)] #subset to just the ones in your module
+
+print (Filelist)
+Filelist<-Filelist[grep ('.csv',Filelist)] #subset to just the uploaded csvs
+```
+
+Summary of csv files in the `r myPrefix` module.
+
+Count of tables uploaded per domain, followed by names of tables per domain.
+
+
+```{r summary of number of uploaded tables containing text DXX.csv per domain, echo=FALSE, results='asis'}
+library (knitr)
+myDomains<-paste('D0', c(1:9), sep="")
+myDomains<-c(myDomains, paste ('D', c(10:20), sep=""))
+
+mySummary<-data.frame(Domain=myDomains)
+mySummary$numTables<-rep(NA, nrow(mySummary))
+mySummary$whichTables<-rep(NA, nrow(mySummary))
+for (i in 1:nrow(mySummary)){
+  mySummary$numTables[i]<-length(grep(paste(mySummary$Domain[i], '.csv', sep=''),Filelist))
+  whichTables<-grep(paste(mySummary$Domain[i], '.csv', sep=''),Filelist, value=T)
+  mySummary$whichTables[i]<-paste(whichTables, collapse='|')
+}
+
+
+#print ('*************************************')
+#print (paste('summary of files in the', myPrefix, 'module'))
+#print ('count of tables uploaded per domain, followed by names of tables per domain')
+kable(mySummary, format='markdown')
+
+```
+
+
+
+Summary of whether header info is correct.
+
+Any problem files idenfied here are uncheckable due to header either missing or
+formatted wrong.
+
+Suggest you JIRA ticket to FOPS to fix these.
+
+
+```{r stack by table type, echo=FALSE}
+
+#find types of tables
+Filelist2<-Filelist
+for (i in myDomains){
+  #this is just because people forgot to take off the _in
+  string<-'\\_in\\.'
+  Filelist2<-gsub(string,'\\.' ,Filelist2)
+  #this is just because people forgot to take off the _in
+  string<-'\\_in\\_'
+  Filelist2<-gsub(string,'\\_' ,Filelist2)
+  
+  #hard to predict this one
+  string<-'\\_20140604'
+  Filelist2<-gsub(string,'' ,Filelist2)
+
+  
+  #this should need to be done  
+  string<-paste('\\_', i, '\\.csv', sep='')
+  Filelist2<-gsub(string,'' ,Filelist2)  
+  
+}
+
+#or forgot to put in their domains
+string<-'\\.csv'
+Filelist2<-gsub(string,'' ,Filelist2)
+
+Filelist2<-unique (Filelist2)
+
+#then read in by type
+#set warning for any csv that doesn't
+#have the right column names
+#and don't concatenate into the ingest
+
+findMostCommon<-function(x){
+  ranks<-summary (as.factor(sort(x)))
+  return(names(ranks)[ranks==max(ranks)])
+}
+
+
+for (i in Filelist2){
+  myList<-list()
+  for (j in myDomains){
+    string<-paste(pathtocsvs, i, '_',j, '.csv', sep='')
+    if (file.exists(string)){
+      myList[[j]]<-read.csv(paste(string))
+    }
+  }
+  #checknames
+  totnm<-NULL
+  for (n in 1:length(myList)){
+    totnm<-rbind(totnm, names(myList[[n]]))
+  }
+  bestnm<-NULL
+  for (o in 1:ncol(totnm)){
+    bestnm<-c(bestnm, findMostCommon(totnm[,o]))
+  }
+  
+  if (length(myList)>1){
+    for (k in (length(myList)-1):1){
+      if (sum(which(names(myList[[k]])!=bestnm))>0){
+        print (paste ('problem with', names(myList)[k], i))
+        myList<-myList[-k]
+      }
+    }
+    suppressWarnings(assign(i,do.call(rbind.data.frame, myList)))
+  }else(assign(i, myList[1]))  
+  rm(myList)
+}
+
+
+```
+
+Checking each of your tables for:
+(1) which columns contain blanks
+
+(2) unique values for string fields, and
+
+(3) min/max for numeric fields
+
+**Check the outputs carefully for anything that should have further constrained
+entry (canBeNull and/or dropdowns and/or range constraints)** 
+
+**Scan the remarks carefully for anything the techs should be capturing more
+systematically (i.e. that actually affect data use, plan on noone actually
+reading these), and adjust your ingest accordingly.**
+
+```{r check contents of only correctly formatted files, echo=FALSE}
+containsNulls<-function(x){
+  max(is.na(x)|x=='')
+}
+
+errorCheck<-function(myFile){
+  #myFile<-sls_soilcorecollection
+  
+  nullColNames<-NULL
+  for (i in 1:ncol(myFile)){
+    if (containsNulls(myFile[,i])){
+      nullColNames<-c(nullColNames, names(myFile)[i])
+    }
+  }
+  print ('the following columns have been left blank at least once')
+  print (nullColNames)
+  cat ('\n')
+  
+  charcols <- which(sapply(myFile, is.factor))
+  charcols <-c(charcols, which(sapply(myFile, is.character)))
+  
+    #this shoudl work but doesn't not sure why
+  #sapply(myFile[,i], unique, 1)
+  print ('unique values entered for strings')
+  for (i in charcols){
+    print (names(myFile[i]))
+    print(unique(myFile[,i]))
+    cat ('\n')
+  }
+  
+  numcols<- which(sapply(myFile, is.numeric))
+  numcols<- c(numcols, which(sapply(myFile, is.integer)))
+  
+  print ('min/max values entered for numeric fields')
+  
+  for (i in numcols){
+    #print (names(myFile[i]))
+    print (paste ("min", names(myFile[i]),'=', min(myFile[,i], na.rm=T)))
+    print (paste ("max", names(myFile[i]),'=', max(myFile[,i], na.rm=T)))
+    cat ('\n')
+    #print()
+    #print ("max")
+    #print(max(myFile[,i], na.rm=T))
+  }
+}
+
+#print ('*************************************')
+##print ('summary of file contents, for files that were named correctly and had header info')
+
+for (i in Filelist2){
+  #print (/n)
+  #print (\n)
+  #make sure object exists, if all reads failed it won't
+  if (i%in%ls()){
+    #make sure there is some data in it
+    if (!is.null(nrow(eval(parse(text = i))))){
+      cat ('\n')
+      cat ('\n')
+      print ('********************************************************************')
+      print (i)  
+      errorCheck(eval(parse(text = i)))
+      print ('********************************************************************')
+    }
+  }
+}
+
+```
