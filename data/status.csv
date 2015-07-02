@@ -7247,11 +7247,11 @@ Zanthoxylum,hawaiiense,NA,Hawaii,Endangered,NA,NA,NA
 Zanthoxylum,thomasianum,NA,Puerto Rico,Endangered,NA,NA,NA
 Zapus,hudsonius,preblei,Wyoming,Threatened,NA,USA north-central CO,NA
 Zapus,hudsonius,NA,Alabama,NA,Rare or uncommon,State protected,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
-Zapus,hudsonius,NA,Arizona,NA,Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Zapus,hudsonius,NA,Arizona,Endangered,Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Zapus,hudsonius,luteus,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Zapus,hudsonius,preblei,Colorado,Threatened,NA,U.S.A. north-central CO,NA
 Zapus,hudsonius,preblei,Colorado,NA,Threatened,NA,http://www.mendeley.com/c/5091918642/g/2058663/colorado-species-status-state-listing/
-Zapus,hudsonius,NA,New Mexico,NA,Endangered,NA,http://www.mendeley.com/c/5137922484/g/2058663/new-mexico-state-designated-species-status/
+Zapus,hudsonius,NA,New Mexico,Endangered,Endangered,NA,http://www.mendeley.com/c/5137922484/g/2058663/new-mexico-state-designated-species-status/
 Zephyranthes,atamasca,treatiae,Alabama,NA,Critically imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Zephyranthes,atamasca,NA,Florida,NA,Threatened,NA,http://www.mendeley.com/c/5605595494/g/2058663/2012-dwp-listed-plants/
 Zigadenus,leimanthoides,NA,Alabama,NA,Critically imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
@@ -7268,3 +7268,5 @@ Glaucomys,sabrinus,,Virginia,Endangered,Endangered,,
 Zapus,hudsonius,luteus,Arizona,Endangered,NA,,http://ecos.fws.gov/speciesProfile/profile/speciesProfile?spcode=A0BX
 Zapus,hudsonius,luteus,New Mexico,Endangered,NA,,http://ecos.fws.gov/speciesProfile/profile/speciesProfile?spcode=A0BX
 Zapus,hudsonius,luteus,Colorado,Endangered,NA,,http://ecos.fws.gov/speciesProfile/profile/speciesProfile?spcode=A0BX
+Zapus,hudsonius,,New Mexico,Endangered,,,
+Zapus,hudsonius,,Colorado,Endangered,,,
