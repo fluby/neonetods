@@ -17,9 +17,9 @@ Accipiter,cooperii,NA,Alabama,NA,Rare or uncommon,State protected,http://www.men
 Accipiter,gentilis,NA,Maryland,NA,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Accipiter,gentilis,NA,Washington,NA,Candidate,NA,http://www.mendeley.com/c/5144569454/g/2058663/washington-state-species-of-concern-lists/
 Accipiter,striatus,NA,Maryland,NA,NA,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Accipiter,striatus,venator,Puerto Rico,Endangered,NA,NA,NA
 Accipiter,striatus,NA,Massachusetts,NA,Special Concern,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
 Accipiter,striatus,NA,Tennessee,NA,in need of management,NA,https://www.zotero.org/groups/178496/items/itemKey/ISP6CBBN/q/introduction%20to%20the
+Accipiter,striatus,venator,Puerto Rico,Endangered,NA,NA,NA
 Achatinella spp.,NA,NA,Hawaii,Endangered,NA,NA,NA
 Achyranthes,mutica,NA,Hawaii,Endangered,NA,NA,NA
 Achyranthes,splendens,rotundata,Hawaii,Endangered,NA,NA,NA
@@ -45,14 +45,14 @@ Acipenser,fulvescens,NA,Alabama,NA,Presumed extirpated,State protected,http://ww
 Acipenser,medirostris,NA,California,Threatened,NA,U.S.A.,NA
 Acipenser,medirostris,NA,Washington,NA,Threatened,NA,http://www.mendeley.com/c/5144569454/g/2058663/washington-state-species-of-concern-lists/
 Acipenser,oxyrinchus,desotoi,Louisiana,Threatened,NA,NA,NA
-Acipenser,oxyrinchus,NA,Maryland,NA,NA,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Acipenser,oxyrinchus,desotoi,Alabama,Threatened,NA,NA,NA
 Acipenser,oxyrinchus,desotoi,Alabama,NA,Critically imperiled,State protected,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Acipenser,oxyrinchus,desotoi,Florida,Threatened,NA,NA,NA
-Acipenser,oxyrinchus,NA,Florida,NA,Special Concern,NA,http://www.mendeley.com/c/5092052772/g/2058663/florida-species-status-state-listed/
 Acipenser,oxyrinchus,desotoi,Georgia,Threatened,NA,NA,NA
-Acipenser,oxyrinchus,NA,Massachusetts,NA,Endangered,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
 Acipenser,oxyrinchus,desotoi,Mississippi,Threatened,NA,NA,NA
+Acipenser,oxyrinchus,NA,Maryland,NA,NA,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Acipenser,oxyrinchus,NA,Florida,NA,Special Concern,NA,http://www.mendeley.com/c/5092052772/g/2058663/florida-species-status-state-listed/
+Acipenser,oxyrinchus,NA,Massachusetts,NA,Endangered,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
 Acipenser,transmontanus,NA,California,Endangered,NA,U.S.A.,NA
 Acipenser,transmontanus,NA,Montana,NA,Endangered,NA,http://www.mendeley.com/c/5147076304/g/2058663/montana-species-of-interest/
 Acipenser,transmontanus,NA,Oregon,Endangered,NA,USA ID MT Canada BC Kootenai R system,NA
@@ -141,8 +141,8 @@ Ageratina,aromatica,NA,Massachusetts,NA,Endangered,NA,http://www.mendeley.com/c/
 Agkistrodon,contortrix,NA,Massachusetts,NA,Endangered,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
 Agnorisma,bollii,NA,Maryland,NA,NA,Uncertain status,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Agonum,belleri,NA,Washington,NA,Candidate,NA,http://www.mendeley.com/c/5144569454/g/2058663/washington-state-species-of-concern-lists/
-Agosia,chrysogaster,NA,Arizona,NA,Vulnerable,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Agosia,chrysogaster,chrysogaster,Arizona,NA,Vulnerable,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Agosia,chrysogaster,NA,Arizona,NA,Vulnerable,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Agosia,chrysogaster,ssp,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Agrimonia,incisa,NA,Alabama,NA,Imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Agrimonia,parviflora,NA,Massachusetts,NA,Endangered,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
@@ -302,19 +302,19 @@ Ammodramus,henslowii,NA,Virginia,NA,Threatened,NA,http://www.mendeley.com/c/5144
 Ammodramus,leconteii,NA,Alabama,NA,Rare or uncommon,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Ammodramus,leconteii,NA,North Dakota,NA,Need for conservation; little support,NA,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
 Ammodramus,maritimus,fisheri,Alabama,NA,Rare or uncommon,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
-Ammodramus,maritimus,mirabilis,Florida,Endangered,NA,NA,NA
-Ammodramus,maritimus,peninsulae,Florida,NA,Special Concern,NA,http://www.mendeley.com/c/5092052772/g/2058663/florida-species-status-state-listed/
 Ammodramus,maritimus,juncicola,Florida,NA,Special Concern,NA,http://www.mendeley.com/c/5092052772/g/2058663/florida-species-status-state-listed/
+Ammodramus,maritimus,mirabilis,Florida,Endangered,NA,NA,NA
 Ammodramus,maritimus,NA,New Hampshire,NA,Near-threatened,NA,http://www.mendeley.com/c/5093651382/g/2058663/new-hampshire-species-status-state-listing-for-species-of-special-concern/
+Ammodramus,maritimus,peninsulae,Florida,NA,Special Concern,NA,http://www.mendeley.com/c/5092052772/g/2058663/florida-species-status-state-listed/
 Ammodramus,nelsoni,NA,Alabama,NA,Rare or uncommon,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Ammodramus,nelsoni,NA,New Hampshire,NA,Near-threatened,NA,http://www.mendeley.com/c/5093651382/g/2058663/new-hampshire-species-status-state-listing-for-species-of-special-concern/
 Ammodramus,nelsonii,NA,North Dakota,NA,Greatest need for conservation,NA,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Ammodramus,savannarum,NA,Alabama,NA,Rare or uncommon,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
-Ammodramus,savannarum,floridanus,Florida,Endangered,NA,NA,NA
-Ammodramus,savannarum,NA,Massachusetts,NA,Threatened,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
 Ammodramus,savannarum,ammolegus,New Mexico,NA,Endangered,NA,http://www.mendeley.com/c/5137922484/g/2058663/new-mexico-state-designated-species-status/
-Ammodramus,savannarum,NA,North Dakota,NA,Greatest need for conservation,NA,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Ammodramus,savannarum,floridanus,Florida,Endangered,NA,NA,NA
 Ammodramus,savannarum,floridanus,Florida,Endangered,Endangered,NA,http://www.mendeley.com/c/5605595424/g/2058663/2012-dwp-listed-vertebrates/
+Ammodramus,savannarum,NA,Alabama,NA,Rare or uncommon,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
+Ammodramus,savannarum,NA,Massachusetts,NA,Threatened,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
+Ammodramus,savannarum,NA,North Dakota,NA,Greatest need for conservation,NA,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
 Ammospermophilus,leucurus,tersus,Arizona,NA,Historical possibly extirpated,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Ammospermophilus,nelsoni,NA,California,NA,Threatened,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
 Amoreuxia,gonzalezii,NA,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
@@ -388,8 +388,8 @@ Anolis,roosevelti,NA,Puerto Rico,Endangered,NA,NA,NA
 Anthopotamus,verticis,NA,Maryland,NA,NA,Uncertain status,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Anthus,rubescens,NA,New Hampshire,NA,Near-threatened,NA,http://www.mendeley.com/c/5093651382/g/2058663/new-hampshire-species-status-state-listing-for-species-of-special-concern/
 Anthus,spragueii,NA,North Dakota,NA,Greatest need for conservation,NA,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Antilocapra,americana,sonoriensis,Arizona,Endangered,NA,entire,NA
 Antilocapra,americana,mexicana,Arizona,NA,Presumed extinct,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Antilocapra,americana,sonoriensis,Arizona,Endangered,NA,entire,NA
 Antilocapra,americana,sonoriensis,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Antrobia,culveri,NA,Missouri,Endangered,NA,NA,NA
 Antrolana,lira,NA,Virginia,Threatened,NA,NA,NA
@@ -519,8 +519,8 @@ Asio,flammeus,NA,North Dakota,NA,Need for conservation; little support,NA,http:/
 Asio,otus,NA,Maryland,NA,NA,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Asio,otus,NA,Massachusetts,NA,Special Concern,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
 Aspidoscelis,burti,NA,Arizona,NA,Vulnerable,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
-Aspidoscelis,burti,stictogrammus,Arizona,NA,Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Aspidoscelis,burti,NA,New Mexico,NA,Threatened,NA,http://www.mendeley.com/c/5137922484/g/2058663/new-mexico-state-designated-species-status/
+Aspidoscelis,burti,stictogrammus,Arizona,NA,Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Aspidoscelis,dixoni,NA,New Mexico,NA,Endangered,NA,http://www.mendeley.com/c/5137922484/g/2058663/new-mexico-state-designated-species-status/
 Aspidoscelis,xanthonota,NA,Arizona,NA,Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Asplenium,bradleyi,NA,Alabama,NA,Imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
@@ -532,11 +532,11 @@ Asplenium,montanum,NA,Massachusetts,NA,Endangered,NA,http://www.mendeley.com/c/5
 Asplenium,pinnatifidum,NA,Wisconsin,NA,Threatened,NA,http://www.mendeley.com/c/5144553034/g/2058663/wisconsin-endangered-and-threatened-species-laws--list/
 Asplenium,ruta-muraria,NA,Alabama,NA,Imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Asplenium,ruta-muraria,NA,Massachusetts,NA,Threatened,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
-Asplenium,scolopendrium,var. americanum,Michigan,Threatened,NA,NA,NA
 Asplenium,scolopendrium,americanum,New York,Threatened,NA,NA,NA
 Asplenium,scolopendrium,americanum,Tennessee,Threatened,NA,NA,NA
 Asplenium,scolopendrium,americanum,Alabama,Threatened,NA,NA,NA
 Asplenium,scolopendrium,americanum,Alabama,NA,Critically imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
+Asplenium,scolopendrium,var. americanum,Michigan,Threatened,NA,NA,NA
 Asplenium,trichomanes,NA,Alabama,NA,Imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Asplenium,trichomanesamosum,NA,Wisconsin,NA,Endangered,NA,http://www.mendeley.com/c/5144553034/g/2058663/wisconsin-endangered-and-threatened-species-laws--list/
 Asplenium,x,ebenoides,Alabama,NA,HYB,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
@@ -573,8 +573,8 @@ Astragalus,humillimus,NA,Colorado,Endangered,NA,NA,NA
 Astragalus,hypoxylus,NA,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Astragalus,jaegerianus,NA,California,Endangered,NA,NA,NA
 Astragalus,lentiginosus,coachellae,California,Endangered,NA,NA,NA
-Astragalus,lentiginosus,piscinensis,California,Threatened,NA,NA,NA
 Astragalus,lentiginosus,NA,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Astragalus,lentiginosus,piscinensis,California,Threatened,NA,NA,NA
 Astragalus,magdalenae,peirsonii,California,Threatened,NA,NA,NA
 Astragalus,michauxii,NA,Georgia,NA,Threatened,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
 Astragalus,montii,NA,Utah,Threatened,NA,NA,NA
@@ -601,12 +601,12 @@ Athearnia,anthonyi,NA,Tennessee,Endangered,NA,Entire Range; Except where listed 
 Athearnia,anthonyi,NA,Alabama,Endangered,NA,Entire Range; Except where listed as Experimental Populations,NA
 Athearnia,anthonyi,NA,Alabama,NA,Critically imperiled,State protected,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Athearnia,anthonyi,NA,Georgia,Endangered,NA,Entire Range Except where listed as Experimental Populations,NA
+Athene,cunicularia,floridana,Florida,NA,Species of special concern,NA,http://www.mendeley.com/c/5605595424/g/2058663/2012-dwp-listed-vertebrates/
 Athene,cunicularia,NA,Alabama,NA,Imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Athene,cunicularia,NA,Colorado,NA,Threatened,NA,http://www.mendeley.com/c/5091918642/g/2058663/colorado-species-status-state-listing/
 Athene,cunicularia,NA,Florida,NA,Special Concern,NA,http://www.mendeley.com/c/5092052772/g/2058663/florida-species-status-state-listed/
 Athene,cunicularia,NA,North Dakota,NA,Need for conservation; little support,NA,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
 Athene,cunicularia,NA,Washington,NA,Candidate,NA,http://www.mendeley.com/c/5144569454/g/2058663/washington-state-species-of-concern-lists/
-Athene,cunicularia,floridana,Florida,NA,Species of special concern,NA,http://www.mendeley.com/c/5605595424/g/2058663/2012-dwp-listed-vertebrates/
 Atlides,halesus,NA,Maryland,NA,Threatened,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Atractosteus,spatula,NA,Alabama,NA,Imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Atriplex,coronata,notatior,California,Endangered,NA,NA,NA
@@ -731,8 +731,8 @@ Boechera,missouriensis,NA,Massachusetts,NA,Threatened,NA,http://www.mendeley.com
 Boerhavia,megaptera,NA,Arizona,NA,Vulnerable,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Bolboschoenus,fluviatilis,NA,Tennessee,NA,special concern,NA,https://www.zotero.org/groups/178496/items/itemKey/ISP6CBBN/q/introduction%20to%20the
 Boloria,acrocnema,NA,Colorado,Endangered,NA,NA,NA
-Boloria,selene,NA,Maryland,NA,NA,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Boloria,selene,atrocostalis,Washington,NA,Candidate,NA,http://www.mendeley.com/c/5144569454/g/2058663/washington-state-species-of-concern-lists/
+Boloria,selene,NA,Maryland,NA,NA,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Boloria,titania,montinus,New Hampshire,NA,Endangered,NA,http://www.mendeley.com/c/5093636202/g/2058663/new-hampshire-species-status-state-listing/
 Boltonia,decurrens,NA,Illinois,Threatened,NA,NA,NA
 Boltonia,decurrens,NA,Missouri,Threatened,NA,NA,NA
@@ -798,8 +798,8 @@ Bursera,fagaroides,NA,Arizona,NA,Historical possibly extirpated,NA,http://www.me
 Buteo,albicaudatus,NA,Texas,NA,Threatened,NA,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
 Buteo,albonotatus,NA,Texas,NA,Threatened,NA,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
 Buteo,lineatus,NA,Wisconsin,NA,Threatened,NA,http://www.mendeley.com/c/5144553034/g/2058663/wisconsin-endangered-and-threatened-species-laws--list/
-Buteo,nitidus,NA,Arizona,NA,Vulnerable,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Buteo,nitidus,maxima,Arizona,NA,Vulnerable,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Buteo,nitidus,NA,Arizona,NA,Vulnerable,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Buteo,nitidus,NA,Texas,NA,Threatened,NA,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
 Buteo,platypterus,brunnescens,Puerto Rico,Endangered,NA,NA,NA
 Buteo,regalis,NA,Arizona,NA,Imperiled,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
@@ -923,16 +923,16 @@ Campeloma,decampi,NA,Alabama,NA,Critically imperiled,State protected,http://www.
 Campephillus,principalis,NA,Maryland,NA,Endangered/Extirpated,Believed to be extirpated,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Campephilus,NA,principalis,Mississippi,Endangered,NA,entire,NA
 Campephilus,pricipalis,NA,Alabama,NA,Presumed extirpated,State protected,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
+Campephilus,principalis,entire,Louisiana,Endangered,NA,entire,NA
+Campephilus,principalis,entire,Florida,Endangered,NA,entire,NA
 Campephilus,principalis,NA,Georgia,NA,Endangered,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
 Campephilus,principalis,NA,Illinois,Endangered,NA,entire,NA
 Campephilus,principalis,NA,Kentucky,Endangered,NA,NA,NA
-Campephilus,principalis,entire,Louisiana,Endangered,NA,entire,NA
 Campephilus,principalis,NA,North Carolina,Endangered,NA,entire,NA
 Campephilus,principalis,NA,Oklahoma,Endangered,NA,NA,NA
 Campephilus,principalis,NA,South Carolina,Endangered,NA,NA,NA
 Campephilus,principalis,NA,Texas,Endangered,NA,entire,NA
 Campephilus,principalis,NA,Arkansas,Endangered,NA,entire,NA
-Campephilus,principalis,entire,Florida,Endangered,NA,entire,NA
 Campephilus,principalis,NA,Georgia,Endangered,NA,NA,NA
 Campephilus,principalis,NA,Missouri,Endangered,NA,entire,NA
 Campostoma,anomalum,NA,North Dakota,NA,Some need for conservation; ND is near the edge of species range,NA,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
@@ -945,13 +945,12 @@ Canavalia,molokaiensis,NA,Hawaii,Endangered,NA,NA,NA
 Canavalia,napaliensis,NA,Hawaii,Endangered,NA,NA,NA
 Canis,lupis,NA,New Mexico,NA,Endangered,NA,http://www.mendeley.com/c/5137922484/g/2058663/new-mexico-state-designated-species-status/
 Canis,lupis,NA,North Dakota,NA,Some need for conservation; ND is near the edge of species range,NA,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Canis,lupus,baileyi,Arizona,NA,Presumed extinct,Critically Imperiled,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Canis,lupus,NA,California,Endangered,NA,U.S.A. All of AL AR CA CO CT DE FL GA KS KY LA MA MD ME MO MS NC NE NH NJ NV NY OK PA RI SC TN VA VT and WV those portions of AZ NM and TX not included in an experimental population and portions of IA IN IL ND OH OR SD UT and WA Mexico,NA
 Canis,lupus,NA,Maryland,NA,Endangered/Extirpated,Believed to be extirpated,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Canis,lupus,NA,Alabama,Endangered,NA,U.S.A.: All of AL AR CA CO CT DE FL GA KS KY LA MA MD ME MO MS NC NE NH NJ NV NY OK PA RI SC TN VA VT WV those portions of AZ NM and TX not included in an experimental population; and portions of IA IN IL ND OH OR SD UT and WA. Mexico,NA
 Canis,lupus,NA,Arizona,Endangered,NA,U.S.A.: All of AL AR CA CO CT DE FL GA KS KY LA MA MD ME MO MS NC NE NH NJ NV NY OK PA RI SC TN VA VT and WV those portions of AZ NM and TX not included in an experimental population and portions of IA IN IL ND OH OR SD UT and WA Mexico,NA
 Canis,lupus,NA,Arizona,NA,Historical possibly extirpated,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
-Canis,lupus,baileyi,Arizona,NA,Presumed extinct,Critically Imperiled,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
-Canis,lupus,youngi,Arizona,NA,Presumed extinct,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Canis,lupus,NA,Arkansas,Endangered,NA,U.S.A.: All of AL AR CA CO CT DE FL GA KS KY LA MA MD ME MO MS NC NE NH NJ NV NY OK PA RI SC TN VA VT and WV those portions of AZ NM and TX not included in an experimental population and portions of IA IN IL ND OH OR SD UT and WA Mexico,NA
 Canis,lupus,NA,Colorado,Endangered,NA,U.S.A. All of AL AR CA CO CT DE FL GA KS KY LA MA MD ME MO MS NC NE NH NJ NV NY OK PA RI SC TN VA VT and WV those portions of AZ NM and TX not included in an experimental population and portions of IA IN IL ND OH OR SD UT and WA Mexico,NA
 Canis,lupus,NA,Colorado,NA,Endangered,NA,http://www.mendeley.com/c/5091918642/g/2058663/colorado-species-status-state-listing/
@@ -1001,6 +1000,7 @@ Canis,lupus,NA,Washington,NA,Endangered,NA,http://www.mendeley.com/c/5144569454/
 Canis,lupus,NA,West Virginia,Endangered,NA,U.S.A.: All of AL AR CA CO CT DE FL GA KS KY LA MA MD ME MO MS NC NE NH NJ NV NY OK PA RI SC TN VA VT WV those portions of AZ NM and TX not included in an experimental population; and portions of IA IN IL ND OH OR SD UT and WA. Mexico,NA
 Canis,lupus,NA,Wisconsin,Endangered,NA,U.S.A.: All of AL AR CA CO CT DE FL GA KS KY LA MA MD ME MO MS NC NE NH NJ NV NY OK PA RI SC TN VA VT WV those portions of AZ NM and TX not included in an experimental population; and portions of IA IN IL ND OH OR SD UT and WA. Mexico,NA
 Canis,lupus,NA,Wyoming,Endangered,NA,U.S.A.: All of AL AR CA CO CT DE FL GA KS KY LA MA MD ME MO MS NC NE NH NJ NV NY OK PA RI SC TN VA VT WV those portions of AZ NM and TX not included in an experimental population; and portions of IA IN IL ND OH OR SD UT and WA. Mexico,NA
+Canis,lupus,youngi,Arizona,NA,Presumed extinct,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Canis,rufus,NA,Texas,Endangered,NA,except where EXPN,NA
 Canis,rufus,NA,Alabama,NA,Presumed extirpated,Nonessential Experimental Population,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Canis,rufus,NA,Texas,NA,Endangered,NA,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
@@ -1011,8 +1011,8 @@ Caprimulgus,ridgwayi,NA,New Mexico,NA,Endangered,NA,http://www.mendeley.com/c/51
 Caprimulgus,vociferus,NA,Maryland,NA,NA,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Caprimulgus,vociferus,NA,Massachusetts,NA,Special Concern,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
 Caprimulgus,vociferus,NA,New Hampshire,NA,Near-threatened,NA,http://www.mendeley.com/c/5093651382/g/2058663/new-hampshire-species-status-state-listing-for-species-of-special-concern/
-Capsicum,annuum,NA,Arizona,NA,Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Capsicum,annuum,glabriusculum,Arizona,NA,Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Capsicum,annuum,NA,Arizona,NA,Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Caracara,cheriway,NA,Arizona,NA,Critically Imperiled,Imperiled,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Cardamine,clematitis,NA,Alabama,NA,Historical possibly extirpated,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Cardamine,dentata,NA,Massachusetts,NA,Threatened,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
@@ -1148,8 +1148,8 @@ Catostomus,bernardini,NA,Arizona,NA,Presumed extinct,NA,http://www.mendeley.com/
 Catostomus,catostomus,NA,Maryland,NA,Endangered/Extirpated,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Catostomus,catostomus,NA,Massachusetts,NA,Special Concern,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
 Catostomus,clarki,NA,Arizona,NA,Vulnerable,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
-Catostomus,discobolus,NA,Arizona,NA,Vulnerable,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Catostomus,discobolus,discobolus,Arizona,NA,Vulnerable,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Catostomus,discobolus,NA,Arizona,NA,Vulnerable,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Catostomus,discobolus,yarrowi,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Catostomus,discobolus,yarrowi,New Mexico,NA,Endangered,NA,http://www.mendeley.com/c/5137922484/g/2058663/new-mexico-state-designated-species-status/
 Catostomus,insignis,NA,Arizona,NA,Vulnerable,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
@@ -1219,22 +1219,23 @@ Chamaesyce,remyi,kauaiensis,Hawaii,Endangered,NA,NA,NA
 Chamaesyce,remyi,remyi,Hawaii,Endangered,NA,NA,NA
 Chamaesyce,rockii,NA,Hawaii,Endangered,NA,NA,NA
 Chamaesyce,skottsbergii,kalaeloana,Hawaii,Endangered,NA,NA,NA
+Charadrius,alexandrinus,NA,Kansas,NA,Threatened,NA,http://www.mendeley.com/c/5144552094/g/2058663/kensas-threatened--endangered-species/
+Charadrius,alexandrinus,NA,Arizona,NA,Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Charadrius,alexandrinus,NA,Colorado,NA,Special Concern,NA,http://www.mendeley.com/c/5091918642/g/2058663/colorado-species-status-state-listing/
 Charadrius,alexandrinus,nivosus,California,Threatened,NA,NA,NA
 Charadrius,alexandrinus,nivosus,Kansas,Threatened,NA,NA,NA
-Charadrius,alexandrinus,NA,Kansas,NA,Threatened,NA,http://www.mendeley.com/c/5144552094/g/2058663/kensas-threatened--endangered-species/
 Charadrius,alexandrinus,nivosus,Nevada,Threatened,NA,Pacific coastal pop.,NA
 Charadrius,alexandrinus,nivosus,New Mexico,Threatened,NA,coastal pop,NA
 Charadrius,alexandrinus,nivosus,Oklahoma,Threatened,NA,Pacific coastal pop,NA
 Charadrius,alexandrinus,nivosus,Oregon,Threatened,NA,Pacific coastal pop.,NA
 Charadrius,alexandrinus,nivosus,Texas,Threatened,NA,Pacific coastal pop.,NA
 Charadrius,alexandrinus,nivosus,Washington,Threatened,NA,Pacific coastal pop,NA
-Charadrius,alexandrinus,tenuirostris,Alabama,NA,Critically imperiled,State protected,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Charadrius,alexandrinus,nivosus,Arizona,Threatened,NA,Pacific coastal pop.,NA
-Charadrius,alexandrinus,NA,Arizona,NA,Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Charadrius,alexandrinus,nivosus,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Charadrius,alexandrinus,nivosus,Colorado,Threatened,NA,Pacific coastal pop.,NA
-Charadrius,alexandrinus,NA,Colorado,NA,Special Concern,NA,http://www.mendeley.com/c/5091918642/g/2058663/colorado-species-status-state-listing/
+Charadrius,alexandrinus,tenuirostris,Alabama,NA,Critically imperiled,State protected,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Charadrius,alexandrinus nivosus,NA,Utah,Threatened,NA,Pacific coastal pop,NA
+Charadrius,melodus,circumcinctus,Colorado,NA,Threatened,NA,http://www.mendeley.com/c/5091918642/g/2058663/colorado-species-status-state-listing/
 Charadrius,melodus,NA,Colorado,Threatened,NA,except Great Lakes watershed,NA
 Charadrius,melodus,NA,Georgia,NA,Threatened,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
 Charadrius,melodus,NA,Illinois,Endangered,NA,Great Lakes watershed,NA
@@ -1273,7 +1274,6 @@ Charadrius,melodus,NA,Wisconsin,NA,Endangered,NA,http://www.mendeley.com/c/51445
 Charadrius,melodus,NA,Wyoming,Threatened,NA,except Great Lakes watershed,NA
 Charadrius,melodus,NA,Alabama,Threatened,NA,except Great Lakes watershed,NA
 Charadrius,melodus,NA,Alabama,NA,Critically imperiled,State protected,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
-Charadrius,melodus,circumcinctus,Colorado,NA,Threatened,NA,http://www.mendeley.com/c/5091918642/g/2058663/colorado-species-status-state-listing/
 Charadrius,melodus,NA,Connecticut,Threatened,NA,except Great Lakes watershed,NA
 Charadrius,melodus,NA,Florida,Threatened,NA,except Great Lakes watershed,NA
 Charadrius,melodus,NA,Georgia,Threatened,NA,except Great Lakes watershed,NA
@@ -1299,8 +1299,8 @@ Charadrius,wilsonia,NA,Maryland,NA,Endangered,Critically imperilled,http://www.m
 Charadrius,wilsonia,NA,Alabama,NA,Critically imperiled,State protected,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Charadrius,wilsonia,NA,Virginia,NA,Endangered,NA,http://www.mendeley.com/c/5144547734/g/2058663/special-legal-status-faunal-species-in-virginia/
 Charina,bottae,umbratica,California,NA,Threatened,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
-Charina,trivirgata,NA,Arizona,NA,Vulnerable,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Charina,trivirgata,gracia,Arizona,NA,Vulnerable,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Charina,trivirgata,NA,Arizona,NA,Vulnerable,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Charina,trivirgata,trivirgata,Arizona,NA,Critically Imperiled,Imperiled,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Charpentiera,densiflora,NA,Hawaii,Endangered,NA,NA,NA
 Chasiempis,sandwichensis,ibidis,Hawaii,Endangered,NA,NA,NA
@@ -1377,13 +1377,13 @@ Cicindela,dorsalis,dorsalis,Massachusetts,Threatened,NA,NA,NA
 Cicindela,dorsalis,dorsalis,New York,Threatened,NA,NA,NA
 Cicindela,dorsalis,dorsalis,Rhode Island,Threatened,NA,NA,NA
 Cicindela,dorsalis,dorsalis,Virginia,Threatened,NA,NA,NA
-Cicindela,dorsalis,saulcyi,Alabama,NA,State unranked,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Cicindela,dorsalis,dorsalis,Connecticut,Threatened,NA,dorsalis,NA
 Cicindela,dorsalis,dorsalis,Maryland,NA,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Cicindela,dorsalis,NA,Maryland,NA,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Cicindela,dorsalis,dorsalis,Massachusetts,NA,Endangered,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
 Cicindela,dorsalis,dorsalis,New Jersey,Threatened,NA,NA,NA
 Cicindela,dorsalis,dorsalis,Virginia,NA,Threatened,NA,http://www.mendeley.com/c/5144547734/g/2058663/special-legal-status-faunal-species-in-virginia/
+Cicindela,dorsalis,NA,Maryland,NA,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Cicindela,dorsalis,saulcyi,Alabama,NA,State unranked,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Cicindela,duodecimguttata,NA,Massachusetts,NA,Special Concern,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
 Cicindela,formosa,NA,Maryland,NA,NA,Uncertain status,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Cicindela,hamata,lacerata,Alabama,NA,State unranked,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
@@ -1438,8 +1438,8 @@ Circus,cyaneus,NA,Massachusetts,NA,Threatened,NA,http://www.mendeley.com/c/50936
 Circus,cyaneus,NA,New Hampshire,NA,Endangered,NA,http://www.mendeley.com/c/5093636202/g/2058663/new-hampshire-species-status-state-listing/
 Circus,cyaneus,NA,North Dakota,NA,Need for conservation; little support,NA,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
 Circus,cyaneus,NA,Tennessee,NA,in need of management,NA,https://www.zotero.org/groups/178496/items/itemKey/ISP6CBBN/q/introduction%20to%20the
-Cirsium,fontinale,obispoense,California,Endangered,NA,NA,NA
 Cirsium,fontinale,fontinale,California,Endangered,NA,NA,NA
+Cirsium,fontinale,obispoense,California,Endangered,NA,NA,NA
 Cirsium,hillii,NA,Wisconsin,NA,Threatened,NA,http://www.mendeley.com/c/5144553034/g/2058663/wisconsin-endangered-and-threatened-species-laws--list/
 Cirsium,hydrophilum,hydrophilum,California,Endangered,NA,NA,NA
 Cirsium,lecontei,NA,Alabama,NA,Critically imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
@@ -1453,8 +1453,8 @@ Cirsium,pitcheri,NA,Wisconsin,Threatened,NA,NA,NA
 Cirsium,pitcheri,NA,Wisconsin,NA,Threatened,NA,http://www.mendeley.com/c/5144553034/g/2058663/wisconsin-endangered-and-threatened-species-laws--list/
 Cirsium,vinaceum,NA,New Mexico,Threatened,NA,NA,NA
 Cirsium,virginense,NA,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
-Cistothorus,palustris,marianae,Florida,NA,Special Concern,NA,http://www.mendeley.com/c/5092052772/g/2058663/florida-species-status-state-listed/
 Cistothorus,palustris,griseus,Florida,NA,Special Concern,NA,http://www.mendeley.com/c/5092052772/g/2058663/florida-species-status-state-listed/
+Cistothorus,palustris,marianae,Florida,NA,Special Concern,NA,http://www.mendeley.com/c/5092052772/g/2058663/florida-species-status-state-listed/
 Cistothorus,platensis,NA,Maryland,NA,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Cistothorus,platensis,NA,Massachusetts,NA,Endangered,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
 Cistothorus,platensis,NA,New Hampshire,NA,Endangered,NA,http://www.mendeley.com/c/5093636202/g/2058663/new-hampshire-species-status-state-listing/
@@ -1496,11 +1496,11 @@ Clermontia oblongifolia,brevipes,NA,Hawaii,Endangered,NA,NA,NA
 Clethra,acuminata,NA,Alabama,NA,Critically imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Clupea,pallasi,Fish,Washington,NA,Candidate,NA,http://www.mendeley.com/c/5144569454/g/2058663/washington-state-species-of-concern-lists/
 Cnemidophorus,neotesselatus,NA,Colorado,NA,Special Concern,NA,http://www.mendeley.com/c/5091918642/g/2058663/colorado-species-status-state-listing/
-Coccyzus,americanus,occidentalis,California,NA,Endangered,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
 Coccyzus,americanus,NA,Arizona,NA,Vulnerable,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
-Coccyzus,americanus,occidentalis,Arizona,NA,Vulnerable,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Coccyzus,americanus,NA,Colorado,NA,Special Concern,NA,http://www.mendeley.com/c/5091918642/g/2058663/colorado-species-status-state-listing/
 Coccyzus,americanus,NA,Washington,NA,Candidate,NA,http://www.mendeley.com/c/5144569454/g/2058663/washington-state-species-of-concern-lists/
+Coccyzus,americanus,occidentalis,California,NA,Endangered,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
+Coccyzus,americanus,occidentalis,Arizona,NA,Vulnerable,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Coccyzus,erythropthalmus,NA,Alabama,NA,Accidental,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Coccyzus,erythropthalmus,NA,North Dakota,NA,Greatest need for conservation,NA,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
 Cochlicopa,morseana,NA,Alabama,NA,State unranked,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
@@ -1570,20 +1570,20 @@ Corvus,corax,NA,Maryland,NA,NA,Imperilled,http://www.mendeley.com/c/5144550554/g
 Corvus,corax,NA,Alabama,NA,Presumed extirpated,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Corvus,hawaiiensis,NA,Hawaii,Endangered,NA,NA,NA
 Corvus,leucognaphalus,NA,Puerto Rico,Endangered,NA,NA,NA
+Corynorhinus,rafinesquii,macrotis,Virginia,NA,Endangered,NA,http://www.mendeley.com/c/5144547734/g/2058663/special-legal-status-faunal-species-in-virginia/
 Corynorhinus,rafinesquii,NA,Georgia,NA,Rare,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
 Corynorhinus,rafinesquii,NA,Alabama,NA,Imperiled,State protected,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Corynorhinus,rafinesquii,NA,Texas,NA,Threatened,NA,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
-Corynorhinus,rafinesquii,macrotis,Virginia,NA,Endangered,NA,http://www.mendeley.com/c/5144547734/g/2058663/special-legal-status-faunal-species-in-virginia/
+Corynorhinus,townsendii,ingens,Oklahoma,Endangered,NA,NA,NA
+Corynorhinus,townsendii,ingens,Arkansas,Endangered,NA,NA,NA
+Corynorhinus,townsendii,ingens,Missouri,Endangered,NA,NA,NA
+Corynorhinus,townsendii,NA,Arizona,NA,Vulnerable,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Corynorhinus,townsendii,NA,Washington,NA,Candidate,NA,http://www.mendeley.com/c/5144569454/g/2058663/washington-state-species-of-concern-lists/
+Corynorhinus,townsendii,pallescens,Colorado,NA,Special Concern,NA,http://www.mendeley.com/c/5091918642/g/2058663/colorado-species-status-state-listing/
 Corynorhinus,townsendii,virginianus,Kentucky,Endangered,NA,NA,NA
 Corynorhinus,townsendii,virginianus,North Carolina,Endangered,NA,NA,NA
-Corynorhinus,townsendii,ingens,Oklahoma,Endangered,NA,NA,NA
 Corynorhinus,townsendii,virginianus,Virginia,Endangered,NA,NA,NA
-Corynorhinus,townsendii,NA,Arizona,NA,Vulnerable,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
-Corynorhinus,townsendii,ingens,Arkansas,Endangered,NA,NA,NA
-Corynorhinus,townsendii,pallescens,Colorado,NA,Special Concern,NA,http://www.mendeley.com/c/5091918642/g/2058663/colorado-species-status-state-listing/
-Corynorhinus,townsendii,ingens,Missouri,Endangered,NA,NA,NA
 Corynorhinus,townsendii,virginianus,Virginia,NA,Endangered,NA,http://www.mendeley.com/c/5144547734/g/2058663/special-legal-status-faunal-species-in-virginia/
-Corynorhinus,townsendii,NA,Washington,NA,Candidate,NA,http://www.mendeley.com/c/5144569454/g/2058663/washington-state-species-of-concern-lists/
 Corynorhinus,townsendii virginianus,NA,West Virginia,Endangered,NA,NA,NA
 Coryphantha,minima,NA,Texas,Endangered,NA,NA,NA
 Coryphantha,missouriensis,NA,Arizona,NA,Vulnerable,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
@@ -1621,8 +1621,8 @@ Crataegus,bicknellii,NA,Massachusetts,NA,Endangered,NA,http://www.mendeley.com/c
 Crataegus,triflora,NA,Georgia,NA,Threatened,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
 Crataegus,triflora,NA,Alabama,NA,Imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Crataeus,aemula,NA,Alabama,NA,Critically imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
-Crenichthys,baileyi,grandis,Nevada,Endangered,NA,NA,NA
 Crenichthys,baileyi,baileyi,Nevada,Endangered,NA,NA,NA
+Crenichthys,baileyi,grandis,Nevada,Endangered,NA,NA,NA
 Crenichthys,nevadae,NA,Nevada,Threatened,NA,NA,NA
 Crescentia,portoricensis,NA,Puerto Rico,Endangered,NA,NA,NA
 Crocanthemum,dumosum,NA,Massachusetts,NA,Special Concern,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
@@ -1640,12 +1640,12 @@ Crotalus,horridus,NA,Virginia,NA,Endangered,NA,http://www.mendeley.com/c/5144547
 Crotalus,lepidus,lepidus,New Mexico,NA,Threatened,NA,http://www.mendeley.com/c/5137922484/g/2058663/new-mexico-state-designated-species-status/
 Crotalus,oreganus,abyssus,Arizona,NA,Apparently Secure,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Crotalus,viridis,concolor,Colorado,NA,Special Concern,NA,http://www.mendeley.com/c/5091918642/g/2058663/colorado-species-status-state-listing/
+Crotalus,willardi,NA,Arizona,NA,Vulnerable,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Crotalus,willardi,obscurus,New Mexico,Threatened,NA,NA,NA
 Crotalus,willardi,obscurus,Arizona,Threatened,NA,NA,NA
-Crotalus,willardi,NA,Arizona,NA,Vulnerable,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Crotalus,willardi,obscurus,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
-Crotalus,willardi,willardi,Arizona,NA,Critically Imperiled,Imperiled,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Crotalus,willardi,obscurus,New Mexico,NA,Endangered,NA,http://www.mendeley.com/c/5137922484/g/2058663/new-mexico-state-designated-species-status/
+Crotalus,willardi,willardi,Arizona,NA,Critically Imperiled,Imperiled,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Crotaphytus,reticulatus,NA,Texas,NA,Threatened,NA,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
 Croton,alabamensis,alabamensis,Alabama,NA,Rare or uncommon,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Croton,elliottii,NA,Alabama,NA,Critically imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
@@ -1655,12 +1655,12 @@ Cryptantha,crassipes,NA,Texas,Endangered,NA,NA,NA
 Cryptantha,crassipes,NA,Texas,NA,Endangered,NA,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
 Cryptantha,ganderi,NA,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Cryptantha,insolita,NA,Arizona,NA,State protected,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
-Cryptobranchus,alleganiensis,NA,Georgia,NA,Rare,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
 Cryptobranchus,alleganiensis,alleganiensis,Georgia,NA,Threatened,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
-Cryptobranchus,alleganiensis,NA,Maryland,NA,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Cryptobranchus,alleganiensis,NA,Alabama,NA,Imperiled,State protected,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Cryptobranchus,alleganiensis,bishopi,Arkansas,Endangered,NA,NA,NA
 Cryptobranchus,alleganiensis,bishopi,Missouri,Endangered,NA,NA,NA
+Cryptobranchus,alleganiensis,NA,Georgia,NA,Rare,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
+Cryptobranchus,alleganiensis,NA,Maryland,NA,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Cryptobranchus,alleganiensis,NA,Alabama,NA,Imperiled,State protected,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Cryptogramma,stelleri,NA,Massachusetts,NA,Endangered,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
 Cryptomastix,hendersoni,NA,Washington,NA,Candidate,NA,http://www.mendeley.com/c/5144569454/g/2058663/washington-state-species-of-concern-lists/
 Cryptomastix,populi,NA,Washington,NA,Candidate,NA,http://www.mendeley.com/c/5144569454/g/2058663/washington-state-species-of-concern-lists/
@@ -1800,9 +1800,9 @@ Cypripedium,candidum,NA,Wisconsin,NA,Threatened,NA,http://www.mendeley.com/c/514
 Cypripedium,candidum,NA,Alabama,NA,Critically imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Cypripedium,kentuckiense,NA,Georgia,NA,Endangered,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
 Cypripedium,kentuckiense,NA,Alabama,NA,Critically imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
+Cypripedium,parviflorum,makasin,Massachusetts,NA,Endangered,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
 Cypripedium,parviflorum,NA,Georgia,NA,Rare,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
 Cypripedium,parviflorum,pubescens,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
-Cypripedium,parviflorum,makasin,Massachusetts,NA,Endangered,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
 Cypripedium,reginae,NA,Massachusetts,NA,Endangered,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
 Cyprogenia,aberti,NA,Kansas,NA,Endangered,NA,http://www.mendeley.com/c/5144552094/g/2058663/kensas-threatened--endangered-species/
 Cyprogenia,stegaria,NA,Illinois,Endangered,NA,NA,NA
@@ -1967,8 +1967,8 @@ Dipodomys,ingens,NA,California,NA,Endangered,NA,http://www.mendeley.com/c/509013
 Dipodomys,merriami,parvus,California,Endangered,NA,NA,NA
 Dipodomys,microps,leucotis,Arizona,NA,Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Dipodomys,nitratoides,exilis,California,Endangered,NA,NA,NA
-Dipodomys,nitratoides,nitratoides,California,NA,Endangered,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
 Dipodomys,nitratoides,exilis,California,NA,Endangered,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
+Dipodomys,nitratoides,nitratoides,California,NA,Endangered,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
 Dipodomys,nitratoides,nitratoides,California,Endangered,NA,NA,NA
 Dipodomys,spectabilis,baileyi,Arizona,NA,Vulnerable,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Dipodomys,stephensi,NA,California,Endangered,NA,NA,NA
@@ -2039,8 +2039,8 @@ Dubautia,kalalauensis,NA,Hawaii,Endangered,NA,NA,NA
 Dubautia,kenwoodii,NA,Hawaii,Endangered,NA,NA,NA
 Dubautia,latifolia,NA,Hawaii,Endangered,NA,NA,NA
 Dubautia,pauciflorula,NA,Hawaii,Endangered,NA,NA,NA
-Dubautia,plantaginea,magnifolia,Hawaii,Endangered,NA,NA,NA
 Dubautia,plantaginea,humilis,Hawaii,Endangered,NA,NA,NA
+Dubautia,plantaginea,magnifolia,Hawaii,Endangered,NA,NA,NA
 Dubautia,waialealae,NA,Hawaii,Endangered,NA,NA,NA
 Dudleya,abramsii,parva,California,Threatened,NA,NA,NA
 Dudleya,collomiae,NA,Arizona,NA,Apparently Secure,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
@@ -2083,8 +2083,8 @@ Echinocereus,pectinatus,pectinatus,Arizona,NA,Apparently Secure,NA,http://www.me
 Echinocereus,reichenbachii,albertii,Texas,Endangered,NA,NA,NA
 Echinocereus,reichenbachii,albertii,Texas,NA,Endangered,NA,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
 Echinocereus,triglochidiatus,arizonicus,Arizona,Endangered,NA,NA,NA
-Echinocereus,triglochidiatus,NA,Arizona,NA,Secure,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Echinocereus,triglochidiatus,arizonicus,Arizona,NA,Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Echinocereus,triglochidiatus,NA,Arizona,NA,Secure,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Echinocereus,viridiflorus,davisii,Texas,Endangered,NA,NA,NA
 Echinodorus,parvulus,NA,Alabama,NA,Critically imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Echinomastus,erectocentrus,acunensis,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
@@ -2103,8 +2103,8 @@ Egretta,rufescens,NA,Texas,NA,Threatened,NA,http://www.mendeley.com/c/5144559874
 Egretta,thula,NA,Wisconsin,NA,Endangered,NA,http://www.mendeley.com/c/5144553034/g/2058663/wisconsin-endangered-and-threatened-species-laws--list/
 Egretta,thula,NA,Arizona,NA,Apparently Secure,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Egretta,thula,NA,Florida,NA,Special Concern,NA,http://www.mendeley.com/c/5092052772/g/2058663/florida-species-status-state-listed/
-Egretta,thula,thula,Florida,NA,Species of special concern,NA,http://www.mendeley.com/c/5605595424/g/2058663/2012-dwp-listed-vertebrates/
 Egretta,thula,NA,Tennessee,NA,in need of management,NA,https://www.zotero.org/groups/178496/items/itemKey/ISP6CBBN/q/introduction%20to%20the
+Egretta,thula,thula,Florida,NA,Species of special concern,NA,http://www.mendeley.com/c/5605595424/g/2058663/2012-dwp-listed-vertebrates/
 Egretta,tricolor,NA,Maryland,NA,NA,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Egretta,tricolor,NA,Florida,NA,Special Concern,NA,http://www.mendeley.com/c/5092052772/g/2058663/florida-species-status-state-listed/
 Egretta,tricolor,ruficolis,Florida,NA,Species of special concern,NA,http://www.mendeley.com/c/5605595424/g/2058663/2012-dwp-listed-vertebrates/
@@ -2226,19 +2226,19 @@ Empidonax,alnorum,NA,Maryland,NA,In need of conservation,Imperilled,http://www.m
 Empidonax,fulvifrons,NA,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Empidonax,fulvifrons,pygmaeus,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Empidonax,minimus,NA,Maryland,NA,NA,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Empidonax,traillii,NA,California,NA,Endangered,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
 Empidonax,traillii,extimus,California,NA,Endangered,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
 Empidonax,traillii,extimus,New Mexico,Endangered,NA,NA,NA
 Empidonax,traillii,extimus,Texas,Endangered,NA,NA,NA
 Empidonax,traillii,extimus,Utah,Endangered,NA,NA,NA
 Empidonax,traillii,extimus,Arizona,Endangered,NA,NA,NA
-Empidonax,traillii,NA,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Empidonax,traillii,extimus,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Empidonax,traillii,extimus,California,Endangered,NA,NA,NA
 Empidonax,traillii,extimus,Colorado,Endangered,NA,NA,NA
 Empidonax,traillii,extimus,Colorado,NA,Endangered,NA,http://www.mendeley.com/c/5091918642/g/2058663/colorado-species-status-state-listing/
 Empidonax,traillii,extimus,New Mexico,NA,Endangered,NA,http://www.mendeley.com/c/5137922484/g/2058663/new-mexico-state-designated-species-status/
 Empidonax,traillii,extimus,Texas,NA,Endangered,NA,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
+Empidonax,traillii,NA,California,NA,Endangered,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
+Empidonax,traillii,NA,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Empidonax,virescens,NA,Wisconsin,NA,Threatened,NA,http://www.mendeley.com/c/5144553034/g/2058663/wisconsin-endangered-and-threatened-species-laws--list/
 Emydoidea,blandingii,NA,Wisconsin,NA,Threatened,NA,http://www.mendeley.com/c/5144553034/g/2058663/wisconsin-endangered-and-threatened-species-laws--list/
 Emydoidea,blandingii,NA,Massachusetts,NA,Threatened,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
@@ -2266,12 +2266,12 @@ Enceliopsis,argophylla,NA,Arizona,NA,Imperiled,NA,http://www.mendeley.com/c/5091
 Enceliopsis,nudicaulis,corrugata,Nevada,Threatened,NA,NA,NA
 Encyclia,tampensis,NA,Florida,NA,Commercially exploited,NA,http://www.mendeley.com/c/5605595494/g/2058663/2012-dwp-listed-plants/
 Enemion,biternatum,NA,Alabama,NA,Imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
-Enhydra,lutris,nereis,California,Threatened,NA,NA,NA
-Enhydra,lutris,nereis,Oregon,Threatened,NA,except where EXPN,NA
 Enhydra,lutris,kenyoni,Washington,Threatened,NA,southwest Alaska DPS,NA
-Enhydra,lutris,nereis,Washington,Threatened,NA,except where EXPN,NA
 Enhydra,lutris,kenyoni,Alaska,Threatened,NA,southwest Alaska DPS,NA
 Enhydra,lutris,NA,Washington,NA,Endangered,NA,http://www.mendeley.com/c/5144569454/g/2058663/washington-state-species-of-concern-lists/
+Enhydra,lutris,nereis,California,Threatened,NA,NA,NA
+Enhydra,lutris,nereis,Oregon,Threatened,NA,except where EXPN,NA
+Enhydra,lutris,nereis,Washington,Threatened,NA,except where EXPN,NA
 Enneacanthus,chaetodon,NA,Georgia,NA,Endangered,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
 Enneacanthus,chaetodon,NA,Maryland,NA,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Enneacanthus,chaetodon,NA,Virginia,NA,Endangered,NA,http://www.mendeley.com/c/5144547734/g/2058663/special-legal-status-faunal-species-in-virginia/
@@ -2282,8 +2282,8 @@ Enneacanthus,obesus,NA,Alabama,NA,Critically imperiled,NA,http://www.mendeley.co
 Enneacanthus,obesus,NA,New Hampshire,NA,Near-threatened,NA,http://www.mendeley.com/c/5093651382/g/2058663/new-hampshire-species-status-state-listing-for-species-of-special-concern/
 Enodia,creola,NA,Alabama,NA,unrankable,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Epicrates,inornatus,NA,Puerto Rico,Endangered,NA,NA,NA
-Epicrates,monensis,monensis,Puerto Rico,Threatened,NA,NA,NA
 Epicrates,monensis,granti,Puerto Rico,Endangered,NA,NA,NA
+Epicrates,monensis,monensis,Puerto Rico,Threatened,NA,NA,NA
 Epidendrum,conopseum,NA,Alabama,NA,Imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Epidendrum,conopseum,NA,Florida,NA,Commercially exploited,NA,http://www.mendeley.com/c/5605595494/g/2058663/2012-dwp-listed-plants/
 Epidendrum,magnoliae,NA,Georgia,NA,Unusual,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
@@ -2302,17 +2302,17 @@ Epioblasma,capsaeformis,NA,Alabama,Endangered,NA,Entire Range; Except where list
 Epioblasma,capsaeformis,NA,Alabama,NA,Presumed extirpated,State protected,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Epioblasma,capsaeformis,NA,Georgia,Endangered,NA,Entire Range Except where listed as Experimental Populations,NA
 Epioblasma,capsaeformis,NA,Virginia,NA,Endangered,NA,http://www.mendeley.com/c/5144547734/g/2058663/special-legal-status-faunal-species-in-virginia/
-Epioblasma,florentina,walkeri,Kentucky,Endangered,NA,NA,NA
-Epioblasma,florentina,walkeri,North Carolina,Endangered,NA,NA,NA
-Epioblasma,florentina,florentina,Tennessee,Endangered,NA,Entire Range; Except where listed as Experimental Populations,NA
-Epioblasma,florentina,walkeri,Tennessee,Endangered,NA,NA,NA
-Epioblasma,florentina,walkeri,Virginia,Endangered,NA,NA,NA
-Epioblasma,florentina,florentina,Alabama,Endangered,NA,Entire Range; Except where listed as Experimental Populations,NA
-Epioblasma,florentina,walkeri,Alabama,Endangered,NA,NA,NA
-Epioblasma,florentina,florentina,Alabama,NA,Presumed extirpated,State protected,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
-Epioblasma,florentina,walkeri,Alabama,NA,Presumed extirpated,State protected,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Epioblasma,florentina,curtisii,Arkansas,Endangered,NA,NA,NA
 Epioblasma,florentina,curtisii,Missouri,Endangered,NA,NA,NA
+Epioblasma,florentina,florentina,Tennessee,Endangered,NA,Entire Range; Except where listed as Experimental Populations,NA
+Epioblasma,florentina,florentina,Alabama,Endangered,NA,Entire Range; Except where listed as Experimental Populations,NA
+Epioblasma,florentina,florentina,Alabama,NA,Presumed extirpated,State protected,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
+Epioblasma,florentina,walkeri,Kentucky,Endangered,NA,NA,NA
+Epioblasma,florentina,walkeri,North Carolina,Endangered,NA,NA,NA
+Epioblasma,florentina,walkeri,Tennessee,Endangered,NA,NA,NA
+Epioblasma,florentina,walkeri,Virginia,Endangered,NA,NA,NA
+Epioblasma,florentina,walkeri,Alabama,Endangered,NA,NA,NA
+Epioblasma,florentina,walkeri,Alabama,NA,Presumed extirpated,State protected,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Epioblasma,florentina,walkeri,Virginia,NA,Endangered,NA,http://www.mendeley.com/c/5144547734/g/2058663/special-legal-status-faunal-species-in-virginia/
 Epioblasma,metastriata,NA,Georgia,NA,Endangered,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
 Epioblasma,metastriata,NA,Tennessee,Endangered,NA,NA,NA
@@ -2322,15 +2322,15 @@ Epioblasma,metastriata,NA,Georgia,Endangered,NA,NA,NA
 Epioblasma,NA,brevidens,Mississippi,Endangered,NA,Entire Range Except where listed as Experimental Populations,NA
 Epioblasma,NA,capsaeformis,Mississippi,Endangered,NA,Entire Range Except where listed as Experimental Populations,NA
 Epioblasma,obliquata,NA,Illinois,Endangered,NA,Entire Range Except where listed as Experimental Populations,NA
-Epioblasma,obliquata,perobliqua,Indiana,Endangered,NA,NA,NA
 Epioblasma,obliquata,obliquata,Indiana,Endangered,NA,Entire Range Except where listed as Experimental Populations,NA
 Epioblasma,obliquata,obliquata,Kentucky,Endangered,NA,Entire Range; Except where listed as Experimental Populations,NA
-Epioblasma,obliquata,perobliqua,Michigan,Endangered,NA,NA,NA
-Epioblasma,obliquata,perobliqua,Ohio,Endangered,NA,NA,NA
 Epioblasma,obliquata,obliquata,Ohio,Endangered,NA,Entire Range Except where listed as Experimental Populations,NA
 Epioblasma,obliquata,obliquata,Tennessee,Endangered,NA,Entire Range; Except where listed as Experimental Populations,NA
 Epioblasma,obliquata,obliquata,Alabama,Endangered,NA,Entire Range; Except where listed as Experimental Populations,NA
 Epioblasma,obliquata,obliquata,Alabama,NA,Presumed extirpated,State protected,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
+Epioblasma,obliquata,perobliqua,Indiana,Endangered,NA,NA,NA
+Epioblasma,obliquata,perobliqua,Michigan,Endangered,NA,NA,NA
+Epioblasma,obliquata,perobliqua,Ohio,Endangered,NA,NA,NA
 Epioblasma,othcaloogensis,NA,Georgia,NA,Endangered,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
 Epioblasma,othcaloogensis,NA,Tennessee,Endangered,NA,NA,NA
 Epioblasma,othcaloogensis,NA,Alabama,Endangered,NA,NA,NA
@@ -2339,22 +2339,22 @@ Epioblasma,othcaloogensis,NA,Georgia,Endangered,NA,NA,NA
 Epioblasma,penita,NA,Alabama,Endangered,NA,NA,NA
 Epioblasma,penita,NA,Alabama,NA,Critically imperiled,State protected,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Epioblasma,penita,NA,Mississippi,Endangered,NA,NA,NA
+Epioblasma,torulosa,gubernaculum,Tennessee,Endangered,NA,NA,NA
+Epioblasma,torulosa,gubernaculum,Virginia,Endangered,NA,NA,NA
+Epioblasma,torulosa,gubernaculum,Virginia,NA,Endangered,NA,http://www.mendeley.com/c/5144547734/g/2058663/special-legal-status-faunal-species-in-virginia/
 Epioblasma,torulosa,NA,Illinois,Endangered,NA,Entire Range Except where listed as Experimental Populations,NA
 Epioblasma,torulosa,NA,Illinois,Endangered,NA,NA,NA
-Epioblasma,torulosa,torulosa,Indiana,Endangered,NA,Entire Range Except where listed as Experimental Populations,NA
 Epioblasma,torulosa,rangiana,Indiana,Endangered,NA,NA,NA
-Epioblasma,torulosa,torulosa,Kentucky,Endangered,NA,Entire Range Except where listed as Experimental Populations,NA
 Epioblasma,torulosa,rangiana,Kentucky,Endangered,NA,NA,NA
 Epioblasma,torulosa,rangiana,Michigan,Endangered,NA,NA,NA
 Epioblasma,torulosa,rangiana,Ohio,Endangered,NA,NA,NA
 Epioblasma,torulosa,rangiana,Pennsylvania,Endangered,NA,NA,NA
-Epioblasma,torulosa,gubernaculum,Tennessee,Endangered,NA,NA,NA
-Epioblasma,torulosa,torulosa,Tennessee,Endangered,NA,Entire Range; Except where listed as Experimental Populations,NA
-Epioblasma,torulosa,gubernaculum,Virginia,Endangered,NA,NA,NA
 Epioblasma,torulosa,rangiana,West Virginia,Endangered,NA,NA,NA
+Epioblasma,torulosa,torulosa,Indiana,Endangered,NA,Entire Range Except where listed as Experimental Populations,NA
+Epioblasma,torulosa,torulosa,Kentucky,Endangered,NA,Entire Range Except where listed as Experimental Populations,NA
+Epioblasma,torulosa,torulosa,Tennessee,Endangered,NA,Entire Range; Except where listed as Experimental Populations,NA
 Epioblasma,torulosa,torulosa,Alabama,Endangered,NA,Entire Range; Except where listed as Experimental Populations,NA
 Epioblasma,torulosa,torulosa,Alabama,NA,Presumed extirpated,State protected,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
-Epioblasma,torulosa,gubernaculum,Virginia,NA,Endangered,NA,http://www.mendeley.com/c/5144547734/g/2058663/special-legal-status-faunal-species-in-virginia/
 Epioblasma,torulosa,torulosa,West Virginia,Endangered,NA,Entire Range Except where listed as Experimental Populations,NA
 Epioblasma,triquetra,NA,Illinois,Endangered,NA,NA,NA
 Epioblasma,triquetra,NA,Indiana,Endangered,NA,NA,NA
@@ -2396,8 +2396,8 @@ Eremocrinum,albomarginatum,NA,Arizona,NA,Imperiled,NA,http://www.mendeley.com/c/
 Eremophila,alpestris,NA,New Hampshire,NA,Near-threatened,NA,http://www.mendeley.com/c/5093651382/g/2058663/new-hampshire-species-status-state-listing-for-species-of-special-concern/
 Eremophila,alpestris,strigata,Washington,NA,Endangered,NA,http://www.mendeley.com/c/5144569454/g/2058663/washington-state-species-of-concern-lists/
 Erethizon,dorsatum,NA,Maryland,NA,In need of conservation,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Eretmochelys,imbricata,NA,Georgia,NA,Endangered,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
 Eretmochelys,imbricata,imbricata,Georgia,NA,Endangered,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
+Eretmochelys,imbricata,NA,Georgia,NA,Endangered,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
 Eretmochelys,imbricata,NA,Hawaii,Endangered,NA,NA,NA
 Eretmochelys,imbricata,NA,Louisiana,Endangered,NA,NA,NA
 Eretmochelys,imbricata,NA,Maryland,Endangered,NA,NA,NA
@@ -2463,8 +2463,8 @@ Eriogonum,capillare,NA,Arizona,NA,Apparently Secure,NA,http://www.mendeley.com/c
 Eriogonum,ericifolium,ericifolium,Arizona,NA,Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Eriogonum,gypsophilum,NA,New Mexico,Threatened,NA,NA,NA
 Eriogonum,kennedyi,austromontanum,California,Threatened,NA,NA,NA
-Eriogonum,longifolium,harperi,Alabama,NA,Critically imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Eriogonum,longifolium,gnaphalifolium,Florida,Threatened,NA,NA,NA
+Eriogonum,longifolium,harperi,Alabama,NA,Critically imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Eriogonum,mortonianum,NA,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Eriogonum,ovalifolium,vineum,California,Endangered,NA,NA,NA
 Eriogonum,ovalifolium,williamsiae,Nevada,Endangered,NA,NA,NA
@@ -2484,8 +2484,8 @@ Eryngium,constancei,NA,California,Endangered,NA,NA,NA
 Eryngium,phyteumae,NA,Arizona,NA,SR,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Erynnis,brizo,brizo,New Hampshire,NA,Near-threatened,NA,http://www.mendeley.com/c/5093651382/g/2058663/new-hampshire-species-status-state-listing-for-species-of-special-concern/
 Erynnis,martialis,NA,Maryland,NA,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Erynnis,persius,persius,Massachusetts,NA,Endangered,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
 Erynnis,persius,NA,New Hampshire,NA,Endangered,NA,http://www.mendeley.com/c/5093636202/g/2058663/new-hampshire-species-status-state-listing/
+Erynnis,persius,persius,Massachusetts,NA,Endangered,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
 Erysimum,capitatum,angustatum,California,Endangered,NA,NA,NA
 Erysimum,menziesii,NA,California,Endangered,NA,NA,NA
 Erysimum,teretifolium,NA,California,Endangered,NA,NA,NA
@@ -2626,8 +2626,8 @@ Eulimnadia,agassizii,NA,Massachusetts,NA,Endangered,NA,http://www.mendeley.com/c
 Eumeces,anthracinus,NA,Maryland,NA,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Eumeces,anthracinus,NA,Alabama,NA,Rare or uncommon,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Eumeces,callicephallus,NA,New Mexico,NA,Threatened,NA,http://www.mendeley.com/c/5137922484/g/2058663/new-mexico-state-designated-species-status/
-Eumeces,egregius,lividus,Florida,Threatened,NA,NA,NA
 Eumeces,egregius,egregius,Florida,NA,Special Concern,NA,http://www.mendeley.com/c/5092052772/g/2058663/florida-species-status-state-listed/
+Eumeces,egregius,lividus,Florida,Threatened,NA,NA,NA
 Eumeces,gilberti,arizonensis,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Eumeces,inexpectatus,NA,Alabama,NA,Rare or uncommon,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Eumeces,laticeps,NA,Kansas,NA,Threatened,NA,http://www.mendeley.com/c/5144552094/g/2058663/kensas-threatened--endangered-species/
@@ -2692,34 +2692,34 @@ except Great Lakes watershed,Charadrius,melodus,Deleware,Threatened,NA,NA,NA
 except where endangered,Chelonia,mydas,Deleware,Threatened,NA,NA,NA
 Exocarpos,luteolus,NA,Hawaii,Endangered,NA,NA,NA
 Falcipennis,canadensis,NA,New Hampshire,NA,Near-threatened,NA,http://www.mendeley.com/c/5093651382/g/2058663/new-hampshire-species-status-state-listing-for-species-of-special-concern/
+Falco,femoralis,NA,New Mexico,NA,Endangered,NA,http://www.mendeley.com/c/5137922484/g/2058663/new-mexico-state-designated-species-status/
 Falco,femoralis,septentrionalis,New Mexico,Endangered,NA,Entire except where listed as an experimental population,NA
 Falco,femoralis,septentrionalis,Texas,Endangered,NA,Entire except where listed as an experimental population,NA
 Falco,femoralis,septentrionalis,Arizona,Endangered,NA,Entire except where listed as an experimental population,NA
 Falco,femoralis,septentrionalis,Arizona,NA,Historical possibly extirpated,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
-Falco,femoralis,NA,New Mexico,NA,Endangered,NA,http://www.mendeley.com/c/5137922484/g/2058663/new-mexico-state-designated-species-status/
 Falco,femoralis,septentrionalis,Texas,NA,Endangered,NA,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
 Falco,mexicanus,NA,North Dakota,NA,Need for conservation; little support,NA,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
 Falco,peregrinus,anatum,California,NA,Endangered,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
-Falco,peregrinus,NA,Georgia,NA,Rare,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
 Falco,peregrinus,anatum,Georgia,NA,Endangered,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
 Falco,peregrinus,anatum,Maryland,NA,In need of conservation,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Falco,peregrinus,anatum,Arizona,NA,Apparently Secure,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Falco,peregrinus,anatum,Colorado,NA,Special Concern,NA,http://www.mendeley.com/c/5091918642/g/2058663/colorado-species-status-state-listing/
+Falco,peregrinus,anatum,Texas,NA,Threatened,NA,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
+Falco,peregrinus,NA,Georgia,NA,Rare,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
 Falco,peregrinus,NA,Wisconsin,NA,Endangered,NA,http://www.mendeley.com/c/5144553034/g/2058663/wisconsin-endangered-and-threatened-species-laws--list/
 Falco,peregrinus,NA,Alabama,NA,Historical possibly extirpated,State protected,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Falco,peregrinus,NA,Arizona,NA,Apparently Secure,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
-Falco,peregrinus,anatum,Arizona,NA,Apparently Secure,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
-Falco,peregrinus,anatum,Colorado,NA,Special Concern,NA,http://www.mendeley.com/c/5091918642/g/2058663/colorado-species-status-state-listing/
 Falco,peregrinus,NA,Massachusetts,NA,Endangered,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
 Falco,peregrinus,NA,New Mexico,NA,Threatened,NA,http://www.mendeley.com/c/5137922484/g/2058663/new-mexico-state-designated-species-status/
 Falco,peregrinus,NA,North Dakota,NA,Some need for conservation; ND is near the edge of species range,NA,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Falco,peregrinus,anatum,Texas,NA,Threatened,NA,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
 Falco,peregrinus,NA,Virginia,NA,Threatened,NA,http://www.mendeley.com/c/5144547734/g/2058663/special-legal-status-faunal-species-in-virginia/
 Falco,peregrinus,NA,Washington,NA,Sensitive,NA,http://www.mendeley.com/c/5144569454/g/2058663/washington-state-species-of-concern-lists/
-Falco,peregrinus,tundrius,Florida,NA,Endangered,NA,http://www.mendeley.com/c/5605595424/g/2058663/2012-dwp-listed-vertebrates/
 Falco,peregrinus,NA,Tennessee,NA,Endangered,NA,https://www.zotero.org/groups/178496/items/itemKey/ISP6CBBN/q/introduction%20to%20the
+Falco,peregrinus,tundrius,Florida,NA,Endangered,NA,http://www.mendeley.com/c/5605595424/g/2058663/2012-dwp-listed-vertebrates/
+Falco,sparverius,NA,New Hampshire,NA,Near-threatened,NA,http://www.mendeley.com/c/5093651382/g/2058663/new-hampshire-species-status-state-listing-for-species-of-special-concern/
 Falco,sparverius,paulus,Georgia,NA,Rare,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
 Falco,sparverius,paulus,Alabama,NA,Regularly occurring,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Falco,sparverius,paulus,Florida,NA,Threatened,NA,http://www.mendeley.com/c/5092052772/g/2058663/florida-species-status-state-listed/
-Falco,sparverius,NA,New Hampshire,NA,Near-threatened,NA,http://www.mendeley.com/c/5093651382/g/2058663/new-hampshire-species-status-state-listing-for-species-of-special-concern/
 Falco,sparverius,paulus,Florida,NA,Threatened,NA,http://www.mendeley.com/c/5605595424/g/2058663/2012-dwp-listed-vertebrates/
 Fallicambarus,burrisi,NA,Alabama,NA,Rare or uncommon,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Fallicambarus,byersi,NA,Alabama,NA,Rare or uncommon,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
@@ -2727,23 +2727,23 @@ Fallicambarus,danielae,NA,Alabama,NA,Critically imperiled,NA,http://www.mendeley
 Fallicambarus,oryktes,NA,Alabama,NA,State unranked,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Farancia,erytrogramma,NA,Maryland,NA,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Farancia,erytrogramma,NA,Alabama,NA,Rare or uncommon,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
-Felis,concolor,NA,Maryland,NA,Endangered/Extirpated,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Felis,concolor,coryi,South Carolina,Endangered,NA,NA,NA
-Felis,concolor,couguar,South Carolina,Endangered,NA,NA,NA
 Felis,concolor,coryi,Tennessee,Endangered,NA,NA,NA
+Felis,concolor,coryi,Florida,Endangered,NA,NA,NA
+Felis,concolor,coryi,New Mexico,NA,Restricted,NA,http://www.mendeley.com/c/5137922484/g/2058663/new-mexico-state-designated-species-status/
+Felis,concolor,coryi,Florida,Endangered,Endangered,NA,http://www.mendeley.com/c/5605595424/g/2058663/2012-dwp-listed-vertebrates/
+Felis,concolor,couguar,South Carolina,Endangered,NA,NA,NA
 Felis,concolor,couguar,Tennessee,Endangered,NA,NA,NA
 Felis,concolor,couguar,Connecticut,Endangered,NA,couguar,NA
 Felis,concolor,couguar,Deleware,Endangered,NA,NA,NA
 Felis,concolor,couguar,District of Columbia,Endangered,NA,NA,NA
-Felis,concolor,coryi,Florida,Endangered,NA,NA,NA
-Felis,concolor,coryi,New Mexico,NA,Restricted,NA,http://www.mendeley.com/c/5137922484/g/2058663/new-mexico-state-designated-species-status/
-Felis,concolor,coryi,Florida,Endangered,Endangered,NA,http://www.mendeley.com/c/5605595424/g/2058663/2012-dwp-listed-vertebrates/
+Felis,concolor,NA,Maryland,NA,Endangered/Extirpated,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Felis,pardalis,NA,New Mexico,NA,Restricted,NA,http://www.mendeley.com/c/5137922484/g/2058663/new-mexico-state-designated-species-status/
 Feniseca,tarquinius,NA,Alabama,NA,unrankable,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Feresa,attenuata,NA,Texas,NA,Threatened,NA,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
+Ferocactus,cylindraceus,lecontei,Arizona,NA,Vulnerable,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Ferocactus,cylindraceus,NA,Arizona,NA,Vulnerable,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Ferocactus,cylindraceus,NA,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
-Ferocactus,cylindraceus,lecontei,Arizona,NA,Vulnerable,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Ferocactus,emoryi,NA,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Ferrissia,mcneili,NA,Alabama,NA,Imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Ferrissia,walkeri,NA,Massachusetts,NA,Special Concern,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
@@ -2832,11 +2832,11 @@ Galium,buxifolium,NA,California,Endangered,NA,NA,NA
 Galium,californicum,sierrae,California,Endangered,NA,NA,NA
 Galium,labradoricum,NA,Massachusetts,NA,Threatened,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
 Galium,lanceolatum,NA,Alabama,NA,Critically imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
-Gallinula,chloropus,sandvicensis,Hawaii,Endangered,NA,NA,NA
 Gallinula,chloropus,NA,Maryland,NA,In need of conservation,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Gallinula,chloropus,NA,Massachusetts,NA,Special Concern,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
 Gallinula,chloropus,NA,New Hampshire,NA,Near-threatened,NA,http://www.mendeley.com/c/5093651382/g/2058663/new-hampshire-species-status-state-listing-for-species-of-special-concern/
 Gallinula,chloropus,NA,Tennessee,NA,in need of management,NA,https://www.zotero.org/groups/178496/items/itemKey/ISP6CBBN/q/introduction%20to%20the
+Gallinula,chloropus,sandvicensis,Hawaii,Endangered,NA,NA,NA
 Gambelia,silus,NA,California,Endangered,NA,NA,NA
 Gambelia,silus,NA,California,NA,Endangered,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
 Gambelia,wislizenii,NA,Colorado,NA,Special Concern,NA,http://www.mendeley.com/c/5091918642/g/2058663/colorado-species-status-state-listing/
@@ -2857,9 +2857,9 @@ Gammarus,pseudolimnaeus,NA,Massachusetts,NA,Special Concern,NA,http://www.mendel
 Gamochaeta,purpurea,NA,Massachusetts,NA,Endangered,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
 Gardenia,brighamii,NA,Hawaii,Endangered,NA,NA,NA
 Gardenia,mannii,NA,Hawaii,Endangered,NA,NA,NA
+Gasterosteus,aculeatus,NA,Massachusetts,NA,Threatened,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
 Gasterosteus,aculeatus,williamsoni,California,Endangered,NA,NA,NA
 Gasterosteus,aculeatus,williamsoni,California,NA,Endangered,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
-Gasterosteus,aculeatus,NA,Massachusetts,NA,Threatened,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
 Gastrocopta,abbreviata,NA,Alabama,NA,Critically imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Gastrocopta,clappi,NA,Alabama,NA,State unranked,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Gastrocopta,dalliana,dalliana,New Mexico,NA,Threatened,NA,http://www.mendeley.com/c/5137922484/g/2058663/new-mexico-state-designated-species-status/
@@ -2900,11 +2900,11 @@ Geum,laciniatum,NA,Alabama,NA,Critically imperiled,NA,http://www.mendeley.com/c/
 Geum,radiatum,NA,North Carolina,Endangered,NA,NA,NA
 Geum,radiatum,NA,Tennessee,Endangered,NA,NA,NA
 Geum,virginianum,NA,Alabama,NA,Imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
-Gila,bicolor,snyderi,California,Endangered,NA,NA,NA
 Gila,bicolor,mohavensis,California,NA,Endangered,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
-Gila,bicolor,snyderi,California,NA,Endangered,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
-Gila,bicolor,NA,Oregon,Threatened,NA,NA,NA
 Gila,bicolor,mohavensis,California,Endangered,NA,NA,NA
+Gila,bicolor,NA,Oregon,Threatened,NA,NA,NA
+Gila,bicolor,snyderi,California,Endangered,NA,NA,NA
+Gila,bicolor,snyderi,California,NA,Endangered,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
 Gila,boraxobius,NA,Oregon,Endangered,NA,NA,NA
 Gila,cypha,NA,Utah,Endangered,NA,entire,NA
 Gila,cypha,NA,Wyoming,Endangered,NA,NA,NA
@@ -2914,12 +2914,12 @@ Gila,cypha,NA,Colorado,Endangered,NA,NA,NA
 Gila,cypha,NA,Colorado,NA,Threatened,NA,http://www.mendeley.com/c/5091918642/g/2058663/colorado-species-status-state-listing/
 Gila,ditaenia,NA,Arizona,Threatened,NA,NA,NA
 Gila,ditaenia,NA,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Gila,elegans,entire,California,Endangered,NA,entire,NA
 Gila,elegans,NA,California,NA,Endangered,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
 Gila,elegans,NA,Utah,Endangered,NA,entire,NA
 Gila,elegans,NA,Wyoming,Endangered,NA,NA,NA
 Gila,elegans,NA,Arizona,Endangered,NA,entire,NA
 Gila,elegans,NA,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
-Gila,elegans,entire,California,Endangered,NA,entire,NA
 Gila,elegans,NA,Colorado,Endangered,NA,NA,NA
 Gila,elegans,NA,Colorado,NA,Endangered,NA,http://www.mendeley.com/c/5091918642/g/2058663/colorado-species-status-state-listing/
 Gila,elegans,NA,Nevada,Endangered,NA,entire,NA
@@ -2934,25 +2934,28 @@ Gila,pandora,NA,Colorado,NA,Special Concern,NA,http://www.mendeley.com/c/5091918
 Gila,pandora,NA,Texas,NA,Threatened,NA,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
 Gila,purpurea,NA,Arizona,Endangered,NA,NA,NA
 Gila,purpurea,NA,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Gila,robusta,jordani,Nevada,Endangered,NA,NA,NA
 Gila,robusta,NA,Arizona,NA,Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Gila,robusta,NA,Colorado,NA,Special Concern,NA,http://www.mendeley.com/c/5091918642/g/2058663/colorado-species-status-state-listing/
-Gila,robusta,jordani,Nevada,Endangered,NA,NA,NA
 Gila,robusta,NA,New Mexico,NA,Endangered,NA,http://www.mendeley.com/c/5137922484/g/2058663/new-mexico-state-designated-species-status/
 Gila,seminuda,NA,Utah,Endangered,NA,NA,NA
 Gila,seminuda,NA,Arizona,Endangered,NA,NA,NA
 Gila,seminuda,NA,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Gila,seminuda,NA,Nevada,Endangered,NA,NA,NA
-Gilia,tenuiflora,hoffmannii,California,Endangered,NA,NA,NA
 Gilia,tenuiflora,arenaria,California,Endangered,NA,NA,NA
-Glaucidium,brasilianum,NA,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Gilia,tenuiflora,hoffmannii,California,Endangered,NA,NA,NA
 Glaucidium,brasilianum,cactorum,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Glaucidium,brasilianum,cactorum,Texas,NA,Threatened,NA,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
+Glaucidium,brasilianum,NA,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Glaucomys,sabrinus,coloratus,North Carolina,Endangered,NA,NA,NA
 Glaucomys,sabrinus,coloratus,Tennessee,Endangered,NA,NA,NA
+Glaucomys,sabrinus,coloratus,Virginia,NA,Endangered,NA,http://www.mendeley.com/c/5144547734/g/2058663/special-legal-status-faunal-species-in-virginia/
 Glaucomys,sabrinus,fuscus,Virginia,Endangered,NA,NA,NA
 Glaucomys,sabrinus,fuscus,West Virginia,Endangered,NA,NA,NA
-Glaucomys,sabrinus,coloratus,Virginia,NA,Endangered,NA,http://www.mendeley.com/c/5144547734/g/2058663/special-legal-status-faunal-species-in-virginia/
 Glaucomys,sabrinus,fuscus,Virginia,NA,Endangered,NA,http://www.mendeley.com/c/5144547734/g/2058663/special-legal-status-faunal-species-in-virginia/
+Glaucomys,sabrinus,,North Carolina,Endangered,NA,,
+Glaucomys,sabrinus,,Tennessee,Endangered,NA,,
+Glaucomys,sabrinus,,Virginia,Endangered,Endangered,,
 Glaucopsyche,lygdamus,NA,Maryland,NA,In need of conservation,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Glaucopsyche,lygdamus,palosverdesensis,California,Endangered,NA,NA,NA
 Glebula,rotundata,NA,Alabama,NA,Rare or uncommon,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
@@ -3052,13 +3055,13 @@ Graptopetalum,bartramii,NA,Arizona,NA,Vulnerable,NA,http://www.mendeley.com/c/50
 Graptopetalum,rusbyi,NA,Arizona,NA,Apparently Secure,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Grindelia,fraxino-pratensis,NA,California,Threatened,NA,NA,NA
 Grindelia,fraxino-pratensis,NA,Nevada,Threatened,NA,NA,NA
+Grus,americana,except where EXPN,Wyoming,Endangered,NA,NA,NA
 Grus,americana,NA,Kansas,Endangered,NA,NA,NA
 Grus,americana,NA,Kansas,NA,Endangered,NA,http://www.mendeley.com/c/5144552094/g/2058663/kensas-threatened--endangered-species/
 Grus,americana,NA,Montana,NA,Endangered,NA,http://www.mendeley.com/c/5147076304/g/2058663/montana-species-of-interest/
 Grus,americana,NA,Oklahoma,Endangered,NA,except where EXPN,NA
 Grus,americana,NA,South Dakota,Endangered,NA,except where EXPN,NA
 Grus,americana,NA,Texas,Endangered,NA,except where EXPN,NA
-Grus,americana,except where EXPN,Wyoming,Endangered,NA,NA,NA
 Grus,americana,NA,Colorado,Endangered,NA,except where EXPN,NA
 Grus,americana,NA,Colorado,NA,Endangered,NA,http://www.mendeley.com/c/5091918642/g/2058663/colorado-species-status-state-listing/
 Grus,americana,NA,Montana,Endangered,NA,except where EXPN,NA
@@ -3068,13 +3071,13 @@ Grus,americana,NA,North Dakota,Endangered,NA,except where EXPN,NA
 Grus,americana,NA,North Dakota,NA,Some need for conservation; ND is near the edge of species range,NA,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
 Grus,americana,NA,Texas,NA,Endangered,NA,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
 Grus,americana,NA,Florida,Experimental,Species of special concern,NA,http://www.mendeley.com/c/5605595424/g/2058663/2012-dwp-listed-vertebrates/
-Grus,Canadensis,tabida,California,NA,Threatened,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
-Grus,canadensis,pulla,Alabama,NA,Historical possibly extirpated,State protected,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
-Grus,canadensis,tabida,Colorado,NA,Special Concern,NA,http://www.mendeley.com/c/5091918642/g/2058663/colorado-species-status-state-listing/
-Grus,canadensis,pratensis,Florida,NA,Threatened,NA,http://www.mendeley.com/c/5092052772/g/2058663/florida-species-status-state-listed/
-Grus,canadensis,pulla,Mississippi,Endangered,NA,NA,NA
 Grus,canadensis,NA,Washington,NA,Endangered,NA,http://www.mendeley.com/c/5144569454/g/2058663/washington-state-species-of-concern-lists/
+Grus,canadensis,pratensis,Florida,NA,Threatened,NA,http://www.mendeley.com/c/5092052772/g/2058663/florida-species-status-state-listed/
 Grus,canadensis,pratensis,Florida,NA,Threatened,NA,http://www.mendeley.com/c/5605595424/g/2058663/2012-dwp-listed-vertebrates/
+Grus,canadensis,pulla,Alabama,NA,Historical possibly extirpated,State protected,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
+Grus,canadensis,pulla,Mississippi,Endangered,NA,NA,NA
+Grus,Canadensis,tabida,California,NA,Threatened,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
+Grus,canadensis,tabida,Colorado,NA,Special Concern,NA,http://www.mendeley.com/c/5091918642/g/2058663/colorado-species-status-state-listing/
 Gulo,gulo,NA,California,NA,Threatened,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
 Gulo,gulo,NA,Colorado,NA,Endangered,NA,http://www.mendeley.com/c/5091918642/g/2058663/colorado-species-status-state-listing/
 Gulo,gulo,NA,Washington,NA,Candidate,NA,http://www.mendeley.com/c/5144569454/g/2058663/washington-state-species-of-concern-lists/
@@ -3102,6 +3105,7 @@ Haematopus,palliatus,NA,Florida,NA,Special Concern,NA,http://www.mendeley.com/c/
 Haideotriton,wallacei,NA,Georgia,NA,Threatened,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
 Haideotriton,wallacei,NA,Florida,NA,Special Concern,NA,http://www.mendeley.com/c/5092052772/g/2058663/florida-species-status-state-listed/
 Halenia,deflexa,NA,Massachusetts,NA,Endangered,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
+Haliaeetus,leucocephalus,leucocephalus,Florida,Protected,Threatened,NA,http://www.mendeley.com/c/5605595424/g/2058663/2012-dwp-listed-vertebrates/
 Haliaeetus,leucocephalus,NA,California,NA,Endangered,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
 Haliaeetus,leucocephalus,NA,Georgia,NA,Threatened,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
 Haliaeetus,leucocephalus,NA,Maryland,NA,NA,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
@@ -3115,7 +3119,6 @@ Haliaeetus,leucocephalus,NA,North Dakota,NA,Need for conservation; little suppor
 Haliaeetus,leucocephalus,NA,Texas,NA,Threatened,NA,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
 Haliaeetus,leucocephalus,NA,Virginia,NA,Threatened,NA,http://www.mendeley.com/c/5144547734/g/2058663/special-legal-status-faunal-species-in-virginia/
 Haliaeetus,leucocephalus,NA,Washington,NA,Sensitive,NA,http://www.mendeley.com/c/5144569454/g/2058663/washington-state-species-of-concern-lists/
-Haliaeetus,leucocephalus,leucocephalus,Florida,Protected,Threatened,NA,http://www.mendeley.com/c/5605595424/g/2058663/2012-dwp-listed-vertebrates/
 Haliaeetus,leucocephalus,NA,Tennessee,NA,in need of management,NA,https://www.zotero.org/groups/178496/items/itemKey/ISP6CBBN/q/introduction%20to%20the
 Haliotis,kamtschatkana,NA,Washington,NA,Candidate,NA,http://www.mendeley.com/c/5144569454/g/2058663/washington-state-species-of-concern-lists/
 Haliotis,sorenseni,NA,California,Endangered,NA,West Coast from Point Conception CA U.S.A. to Punta Abreojos Baja California Mexico,NA
@@ -3214,10 +3217,10 @@ Hendersonia,occulta,NA,Maryland,NA,In need of conservation,Imperilled,http://www
 Heraclides,aristodemus,ponceanus,Florida,Endangered,NA,NA,NA
 Hermannia,pauciflora,NA,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Hermeuptychia,sosybius,NA,Maryland,NA,NA,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Herpailurus,yagouaroundi,tolteca,Arizona,Endangered,NA,NA,NA
 Herpailurus,yagouaroundi,cacomitli,Texas,Endangered,NA,NA,NA
-Herpailurus,yaguarondi,tolteca,Arizona,NA,SRF,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Herpailurus,yagouaroundi,tolteca,Arizona,Endangered,NA,NA,NA
 Herpailurus,yaguarondi,NA,Texas,NA,Endangered,NA,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
+Herpailurus,yaguarondi,tolteca,Arizona,NA,SRF,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Hesperia,leonardus,montana,Colorado,Threatened,NA,NA,NA
 Hesperia,meskei,NA,Alabama,NA,Rare or uncommon,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Hesperia,sassacus,NA,Maryland,NA,NA,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
@@ -3430,10 +3433,10 @@ Isotria,medeoloides,NA,New Jersey,Threatened,NA,NA,NA
 Isotria,verticillata,NA,Alabama,NA,Imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Iva,microcephala,NA,Alabama,NA,Critically imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Ivesia,kingii,eremica,Nevada,Threatened,NA,NA,NA
+Ixobrychus,exilis,hesperis,Arizona,NA,Vulnerable,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Ixobrychus,exilis,NA,Maryland,NA,In need of conservation,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Ixobrychus,exilis,NA,Alabama,NA,Imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Ixobrychus,exilis,NA,Arizona,NA,Vulnerable,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
-Ixobrychus,exilis,hesperis,Arizona,NA,Vulnerable,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Ixobrychus,exilis,NA,Massachusetts,NA,Endangered,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
 Ixobrychus,exilis,NA,New Hampshire,NA,Near-threatened,NA,http://www.mendeley.com/c/5093651382/g/2058663/new-hampshire-species-status-state-listing-for-species-of-special-concern/
 Jacquemontia,reclinata,NA,Florida,Endangered,NA,NA,NA
@@ -3502,8 +3505,8 @@ Lampropeltis,calligaster,calligaster,Alabama,NA,Critically imperiled,NA,http://w
 Lampropeltis,calligaster,rhombomaculata,Alabama,NA,Rare or uncommon,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Lampropeltis,getula,getula,Alabama,NA,Apparently secure,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Lampropeltis,getula,holbrooki,Alabama,NA,Apparently secure,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
-Lampropeltis,getula,nigrita,Arizona,NA,Vulnerable,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Lampropeltis,getula,NA,Colorado,NA,Special Concern,NA,http://www.mendeley.com/c/5091918642/g/2058663/colorado-species-status-state-listing/
+Lampropeltis,getula,nigrita,Arizona,NA,Vulnerable,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Lampropeltis,pyromelana,infralabialis,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Lampropeltis,triangulum,syspila,Alabama,NA,Imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Lampropeltis,triangulum,triangulum,Alabama,NA,Imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
@@ -3572,8 +3575,8 @@ Larus,pipixcan,NA,North Dakota,NA,Greatest need for conservation,NA,http://www.m
 Lasionycteris,noctivagans,NA,New Hampshire,NA,Near-threatened,NA,http://www.mendeley.com/c/5093651382/g/2058663/new-hampshire-species-status-state-listing-for-species-of-special-concern/
 Lasiurus,blossevillii,NA,Arizona,NA,Vulnerable,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Lasiurus,borealis,NA,New Hampshire,NA,Near-threatened,NA,http://www.mendeley.com/c/5093651382/g/2058663/new-hampshire-species-status-state-listing-for-species-of-special-concern/
-Lasiurus,cinereus,semotus,Hawaii,Endangered,NA,NA,NA
 Lasiurus,cinereus,NA,New Hampshire,NA,Near-threatened,NA,http://www.mendeley.com/c/5093651382/g/2058663/new-hampshire-species-status-state-listing-for-species-of-special-concern/
+Lasiurus,cinereus,semotus,Hawaii,Endangered,NA,NA,NA
 Lasiurus,ega,NA,Texas,NA,Threatened,NA,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
 Lasiurus,intermedius,NA,Alabama,NA,Critically imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Lasiurus,xanthinus,NA,Arizona,NA,Imperiled,Vulnerable,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
@@ -3593,10 +3596,10 @@ Lasmigona,subviridis,NA,Virginia,NA,Threatened,NA,http://www.mendeley.com/c/5144
 Lasthenia,burkei,NA,California,Endangered,NA,NA,NA
 Lasthenia,conjugens,NA,California,Endangered,NA,NA,NA
 Laterallus,jamaicensis,coturniculus,California,NA,Threatened,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
+Laterallus,jamaicensis,coturniculus,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Laterallus,jamaicensis,NA,Maryland,NA,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Laterallus,jamaicensis,NA,Alabama,NA,Imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Laterallus,jamaicensis,NA,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
-Laterallus,jamaicensis,coturniculus,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Lathyrus,venosus,NA,Alabama,NA,Critically imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Layia,carnosa,NA,California,Endangered,NA,NA,NA
 Leavenworthia,alabamica,NA,Alabama,NA,Imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
@@ -3650,8 +3653,8 @@ Lepidochelys,kempii,NA,Texas,NA,Endangered,NA,http://www.mendeley.com/c/51445598
 Lepidochelys,kempii,NA,Virginia,NA,Endangered,NA,http://www.mendeley.com/c/5144547734/g/2058663/special-legal-status-faunal-species-in-virginia/
 Lepidochelys,olivacea,NA,California,Threatened,NA,except where endangered,NA
 Lepidomeda,albivallis,NA,Nevada,Endangered,NA,NA,NA
-Lepidomeda,mollispinis,pratensis,Nevada,Threatened,NA,NA,NA
 Lepidomeda,mollispinis,mollispinis,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Lepidomeda,mollispinis,pratensis,Nevada,Threatened,NA,NA,NA
 Lepidomeda,vittata,NA,Arizona,Threatened,NA,NA,NA
 Lepidomeda,vittata,NA,Arizona,NA,Critically Imperiled,Imperiled,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Lepidurus,packardi,NA,California,Endangered,NA,NA,NA
@@ -3681,11 +3684,11 @@ Leptodea,ochracea,NA,Massachusetts,NA,Special Concern,NA,http://www.mendeley.com
 Leptodeira,septentrionalis,NA,Texas,NA,Threatened,NA,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
 Leptolucania,ommata,NA,Alabama,NA,Critically imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Leptoneta,myopica,NA,Texas,Endangered,NA,NA,NA
-Leptonycteris,curasoae,yerbabuenae,Arizona,Endangered,NA,NA,NA
 Leptonycteris,curasoae,NA,Arizona,NA,Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Leptonycteris,curasoae,NA,New Mexico,NA,Threatened,NA,http://www.mendeley.com/c/5137922484/g/2058663/new-mexico-state-designated-species-status/
+Leptonycteris,curasoae,yerbabuenae,Arizona,Endangered,NA,NA,NA
 Leptonycteris,curasoae,yerbabuenae,Arizona,NA,Imperiled,Vulnerable,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Leptonycteris,curasoae,yerbabuenae,New Mexico,Endangered,NA,NA,NA
-Leptonycteris,curasoae,NA,New Mexico,NA,Threatened,NA,http://www.mendeley.com/c/5137922484/g/2058663/new-mexico-state-designated-species-status/
 Leptonycteris,nivalis,NA,Texas,Endangered,NA,NA,NA
 Leptonycteris,nivalis,NA,New Mexico,Endangered,NA,NA,NA
 Leptonycteris,nivalis,NA,New Mexico,NA,Endangered,NA,http://www.mendeley.com/c/5137922484/g/2058663/new-mexico-state-designated-species-status/
@@ -3782,8 +3785,8 @@ Lilium,parryi,NA,Arizona,NA,Imperiled,NA,http://www.mendeley.com/c/5091872772/g/
 Lilium,philadelphicum,NA,Georgia,NA,Endangered,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
 Lilium,superbum,NA,Alabama,NA,Imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Limnadia,lenticularis,NA,Massachusetts,NA,Special Concern,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
-Limnanthes,floccosa,NA,California,Endangered,NA,NA,NA
 Limnanthes,floccosa,grandiflora,Oregon,Endangered,NA,NA,NA
+Limnanthes,floccosa,NA,California,Endangered,NA,NA,NA
 Limnanthes,vinculans,NA,California,Endangered,NA,NA,NA
 Limnothlypis,swainsonii,NA,Maryland,NA,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Limnothlypis,swainsonii,NA,Alabama,NA,Rare or uncommon,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
@@ -3859,8 +3862,8 @@ Lomatium,cookii,NA,Oregon,Endangered,NA,NA,NA
 Lonicera,hirsuta,NA,Massachusetts,NA,Endangered,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
 Lonicera,involucrata,NA,Wisconsin,NA,Endangered,NA,http://www.mendeley.com/c/5144553034/g/2058663/wisconsin-endangered-and-threatened-species-laws--list/
 Lontra,canadensis,NA,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
-Lontra,canadensis,sonora,Arizona,NA,Historical possibly extirpated,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Lontra,canadensis,NA,Colorado,NA,Threatened,NA,http://www.mendeley.com/c/5091918642/g/2058663/colorado-species-status-state-listing/
+Lontra,canadensis,sonora,Arizona,NA,Historical possibly extirpated,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Lophocereus,schottii,NA,Arizona,NA,Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Lophodytes,cucullatus,NA,Maryland,NA,NA,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Lota,lota,NA,Massachusetts,NA,Special Concern,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
@@ -3993,10 +3996,10 @@ Macroptilium,supinum,NA,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.c
 Macrotus,californicus,NA,Arizona,NA,Vulnerable,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Magnolia,fraseri,NA,Alabama,NA,Critically imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Magnolia,virginiana,NA,Massachusetts,NA,Endangered,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
-Malaclemys,terrapin,NA,Georgia,NA,Unusual,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
 Malaclemys,terrapin,centrata,Georgia,NA,Unusual,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
-Malaclemys,terrapin,pileata,Alabama,NA,Imperiled,State protected,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
+Malaclemys,terrapin,NA,Georgia,NA,Unusual,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
 Malaclemys,terrapin,NA,Massachusetts,NA,Threatened,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
+Malaclemys,terrapin,pileata,Alabama,NA,Imperiled,State protected,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Malacothamnus,clementinus,NA,California,Endangered,NA,NA,NA
 Malacothamnus,fasciculatus,nesioticus,California,Endangered,NA,NA,NA
 Malacothrix,indecora,NA,California,Endangered,NA,NA,NA
@@ -4041,8 +4044,8 @@ Marstonia,scalariformis,NA,Alabama,NA,Critically imperiled,State protected,http:
 Martes,americana,NA,Maryland,NA,Endangered/Extirpated,Believed to be extirpated,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Martes,americana,NA,Wisconsin,NA,Endangered,NA,http://www.mendeley.com/c/5144553034/g/2058663/wisconsin-endangered-and-threatened-species-laws--list/
 Martes,americana,NA,New Mexico,NA,Threatened,NA,http://www.mendeley.com/c/5137922484/g/2058663/new-mexico-state-designated-species-status/
-Martes,pennanti,pacifica,California,NA,State Candidate Threatened,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
 Martes,pennanti,NA,Washington,NA,Endangered,NA,http://www.mendeley.com/c/5144569454/g/2058663/washington-state-species-of-concern-lists/
+Martes,pennanti,pacifica,California,NA,State Candidate Threatened,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
 Masticophis,flagellum,NA,Alabama,NA,Rare or uncommon,State protected,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Masticophis,lateralis,euryxanthus,California,Threatened,NA,NA,NA
 Masticophis,lateralis,euryxanthus,California,NA,Threatened,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
@@ -4173,6 +4176,7 @@ Microphis,brachyurus,NA,Texas,NA,Threatened,NA,http://www.mendeley.com/c/5144559
 Micropterus,cataractae,NA,Alabama,NA,Imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Micropterus,notius,NA,Georgia,NA,Rare,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
 Microtus,californicus,scirpensis,California,Endangered,NA,NA,NA
+Microtus,californicus,scirpensis,California,NA,Endangered,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
 Microtus,canicaudus,NA,Washington,NA,Candidate,NA,http://www.mendeley.com/c/5144569454/g/2058663/washington-state-species-of-concern-lists/
 Microtus,chrotorrhinus,carolinensis,Maryland,NA,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Microtus,chrotorrhinus,NA,Virginia,NA,Endangered,NA,http://www.mendeley.com/c/5144547734/g/2058663/special-legal-status-faunal-species-in-virginia/
@@ -4183,7 +4187,6 @@ Microtus,mexicanus,navaho,Arizona,NA,Critically Imperiled,NA,http://www.mendeley
 Microtus,montanus,arizonensis,New Mexico,NA,Endangered,NA,http://www.mendeley.com/c/5137922484/g/2058663/new-mexico-state-designated-species-status/
 Microtus,ochrogaster,NA,Alabama,NA,Imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Microtus,pennsylvanicus,dukecampbelli,Florida,Endangered,NA,NA,NA
-Microtus,californicus,scirpensis,California,NA,Endangered,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
 Micrurus,fulvius,NA,Alabama,NA,Rare or uncommon,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Miktoniscus,alabamensis,NA,Alabama,NA,Critically imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Miktoniscus,medcofi,NA,Alabama,NA,State unranked,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
@@ -4371,11 +4374,11 @@ Neoleptoneta,myopica,NA,Texas,NA,Endangered,NA,http://www.mendeley.com/c/5144559
 Neoleptoneta,serena,NA,Alabama,NA,Critically imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Neoligia,semicana,NA,Massachusetts,NA,Special Concern,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
 Neonympha,areolata,NA,Alabama,NA,unrankable,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
-Neonympha,mitchellii,mitchellii,Indiana,Endangered,NA,NA,NA
 Neonympha,mitchellii,francisci,North Carolina,Endangered,NA,NA,NA
+Neonympha,mitchellii,mitchellii,Indiana,Endangered,NA,NA,NA
 Neonympha,mitchellii,mitchellii,Ohio,Endangered,NA,NA,NA
-Neonympha,mitchellii,NA,Alabama,NA,Critically imperiled,State protected,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Neonympha,mitchellii,mitchellii,New Jersey,Endangered,NA,NA,NA
+Neonympha,mitchellii,NA,Alabama,NA,Critically imperiled,State protected,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Neonympha,mitchellii,NA,Virginia,NA,Endangered,NA,http://www.mendeley.com/c/5144547734/g/2058663/special-legal-status-faunal-species-in-virginia/
 Neonympha mitchellii,mitchellii,NA,Michigan,Endangered,NA,NA,NA
 Neoseps,reynoldsi,NA,Florida,Threatened,NA,NA,NA
@@ -4394,13 +4397,13 @@ Neraudia,sericea,NA,Hawaii,Endangered,NA,NA,NA
 Nerodia,clarkii,clarkii,Alabama,NA,Imperiled,State protected,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Nerodia,clarkii,taeniata,Florida,Threatened,NA,NA,NA
 Nerodia,cyclopion,NA,Alabama,NA,Imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
+Nerodia,erythrogaster,erythrogaster,Maryland,NA,NA,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Nerodia,erythrogaster,NA,Illinois,Threatened,NA,Indiana north of 40 degrees north latitude Michigan Ohio,NA
+Nerodia,erythrogaster,NA,New Mexico,NA,Endangered,NA,http://www.mendeley.com/c/5137922484/g/2058663/new-mexico-state-designated-species-status/
 Nerodia,erythrogaster,neglecta,Indiana,Threatened,NA,Indiana north of 40 degrees north latitude Michigan Ohio,NA
 Nerodia,erythrogaster,neglecta,Kentucky,Threatened,NA,Indiana north of 40 degrees north latitude Michigan Ohio,NA
-Nerodia,erythrogaster,erythrogaster,Maryland,NA,NA,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Nerodia,erythrogaster,neglecta,Michigan,Threatened,NA,Indiana north of 40 degrees north latitude Michigan Ohio,NA
 Nerodia,erythrogaster,neglecta,Ohio,Threatened,NA,north of 40 degrees north latitude Michigan Ohio,NA
-Nerodia,erythrogaster,NA,New Mexico,NA,Endangered,NA,http://www.mendeley.com/c/5137922484/g/2058663/new-mexico-state-designated-species-status/
 Nerodia,fasciata,NA,Alabama,NA,Apparently secure,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Nerodia,floridana,NA,Alabama,NA,Imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Nerodia,harteri,NA,Texas,NA,Threatened,NA,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
@@ -4526,9 +4529,9 @@ Notropis,photogenis,NA,Alabama,NA,Critically imperiled,NA,http://www.mendeley.co
 Notropis,rubellus,NA,North Dakota,NA,Some need for conservation; ND is near the edge of species range,NA,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
 Notropis,scepticus,NA,Georgia,NA,Rare,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
 Notropis,shumardi,NA,Kansas,NA,Threatened,NA,http://www.mendeley.com/c/5144552094/g/2058663/kensas-threatened--endangered-species/
+Notropis,simus,NA,Texas,NA,Threatened,NA,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
 Notropis,simus,pecosensis,New Mexico,Threatened,NA,NA,NA
 Notropis,simus,pecosensis,New Mexico,NA,Endangered,NA,http://www.mendeley.com/c/5137922484/g/2058663/new-mexico-state-designated-species-status/
-Notropis,simus,NA,Texas,NA,Threatened,NA,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
 Notropis,spectrunculus,NA,Alabama,NA,Imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Notropis,stramineus,NA,Alabama,NA,Critically imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Notropis,telescopus,NA,Alabama,NA,Rare or uncommon,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
@@ -4663,13 +4666,13 @@ Oncorhynchus,aguabonita,whitei,California,Threatened,NA,NA,NA
 Oncorhynchus,apache,NA,Arizona,Threatened,NA,NA,NA
 Oncorhynchus,apache,NA,Arizona,NA,Vulnerable,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Oncorhynchus,clarki,henshawi,California,Threatened,NA,NA,NA
-Oncorhynchus,clarki,seleniris,California,Threatened,NA,NA,NA
 Oncorhynchus,clarki,henshawi,Nevada,Threatened,NA,NA,NA
 Oncorhynchus,clarki,henshawi,Oregon,Threatened,NA,NA,NA
 Oncorhynchus,clarki,henshawi,Utah,Threatened,NA,NA,NA
+Oncorhynchus,clarki,pleuriticus,Colorado,NA,Special Concern,NA,http://www.mendeley.com/c/5091918642/g/2058663/colorado-species-status-state-listing/
+Oncorhynchus,clarki,seleniris,California,Threatened,NA,NA,NA
 Oncorhynchus,clarki,stomias,Colorado,Threatened,NA,NA,NA
 Oncorhynchus,clarki,stomias,Colorado,NA,Threatened,NA,http://www.mendeley.com/c/5091918642/g/2058663/colorado-species-status-state-listing/
-Oncorhynchus,clarki,pleuriticus,Colorado,NA,Special Concern,NA,http://www.mendeley.com/c/5091918642/g/2058663/colorado-species-status-state-listing/
 Oncorhynchus,clarki,virginalis,Colorado,NA,Special Concern,NA,http://www.mendeley.com/c/5091918642/g/2058663/colorado-species-status-state-listing/
 Oncorhynchus,gilae,NA,New Mexico,Threatened,NA,NA,NA
 Oncorhynchus,gilae,NA,Arizona,Threatened,NA,NA,NA
@@ -4741,8 +4744,8 @@ Ophiogomphus,edmundo,NA,Georgia,NA,Endangered,NA,http://www.mendeley.com/c/51445
 Ophiogomphus,howei,NA,Wisconsin,NA,Threatened,NA,http://www.mendeley.com/c/5144553034/g/2058663/wisconsin-endangered-and-threatened-species-laws--list/
 Ophiogomphus,incurvatus,alleghaniensis,Alabama,NA,Critically imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Ophiogomphus,incurvatus,incurvatus,Maryland,NA,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Ophiogomphus,mainensis,NA,Alabama,NA,State unranked,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Ophiogomphus,mainensis,fastigiatus,Maryland,NA,NA,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Ophiogomphus,mainensis,NA,Alabama,NA,State unranked,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Ophiogomphus,rupinsulensis,NA,Maryland,NA,NA,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Ophiogomphus,sp 1,NA,Maryland,NA,NA,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Ophiogomphus,susbehcha,NA,Wisconsin,NA,Endangered,NA,http://www.mendeley.com/c/5144553034/g/2058663/wisconsin-endangered-and-threatened-species-laws--list/
@@ -4819,17 +4822,17 @@ Osmunda,regalis,NA,Florida,NA,Commercially exploited,NA,http://www.mendeley.com/
 Ostrea,lurida,NA,Washington,NA,Candidate,NA,http://www.mendeley.com/c/5144569454/g/2058663/washington-state-species-of-concern-lists/
 Ottoschulzia,rhodoxylon,NA,Puerto Rico,Endangered,NA,NA,NA
 Otus,flammeolus,NA,Washington,NA,Candidate,NA,http://www.mendeley.com/c/5144569454/g/2058663/washington-state-species-of-concern-lists/
-Ovis,canadensis,nelsoni,California,Endangered,NA,NA,NA
-Ovis,canadensis,sierrae,California,Endangered,NA,NA,NA
 Ovis,canadensis,californiana,California,NA,Endangered,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
 Ovis,canadensis,cremnobates,California,NA,Threatened,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
-Ovis,canadensis,NA,Arizona,NA,Vulnerable,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Ovis,canadensis,mexicana,New Mexico,NA,Endangered,NA,http://www.mendeley.com/c/5137922484/g/2058663/new-mexico-state-designated-species-status/
+Ovis,canadensis,NA,Arizona,NA,Vulnerable,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Ovis,canadensis,nelsoni,California,Endangered,NA,NA,NA
+Ovis,canadensis,sierrae,California,Endangered,NA,NA,NA
 Oxalis,grandis,NA,Alabama,NA,Critically imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Oxalis,violacea,NA,Massachusetts,NA,Endangered,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
 Oxybelis,aeneus,NA,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
-Oxyloma,haydeni,kanabensis,Arizona,Endangered,NA,NA,NA
 Oxyloma,haydeni,haydeni,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Oxyloma,haydeni,kanabensis,Arizona,Endangered,NA,NA,NA
 Oxyloma,haydeni,kanabensis,Utah,Endangered,NA,NA,NA
 Oxypolis,canbyi,NA,Georgia,NA,Endangered,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
 Oxypolis,canbyi,NA,Maryland,Endangered,NA,NA,NA
@@ -4857,10 +4860,10 @@ Palmeria,dolei,NA,Hawaii,Endangered,NA,NA,NA
 palustris,natator,NA,Florida,Endangered,NA,NA,NA
 Panax,quinquefolius,NA,Massachusetts,NA,Special Concern,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
 Panax,quinquifolius,NA,Tennessee,NA,special concern,status due to commercial exploitation,https://www.zotero.org/groups/178496/items/itemKey/ISP6CBBN/q/introduction%20to%20the
+Pandion,haliaetus,carolinensis,Florida,NA,Species of special concern,NA,http://www.mendeley.com/c/5605595424/g/2058663/2012-dwp-listed-vertebrates/
 Pandion,haliaetus,NA,Arizona,NA,Imperiled,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Pandion,haliaetus,NA,Florida,NA,Special Concern,NA,http://www.mendeley.com/c/5092052772/g/2058663/florida-species-status-state-listed/
 Pandion,haliaetus,NA,New Hampshire,NA,Near-threatened,NA,http://www.mendeley.com/c/5093651382/g/2058663/new-hampshire-species-status-state-listing-for-species-of-special-concern/
-Pandion,haliaetus,carolinensis,Florida,NA,Species of special concern,NA,http://www.mendeley.com/c/5605595424/g/2058663/2012-dwp-listed-vertebrates/
 Panicum,abscissum,NA,Florida,NA,Endangered,NA,http://www.mendeley.com/c/5605595494/g/2058663/2012-dwp-listed-plants/
 Panicum,fauriei,carteri,Hawaii,Endangered,NA,NA,NA
 Panicum,lithophilum,NA,Alabama,NA,Critically imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
@@ -4940,8 +4943,8 @@ Pediocactus,knowltonii,NA,New Mexico,Endangered,NA,NA,NA
 Pediocactus,knowltonii,NA,Colorado,Endangered,NA,NA,NA
 Pediocactus,papyracanthus,NA,Arizona,NA,Imperiled,Vulnerable,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Pediocactus,paradinei,NA,Arizona,NA,Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
-Pediocactus,peeblesianus,peeblesianus,Arizona,Endangered,NA,NA,NA
 Pediocactus,peeblesianus,fickeiseniae,Arizona,NA,Critically Imperiled,Imperiled,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Pediocactus,peeblesianus,peeblesianus,Arizona,Endangered,NA,NA,NA
 Pediocactus,peeblesianus,peeblesianus,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Pediocactus,sileri,NA,Utah,Threatened,NA,NA,NA
 Pediocactus,sileri,NA,Arizona,Threatened,NA,NA,NA
@@ -4964,10 +4967,10 @@ Pelecanus,erythrorhynchos,NA,Alabama,NA,Rare or uncommon,State protected,http://
 Pelecanus,erythrorhynchos,NA,North Dakota,NA,Greatest need for conservation,NA,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
 Pelecanus,erythrorhynchos,NA,Washington,NA,Endangered,NA,http://www.mendeley.com/c/5144569454/g/2058663/washington-state-species-of-concern-lists/
 Pelecanus,occidentalis,californicus,California,NA,Endangered,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
+Pelecanus,occidentalis,californicus,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Pelecanus,occidentalis,NA,Maryland,NA,NA,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Pelecanus,occidentalis,NA,Alabama,NA,Rare or uncommon,Partial Status,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Pelecanus,occidentalis,NA,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
-Pelecanus,occidentalis,californicus,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Pelecanus,occidentalis,NA,Florida,NA,Special Concern,NA,http://www.mendeley.com/c/5092052772/g/2058663/florida-species-status-state-listed/
 Pelecanus,occidentalis,NA,New Mexico,NA,Endangered,NA,http://www.mendeley.com/c/5137922484/g/2058663/new-mexico-state-designated-species-status/
 Pelecanus,occidentalis,NA,Washington,NA,Endangered,NA,http://www.mendeley.com/c/5144569454/g/2058663/washington-state-species-of-concern-lists/
@@ -5065,15 +5068,15 @@ Perognathus,flavescens,NA,North Dakota,NA,Some need for conservation; ND is near
 Perognathus,flavus,goodpasteri,Arizona,NA,Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Perognathus,longimembris,pacificus,California,Endangered,NA,NA,NA
 Peromyscus,gossypinus,allapaticola,Florida,Endangered,NA,NA,NA
-Peromyscus,polionotus,ammobates,Alabama,Endangered,NA,NA,NA
-Peromyscus,polionotus,trissyllepsis,Alabama,Endangered,NA,NA,NA
-Peromyscus,polionotus,ammobates,Alabama,NA,Critically imperiled,State protected,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
-Peromyscus,polionotus,trissyllepsis,Alabama,NA,Critically imperiled,State protected,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
-Peromyscus,polionotus,phasma,Florida,Endangered,NA,NA,NA
 Peromyscus,polionotus,allophrys,Florida,Endangered,NA,NA,NA
-Peromyscus,polionotus,trissyllepsis,Florida,Endangered,NA,NA,NA
+Peromyscus,polionotus,ammobates,Alabama,Endangered,NA,NA,NA
+Peromyscus,polionotus,ammobates,Alabama,NA,Critically imperiled,State protected,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Peromyscus,polionotus,niveiventris,Florida,Threatened,NA,NA,NA
 Peromyscus,polionotus,peninsularis,Florida,Endangered,NA,NA,NA
+Peromyscus,polionotus,phasma,Florida,Endangered,NA,NA,NA
+Peromyscus,polionotus,trissyllepsis,Alabama,Endangered,NA,NA,NA
+Peromyscus,polionotus,trissyllepsis,Alabama,NA,Critically imperiled,State protected,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
+Peromyscus,polionotus,trissyllepsis,Florida,Endangered,NA,NA,NA
 Peromyscus,truei,comanche,Texas,NA,Threatened,NA,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
 Persicaria,puritanorum,NA,Massachusetts,NA,Special Concern,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
 Persicaria,setacea,NA,Massachusetts,NA,Threatened,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
@@ -5222,12 +5225,12 @@ Pipilo,crissalis,eremophilus,California,NA,Endangered,NA,http://www.mendeley.com
 Pisidium,lilljeborgi,NA,New Mexico,NA,Threatened,NA,http://www.mendeley.com/c/5137922484/g/2058663/new-mexico-state-designated-species-status/
 Pisidium,sanguinichristi,NA,New Mexico,NA,Threatened,NA,http://www.mendeley.com/c/5137922484/g/2058663/new-mexico-state-designated-species-status/
 Pittosporum,napaliense,NA,Hawaii,Endangered,NA,NA,NA
-Pituophis,melanoleucus,NA,Maryland,NA,NA,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Pituophis,melanoleucus,lodingi,Alabama,NA,Imperiled,State protected,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Pituophis,melanoleucus,melanoleucus,Alabama,NA,Rare or uncommon,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Pituophis,melanoleucus,mugitus,Alabama,NA,Imperiled,State protected,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Pituophis,melanoleucus,mugitus,Florida,NA,Special Concern,NA,http://www.mendeley.com/c/5092052772/g/2058663/florida-species-status-state-listed/
 Pituophis,melanoleucus,mugitus,Florida,NA,Species of special concern,NA,http://www.mendeley.com/c/5605595424/g/2058663/2012-dwp-listed-vertebrates/
+Pituophis,melanoleucus,NA,Maryland,NA,NA,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Pituophis,ruthveni,NA,Texas,NA,Threatened,NA,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
 Pityopsis,oligantha,NA,Alabama,NA,Critically imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Pityopsis,pinifolia,NA,Georgia,NA,Rare,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
@@ -5249,9 +5252,9 @@ Platanthera,blephariglottis,conspicua,Alabama,NA,Critically imperiled,NA,http://
 Platanthera,ciliaris,NA,Florida,NA,Threatened,NA,http://www.mendeley.com/c/5605595494/g/2058663/2012-dwp-listed-plants/
 Platanthera,cristata,NA,Massachusetts,NA,Endangered,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
 Platanthera,dilatata,NA,Massachusetts,NA,Threatened,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
-Platanthera,flava,NA,Wisconsin,NA,Threatened,NA,http://www.mendeley.com/c/5144553034/g/2058663/wisconsin-endangered-and-threatened-species-laws--list/
 Platanthera,flava,herbiola,Massachusetts,NA,Threatened,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
 Platanthera,flava,herbiola,Tennessee,NA,threatened,NA,https://www.zotero.org/groups/178496/items/itemKey/ISP6CBBN/q/introduction%20to%20the
+Platanthera,flava,NA,Wisconsin,NA,Threatened,NA,http://www.mendeley.com/c/5144553034/g/2058663/wisconsin-endangered-and-threatened-species-laws--list/
 Platanthera,holochila,NA,Hawaii,Endangered,NA,NA,NA
 Platanthera,hyperborea,NA,Arizona,NA,Vulnerable,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Platanthera,integra,NA,Alabama,NA,Imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
@@ -5451,9 +5454,9 @@ Podomys,floridanus,NA,Florida,NA,Species of special concern,NA,http://www.mendel
 Poeciliopsis,occidentalis,NA,New Mexico,Endangered,NA,USA only,NA
 Poeciliopsis,occidentalis,NA,Arizona,Endangered,NA,U.S.A. only,NA
 Poeciliopsis,occidentalis,NA,Arizona,NA,Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Poeciliopsis,occidentalis,NA,New Mexico,NA,Threatened,NA,http://www.mendeley.com/c/5137922484/g/2058663/new-mexico-state-designated-species-status/
 Poeciliopsis,occidentalis,occidentalis,Arizona,NA,Critically Imperiled,Imperiled,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Poeciliopsis,occidentalis,sonoriensis,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
-Poeciliopsis,occidentalis,NA,New Mexico,NA,Threatened,NA,http://www.mendeley.com/c/5137922484/g/2058663/new-mexico-state-designated-species-status/
 Pogogyne,abramsii,NA,California,Endangered,NA,NA,NA
 Pogogyne,nudiuscula,NA,California,Endangered,NA,NA,NA
 Pohonia,phioglossoides,NA,Florida,NA,Threatened,NA,http://www.mendeley.com/c/5605595494/g/2058663/2012-dwp-listed-plants/
@@ -5505,10 +5508,10 @@ Polytaenia,nuttallii,NA,Wisconsin,NA,Threatened,NA,http://www.mendeley.com/c/514
 Pomatiopsis,lapidaria,NA,Kansas,NA,Endangered,NA,http://www.mendeley.com/c/5144552094/g/2058663/kensas-threatened--endangered-species/
 Pomatiopsis,lapidaria,NA,Massachusetts,NA,Endangered,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
 Ponthieva,racemosa,NA,Alabama,NA,Imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
+Pooecetes,gramineus,affinis,Washington,NA,Candidate,NA,http://www.mendeley.com/c/5144569454/g/2058663/washington-state-species-of-concern-lists/
 Pooecetes,gramineus,NA,Maryland,NA,NA,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Pooecetes,gramineus,NA,Massachusetts,NA,Threatened,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
 Pooecetes,gramineus,NA,New Hampshire,NA,Near-threatened,NA,http://www.mendeley.com/c/5093651382/g/2058663/new-hampshire-species-status-state-listing-for-species-of-special-concern/
-Pooecetes,gramineus,affinis,Washington,NA,Candidate,NA,http://www.mendeley.com/c/5144569454/g/2058663/washington-state-species-of-concern-lists/
 Pooecetes,gramineus,NA,Tennessee,NA,in need of management,NA,https://www.zotero.org/groups/178496/items/itemKey/ISP6CBBN/q/introduction%20to%20the
 Popenaias,popeii,NA,New Mexico,NA,Endangered,NA,http://www.mendeley.com/c/5137922484/g/2058663/new-mexico-state-designated-species-status/
 Popenaias,popeii,NA,Texas,NA,Threatened,NA,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
@@ -5716,12 +5719,16 @@ Ptychocheilus,lucius,NA,New Mexico,NA,Endangered,NA,http://www.mendeley.com/c/51
 Ptychoramphus,aleuticus,NA,Washington,NA,Candidate,NA,http://www.mendeley.com/c/5144569454/g/2058663/washington-state-species-of-concern-lists/
 Puccinellia,parishii,NA,Arizona,NA,Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Puffinus,auricularis,newelli,Hawaii,Threatened,NA,NA,NA
-Puma,concolor,couguar,Maine,Endangered,NA,NA,NA
 Puma,concolor,coryi,Georgia,NA,Endangered,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
-Puma,concolor,NA,Illinois,Endangered,NA,NA,NA
+Puma,concolor,coryi,Louisiana,Endangered,NA,NA,NA
+Puma,concolor,coryi,Alabama,Endangered,NA,NA,NA
+Puma,concolor,coryi,Arkansas,Endangered,NA,NA,NA
+Puma,concolor,coryi,Georgia,Endangered,NA,NA,NA
+Puma,concolor,coryi,Mississippi,Endangered,NA,NA,NA
+Puma,concolor,cougar,Virginia,NA,Endangered,NA,http://www.mendeley.com/c/5144547734/g/2058663/special-legal-status-faunal-species-in-virginia/
+Puma,concolor,couguar,Maine,Endangered,NA,NA,NA
 Puma,concolor,couguar,Indiana,Endangered,NA,NA,NA
 Puma,concolor,couguar,Kentucky,Endangered,NA,NA,NA
-Puma,concolor,coryi,Louisiana,Endangered,NA,NA,NA
 Puma,concolor,couguar,Maryland,Endangered,NA,NA,NA
 Puma,concolor,couguar,Massachusetts,Endangered,NA,NA,NA
 Puma,concolor,couguar,Michigan,Endangered,NA,NA,NA
@@ -5733,14 +5740,10 @@ Puma,concolor,couguar,Rhode Island,Endangered,NA,NA,NA
 Puma,concolor,couguar,Vermont,Endangered,NA,NA,NA
 Puma,concolor,couguar,Virginia,Endangered,NA,NA,NA
 Puma,concolor,couguar,West Virginia,Endangered,NA,NA,NA
-Puma,concolor,coryi,Alabama,Endangered,NA,NA,NA
-Puma,concolor,NA,Alabama,NA,Presumed extirpated,Partial Status,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
-Puma,concolor,coryi,Arkansas,Endangered,NA,NA,NA
-Puma,concolor,coryi,Georgia,Endangered,NA,NA,NA
-Puma,concolor,coryi,Mississippi,Endangered,NA,NA,NA
 Puma,concolor,couguar,New Hampshire,Endangered,NA,NA,NA
 Puma,concolor,couguar,New Jersey,Endangered,NA,NA,NA
-Puma,concolor,cougar,Virginia,NA,Endangered,NA,http://www.mendeley.com/c/5144547734/g/2058663/special-legal-status-faunal-species-in-virginia/
+Puma,concolor,NA,Illinois,Endangered,NA,NA,NA
+Puma,concolor,NA,Alabama,NA,Presumed extirpated,Partial Status,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Punctum,blandianum,NA,Alabama,NA,State unranked,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Punctum,smithi,NA,Alabama,NA,State unranked,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Punctum,vitreum,NA,Alabama,NA,State unranked,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
@@ -5790,10 +5793,10 @@ Pyrularia,pubera,NA,Alabama,NA,Imperiled,NA,http://www.mendeley.com/c/5091667202
 Quadrula,apiculata,NA,Alabama,NA,Demonstrably secure,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Quadrula,asperata,NA,Alabama,NA,Apparently secure,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Quadrula,aurea,NA,Texas,NA,Threatened,NA,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
+Quadrula,cylindrica,cylindrica,Alabama,NA,Critically imperiled,State protected,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Quadrula,cylindrica,NA,Kansas,NA,Endangered,NA,http://www.mendeley.com/c/5144552094/g/2058663/kensas-threatened--endangered-species/
 Quadrula,cylindrica,strigillata,Tennessee,Endangered,NA,NA,NA
 Quadrula,cylindrica,strigillata,Virginia,Endangered,NA,NA,NA
-Quadrula,cylindrica,cylindrica,Alabama,NA,Critically imperiled,State protected,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Quadrula,cylindrica,strigillata,Virginia,NA,Endangered,NA,http://www.mendeley.com/c/5144547734/g/2058663/special-legal-status-faunal-species-in-virginia/
 Quadrula,fragosa,NA,Illinois,Endangered,NA,Entire except where listed as experimental populations,NA
 Quadrula,fragosa,NA,Indiana,Endangered,NA,Entire except where listed as experimental populations,NA
@@ -5852,18 +5855,18 @@ Quincuncina,infucata,NA,Alabama,NA,Critically imperiled,NA,http://www.mendeley.c
 Rabdotus,mooreanus,NA,Alabama,NA,State unranked,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Rallus,elegans,NA,Maryland,NA,NA,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Rallus,elegans,NA,Massachusetts,NA,Threatened,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
-Rallus,longirostris,obsoletus,California,NA,Endangered,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
 Rallus,longirostris,levipes,California,NA,Endangered,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
+Rallus,longirostris,NA,California,Endangered,NA,NA,NA
+Rallus,longirostris,NA,California,Endangered,NA,NA,NA
+Rallus,longirostris,obsoletus,California,NA,Endangered,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
+Rallus,longirostris,obsoletus,California,Endangered,NA,NA,NA
 Rallus,longirostris,yumanensis,California,NA,Endangered,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
 Rallus,longirostris,yumanensis,Arizona,Endangered,NA,USA only,NA
 Rallus,longirostris,yumanensis,Arizona,NA,Vulnerable,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
-Rallus,longirostris,obsoletus,California,Endangered,NA,NA,NA
-Rallus,longirostris,NA,California,Endangered,NA,NA,NA
-Rallus,longirostris,NA,California,Endangered,NA,NA,NA
 Rana,blairi,NA,Colorado,NA,Special Concern,NA,http://www.mendeley.com/c/5091918642/g/2058663/colorado-species-status-state-listing/
+Rana,capito,aesopus,Florida,NA,Species of special concern,NA,http://www.mendeley.com/c/5605595424/g/2058663/2012-dwp-listed-vertebrates/
 Rana,capito,NA,Georgia,NA,Rare,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
 Rana,capito,NA,Alabama,NA,Imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
-Rana,capito,aesopus,Florida,NA,Species of special concern,NA,http://www.mendeley.com/c/5605595424/g/2058663/2012-dwp-listed-vertebrates/
 Rana,chiricahuensis,NA,New Mexico,Threatened,NA,NA,NA
 Rana,chiricahuensis,NA,Arizona,Threatened,NA,NA,NA
 Rana,clamitans,NA,Kansas,NA,Threatened,NA,http://www.mendeley.com/c/5144552094/g/2058663/kensas-threatened--endangered-species/
@@ -5931,10 +5934,10 @@ Rhexia,salicifolia,NA,Alabama,NA,Critically imperiled,NA,http://www.mendeley.com
 Rhinichthys,falcatus,NA,Washington,NA,Candidate,NA,http://www.mendeley.com/c/5144569454/g/2058663/washington-state-species-of-concern-lists/
 Rhinichthys,osculus,lethoporus,Nevada,Endangered,NA,NA,NA
 Rhinichthys,osculus,NA,Oregon,Threatened,NA,NA,NA
-Rhinichthys,osculus,thermalis,Wyoming,Endangered,NA,NA,NA
 Rhinichthys,osculus,NA,Arizona,NA,Vulnerable,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Rhinichthys,osculus,nevadensis,Nevada,Endangered,NA,NA,NA
 Rhinichthys,osculus,oligoporus,Nevada,Endangered,NA,NA,NA
+Rhinichthys,osculus,thermalis,Wyoming,Endangered,NA,NA,NA
 Rhinichthys,umatilla,NA,Washington,NA,Candidate,NA,http://www.mendeley.com/c/5144569454/g/2058663/washington-state-species-of-concern-lists/
 Rhinocheilus,lecontei,NA,Kansas,NA,Threatened,NA,http://www.mendeley.com/c/5144552094/g/2058663/kensas-threatened--endangered-species/
 Rhinophrynus,dorsalis,NA,Texas,NA,Threatened,NA,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
@@ -6071,10 +6074,10 @@ Sapindus,marginatus,NA,Georgia,NA,Rare,NA,http://www.mendeley.com/c/5144545934/g
 Sarracenia,flava,NA,Georgia,NA,Unusual,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
 Sarracenia,leucophylla,NA,Georgia,NA,Endangered,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
 Sarracenia,leucophylla,NA,Alabama,NA,Rare or uncommon,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
-Sarracenia,minor,NA,Georgia,NA,Unusual,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
 Sarracenia,minor,minor,Georgia,NA,Unusual,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
-Sarracenia,minor,okefenokeense,Georgia,NA,Unusual,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
+Sarracenia,minor,NA,Georgia,NA,Unusual,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
 Sarracenia,minor,NA,Florida,NA,Threatened,NA,http://www.mendeley.com/c/5605595494/g/2058663/2012-dwp-listed-plants/
+Sarracenia,minor,okefenokeense,Georgia,NA,Unusual,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
 Sarracenia,oreophila,NA,Georgia,NA,Endangered,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
 Sarracenia,oreophila,NA,North Carolina,Endangered,NA,NA,NA
 Sarracenia,oreophila,NA,Tennessee,Endangered,NA,NA,NA
@@ -6085,12 +6088,12 @@ Sarracenia,psittacina,NA,Georgia,NA,Threatened,NA,http://www.mendeley.com/c/5144
 Sarracenia,purpurea,NA,Georgia,NA,Endangered,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
 Sarracenia,purpurea,purpurea,Georgia,NA,Endangered,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
 Sarracenia,purpurea,venosa,Georgia,NA,Endangered,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
-Sarracenia,rubra,NA,Georgia,NA,Threatened,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
-Sarracenia,rubra,rubra,Georgia,NA,Endangered,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
+Sarracenia,rubra,alabamensis,Alabama,Endangered,NA,NA,NA
 Sarracenia,rubra,jonesii,North Carolina,Endangered,NA,NA,NA
 Sarracenia,rubra,jonesii,South Carolina,Endangered,NA,jonesii,NA
-Sarracenia,rubra,alabamensis,Alabama,Endangered,NA,NA,NA
+Sarracenia,rubra,NA,Georgia,NA,Threatened,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
 Sarracenia,rubra,NA,Alabama,NA,Critically imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
+Sarracenia,rubra,rubra,Georgia,NA,Endangered,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
 Sarracenia,rubra,wherryi,Alabama,NA,Rare or uncommon,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Satan,eurystomus,NA,Texas,NA,Threatened,NA,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
 Satyrium,caryaevorus,NA,Maryland,NA,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
@@ -6201,14 +6204,14 @@ Scirpus,hallii,NA,Wisconsin,NA,Endangered,NA,http://www.mendeley.com/c/514455303
 Scirpus,longii,NA,Massachusetts,NA,Threatened,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
 Sciurus,griseus,NA,Washington,NA,Threatened,NA,http://www.mendeley.com/c/5144569454/g/2058663/washington-state-species-of-concern-lists/
 Sciurus,nayaritensis,chiricahuae,Arizona,NA,Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Sciurus,niger,avicennia,Florida,NA,Threatened,NA,http://www.mendeley.com/c/5092052772/g/2058663/florida-species-status-state-listed/
 Sciurus,niger,cinereus,Maryland,Endangered,NA,NA,NA
 Sciurus,niger,cinereus,Maryland,NA,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Sciurus,niger,cinereus,Pennsylvania,Endangered,NA,Entire except Sussex Co DE,NA
 Sciurus,niger,cinereus,Virginia,Endangered,NA,Entire except Sussex Co. DE,NA
 Sciurus,niger,cinereus,Deleware,Endangered,NA,Delmarva Peninsula Entire except Sussex Co. DE,NA
-Sciurus,niger,avicennia,Florida,NA,Threatened,NA,http://www.mendeley.com/c/5092052772/g/2058663/florida-species-status-state-listed/
-Sciurus,niger,shermani,Florida,NA,Special Concern,NA,http://www.mendeley.com/c/5092052772/g/2058663/florida-species-status-state-listed/
 Sciurus,niger,cinereus,Virginia,NA,Endangered,NA,http://www.mendeley.com/c/5144547734/g/2058663/special-legal-status-faunal-species-in-virginia/
+Sciurus,niger,shermani,Florida,NA,Special Concern,NA,http://www.mendeley.com/c/5092052772/g/2058663/florida-species-status-state-listed/
 Sciurus,niger,shermani,Florida,NA,Species of special concern,NA,http://www.mendeley.com/c/5605595424/g/2058663/2012-dwp-listed-vertebrates/
 Scleria,pauciflora,NA,Massachusetts,NA,Endangered,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
 Scleria,reticularis,NA,Wisconsin,NA,Endangered,NA,http://www.mendeley.com/c/5144553034/g/2058663/wisconsin-endangered-and-threatened-species-laws--list/
@@ -6282,8 +6285,8 @@ Sida,elliottii,NA,Alabama,NA,Imperiled,NA,http://www.mendeley.com/c/5091667202/g
 Sidalcea,keckii,NA,California,Endangered,NA,NA,NA
 Sidalcea,nelsoniana,NA,Oregon,Threatened,NA,NA,NA
 Sidalcea,nelsoniana,NA,Washington,Threatened,NA,NA,NA
-Sidalcea,oregana,valida,California,Endangered,NA,NA,NA
 Sidalcea,oregana,calva,Washington,Endangered,NA,NA,NA
+Sidalcea,oregana,valida,California,Endangered,NA,NA,NA
 Sidalcea,pedata,NA,California,Endangered,NA,NA,NA
 Sideroxylon,macrocarpum,NA,Georgia,NA,Rare,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
 Sideroxylon,reclinatum,NA,Alabama,NA,Critically imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
@@ -6325,9 +6328,9 @@ Sinella,barri,NA,Alabama,NA,Critically imperiled,NA,http://www.mendeley.com/c/50
 Sinella,caeca,NA,Alabama,NA,Critically imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Siren,lacertina,NA,Alabama,NA,Rare or uncommon,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Siren,Sp 1,NA,Texas,NA,Threatened,NA,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
+Sistrurus,catenatus,edwardsii,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Sistrurus,catenatus,NA,Wisconsin,NA,Endangered,NA,http://www.mendeley.com/c/5144553034/g/2058663/wisconsin-endangered-and-threatened-species-laws--list/
 Sistrurus,catenatus,NA,Arizona,NA,Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
-Sistrurus,catenatus,edwardsii,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Sistrurus,catenatus,NA,Colorado,NA,Special Concern,NA,http://www.mendeley.com/c/5091918642/g/2058663/colorado-species-status-state-listing/
 Sisyrinchium,cernuum,NA,Arizona,NA,Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Sisyrinchium,dichotomum,NA,North Carolina,Endangered,NA,NA,NA
@@ -6417,19 +6420,19 @@ Sorex,arizonae,NA,New Mexico,NA,Endangered,NA,http://www.mendeley.com/c/51379224
 Sorex,dispar,NA,Maryland,NA,In need of conservation,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Sorex,dispar,NA,Massachusetts,NA,Special Concern,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
 Sorex,fumeus,NA,Maryland,NA,In need of conservation,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Sorex,hoyi,winnemana,Maryland,NA,NA,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Sorex,hoyi,NA,Alabama,NA,State unranked,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Sorex,hoyi,NA,North Dakota,NA,Need for conservation; little support,NA,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Sorex,longirostris,NA,Maryland,NA,NA,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Sorex,hoyi,winnemana,Maryland,NA,NA,Imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Sorex,longirostris,eonis,Florida,NA,Special Concern,NA,http://www.mendeley.com/c/5092052772/g/2058663/florida-species-status-state-listed/
 Sorex,longirostris,fisheri,Virginia,NA,Threatened,NA,http://www.mendeley.com/c/5144547734/g/2058663/special-legal-status-faunal-species-in-virginia/
+Sorex,longirostris,NA,Maryland,NA,NA,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Sorex,longirostris,NA,Tennessee,NA,in need of management,NA,https://www.zotero.org/groups/178496/items/itemKey/ISP6CBBN/q/introduction%20to%20the
 Sorex,merriami,NA,Washington,NA,Candidate,NA,http://www.mendeley.com/c/5144569454/g/2058663/washington-state-species-of-concern-lists/
 Sorex,ornatus,relictus,California,Endangered,NA,NA,NA
-Sorex,palustris,punctulatus,Maryland,NA,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Sorex,palustris,NA,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Sorex,palustris,NA,Massachusetts,NA,Special Concern,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
 Sorex,palustris,NA,Virginia,NA,Endangered,NA,http://www.mendeley.com/c/5144547734/g/2058663/special-legal-status-faunal-species-in-virginia/
+Sorex,palustris,punctulatus,Maryland,NA,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Sorex,preblei,NA,Washington,NA,Candidate,NA,http://www.mendeley.com/c/5144569454/g/2058663/washington-state-species-of-concern-lists/
 Spanglerogyrus,albiventris,NA,Alabama,NA,Critically imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Sparganium,glomeratum,NA,Wisconsin,NA,Threatened,NA,http://www.mendeley.com/c/5144553034/g/2058663/wisconsin-endangered-and-threatened-species-laws--list/
@@ -6450,21 +6453,21 @@ Spermolepis,hawaiiensis,NA,Hawaii,Endangered,NA,NA,NA
 Spermophilus,brunneus,brunneus,Idaho,Threatened,NA,NA,NA
 Spermophilus,mohavensis,NA,California,NA,Threatened,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
 Spermophilus,richardsonii,NA,North Dakota,NA,Need for conservation; little support,NA,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Spermophilus,tridecemlineatus,NA,Arizona,NA,Vulnerable,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Spermophilus,tridecemlineatus,monticola,Arizona,NA,Critically Imperiled,Imperiled,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Spermophilus,tridecemlineatus,NA,Arizona,NA,Vulnerable,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Speyeria,atlantis,NA,Maryland,NA,Threatened,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Speyeria,callippe,callippe,California,Endangered,NA,NA,NA
 Speyeria,diana,NA,Alabama,NA,Imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Speyeria,idalia,NA,Maryland,NA,Endangered/Extirpated,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Speyeria,idalia,NA,Wisconsin,NA,Endangered,NA,http://www.mendeley.com/c/5144553034/g/2058663/wisconsin-endangered-and-threatened-species-laws--list/
 Speyeria,nokomis,coerulescens,Arizona,NA,Historical possibly extirpated,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Speyeria,zerene,behrensii,California,Endangered,NA,NA,NA
+Speyeria,zerene,bremnerii,Washington,NA,Candidate,NA,http://www.mendeley.com/c/5144569454/g/2058663/washington-state-species-of-concern-lists/
 Speyeria,zerene,hippolyta,Oregon,Threatened,NA,NA,NA
 Speyeria,zerene,hippolyta,Washington,Threatened,NA,NA,NA
-Speyeria,zerene,behrensii,California,Endangered,NA,NA,NA
-Speyeria,zerene,myrtleae,California,Endangered,NA,NA,NA
 Speyeria,zerene,hippolyta,California,Threatened,NA,NA,NA
 Speyeria,zerene,hippolyta,Washington,NA,Endangered,NA,http://www.mendeley.com/c/5144569454/g/2058663/washington-state-species-of-concern-lists/
-Speyeria,zerene,bremnerii,Washington,NA,Candidate,NA,http://www.mendeley.com/c/5144569454/g/2058663/washington-state-species-of-concern-lists/
+Speyeria,zerene,myrtleae,California,Endangered,NA,NA,NA
 Sphaerodactylus,micropithecus,NA,Puerto Rico,Endangered,NA,NA,NA
 Sphalloplana,sp 1,NA,Maryland,NA,NA,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Sphenopholis,nitida,NA,Massachusetts,NA,Threatened,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
@@ -6473,9 +6476,9 @@ Sphinx,franckii,NA,Maryland,NA,NA,Critically imperilled,http://www.mendeley.com/
 Sphodros,rufipes,NA,Maryland,NA,NA,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Sphyrapicus,varius,NA,Maryland,NA,NA,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Sphyrapicus,varius,NA,Tennessee,species of management concern,in need of management,NA,https://www.zotero.org/groups/178496/items/itemKey/ISP6CBBN/q/introduction%20to%20the
-Spigelia,gentianoides,NA,Alabama,Endangered,NA,NA,NA
 Spigelia,gentianoides,alabamensis,Alabama,NA,Critically imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Spigelia,gentianoides,gentianoides,Alabama,NA,Critically imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
+Spigelia,gentianoides,NA,Alabama,Endangered,NA,NA,NA
 Spigelia,gentianoides,NA,Florida,Endangered,NA,NA,NA
 Spilogale,putoris,NA,North Dakota,NA,Some need for conservation; ND is near the edge of species range,NA,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
 Spilogale,putorius,NA,Kansas,NA,Threatened,NA,http://www.mendeley.com/c/5144552094/g/2058663/kensas-threatened--endangered-species/
@@ -6546,9 +6549,10 @@ Stenotrema,maxillatum,NA,Alabama,NA,State unranked,NA,http://www.mendeley.com/c/
 Stenotrema,simile,NA,Maryland,NA,NA,Uncertain status,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Stephanomeria,malheurensis,NA,Oregon,Endangered,NA,NA,NA
 Stephanomeria,schottii,NA,Arizona,NA,Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
-Sterna,antillarum,NA,Iowa,Endangered,NA,NA,NA
+Sterna,antillarum,athalassos,Texas,NA,Endangered,NA,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
 Sterna,antillarum,browni,California,Endangered,NA,NA,NA
 Sterna,antillarum,browni,California,NA,Endangered,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
+Sterna,antillarum,NA,Iowa,Endangered,NA,NA,NA
 Sterna,antillarum,NA,Georgia,NA,Rare,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
 Sterna,antillarum,NA,Illinois,Endangered,NA,interior pop.,NA
 Sterna,antillarum,NA,Indiana,Endangered,NA,interior pop.,NA
@@ -6574,11 +6578,9 @@ Sterna,antillarum,NA,Nebraska,Endangered,NA,interior pop.,NA
 Sterna,antillarum,NA,New Hampshire,NA,Endangered,NA,http://www.mendeley.com/c/5093636202/g/2058663/new-hampshire-species-status-state-listing/
 Sterna,antillarum,NA,New Mexico,NA,Endangered,NA,http://www.mendeley.com/c/5137922484/g/2058663/new-mexico-state-designated-species-status/
 Sterna,antillarum,NA,North Dakota,NA,Need for conservation; little support,NA,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Sterna,antillarum,athalassos,Texas,NA,Endangered,NA,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
 Sterna,caspia,NA,Wisconsin,NA,Endangered,NA,http://www.mendeley.com/c/5144553034/g/2058663/wisconsin-endangered-and-threatened-species-laws--list/
 Sterna,caspia,NA,Alabama,NA,Imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Sterna,dougallii,dougallii,Maine,Endangered,NA,northeast U.S. nesting pop.,NA
-Sterna,dougallii,NA,Maryland,NA,Endangered/Extirpated,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Sterna,dougallii,dougallii,Massachusetts,Endangered,NA,northeast U.S. nesting pop.,NA
 Sterna,dougallii,dougallii,New York,Endangered,NA,northeast US nesting population,NA
 Sterna,dougallii,dougallii,North Carolina,Endangered,NA,northeast U.S. nesting pop,NA
@@ -6587,10 +6589,11 @@ Sterna,dougallii,dougallii,Rhode Island,Endangered,NA,northeast US nesting pop,N
 Sterna,dougallii,dougallii,Virginia,Endangered,NA,northeast U.S. nesting pop.,NA
 Sterna,dougallii,dougallii,Connecticut,Endangered,NA,dougallii,NA
 Sterna,dougallii,dougallii,Florida,Threatened,NA,Western Hemisphere except NE U.S.,NA
-Sterna,dougallii,NA,Massachusetts,NA,Endangered,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
-Sterna,dougallii,NA,New Hampshire,NA,Endangered,NA,http://www.mendeley.com/c/5093636202/g/2058663/new-hampshire-species-status-state-listing/
 Sterna,dougallii,dougallii,New Jersey,Endangered,NA,NA,NA
 Sterna,dougallii,dougallii,Virginia,NA,Endangered,NA,http://www.mendeley.com/c/5144547734/g/2058663/special-legal-status-faunal-species-in-virginia/
+Sterna,dougallii,NA,Maryland,NA,Endangered/Extirpated,Historically known; unverified for 20 years,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Sterna,dougallii,NA,Massachusetts,NA,Endangered,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
+Sterna,dougallii,NA,New Hampshire,NA,Endangered,NA,http://www.mendeley.com/c/5093636202/g/2058663/new-hampshire-species-status-state-listing/
 Sterna,forsteri,NA,Wisconsin,NA,Endangered,NA,http://www.mendeley.com/c/5144553034/g/2058663/wisconsin-endangered-and-threatened-species-laws--list/
 Sterna,forsteri,NA,Alabama,NA,Critically imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Sterna,fuscata,NA,Texas,NA,Threatened,NA,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
@@ -6631,16 +6634,16 @@ Streptopus,amplexifolius,NA,Arizona,NA,Imperiled,Vulnerable,http://www.mendeley.
 Streptopus,lanceolatus,lanceolatus,Georgia,NA,Threatened,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
 Strix,nebulosa,NA,California,NA,Endangered,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
 Strix,occidentalis,caurina,California,Threatened,NA,NA,NA
-Strix,occidentalis,lucida,New Mexico,Threatened,NA,NA,NA
 Strix,occidentalis,caurina,Oregon,Threatened,NA,NA,NA
-Strix,occidentalis,lucida,Texas,Threatened,NA,NA,NA
 Strix,occidentalis,caurina,Washington,Threatened,NA,NA,NA
+Strix,occidentalis,lucida,New Mexico,Threatened,NA,NA,NA
+Strix,occidentalis,lucida,Texas,Threatened,NA,NA,NA
 Strix,occidentalis,lucida,Arizona,Threatened,NA,NA,NA
-Strix,occidentalis,NA,Arizona,NA,Vulnerable,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Strix,occidentalis,lucida,Arizona,NA,Vulnerable,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Strix,occidentalis,lucida,Colorado,Threatened,NA,NA,NA
 Strix,occidentalis,lucida,Colorado,NA,Threatened,NA,http://www.mendeley.com/c/5091918642/g/2058663/colorado-species-status-state-listing/
 Strix,occidentalis,lucida,Texas,NA,Threatened,NA,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
+Strix,occidentalis,NA,Arizona,NA,Vulnerable,Apparently Secure,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Strix,occidentalis,NA,Washington,NA,Endangered,NA,http://www.mendeley.com/c/5144569454/g/2058663/washington-state-species-of-concern-lists/
 Strix,occidentalis lucida,NA,Utah,Threatened,NA,NA,NA
 Strobilops,hubbardi,NA,Alabama,NA,State unranked,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
@@ -6715,8 +6718,8 @@ Sylvilagus,bachmani,riparius,California,NA,Endangered,NA,http://www.mendeley.com
 Sylvilagus,obscurus,NA,Georgia,NA,Rare,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
 Sylvilagus,obscurus,NA,Maryland,NA,In need of conservation,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Sylvilagus,obscurus,NA,Alabama,NA,Critically imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
-Sylvilagus,palustris,NA,Alabama,NA,Rare or uncommon,Partial Status,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Sylvilagus,palustris,hefneri,Florida,Endangered,NA,NA,NA
+Sylvilagus,palustris,NA,Alabama,NA,Rare or uncommon,Partial Status,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Sylvilagus,transitionalis,NA,New Hampshire,NA,Endangered,NA,http://www.mendeley.com/c/5093636202/g/2058663/new-hampshire-species-status-state-listing/
 Sympetrum,ambiguum,NA,Maryland,NA,NA,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Sympetrum,obtrusum,NA,Maryland,NA,NA,Rare to uncommon,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
@@ -6797,8 +6800,8 @@ Thalictrum,debile,NA,Alabama,NA,Imperiled,NA,http://www.mendeley.com/c/509166720
 Thalictrum,mirabile,NA,Alabama,NA,Imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Thamnophis,butleri,NA,Wisconsin,NA,Threatened,NA,http://www.mendeley.com/c/5144553034/g/2058663/wisconsin-endangered-and-threatened-species-laws--list/
 Thamnophis,couchi,gigas,California,NA,Threatened,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
-Thamnophis,eques,NA,Arizona,NA,Imperiled,Vulnerable,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Thamnophis,eques,megalops,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Thamnophis,eques,NA,Arizona,NA,Imperiled,Vulnerable,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Thamnophis,eques,NA,New Mexico,NA,Endangered,NA,http://www.mendeley.com/c/5137922484/g/2058663/new-mexico-state-designated-species-status/
 Thamnophis,gigas,NA,California,Threatened,NA,NA,NA
 Thamnophis,marcianus,NA,Kansas,NA,Threatened,NA,http://www.mendeley.com/c/5144552094/g/2058663/kensas-threatened--endangered-species/
@@ -6808,9 +6811,9 @@ Thamnophis,rufipunctatus,NA,Arizona,NA,Critically Imperiled,NA,http://www.mendel
 Thamnophis,rufipunctatus,NA,New Mexico,NA,Threatened,NA,http://www.mendeley.com/c/5137922484/g/2058663/new-mexico-state-designated-species-status/
 Thamnophis,sauritus,NA,Wisconsin,NA,Endangered,NA,http://www.mendeley.com/c/5144553034/g/2058663/wisconsin-endangered-and-threatened-species-laws--list/
 Thamnophis,sauritus,sackenii,Florida,NA,Threatened,NA,http://www.mendeley.com/c/5092052772/g/2058663/florida-species-status-state-listed/
+Thamnophis,sirtalis,NA,Colorado,NA,Special Concern,NA,http://www.mendeley.com/c/5091918642/g/2058663/colorado-species-status-state-listing/
 Thamnophis,sirtalis,tetrataenia,California,Endangered,NA,NA,NA
 Thamnophis,sirtalis,tetrataenia,California,NA,Endangered,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
-Thamnophis,sirtalis,NA,Colorado,NA,Special Concern,NA,http://www.mendeley.com/c/5091918642/g/2058663/colorado-species-status-state-listing/
 Thaspium,pinnatifidum,NA,Georgia,NA,Endangered,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
 Thelypodium,howellii,spectabilis,Oregon,Threatened,NA,NA,NA
 Thelypodium,stenopetalum,NA,California,Endangered,NA,NA,NA
@@ -6834,10 +6837,10 @@ Thomomys,mazama,NA,Washington,NA,Threatened,NA,http://www.mendeley.com/c/5144569
 Thomomys,talpoides,macrotis,Colorado,NA,Special Concern,NA,http://www.mendeley.com/c/5091918642/g/2058663/colorado-species-status-state-listing/
 Thomomys,umbrinus,intermedius,Arizona,NA,Vulnerable,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Thomomys,umbrinus,NA,New Mexico,NA,Threatened,NA,http://www.mendeley.com/c/5137922484/g/2058663/new-mexico-state-designated-species-status/
-Thryomanes,bewickii,NA,Maryland,NA,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
-Thryomanes,bewickii,NA,Wisconsin,NA,Endangered,NA,http://www.mendeley.com/c/5144553034/g/2058663/wisconsin-endangered-and-threatened-species-laws--list/
 Thryomanes,bewickii,altus,Alabama,NA,Critically imperiled,State protected,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Thryomanes,bewickii,bewickii,Alabama,NA,Historical possibly extirpated,State protected,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
+Thryomanes,bewickii,NA,Maryland,NA,Endangered,Critically imperilled,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Thryomanes,bewickii,NA,Wisconsin,NA,Endangered,NA,http://www.mendeley.com/c/5144553034/g/2058663/wisconsin-endangered-and-threatened-species-laws--list/
 Thryomanes,bewickii,NA,Virginia,NA,Endangered,NA,http://www.mendeley.com/c/5144547734/g/2058663/special-legal-status-faunal-species-in-virginia/
 Thuja,occidentalis,NA,Massachusetts,NA,Endangered,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
 Thuja,occidentalis,NA,Tennessee,NA,special concern,NA,https://www.zotero.org/groups/178496/items/itemKey/ISP6CBBN/q/introduction%20to%20the
@@ -6957,14 +6960,14 @@ Tulotoma,magnifica,NA,Alabama,Threatened,NA,NA,NA
 Tulotoma,magnifica,NA,Alabama,NA,Critically imperiled,State protected,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Tumamoca,macdougalii,NA,Arizona,NA,Vulnerable,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Tychobythinus,jonesi,NA,Alabama,NA,State unranked,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
-Tympanuchus,cupido,NA,Maryland,NA,Endangered/Extirpated,Believed to be extirpated,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
 Tympanuchus,cupido,attwateri,Texas,Endangered,NA,NA,NA
-Tympanuchus,cupido,pinnatus,Wisconsin,NA,Threatened,NA,http://www.mendeley.com/c/5144553034/g/2058663/wisconsin-endangered-and-threatened-species-laws--list/
-Tympanuchus,cupido,NA,North Dakota,NA,Need for conservation; little support,NA,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
 Tympanuchus,cupido,attwateri,Texas,NA,Endangered,NA,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
+Tympanuchus,cupido,NA,Maryland,NA,Endangered/Extirpated,Believed to be extirpated,http://www.mendeley.com/c/5144550554/g/2058663/endangered-animals-of-maryland/
+Tympanuchus,cupido,NA,North Dakota,NA,Need for conservation; little support,NA,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
+Tympanuchus,cupido,pinnatus,Wisconsin,NA,Threatened,NA,http://www.mendeley.com/c/5144553034/g/2058663/wisconsin-endangered-and-threatened-species-laws--list/
 Tympanuchus,pallidicinctus,NA,Colorado,NA,Threatened,NA,http://www.mendeley.com/c/5091918642/g/2058663/colorado-species-status-state-listing/
-Tympanuchus,phasianellus,jamesii,Colorado,NA,Endangered,NA,http://www.mendeley.com/c/5091918642/g/2058663/colorado-species-status-state-listing/
 Tympanuchus,phasianellus,columbianus,Colorado,NA,Special Concern,NA,http://www.mendeley.com/c/5091918642/g/2058663/colorado-species-status-state-listing/
+Tympanuchus,phasianellus,jamesii,Colorado,NA,Endangered,NA,http://www.mendeley.com/c/5091918642/g/2058663/colorado-species-status-state-listing/
 Tympanuchus,phasianellus,NA,North Dakota,NA,Need for conservation; little support,NA,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
 Tympanuchus,phasianellus,NA,Washington,NA,Threatened,NA,http://www.mendeley.com/c/5144569454/g/2058663/washington-state-species-of-concern-lists/
 Typhlichthys,subterraneus,NA,Georgia,NA,Endangered,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
@@ -7022,38 +7025,38 @@ Urera,kaalae,NA,Hawaii,Endangered,NA,NA,NA
 Uria,aalge,NA,Washington,NA,Candidate,NA,http://www.mendeley.com/c/5144569454/g/2058663/washington-state-species-of-concern-lists/
 Urocitellus,townsendii,townsendii,Washington,NA,Candidate,NA,http://www.mendeley.com/c/5144569454/g/2058663/washington-state-species-of-concern-lists/
 Urocitellus,washingtoni,NA,Washington,NA,Candidate,NA,http://www.mendeley.com/c/5144569454/g/2058663/washington-state-species-of-concern-lists/
-Urocyon,littoralis,NA,California,NA,Threatened,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
-Urocyon,littoralis,littoralis,California,NA,Threatened,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
-Urocyon,littoralis,santarosa,California,NA,Threatened,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
-Urocyon,littoralis,santacruzae,California,NA,Threatened,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
 Urocyon,littoralis,catalinae,California,NA,Threatened,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
-Urocyon,littoralis,littoralis,California,Endangered,NA,NA,NA
 Urocyon,littoralis,catalinae,California,Endangered,NA,NA,NA
+Urocyon,littoralis,littoralis,California,NA,Threatened,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
+Urocyon,littoralis,littoralis,California,Endangered,NA,NA,NA
+Urocyon,littoralis,NA,California,NA,Threatened,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
+Urocyon,littoralis,santacruzae,California,NA,Threatened,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
 Urocyon,littoralis,santacruzae,California,Endangered,NA,NA,NA
+Urocyon,littoralis,santarosa,California,NA,Threatened,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
 Urocyon,littoralis,santarosae,California,Endangered,NA,NA,NA
+Ursus,americanus,floridanus,Florida,NA,Threatened,NA,http://www.mendeley.com/c/5092052772/g/2058663/florida-species-status-state-listed/
+Ursus,americanus,floridanus,Florida,NA,Threatened,NA,http://www.mendeley.com/c/5605595424/g/2058663/2012-dwp-listed-vertebrates/
 Ursus,americanus,luteolus,Louisiana,Threatened,NA,NA,NA
 Ursus,americanus,luteolus,Texas,Threatened,NA,NA,NA
-Ursus,americanus,NA,Alabama,NA,Imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
-Ursus,americanus,floridanus,Florida,NA,Threatened,NA,http://www.mendeley.com/c/5092052772/g/2058663/florida-species-status-state-listed/
 Ursus,americanus,luteolus,Mississippi,Threatened,NA,NA,NA
-Ursus,americanus,NA,Texas,NA,Threatened,NA,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
 Ursus,americanus,luteolus,Texas,NA,Threatened,NA,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
-Ursus,americanus,floridanus,Florida,NA,Threatened,NA,http://www.mendeley.com/c/5605595424/g/2058663/2012-dwp-listed-vertebrates/
-Ursus,arctos,NA,Montana,NA,Threatened,NA,http://www.mendeley.com/c/5147076304/g/2058663/montana-species-of-interest/
+Ursus,americanus,NA,Alabama,NA,Imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
+Ursus,americanus,NA,Texas,NA,Threatened,NA,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
 Ursus,arctos,horribilis,Oregon,Threatened,NA,lower 48 States except where listed as an experimental population or delisted,NA
 Ursus,arctos,horribilis,Utah,Threatened,NA,lower 48 except where listed as an experimental population or delisted,NA
 Ursus,arctos,horribilis,Washington,Threatened,NA,lower 48 except where listed as an experimental population or delisted,NA
 Ursus,arctos,horribilis,Wyoming,Threatened,NA,lower 48 States except where listed as an experimental population or delisted,NA
 Ursus,arctos,horribilis,Arizona,Threatened,NA,lower 48 States except where listed as an experimental population or delisted,NA
-Ursus,arctos,NA,Arizona,NA,Presumed extinct,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Ursus,arctos,horribilis,Arizona,NA,Presumed extinct,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Ursus,arctos,horribilis,California,Threatened,NA,horribilis,NA
 Ursus,arctos,horribilis,Colorado,Threatened,NA,except where listed as an experimental population or delisted,NA
-Ursus,arctos,NA,Colorado,NA,Endangered,NA,http://www.mendeley.com/c/5091918642/g/2058663/colorado-species-status-state-listing/
 Ursus,arctos,horribilis,Idaho,Threatened,NA,lower 48 States except where listed as an experimental population or delisted,NA
 Ursus,arctos,horribilis,Montana,Threatened,NA,lower 48 States except where listed as an experimental population or delisted,NA
 Ursus,arctos,horribilis,Nevada,Threatened,NA,lower 48 States except where listed as an experimental population or delisted,NA
 Ursus,arctos,horribilis,New Mexico,Threatened,NA,lower 48 States except where listed as an experimental population or delisted,NA
+Ursus,arctos,NA,Montana,NA,Threatened,NA,http://www.mendeley.com/c/5147076304/g/2058663/montana-species-of-interest/
+Ursus,arctos,NA,Arizona,NA,Presumed extinct,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Ursus,arctos,NA,Colorado,NA,Endangered,NA,http://www.mendeley.com/c/5091918642/g/2058663/colorado-species-status-state-listing/
 Ursus,arctos,NA,Washington,NA,Endangered,NA,http://www.mendeley.com/c/5144569454/g/2058663/washington-state-species-of-concern-lists/
 Ursus,maritimus,NA,Alaska,Threatened,NA,NA,NA
 Utricularia,floridana,NA,Alabama,NA,Critically imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
@@ -7164,13 +7167,13 @@ Vireo,atricapilla,NA,Oklahoma,Endangered,NA,NA,NA
 Vireo,atricapilla,NA,Texas,Endangered,NA,NA,NA
 Vireo,atricapilla,NA,Nebraska,Endangered,NA,NA,NA
 Vireo,atricapilla,NA,Texas,NA,Endangered,NA,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
-Vireo,bellii,pusillus,California,Endangered,NA,NA,NA
 Vireo,bellii,arizonae,California,NA,Endangered,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
-Vireo,bellii,pusillus,California,NA,Endangered,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
+Vireo,bellii,arizonae,Arizona,NA,Apparently Secure,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Vireo,bellii,NA,Wisconsin,NA,Threatened,NA,http://www.mendeley.com/c/5144553034/g/2058663/wisconsin-endangered-and-threatened-species-laws--list/
 Vireo,bellii,NA,Arizona,NA,Apparently Secure,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
-Vireo,bellii,arizonae,Arizona,NA,Apparently Secure,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Vireo,bellii,NA,New Mexico,NA,Threatened,NA,http://www.mendeley.com/c/5137922484/g/2058663/new-mexico-state-designated-species-status/
+Vireo,bellii,pusillus,California,Endangered,NA,NA,NA
+Vireo,bellii,pusillus,California,NA,Endangered,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
 Vireo,gilvus,NA,Alabama,NA,Critically imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Vireo,solitarius,NA,Alabama,NA,Imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Vireo,vicinior,NA,New Mexico,NA,Threatened,NA,http://www.mendeley.com/c/5137922484/g/2058663/new-mexico-state-designated-species-status/
@@ -7185,11 +7188,11 @@ Vulpes,velox,hebes,Iowa,Endangered,NA,NA,NA
 Vulpes,velox,hebes,Minnesota,Endangered,NA,NA,NA
 Vulpes,velox,hebes,North Dakota,Endangered,NA,NA,NA
 Vulpes,velox,hebes,South Dakota,Endangered,NA,NA,NA
-Vulpes,velox,NA,Colorado,NA,Special Concern,NA,http://www.mendeley.com/c/5091918642/g/2058663/colorado-species-status-state-listing/
 Vulpes,velox,hebes,Nebraska,Endangered,NA,NA,NA
+Vulpes,velox,NA,Colorado,NA,Special Concern,NA,http://www.mendeley.com/c/5091918642/g/2058663/colorado-species-status-state-listing/
 Vulpes,velox,NA,North Dakota,NA,Need for conservation; little support,NA,http://www.mendeley.com/c/5144556444/g/2058663/north-dakota-species-of-convervation-priority/
-Vulpes,vulpes,necator,California,NA,Threatened,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
 Vulpes,vulpes,cascadensis,Washington,NA,Candidate,NA,http://www.mendeley.com/c/5144569454/g/2058663/washington-state-species-of-concern-lists/
+Vulpes,vulpes,necator,California,NA,Threatened,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
 Waldsteinia,lobata,NA,Georgia,NA,Rare,NA,http://www.mendeley.com/c/5144545934/g/2058663/protected-species-lists-of-georgia/
 Waldsteinia,lobata,NA,Alabama,NA,Critically imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Warbler,Vermivora,chrysoptera,Massachusetts,NA,Endangered,NA,http://www.mendeley.com/c/5093609242/g/2058663/natural-heritage---massachusetts-list-of-endangered-threatened-and-special-concern-species/
@@ -7215,9 +7218,9 @@ Xolotrema,fosteri,NA,Alabama,NA,State unranked,NA,http://www.mendeley.com/c/5091
 Xolotrema,obstrictum,NA,Alabama,NA,State unranked,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Xylosma,crenatum,NA,Hawaii,Endangered,NA,NA,NA
 Xylotype,capax,NA,New Hampshire,NA,Near-threatened,NA,http://www.mendeley.com/c/5093651382/g/2058663/new-hampshire-species-status-state-listing-for-species-of-special-concern/
+Xyrauchen,texanus,entire,Nevada,Endangered,NA,entire,NA
 Xyrauchen,texanus,NA,California,Endangered,NA,entire,NA
 Xyrauchen,texanus,NA,California,NA,Endangered,NA,http://www.mendeley.com/c/5090133942/g/2058663/ca-species-status-list/
-Xyrauchen,texanus,entire,Nevada,Endangered,NA,entire,NA
 Xyrauchen,texanus,NA,New Mexico,Endangered,NA,entire,NA
 Xyrauchen,texanus,NA,Utah,Endangered,NA,entire,NA
 Xyrauchen,texanus,NA,Wyoming,Endangered,NA,entire,NA
@@ -7245,15 +7248,19 @@ Zanthoxylum,americanum,NA,Alabama,NA,Critically imperiled,NA,http://www.mendeley
 Zanthoxylum,dipetalum,tomentosum,Hawaii,Endangered,NA,NA,NA
 Zanthoxylum,hawaiiense,NA,Hawaii,Endangered,NA,NA,NA
 Zanthoxylum,thomasianum,NA,Puerto Rico,Endangered,NA,NA,NA
-Zapus,hudsonius,preblei,Wyoming,Threatened,NA,USA north-central CO,NA
-Zapus,hudsonius,NA,Alabama,NA,Rare or uncommon,State protected,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
-Zapus,hudsonius,NA,Arizona,Endangered,Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Zapus,hudsonius,luteus,Arizona,NA,Critically Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Zapus,hudsonius,luteus,Arizona,Endangered,NA,,http://ecos.fws.gov/speciesProfile/profile/speciesProfile?spcode=A0BX
+Zapus,hudsonius,luteus,New Mexico,Endangered,NA,,http://ecos.fws.gov/speciesProfile/profile/speciesProfile?spcode=A0BX
+Zapus,hudsonius,luteus,Colorado,Endangered,NA,,http://ecos.fws.gov/speciesProfile/profile/speciesProfile?spcode=A0BX
+Zapus,hudsonius,NA,Alabama,NA,Rare or uncommon,State protected,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
+Zapus,hudsonius,NA,Arizona,NA,Imperiled,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
+Zapus,hudsonius,NA,New Mexico,NA,Threatened,NA,http://www.mendeley.com/c/5137922484/g/2058663/new-mexico-state-designated-species-status/
+Zapus,hudsonius,preblei,Wyoming,Threatened,NA,USA north-central CO,NA
 Zapus,hudsonius,preblei,Colorado,Threatened,NA,U.S.A. north-central CO,NA
 Zapus,hudsonius,preblei,Colorado,NA,Threatened,NA,http://www.mendeley.com/c/5091918642/g/2058663/colorado-species-status-state-listing/
-Zapus,hudsonius,NA,New Mexico,Endangered,Endangered,NA,http://www.mendeley.com/c/5137922484/g/2058663/new-mexico-state-designated-species-status/
-Zephyranthes,atamasca,treatiae,Alabama,NA,Critically imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
+Zapus,hudsonius,,New Mexico,Endangered,,,
 Zephyranthes,atamasca,NA,Florida,NA,Threatened,NA,http://www.mendeley.com/c/5605595494/g/2058663/2012-dwp-listed-plants/
+Zephyranthes,atamasca,treatiae,Alabama,NA,Critically imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Zigadenus,leimanthoides,NA,Alabama,NA,Critically imperiled,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Zigadenus,virescens,NA,Arizona,NA,Apparently Secure,NA,http://www.mendeley.com/c/5091872772/g/2058663/arizona-species-status-state-rankings/
 Ziphius,cavirostris,NA,Texas,NA,Threatened,NA,http://www.mendeley.com/c/5144559874/g/2058663/texas-federalstate-threatened-and-endangered-species/
@@ -7262,11 +7269,3 @@ Zizania,texana,NA,Texas,NA,Endangered,NA,http://www.mendeley.com/c/5144559874/g/
 Ziziphus,celata,NA,Florida,Endangered,NA,NA,NA
 Zonitoides,elliottii,NA,Alabama,NA,State unranked,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
 Zonitoides,lateumbilicatus,NA,Alabama,NA,State unranked,NA,http://www.mendeley.com/c/5091667202/g/2058663/alabama-species-status-state-listing/
-Glaucomys,sabrinus,,North Carolina,Endangered,NA,,
-Glaucomys,sabrinus,,Tennessee,Endangered,NA,,
-Glaucomys,sabrinus,,Virginia,Endangered,Endangered,,
-Zapus,hudsonius,luteus,Arizona,Endangered,NA,,http://ecos.fws.gov/speciesProfile/profile/speciesProfile?spcode=A0BX
-Zapus,hudsonius,luteus,New Mexico,Endangered,NA,,http://ecos.fws.gov/speciesProfile/profile/speciesProfile?spcode=A0BX
-Zapus,hudsonius,luteus,Colorado,Endangered,NA,,http://ecos.fws.gov/speciesProfile/profile/speciesProfile?spcode=A0BX
-Zapus,hudsonius,,New Mexico,Endangered,,,
-Zapus,hudsonius,,Colorado,Endangered,,,
